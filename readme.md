@@ -6,9 +6,8 @@ After cloning the repository, please install the dependencies:
 > npm install
 
 ## Usage
-Start the development server:
+Start the development server, which opens your browser to the localhost URL:
 > npm run start
-This opens your browser to the localhost URL.
 
 or start the production build:
 > npm run build
@@ -125,107 +124,4 @@ LoD adapts to what you actually see, blending map zoom with camera geometry so t
 /public/data/quadtrees    # quadtree JSONs per (Category_Subcategory) (generated)
 /frontend                 # (virtual) app modules
 ```
-
-### Category Taxonomy
-
-  "Food & Drink": [
-    "Bar",
-    "Café",
-    "Drinking Water",
-    "Fast Food",
-    "Restaurant"
-  ],
-  "Amenity": [
-    "ATM",
-    "Bank",
-    "Bench",
-    "Clinic",
-    "Fuel",
-    "Hospital",
-    "Library",
-    "Parking",
-    "Pharmacy",
-    "Police",
-    "Post Box",
-    "Post Office",
-    "School",
-    "Toilet",
-    "University",
-    "Waste Basket"
-  ],
-  "Emergency": [
-    "Defibrillator",
-    "Fire Extinguisher",
-    "Phone"
-  ],
-  "Accommodation": [
-    "Hostel",
-    "Hotel",
-    "Hut",
-    "Motel",
-    "Shelter"
-  ],
-  "Tourism": [
-    "Art",
-    "Attraction",
-    "Casino",
-    "Castle",
-    "Historic",
-    "Information",
-    "Monument",
-    "Museum",
-    "Picnic Site",
-    "Statue",
-    "View Point",
-    "Zoo"
-  ],
-  "Shop": [
-    "Bakery",
-    "Butcher",
-    "Hairdresser",
-    "Jewellery",
-    "Misc Shops",
-    "Shoes",
-    "Supermarket"
-  ],
-  "Settlement": [
-    "City",
-    "Hamlet",
-    "Misc Settlements",
-    "Suburb",
-    "Town",
-    "Village"
-  ],
-  "Nature": [
-    "Cave",
-    "Glacier",
-    "Misc Nature",
-    "Mountain Pass",
-    "Peak",
-    "Rock",
-    "Spring",
-    "Tree",
-    "Waterfall"
-  ],
-  "Transportation": [
-    "Bus Station",
-    "Bus Stop",
-    "Pedestrian Crossing",
-    "Traffic Signals",
-    "Train Station",
-    "Train Stop"
-  ],
-  "Infrastructure": [
-    "Ford",
-    "Gate",
-    "Power"
-  ],
-  "Building": [
-    "Cemetery",
-    "Church",
-    "Mosque",
-    "Place of Worship",
-    "Residential",
-    "Synagogue"
-  ]
  
