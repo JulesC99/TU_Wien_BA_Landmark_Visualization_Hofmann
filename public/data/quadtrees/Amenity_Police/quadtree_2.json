@@ -1,0 +1,1948 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 9.530952,
+    "north": 47.694865,
+    "east": 11.438358999999998
+  },
+  "poiCount": 77,
+  "leafCount": 0,
+  "averagePosition": [
+    10.390374289610389,
+    47.35802334675326
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 9.530952,
+        "north": 47.36431175,
+        "east": 10.484655499999999
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        9.880285942105262,
+        47.217402263157894
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "331397479",
+            "osm_type": "node",
+            "lat": 47.2880717,
+            "lon": 9.6527908,
+            "addr:city": "Sulz",
+            "addr:country": "AT",
+            "addr:housenumber": "5",
+            "addr:postcode": "6832",
+            "addr:street": "Hummelbergstraße",
+            "amenity": "police",
+            "contact:email": "PI-V-Sulz@polizei.gv.at",
+            "contact:phone": "+43 59133 8161 100",
+            "name": "Polizeiinspektion Sulz",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6527908,
+              47.2880717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "595688163",
+            "osm_type": "node",
+            "lat": 47.2703954,
+            "lon": 9.6421616,
+            "addr:city": "Rankweil",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6830",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "police",
+            "contact:email": "PI-V-Rankweil@polizei.gv.at",
+            "contact:phone": "+43 59133 8158 100",
+            "name": "Polizeiinspektion Rankweil",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6421616,
+              47.2703954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "634465301",
+            "osm_type": "node",
+            "lat": 47.1729552,
+            "lon": 9.7735879,
+            "amenity": "police",
+            "description": "(LKW)-Kontrollstelle",
+            "name": "Kontrollstelle Nüziders",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7735879,
+              47.1729552
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "654077176",
+            "osm_type": "node",
+            "lat": 47.0785858,
+            "lon": 9.9191106,
+            "addr:city": "Schruns",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "6780",
+            "addr:street": "Wagenweg",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "check_date": "2024-03-18",
+            "contact:email": "PI-v-schruns@polizei.gv.at",
+            "contact:phone": "+43 59133  8107-100",
+            "name": "Polizeiinspektion Schruns",
+            "website": "https://www.polizei.gv.at/vbg/lpd/dst/dienststellen.aspx?org=4756694C6C6A45337669593D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9191106,
+              47.0785858
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1611353748",
+            "osm_type": "node",
+            "lat": 47.3623739,
+            "lon": 9.6793481,
+            "addr:city": "Hohenems",
+            "addr:country": "AT",
+            "addr:housenumber": "12a",
+            "addr:postcode": "6845",
+            "addr:street": "Kernstockstraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "check_date": "2024-08-04",
+            "email": "PI-v-Hohenems@polizei.gv.at",
+            "name": "Polizeiinspektion Hohenems",
+            "operator": "Bundesministerium für Inneres",
+            "phone": "+43 59133  8142-100",
+            "website": "https://www.polizei.gv.at/",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6793481,
+              47.3623739
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2195187593",
+            "osm_type": "node",
+            "lat": 47.198124,
+            "lon": 9.7661915,
+            "addr:city": "Thüringen",
+            "addr:country": "AT",
+            "addr:housenumber": "22",
+            "addr:postcode": "6712",
+            "addr:street": "Walgaustraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizeiinspektion Thüringen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7661915,
+              47.198124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2211899125",
+            "osm_type": "node",
+            "lat": 47.2375255,
+            "lon": 9.597793,
+            "addr:city": "Feldkirch",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6800",
+            "addr:street": "Schmiedgasse",
+            "amenity": "police",
+            "check_date": "2024-08-09",
+            "contact:website": "http://www.feldkirch.at/rathaus/polizei",
+            "name": "Stadtpolizei Feldkirch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.597793,
+              47.2375255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2610151573",
+            "osm_type": "node",
+            "lat": 47.2166465,
+            "lon": 9.6313218,
+            "addr:city": "Frastanz",
+            "addr:country": "AT",
+            "addr:housenumber": "2b",
+            "addr:postcode": "6820",
+            "addr:street": "Hauptmann-Frick-Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-v-frastanz@polizei.gv.at",
+            "contact:phone": "+4359133 8156-100",
+            "contact:website": "https://www.polizei.gv.at/vbg/lpd/dst/dienststellen.aspx?org=66704E7457386572454E493D",
+            "name": "Polizeiinspektion Frastanz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6313218,
+              47.2166465
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3257556161",
+            "osm_type": "node",
+            "lat": 47.1570364,
+            "lon": 9.8182145,
+            "addr:city": "Bludenz",
+            "addr:country": "AT",
+            "addr:housenumber": "42",
+            "addr:postcode": "6700",
+            "addr:street": "Werdenbergerstraße",
+            "amenity": "police",
+            "contact:email": "polizei@bludenz.at",
+            "contact:website": "http://www.bludenz.at",
+            "name": "Stadtpolizei Bludenz",
+            "official_name": "Städtische Sicherheitswache"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8182145,
+              47.1570364
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5220361584",
+            "osm_type": "node",
+            "lat": 47.3361266,
+            "lon": 9.6459728,
+            "addr:city": "Götzis",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "6840",
+            "addr:street": "Am Garnmarkt",
+            "amenity": "police",
+            "email": "PI-v-goetzis@polizei.gv.at",
+            "fax": "+43 59133 8157-109",
+            "name": "Polizeiinspektion Götzis",
+            "phone": "+43 59133 8157-100"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6459728,
+              47.3361266
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5381378215",
+            "osm_type": "node",
+            "lat": 47.2323356,
+            "lon": 9.5466595,
+            "addr:city": "Schellenberg",
+            "addr:country": "LI",
+            "addr:housenumber": "49",
+            "addr:postcode": "9488",
+            "addr:street": "Dorf",
+            "amenity": "police",
+            "name": "Gemeindepolizei Schellenberg",
+            "phone": "+423 770 00 54"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5466595,
+              47.2323356
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8911479493",
+            "osm_type": "node",
+            "lat": 47.2394705,
+            "lon": 9.9029233,
+            "addr:city": "Sonntag",
+            "addr:housenumber": "57",
+            "addr:postcode": "6731",
+            "addr:street": "Boden",
+            "amenity": "police",
+            "name": "Polizei Sonntag",
+            "operator": "Polizei Sonntag"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9029233,
+              47.2394705
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10979656520",
+            "osm_type": "node",
+            "lat": 47.3210721,
+            "lon": 9.9822453,
+            "addr:city": "Au",
+            "addr:country": "AT",
+            "addr:housenumber": "354",
+            "addr:postcode": "6883",
+            "addr:street": "Argenau",
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9822453,
+              47.3210721
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12269358158",
+            "osm_type": "node",
+            "lat": 47.1495368,
+            "lon": 9.8171897,
+            "amenity": "police",
+            "contact:email": "api-v-bludenz@polizei.gv.at",
+            "contact:phone": "+43 59 133 8101 200",
+            "name": "Autobahnpolizeiinspektion Bludenz",
+            "website": "https://www.polizei.gv.at/vbg/lpd/dst/dienststellen.aspx?org=71346448783241314C67453D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8171897,
+              47.1495368
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "417095372",
+            "osm_type": "node",
+            "lat": 47.2578759,
+            "lon": 10.1832201,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1832201,
+              47.2578759
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "777338763",
+            "osm_type": "node",
+            "lat": 47.2908093,
+            "lon": 10.4369898,
+            "addr:city": "Elbigenalp",
+            "addr:country": "AT",
+            "addr:housenumber": "55b",
+            "addr:place": "Dorf",
+            "addr:postcode": "6652",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizei Elbigenalp"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4369898,
+              47.2908093
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1043988790",
+            "osm_type": "node",
+            "lat": 47.1309951,
+            "lon": 10.2696259,
+            "addr:city": "St. Anton am Arlberg",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "6580",
+            "addr:street": "Kirchgasse",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizeiinspektion St. Anton am Arlberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2696259,
+              47.1309951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1382105626",
+            "osm_type": "node",
+            "lat": 47.1314909,
+            "lon": 10.0915271,
+            "addr:city": "Klösterle",
+            "addr:country": "AT",
+            "addr:housenumber": "59b",
+            "addr:place": "Klösterle",
+            "addr:postcode": "6754",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizeiinspektion Klösterle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0915271,
+              47.1314909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4797077822",
+            "osm_type": "node",
+            "lat": 47.0592158,
+            "lon": 10.3685596,
+            "addr:city": "Kappl",
+            "addr:country": "AT",
+            "addr:housenumber": "445",
+            "addr:postcode": "6555",
+            "addr:street": "Höfer Au",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "PI-T-Kappl@polizei.gv.at",
+            "contact:fax": "+43 59133 7143 109",
+            "contact:phone": "+43 59133 7143 100",
+            "name": "Polizeiinspektion Kappl",
+            "name:de": "Polizeiinspektion Kappl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3685596,
+              47.0592158
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 10.484655499999999,
+        "north": 47.36431175,
+        "east": 11.438358999999998
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        11.183147113636364,
+        47.23343783636364
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "314008747",
+            "osm_type": "node",
+            "lat": 47.2660324,
+            "lon": 10.9284302,
+            "amenity": "police",
+            "name": "Polizeiinspektion Silz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9284302,
+              47.2660324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1379623529",
+            "osm_type": "node",
+            "lat": 47.1709155,
+            "lon": 10.7312765,
+            "addr:city": "Wenns",
+            "addr:country": "AT",
+            "addr:housenumber": "18",
+            "addr:place": "Unterdorf",
+            "addr:postcode": "6473",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "designation": "Polizeiinspektion Wenns, Unterdorf 18",
+            "name": "Polizeiinspektion Wenns"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7312765,
+              47.1709155
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1712975604",
+            "osm_type": "node",
+            "lat": 47.2141029,
+            "lon": 11.0239003,
+            "addr:city": "Silz",
+            "addr:country": "AT",
+            "addr:housenumber": "42",
+            "addr:place": "Kühtai",
+            "addr:postcode": "6183",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "check_date": "2024-02-26",
+            "name": "Polizei Außenstelle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0239003,
+              47.2141029
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1927021217",
+            "osm_type": "node",
+            "lat": 47.3138927,
+            "lon": 10.8392817,
+            "addr:city": "Nassereith",
+            "addr:country": "AT",
+            "addr:housenumber": "119",
+            "addr:postcode": "6465",
+            "addr:street": "Karl-Mayr-Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "PI-T-Nassereith@polizei.gv.at",
+            "contact:fax": "+43 59133 7103-109",
+            "contact:phone": "+43 59133 7103-100",
+            "name": "Polizeiinspektion Nassereith"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8392817,
+              47.3138927
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4377736993",
+            "osm_type": "node",
+            "lat": 47.2399313,
+            "lon": 10.7381235,
+            "addr:city": "Imst",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "6460",
+            "addr:street": "Rathausstraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "email": "PI-T-Imst@polizei.gv.at",
+            "name": "Polizeiinspektion Imst"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7381235,
+              47.2399313
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8209751943",
+            "osm_type": "node",
+            "lat": 47.0523746,
+            "lon": 10.6516246,
+            "amenity": "police",
+            "name": "Polizeiinspektion Ried im Oberinntal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6516246,
+              47.0523746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8804863901",
+            "osm_type": "node",
+            "lat": 47.1382541,
+            "lon": 10.5646671,
+            "amenity": "police",
+            "name": "Polizei Landeck"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5646671,
+              47.1382541
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "253159617",
+            "osm_type": "node",
+            "lat": 47.2626258,
+            "lon": 11.3913287,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "6020",
+            "addr:street": "Maximilianstraße",
+            "amenity": "police",
+            "email": "PI-T-Innsbruck-Innere-Stadt@polizei.gv.at",
+            "fax": "+43 59133 7584-109",
+            "name": "Polizeiinspektion Innere Stadt",
+            "phone": "+43 59133 7584-100",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=515463524f386b2f636f773d",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3913287,
+              47.2626258
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "310390726",
+            "osm_type": "node",
+            "lat": 47.2730318,
+            "lon": 11.246025,
+            "addr:city": "Zirl",
+            "addr:country": "AT",
+            "addr:housenumber": "3a",
+            "addr:postcode": "6170",
+            "addr:street": "Kalvarienbergstraße",
+            "amenity": "police",
+            "email": "PI-T-Zirl@polizei.gv.at",
+            "fax": "+43 59133 7132-109",
+            "name": "Polizeiinspektion Zirl",
+            "phone": "+43 59133 7132-100",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=7264783742307969766C493D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.246025,
+              47.2730318
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "322680015",
+            "osm_type": "node",
+            "lat": 47.2324139,
+            "lon": 11.2803546,
+            "addr:city": "Axams",
+            "addr:country": "AT",
+            "addr:housenumber": "12",
+            "addr:postcode": "6094",
+            "addr:street": "Sylvester-Jordan-Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "PI-T-Axams@polizei.gv.at",
+            "contact:fax": "+43 59133 7111-109",
+            "contact:phone": "+43 59133 7111-100",
+            "name": "Polizeiinspektion Axams",
+            "website": "https://polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=543656412F62626661766F3D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2803546,
+              47.2324139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "332976807",
+            "osm_type": "node",
+            "lat": 47.2591202,
+            "lon": 11.3934975,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "28",
+            "addr:postcode": "6020",
+            "addr:street": "Templstraße",
+            "addr:suburb": "Wilten",
+            "amenity": "police",
+            "check_date": "2025-07-12",
+            "fax": "+43591337591109",
+            "name": "Verkehrsinspektion Innsbruck",
+            "phone": "+43591337591100",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=52567443686B78514556633D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3934975,
+              47.2591202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473417976",
+            "osm_type": "node",
+            "lat": 47.2676441,
+            "lon": 11.3869007,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6020",
+            "addr:street": "Mariahilfpark",
+            "amenity": "police",
+            "email": "PI-T-Innsbruck-Hoetting@polizei.gv.at",
+            "fax": "+43 59133 7582-109",
+            "name": "Polizeiinspektion Hötting",
+            "phone": "+43 59133 7582-100",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=4146686436527A724139413D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3869007,
+              47.2676441
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "587098474",
+            "osm_type": "node",
+            "lat": 47.2648802,
+            "lon": 11.4136367,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "26",
+            "addr:postcode": "6020",
+            "addr:street": "Langstraße",
+            "addr:suburb": "Pradl",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "PI-T-Innsbruck-Pradl@polizei.gv.at",
+            "contact:fax": "+43 59133 7587-109",
+            "contact:phone": "+43 59133 7587-100",
+            "contact:website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=732f346d62736f785348413d",
+            "name": "Polizeiinspektion Pradl",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4136367,
+              47.2648802
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1277255626",
+            "osm_type": "node",
+            "lat": 47.2577018,
+            "lon": 11.352957,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "180",
+            "addr:postcode": "6020",
+            "addr:street": "Fürstenweg",
+            "addr:suburb": "Hötting",
+            "amenity": "police",
+            "email": "PI-T-Innsbruck-Flughafen@polizei.gv.at",
+            "fax": "+43 59133 7581-109",
+            "name": "Polizeiinspektion Innsbruck-Flughafen",
+            "phone": "+43 59133 7581-100",
+            "source": "https://experience.arcgis.com/experience/b65f736d630e4def9a9d78cec26f3c89",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=6E657273594F78396F77733D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.352957,
+              47.2577018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1588713208",
+            "osm_type": "node",
+            "lat": 47.2703823,
+            "lon": 11.4006017,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6020",
+            "addr:street": "Kapuzinergasse",
+            "amenity": "police",
+            "name": "Polizeiinspektion Saggen",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4006017,
+              47.2703823
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1598773010",
+            "osm_type": "node",
+            "lat": 47.2410738,
+            "lon": 11.4355348,
+            "addr:city": "Lans",
+            "addr:country": "AT",
+            "addr:housenumber": "214",
+            "addr:postcode": "6072",
+            "addr:street": "Aldranser Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:phone": "+43 59133 7116-100",
+            "email": "PI-T-Lans@polizei.gv.at",
+            "fax": "+43 59133 7116-109",
+            "name": "Polizeiinspektion Lans",
+            "name:de": "Polizeiinspektion Lans",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=444B65786B546337594F673D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4355348,
+              47.2410738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1666332990",
+            "osm_type": "node",
+            "lat": 47.2757223,
+            "lon": 11.4181733,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "34",
+            "addr:postcode": "6020",
+            "addr:street": "General-Eccher-Straße",
+            "addr:suburb": "Pradl",
+            "amenity": "police",
+            "contact:email": "PI-T-Innsbruck-Reichenau@polizei.gv.at",
+            "contact:fax": "+43 59133 7588-109",
+            "contact:phone": "+43 59133 7588-100",
+            "name": "Polizeiinspektion Reichenau",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4181733,
+              47.2757223
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3012497610",
+            "osm_type": "node",
+            "lat": 47.1845851,
+            "lon": 11.4048574,
+            "addr:city": "Schönberg im Stubaital",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "6141",
+            "addr:street": "Brennerautobahn",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Autobahnpolizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4048574,
+              47.1845851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3325770719",
+            "osm_type": "node",
+            "lat": 47.1529076,
+            "lon": 11.3488574,
+            "addr:city": "Fulpmes",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "6166",
+            "addr:street": "Riehlstraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "email": "PI-T-Fulpmes@polizei.gv.at",
+            "fax": "+43 59133 7112-109",
+            "name": "Polizei Fulpmes",
+            "phone": "+43 59133 7112-100",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=55566851577043325368733D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3488574,
+              47.1529076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3838674854",
+            "osm_type": "node",
+            "lat": 47.275075,
+            "lon": 11.412542,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6020",
+            "addr:street": "Schlachthofgasse",
+            "amenity": "police",
+            "description": "Ordnungsamt",
+            "email": "post.sicherheit@innsbruck.gv.at",
+            "name": "Mobile Überwachungsgruppe",
+            "opening_hours": "24/7",
+            "phone": "+43 512 5360 8176",
+            "short_name": "MÜG",
+            "website": "https://www.innsbruck.gv.at/mueg",
+            "wikidata": "Q109417656",
+            "wikipedia": "de:Mobile Überwachungsgruppe Innsbruck"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.412542,
+              47.275075
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4850538808",
+            "osm_type": "node",
+            "lat": 47.2526095,
+            "lon": 11.2657097,
+            "addr:city": "Kematen in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "6175",
+            "addr:street": "Sellrainer Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "PI-T-Kematen@polizei.gv.at",
+            "contact:fax": "+43 59133 7115-109",
+            "contact:phone": "+43 59133 7115-100",
+            "name": "Polizeiinspektion Kematen",
+            "website": "https://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=767832773972496C6F4D303D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2657097,
+              47.2526095
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12537591910",
+            "osm_type": "node",
+            "lat": 47.2703555,
+            "lon": 11.4009561,
+            "addr:city": "Innsbruck",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6020",
+            "addr:street": "Kapuzinergasse",
+            "alt_name": "LPD Tirol",
+            "amenity": "police",
+            "name": "Landespolizeidirektion Tirol",
+            "police": "offices",
+            "short_name": "LPD T",
+            "website": "https://www.polizei.gv.at/tirol/start.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4009561,
+              47.2703555
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 9.530952,
+        "north": 47.694865,
+        "east": 10.484655499999999
+      },
+      "poiCount": 23,
+      "leafCount": 23,
+      "averagePosition": [
+        9.754638752173912,
+        47.49595665652174
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "323870249",
+            "osm_type": "node",
+            "lat": 47.4224035,
+            "lon": 9.5523387,
+            "addr:city": "Oberegg",
+            "addr:country": "CH",
+            "addr:housenumber": "17",
+            "addr:postcode": "9413",
+            "addr:street": "Dorfstrasse",
+            "amenity": "police",
+            "name": "Polizeiposten Oberegg",
+            "operator": "Kantonspolizei Appenzell I.Rh.",
+            "phone": "+41 71 891 33 11"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5523387,
+              47.4224035
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "338797003",
+            "osm_type": "node",
+            "lat": 47.4273565,
+            "lon": 9.6587791,
+            "addr:city": "Lustenau",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "6890",
+            "addr:street": "Maria-Theresien-Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizeiinspektion Lustenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6587791,
+              47.4273565
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "344478743",
+            "osm_type": "node",
+            "lat": 47.6897851,
+            "lon": 9.5573144,
+            "amenity": "police",
+            "name": "Polizeiposten Meckenbeuren",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5573144,
+              47.6897851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "486091146",
+            "osm_type": "node",
+            "lat": 47.5561214,
+            "lon": 10.0201245,
+            "amenity": "police",
+            "fax": "+49 8386 9393040",
+            "name": "Polizeistation Oberstaufen",
+            "phone": "+49 8386 939300",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0201245,
+              47.5561214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "622390092",
+            "osm_type": "node",
+            "lat": 47.4792966,
+            "lon": 9.7315361,
+            "addr:city": "Lauterach",
+            "addr:country": "AT",
+            "addr:housenumber": "34",
+            "addr:postcode": "6923",
+            "addr:street": "Bundesstraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-10-01",
+            "contact:email": "PI-v-lauterach@polizei.gv.at",
+            "contact:fax": "+43 59133 8132 109",
+            "contact:phone": "+43 59133 8132 100",
+            "name": "Polizeiinspektion Lauterach",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7315361,
+              47.4792966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "762344815",
+            "osm_type": "node",
+            "lat": 47.4885039,
+            "lon": 9.6911987,
+            "addr:city": "Hard",
+            "addr:country": "AT",
+            "addr:housenumber": "18",
+            "addr:postcode": "6971",
+            "addr:street": "Marktstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Hard",
+            "phone": "+43 59133 8125100"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6911987,
+              47.4885039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "848264616",
+            "osm_type": "node",
+            "lat": 47.5372131,
+            "lon": 9.7357132,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7357132,
+              47.5372131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "928071344",
+            "osm_type": "node",
+            "lat": 47.5964907,
+            "lon": 9.5394316,
+            "addr:city": "Langenargen",
+            "addr:country": "DE",
+            "addr:housenumber": "2/1",
+            "addr:postcode": "88085",
+            "addr:street": "Obere Seestraße",
+            "amenity": "police",
+            "name": "Polizeiposten Langenargen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5394316,
+              47.5964907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1003145075",
+            "osm_type": "node",
+            "lat": 47.4056961,
+            "lon": 9.6350895,
+            "addr:city": "Widnau",
+            "addr:housenumber": "2",
+            "addr:postcode": "9443",
+            "addr:street": "Neugasse",
+            "amenity": "police",
+            "name": "Polizeistation Widnau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6350895,
+              47.4056961
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1595827391",
+            "osm_type": "node",
+            "lat": 47.4330699,
+            "lon": 9.8977241,
+            "addr:city": "Egg",
+            "addr:country": "AT",
+            "addr:housenumber": "1144",
+            "addr:place": "Gerbe",
+            "addr:postcode": "6863",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizeiposten Egg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8977241,
+              47.4330699
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2038098376",
+            "osm_type": "node",
+            "lat": 47.450835,
+            "lon": 9.8311542,
+            "addr:city": "Alberschwende",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:place": "Hof",
+            "addr:postcode": "6861",
+            "amenity": "police",
+            "contact:website": "http://www.polizei.gv.at",
+            "name": "Polizeiinspektion Alberschwende"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8311542,
+              47.450835
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095071646",
+            "osm_type": "node",
+            "lat": 47.4445149,
+            "lon": 9.5333868,
+            "addr:city": "Heiden",
+            "addr:country": "CH",
+            "addr:housenumber": "21",
+            "addr:postcode": "9410",
+            "addr:street": "Poststrasse",
+            "amenity": "police",
+            "name": "Kantonspolizei Heiden",
+            "phone": "+41 71 353 93 11",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5333868,
+              47.4445149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4155291093",
+            "osm_type": "node",
+            "lat": 47.5449404,
+            "lon": 9.68455,
+            "amenity": "police",
+            "check_date": "2025-09-03",
+            "contact:email": "bpolr.lindau@polizei.bund.de",
+            "contact:fax": "+49 8382 277274-99",
+            "contact:phone": "+49 8382 277274-0",
+            "name": "Bundespolizeirevier",
+            "website": "https://www.bundespolizei.de/SharedDocs/Webs/Web/Organisationseinheiten/BPOLR/Lindau.html",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.68455,
+              47.5449404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4344855332",
+            "osm_type": "node",
+            "lat": 47.5559383,
+            "lon": 9.7532014,
+            "addr:city": "Hörbranz",
+            "addr:country": "AT",
+            "addr:housenumber": "44",
+            "addr:postcode": "6912",
+            "addr:street": "Lindauer Straße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Hörbranz",
+            "phone": "+43 59 1338 128100"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7532014,
+              47.5559383
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5964053702",
+            "osm_type": "node",
+            "lat": 47.5289679,
+            "lon": 9.7511445,
+            "addr:city": "Lochau",
+            "addr:country": "AT",
+            "addr:housenumber": "22",
+            "addr:postcode": "6911",
+            "addr:street": "Landstraße",
+            "amenity": "police",
+            "email": "PI-v-lochau@polizei.gv.at",
+            "fax": "+4359133 8133-109",
+            "name": "Polizeiinspektion Lochau",
+            "phone": "+4359133 8133-100",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7511445,
+              47.5289679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6712531852",
+            "osm_type": "node",
+            "lat": 47.4592004,
+            "lon": 9.9582849,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9582849,
+              47.4592004
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7011613826",
+            "osm_type": "node",
+            "lat": 47.3844727,
+            "lon": 9.900622,
+            "amenity": "police",
+            "at_bev:addr_date": "2017-10-01",
+            "email": "PI-v-bezau@polizei.gv.at",
+            "fax": "+43 59133 8123-109",
+            "name": "Polizeiposten Bezau",
+            "phone": "+43 59133 8123-100",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.900622,
+              47.3844727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8209625574",
+            "osm_type": "node",
+            "lat": 47.5574324,
+            "lon": 9.6931574,
+            "addr:city": "Lindau (Bodensee)",
+            "addr:housenumber": "20",
+            "addr:postcode": "88131",
+            "addr:street": "Ludwig-Kick-Straße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Lindau",
+            "phone": "+49 8382 910-0",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6931574,
+              47.5574324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9177131107",
+            "osm_type": "node",
+            "lat": 47.4527835,
+            "lon": 9.6381562,
+            "addr:city": "St. Margrethen SG",
+            "addr:housenumber": "12",
+            "addr:postcode": "9430",
+            "addr:street": "Bahnhofplatz",
+            "amenity": "police",
+            "name": "Polizeiposten St. Margrethen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6381562,
+              47.4527835
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9177131108",
+            "osm_type": "node",
+            "lat": 47.3781401,
+            "lon": 9.5387353,
+            "addr:city": "Altstätten SG",
+            "addr:housenumber": "4",
+            "addr:postcode": "9450",
+            "addr:street": "Rabengasse",
+            "amenity": "police",
+            "check_date": "2025-06-14",
+            "name": "Polizeistation Altstätten",
+            "opening_hours": "Mo-Fr 08:00-11:30;14:00-17:00; Sa,Su,PH off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5387353,
+              47.3781401
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11630414925",
+            "osm_type": "node",
+            "lat": 47.4135427,
+            "lon": 9.7449077,
+            "amenity": "police",
+            "contact:email": "polizei​@​dornbirn.at",
+            "contact:phone": "+43 5572 22200",
+            "contact:website": "https://www.dornbirn.at/rathaus/im-rathaus/abteilungen/recht-sicherheit-und-ordnung#stadtpolizei",
+            "name": "Stadtpolizei Dornbirn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7449077,
+              47.4135427
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "269892064",
+            "osm_type": "node",
+            "lat": 47.5110129,
+            "lon": 10.2785525,
+            "addr:city": "Sonthofen",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "87527",
+            "addr:street": "Schloßstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Sonthofen",
+            "phone": "+49 8321 6635-0"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2785525,
+              47.5110129
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "292206198",
+            "osm_type": "node",
+            "lat": 47.6892851,
+            "lon": 10.0315885,
+            "addr:city": "Isny im Allgäu",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "88316",
+            "addr:street": "General-Moser-Weg",
+            "amenity": "police",
+            "check_date": "2023-10-05",
+            "name": "Polizeiposten Isny",
+            "phone": "+49 7562 976550"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0315885,
+              47.6892851
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 10.484655499999999,
+        "north": 47.694865,
+        "east": 11.438358999999998
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        10.919035353846153,
+        47.53034763076923
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "310078352",
+            "osm_type": "node",
+            "lat": 47.5712067,
+            "lon": 10.6904958,
+            "addr:city": "Füssen",
+            "addr:country": "DE",
+            "addr:housenumber": "17",
+            "addr:postcode": "87629",
+            "addr:street": "Herkomerstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Füssen",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6904958,
+              47.5712067
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "326083373",
+            "osm_type": "node",
+            "lat": 47.5396454,
+            "lon": 10.6674366,
+            "addr:city": "Musau",
+            "addr:country": "AT",
+            "addr:housenumber": "143",
+            "addr:place": "Platte",
+            "addr:postcode": "6600",
+            "amenity": "police",
+            "check_date": "2025-06-04",
+            "name": "Polizei Kontrollstation"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6674366,
+              47.5396454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "924489175",
+            "osm_type": "node",
+            "lat": 47.4014284,
+            "lon": 10.8817167,
+            "addr:city": "Lermoos",
+            "addr:country": "AT",
+            "addr:housenumber": "15",
+            "addr:place": "Unterdorf",
+            "addr:postcode": "6631",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizei Lermoos"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8817167,
+              47.4014284
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "924489180",
+            "osm_type": "node",
+            "lat": 47.4200352,
+            "lon": 10.7916856,
+            "addr:city": "Bichlbach",
+            "addr:country": "AT",
+            "addr:housenumber": "34",
+            "addr:postcode": "6621",
+            "addr:street": "Kirchhof",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "Polizei Bichlbach",
+            "source": "GeoImage.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7916856,
+              47.4200352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "924489183",
+            "osm_type": "node",
+            "lat": 47.4986643,
+            "lon": 10.5539114,
+            "amenity": "police",
+            "name": "Polizei Grän",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5539114,
+              47.4986643
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5020511004",
+            "osm_type": "node",
+            "lat": 47.4889394,
+            "lon": 10.7183511,
+            "addr:city": "Reutte",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "6600",
+            "addr:street": "Obermarkt",
+            "amenity": "police",
+            "email": "BPK-T-Reutte@polizei.gv.at",
+            "fax": "+43 59133 7150-309",
+            "name": "Bezirkspolizeikommando Reutte",
+            "phone": "+43 59133 7150-305"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7183511,
+              47.4889394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10011524898",
+            "osm_type": "node",
+            "lat": 47.5813715,
+            "lon": 10.5575268,
+            "addr:city": "Pfronten",
+            "addr:housenumber": "3",
+            "addr:postcode": "87459",
+            "addr:street": "Allgäuer Straße",
+            "amenity": "police",
+            "check_date": "2025-06-01",
+            "description": "Außenstelle der PI Füssen, nicht ständig besetzt",
+            "fax": "+49 8363 9123 40",
+            "name": "Polizeiwache Pfronten",
+            "operator": "Polizeiinspektion Füssen",
+            "phone": "+49 8362 9123 0",
+            "website": "https://www.polizei.bayern.de/wir-ueber-uns/organisation/dienststellen/0901611020000.html",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5575268,
+              47.5813715
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299137323",
+            "osm_type": "node",
+            "lat": 47.6574909,
+            "lon": 11.3709806,
+            "amenity": "police",
+            "check_date": "2024-05-16",
+            "name": "Polizeistation Kochel am See",
+            "website": "https://www.polizei.bayern.de/oberbayern/wir/organisation/dienststellen/index.html/73018",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3709806,
+              47.6574909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299499080",
+            "osm_type": "node",
+            "lat": 47.4444753,
+            "lon": 11.2644042,
+            "amenity": "police",
+            "check_date": "2025-06-25",
+            "name": "Polizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2644042,
+              47.4444753
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2478976993",
+            "osm_type": "node",
+            "lat": 47.6020697,
+            "lon": 11.0603664,
+            "amenity": "police",
+            "fax": "+49 8822 945 8322",
+            "name": "Polizeistation Oberammergau",
+            "phone": "+49 8822 945 830",
+            "website": "https://www.polizei.bayern.de/wir-ueber-uns/organisation/dienststellen/0901713020100.html",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0603664,
+              47.6020697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6013285508",
+            "osm_type": "node",
+            "lat": 47.6849592,
+            "lon": 11.201275,
+            "amenity": "police",
+            "name": "Polizeiispektion Murnau a.Staffelsee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.201275,
+              47.6849592
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6897849601",
+            "osm_type": "node",
+            "lat": 47.505022,
+            "lon": 11.1037633,
+            "amenity": "police",
+            "name": "Polizeiinspektion Garmisch-Partenkirchen",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1037633,
+              47.505022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12087345869",
+            "osm_type": "node",
+            "lat": 47.4992112,
+            "lon": 11.0855461,
+            "amenity": "police",
+            "name": "Bundespolizeirevier-Garmisch-Partenkirchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0855461,
+              47.4992112
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

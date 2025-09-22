@@ -1,0 +1,4016 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 159,
+  "leafCount": 0,
+  "averagePosition": [
+    10.52347638553459,
+    48.69470077924528
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 34,
+      "leafCount": 34,
+      "averagePosition": [
+        10.065283702941176,
+        48.47600319705882
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5619018642",
+            "osm_type": "node",
+            "lat": 48.3633061,
+            "lon": 9.7163881,
+            "addr:city": "Schelklingen",
+            "addr:housenumber": "40",
+            "addr:postcode": "89601",
+            "addr:street": "Hauptstraße",
+            "addr:suburb": "Schmiechen",
+            "name": "Gasthof zum Hirsch",
+            "source": "Datenübernahme von Gebäude",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7163881,
+              48.3633061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6550738708",
+            "osm_type": "node",
+            "lat": 48.3640661,
+            "lon": 9.7152112,
+            "addr:city": "Schelklingen",
+            "addr:housenumber": "50",
+            "addr:postcode": "89601",
+            "addr:street": "Hauptstraße",
+            "addr:suburb": "Schmiechen",
+            "email": "info@pizzeria-zur-sonne.de",
+            "name": "Zur Sonne",
+            "phone": "+49 7394 916100",
+            "tourism": "guest_house",
+            "website": "http://www.pizzeria-zur-sonne.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7152112,
+              48.3640661
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1777766663",
+            "osm_type": "node",
+            "lat": 48.3653529,
+            "lon": 10.3050542,
+            "name": "Pension Edith",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3050542,
+              48.3653529
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "23656016",
+            "osm_type": "node",
+            "lat": 48.4109429,
+            "lon": 9.7889894,
+            "addr:city": "Blaubeuren",
+            "addr:country": "DE",
+            "addr:housenumber": "69",
+            "addr:postcode": "89143",
+            "addr:street": "Auf dem Rucken",
+            "beds": "114",
+            "contact:phone": "+49 7344 64 44",
+            "contact:website": "http://www.jugendherberge-blaubeuren.de",
+            "email": "JH-Blaubeuren@jugendherberge.de",
+            "internet_access": "wlan",
+            "name": "Jugendherberge Blaubeuren",
+            "operator": "DJH Landesverband Baden-Württemberg e.V.",
+            "phone": "07344 6444",
+            "tourism": "hostel",
+            "website": "http://www.jugendherberge-blaubeuren.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7889894,
+              48.4109429
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "268109169",
+            "osm_type": "node",
+            "lat": 48.6154322,
+            "lon": 9.8664212,
+            "addr:city": "Geislingen an der Steige",
+            "addr:country": "DE",
+            "addr:housenumber": "70",
+            "addr:postcode": "73312",
+            "addr:street": "Dorfstraße",
+            "addr:suburb": "Weiler ob Helfenstein",
+            "internet_access": "wlan",
+            "name": "Schneelaufverein Geislingen, Skihütte",
+            "tourism": "hostel",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8664212,
+              48.6154322
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "563834276",
+            "osm_type": "node",
+            "lat": 48.4061639,
+            "lon": 9.7956718,
+            "addr:city": "Blaubeuren",
+            "addr:country": "DE",
+            "addr:housenumber": "21",
+            "addr:postcode": "89143",
+            "addr:street": "Riedweg",
+            "beds": "29",
+            "capacity": "29",
+            "contact:email": "naturfreunde-blaubeuren@gmx.de",
+            "contact:website": "http://www.naturfreunde.de/haus/naturfreundehaus-im-ried",
+            "internet_access": "wlan",
+            "name": "Naturfreundehaus Im Ried",
+            "operator": "NaturFreunde Deutschland",
+            "ref": "M 039",
+            "source": "Datenspende der NaturFreunde Deutschland",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7956718,
+              48.4061639
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "768576822",
+            "osm_type": "node",
+            "lat": 48.3927678,
+            "lon": 9.996429,
+            "addr:city": "Neu-Ulm",
+            "addr:country": "DE",
+            "addr:housenumber": "42",
+            "addr:postcode": "89231",
+            "addr:street": "Schützenstraße",
+            "email": "info@brickstone-hostel.de",
+            "name": "Brickstone Hostel",
+            "phone": "+49 731 7082559",
+            "tourism": "hostel",
+            "website": "https://www.brickstone-hostel.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.996429,
+              48.3927678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1273633040",
+            "osm_type": "node",
+            "lat": 48.6013747,
+            "lon": 9.7979379,
+            "name": "Kurcafe",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7979379,
+              48.6013747
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1771767051",
+            "osm_type": "node",
+            "lat": 48.5426134,
+            "lon": 9.7940598,
+            "addr:city": "Nellingen",
+            "addr:housenumber": "2",
+            "addr:street": "Türkheimer Straße",
+            "amenity": "pub",
+            "name": "Wilder Mann",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7940598,
+              48.5426134
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2411020998",
+            "osm_type": "node",
+            "lat": 48.6055532,
+            "lon": 9.8408744,
+            "name": "Helfensteinherberge",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8408744,
+              48.6055532
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3220466811",
+            "osm_type": "node",
+            "lat": 48.4275136,
+            "lon": 9.8630929,
+            "name": "Pension Engel",
+            "tourism": "guest_house",
+            "website": "https://www.pension-engel.eu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8630929,
+              48.4275136
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4945963311",
+            "osm_type": "node",
+            "lat": 48.5151123,
+            "lon": 9.8500266,
+            "phone": "+49 174 3483350;+49 172 7317856",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8500266,
+              48.5151123
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5764941387",
+            "osm_type": "node",
+            "lat": 48.3897243,
+            "lon": 9.7138774,
+            "addr:city": "Schelklingen",
+            "addr:housenumber": "2",
+            "addr:street": "Stummengäßle",
+            "addr:suburb": "Hausen ob Urspring",
+            "name": "Rössle",
+            "source": "Datenübernahme von Gebäude",
+            "tourism": "guest_house",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7138774,
+              48.3897243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9229307862",
+            "osm_type": "node",
+            "lat": 48.440886,
+            "lon": 9.8884343,
+            "beds": "30",
+            "name": "Naturfreundehaus Spatzennest",
+            "operator": "NaturFreunde Deutschland",
+            "ref": "M 038",
+            "rooms": "6",
+            "tourism": "hostel",
+            "website": "https://www.naturfreunde-ulm.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8884343,
+              48.440886
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12346812984",
+            "osm_type": "node",
+            "lat": 48.3954801,
+            "lon": 10.0025297,
+            "addr:city": "Neu-Ulm",
+            "addr:housenumber": "24",
+            "addr:postcode": "89231",
+            "addr:street": "Kasernstraße",
+            "contact:facebook": "mitte24",
+            "email": "info@mitte-24.com",
+            "guest_house": "pension",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "PensionMitte24",
+            "name": "Pension Mitte 24",
+            "opening_hours": "Mo-Fr 10:00-18:30; Sa, Su, PH off",
+            "phone": "+49 178 566 15 93",
+            "reservation": "yes",
+            "short_name": "Mitte 24",
+            "smoking": "no",
+            "tourism": "guest_house",
+            "website": "https://www.mitte-24.com",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0025297,
+              48.3954801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13069544042",
+            "osm_type": "node",
+            "lat": 48.3966473,
+            "lon": 9.9897985,
+            "name": "Pension Rösch",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9897985,
+              48.3966473
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "23657497",
+            "osm_type": "node",
+            "lat": 48.4485034,
+            "lon": 10.2810206,
+            "name": "JGH Günzburg",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2810206,
+              48.4485034
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "263706618",
+            "osm_type": "node",
+            "lat": 48.4632823,
+            "lon": 10.3029261,
+            "name": "Zimmervermietung Lacher",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3029261,
+              48.4632823
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "283783469",
+            "osm_type": "node",
+            "lat": 48.3885478,
+            "lon": 10.4363825,
+            "addr:city": "Jettingen-Scheppach",
+            "addr:housenumber": "48",
+            "addr:postcode": "89343",
+            "addr:street": "Hauptstraße",
+            "fax": "+49-8225-959654",
+            "name": "Gasthof Adler",
+            "phone": "+49-8225-1445",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4363825,
+              48.3885478
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "292547826",
+            "osm_type": "node",
+            "lat": 48.4398831,
+            "lon": 10.3224724,
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3224724,
+              48.4398831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1775049956",
+            "osm_type": "node",
+            "lat": 48.4351979,
+            "lon": 10.4073296,
+            "name": "Pension Futterknecht",
+            "tourism": "guest_house",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4073296,
+              48.4351979
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1775049959",
+            "osm_type": "node",
+            "lat": 48.4315182,
+            "lon": 10.4024168,
+            "name": "Pension Agnes",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4024168,
+              48.4315182
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1777772420",
+            "osm_type": "node",
+            "lat": 48.4177292,
+            "lon": 10.2944084,
+            "name": "Pension Gästeparadies",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2944084,
+              48.4177292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2407128075",
+            "osm_type": "node",
+            "lat": 48.6733646,
+            "lon": 10.0691582,
+            "addr:city": "Steinheim am Albuch",
+            "addr:housenumber": "1",
+            "addr:postcode": "89555",
+            "addr:street": "Sontheimer Wirtshäusle",
+            "internet_access": "customers",
+            "internet_access:fee": "no",
+            "internet_access:type": "WiFi",
+            "name": "Sontheimer Wirtshäusle",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0691582,
+              48.6733646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2562759697",
+            "osm_type": "node",
+            "lat": 48.6193535,
+            "lon": 10.1458223,
+            "name": "Haus Kallenberg",
+            "phone": "+49 73 24/98 95 930",
+            "tourism": "guest_house",
+            "website": "https://www.hauskallenberg.de/",
+            "wikidata": "Q111853192"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1458223,
+              48.6193535
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4390468088",
+            "osm_type": "node",
+            "lat": 48.5437631,
+            "lon": 10.3837544,
+            "addr:city": "Gundelfingen an der Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "89423",
+            "addr:street": "Stadionstraße",
+            "amenity": "pub",
+            "breakfast": "yes",
+            "internet_access": "wlan",
+            "name": "Stadiongaststätte",
+            "phone": "+4990732406",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3837544,
+              48.5437631
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5814580628",
+            "osm_type": "node",
+            "lat": 48.426392,
+            "lon": 10.1916845,
+            "contact:email": "mfritz@bnv-gz.de",
+            "contact:phone": "+49 8226 9144",
+            "contact:website": "https://www.sonnenschein-bibertal.de/",
+            "name": "Gästehaus Sonnenschein",
+            "operator": "Maria Buck-Fritz",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1916845,
+              48.426392
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6142958999",
+            "osm_type": "node",
+            "lat": 48.4856053,
+            "lon": 10.0321702,
+            "addr:city": "Langenau",
+            "addr:housenumber": "35",
+            "addr:postcode": "89129",
+            "addr:street": "Herwigstraße",
+            "addr:suburb": "Hörvelsingen",
+            "name": "Grüner Baum",
+            "operator": "Daniel Back",
+            "tourism": "guest_house",
+            "website": "https://www.back-hoervelsingen.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0321702,
+              48.4856053
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6846668146",
+            "osm_type": "node",
+            "lat": 48.5505276,
+            "lon": 10.293912,
+            "addr:city": "Sontheim an der Brenz",
+            "addr:housenumber": "85",
+            "addr:postcode": "89567",
+            "addr:street": "Hauptstraße",
+            "email": "pensionbrenz@gmail.com",
+            "guest_house": "bed_and_breakfast",
+            "name": "Pension Brenz",
+            "operator": "Aliz Muntyan",
+            "phone": "+49 174 247 0720",
+            "rooms": "6",
+            "tourism": "guest_house",
+            "website": "https://pensionbrenz.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.293912,
+              48.5505276
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6864436985",
+            "osm_type": "node",
+            "lat": 48.4053806,
+            "lon": 10.0360781,
+            "name": "Namai",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0360781,
+              48.4053806
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8994344043",
+            "osm_type": "node",
+            "lat": 48.645788,
+            "lon": 10.221141,
+            "addr:city": "Giengen an der Brenz",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "89537",
+            "addr:street": "Am Hasenloch",
+            "name": "Hasenloch",
+            "opening_hours": "Mar-Nov We 14:00-18:00; Mar-Nov Sa 14:00+; Mar-Nov Su 10:00-19:00; Dec-Feb We 14:00-18:00; Dec-Feb Sa 14:00-20:00; Dec-Feb Su 10:00-19:00",
+            "operator": "NaturFreunde Deutschlands",
+            "operator:wikidata": "Q89096145",
+            "ref": "M 033",
+            "source": "Datenspende der NaturFreunde Deutschland",
+            "tourism": "hostel",
+            "website": "https://www.naturfreunde-giengen.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.221141,
+              48.645788
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10757767725",
+            "osm_type": "node",
+            "lat": 48.4494186,
+            "lon": 10.2205203,
+            "name": "Haus Leipheim",
+            "tourism": "guest_house",
+            "website": "https://www.hausleipheim.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2205203,
+              48.4494186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11226846578",
+            "osm_type": "node",
+            "lat": 48.562626,
+            "lon": 10.1268689,
+            "addr:city": "Herbrechtingen",
+            "addr:housenumber": "24",
+            "addr:postcode": "89542",
+            "addr:street": "Kirchstraße",
+            "addr:suburb": "Hausen ob Lontal",
+            "name": "Freizeitheim Hausen",
+            "operator": "Evangelische Kirchengemeinde Bissingen-Hausen",
+            "tourism": "guest_house",
+            "website": "https://www.dettingen-bissingen-hausen-evangelisch.de/unsere-kirchengemeinden/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1268689,
+              48.562626
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11522797836",
+            "osm_type": "node",
+            "lat": 48.5642907,
+            "lon": 10.1267832,
+            "breakfast": "no",
+            "email": "h.ersinger@arex-world.de",
+            "guest_house": "guest_house",
+            "name": "Orange - Apartments",
+            "operator": "AREX GmbH Dieselstr. 4 89231 Neu-Ulm",
+            "tourism": "guest_house",
+            "website": "https://www.orange-hotel.de/apartments"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1267832,
+              48.5642907
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 36,
+      "leafCount": 36,
+      "averagePosition": [
+        10.903749066666668,
+        48.468693594444446
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1308276996",
+            "osm_type": "node",
+            "lat": 48.3610268,
+            "lon": 10.8830668,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "2",
+            "addr:postcode": "86150",
+            "addr:street": "Thelottstraße",
+            "name": "Pension Lenzhalde",
+            "phone": "+49 821 520745",
+            "tourism": "guest_house",
+            "website": "http://www.lenzhal.de",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8830668,
+              48.3610268
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5530158356",
+            "osm_type": "node",
+            "lat": 48.3696432,
+            "lon": 10.9003647,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86150",
+            "addr:street": "Auf dem Rain",
+            "fax": "+49 821 419028-13",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Augsburg Apartments",
+            "operator": "Daniel Gnann",
+            "phone": "+49 821 419028-28",
+            "tourism": "guest_house",
+            "website": "https://www.apartment-augsburg.de/apartments/apartment-augsburg-ii/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9003647,
+              48.3696432
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6856766718",
+            "osm_type": "node",
+            "lat": 48.3672278,
+            "lon": 10.905869,
+            "addr:housenumber": "19",
+            "addr:postcode": "86152",
+            "addr:street": "Vogelmauer",
+            "name": "rwa ug",
+            "phone": "+491732151692",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.905869,
+              48.3672278
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12333919293",
+            "osm_type": "node",
+            "lat": 48.3700908,
+            "lon": 10.9051252,
+            "name": "Pilgerunterkunft",
+            "phone": "+4915118654707",
+            "tourism": "hostel",
+            "website": "https://www.st-jakob-augsburg.de/profil/pilgerunterkunft"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9051252,
+              48.3700908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6373101886",
+            "osm_type": "node",
+            "lat": 48.5699214,
+            "lon": 10.5012661,
+            "addr:housenumber": "23",
+            "addr:postcode": "89407",
+            "addr:street": "Donaustraße",
+            "email": "zum-zoll@t-online.de",
+            "name": "Gasthaus Zum Zoll",
+            "phone": "+49 9071 1865",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5012661,
+              48.5699214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12394126327",
+            "osm_type": "node",
+            "lat": 48.5691329,
+            "lon": 10.5014512,
+            "name": "Eichwaldstuben",
+            "operator": "Eichwaldstuben",
+            "tourism": "guest_house",
+            "website": "http://www.donaucamping.de/herberge.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5014512,
+              48.5691329
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "310442992",
+            "osm_type": "node",
+            "lat": 48.4013998,
+            "lon": 10.5964836,
+            "addr:city": "Zusmarshausen",
+            "addr:postcode": "86441",
+            "name": "Tourist Info",
+            "tourism": "guest_house",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5964836,
+              48.4013998
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "312722565",
+            "osm_type": "node",
+            "lat": 48.464068,
+            "lon": 10.870169,
+            "name": "Welzhofer",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.870169,
+              48.464068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "563834397",
+            "osm_type": "node",
+            "lat": 48.526037,
+            "lon": 10.8691566,
+            "addr:city": "Meitingen",
+            "addr:country": "DE",
+            "addr:housenumber": "34",
+            "addr:postcode": "86405",
+            "addr:street": "Fischerweg",
+            "addr:suburb": "Herbertshofen",
+            "amenity": "biergarten",
+            "name": "Naturfreundehaus Vinzenz-Behr-Hütte",
+            "operator": "NaturFreunde Deutschland",
+            "ref": "N 078",
+            "source": "Datenspende der NaturFreunde Deutschland",
+            "tourism": "hostel",
+            "website": "https://www.naturfreunde-augsburg.com/index.php/unsere-haeuser/79-unsere-haeuser/75-vinzenz-behr-huette"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8691566,
+              48.526037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "970870185",
+            "osm_type": "node",
+            "lat": 48.4620165,
+            "lon": 10.963512,
+            "addr:city": "Affing",
+            "addr:country": "DE",
+            "addr:housenumber": "29",
+            "addr:postcode": "86444",
+            "addr:street": "Affinger Straße",
+            "addr:suburb": "Gebenhofen",
+            "name": "Gästehaus Winter",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.963512,
+              48.4620165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1590139069",
+            "osm_type": "node",
+            "lat": 48.3843285,
+            "lon": 10.9209317,
+            "name": "Pension De Lux",
+            "tourism": "guest_house",
+            "website": "https://www.pension-delux-augsburg.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9209317,
+              48.3843285
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1973753613",
+            "osm_type": "node",
+            "lat": 48.4850216,
+            "lon": 10.6025659,
+            "name": "Schullandheim Zusamzell",
+            "source": "N 48° 29.106 E010° 36.187",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6025659,
+              48.4850216
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095872226",
+            "osm_type": "node",
+            "lat": 48.4891887,
+            "lon": 10.8593077,
+            "addr:city": "Langweid am Lech",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:postcode": "86462",
+            "addr:street": "Augsburger Straße",
+            "email": "info@landhaus-sonnenhof.com",
+            "fax": "+49 8230 84044350",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Landhaus-Sonnenhof",
+            "phone": "+49 8230 840440",
+            "rooms": "19",
+            "tourism": "guest_house",
+            "website": "https://www.landhaus-sonnenhof.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8593077,
+              48.4891887
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4149140068",
+            "osm_type": "node",
+            "lat": 48.5503574,
+            "lon": 10.7149894,
+            "addr:city": "Wertingen",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "86637",
+            "addr:street": "Beim Schullandheim",
+            "addr:suburb": "Bliensbach",
+            "email": "info@schullandheim-bliensbach.de",
+            "fax": "+49-8272-60960-40",
+            "internet_access": "no",
+            "name": "Schullandheim Bliensbach",
+            "operator": "Schullandheim Bliensbach Trägerverein eV",
+            "phone": "+49-8272-60960-0",
+            "smoking": "no",
+            "tourism": "hostel",
+            "website": "https://schullandheim-bliensbach.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7149894,
+              48.5503574
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4190243495",
+            "osm_type": "node",
+            "lat": 48.56754,
+            "lon": 10.9836451,
+            "addr:city": "Baar (Schwaben)",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:place": "Heimpersdorf",
+            "addr:postcode": "86674",
+            "breakfast": "yes",
+            "email": "info@gasthof-bachmeir.de",
+            "name": "Gasthof Bachmeir",
+            "phone": "+49 8276 244",
+            "tourism": "guest_house",
+            "website": "http://www.gasthof-bachmeir.de/Gastezimmer/zimmer.html",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9836451,
+              48.56754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4996038010",
+            "osm_type": "node",
+            "lat": 48.5628433,
+            "lon": 10.6577079,
+            "addr:city": "Wertingen",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86637",
+            "addr:street": "Am Judenberg",
+            "email": "info@waldgasthof-krebs.de",
+            "fax": "+49 8272 993550",
+            "name": "Waldgasthof Bergfried",
+            "operator": "Stefan Krebs",
+            "phone": "+49 8272 99350",
+            "tourism": "guest_house",
+            "website": "http://www.waldgasthof-krebs.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6577079,
+              48.5628433
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5173462328",
+            "osm_type": "node",
+            "lat": 48.4573552,
+            "lon": 10.8234001,
+            "internet_access": "no",
+            "name": "Pension Schuster",
+            "phone": "+49 82301371",
+            "smoking": "no",
+            "tourism": "guest_house",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8234001,
+              48.4573552
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5508082052",
+            "osm_type": "node",
+            "lat": 48.5931002,
+            "lon": 10.8278283,
+            "addr:city": "Nordendorf",
+            "addr:country": "DE",
+            "addr:housenumber": "5A",
+            "addr:postcode": "86695",
+            "addr:street": "Schmutterstraße",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Landkäserei Reißler",
+            "operator": "Familie Kaiser",
+            "phone": "+49 8273 99408-0",
+            "tourism": "guest_house",
+            "website": "https://www.kaeserei-reissler.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8278283,
+              48.5931002
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5526402204",
+            "osm_type": "node",
+            "lat": 48.3728575,
+            "lon": 10.9016401,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "86152",
+            "addr:street": "Unterer Graben",
+            "beds": "178",
+            "bettundbike": "yes",
+            "brand": "Deutsches Jugendherbergswerk",
+            "brand:wikidata": "Q1205753",
+            "business": "conference_rooms",
+            "capacity:disabled": "1",
+            "contact:email": "info@augsburg-jugendherberge.de",
+            "contact:fax": "+49 821 78088929",
+            "contact:phone": "+49 821 7808890",
+            "contact:website": "https://www.jugendherberge.de/jugendherbergen/augsburg/",
+            "drying:room": "yes",
+            "elevator": "yes",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "DJH Jugendherberge Augsburg",
+            "opening_hours": "06:30 - 24:00",
+            "opening_hours:reception": "06:30 - 24:00",
+            "operator": "Augsburger Gesellschaft für Lehmbau, Bildung und Arbeit e.V.",
+            "ref": "199",
+            "rooms": "62",
+            "sport": "table_soccer",
+            "stars": "2",
+            "tourism": "hostel",
+            "wheelchair": "yes",
+            "wheelchair:rooms": "2",
+            "wikidata": "Q111121009"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9016401,
+              48.3728575
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5539762423",
+            "osm_type": "node",
+            "lat": 48.3793658,
+            "lon": 10.9113765,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "86167",
+            "addr:street": "Schillstraße",
+            "beds": "40",
+            "email": "info@pension-maerkl.de",
+            "fax": "+49 821 721987",
+            "name": "Pension Märkl Augsburg",
+            "operator": "Alexandra Märkl",
+            "phone": "+49 821 791499",
+            "rooms": "28",
+            "smoking": "no",
+            "tourism": "guest_house",
+            "website": "https://www.pension-maerkl-augsburg.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9113765,
+              48.3793658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5539837336",
+            "osm_type": "node",
+            "lat": 48.3765246,
+            "lon": 10.8941773,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "86152",
+            "addr:street": "Herrenhäuser",
+            "beds": "7",
+            "email": "pension.herrenhaeuser@onlinehome.de",
+            "fax": "+49 8251 893637",
+            "internet_access": "yes",
+            "name": "Pension Herrenhäuser Augsburg",
+            "phone": "+49 821 3463173",
+            "rooms": "4",
+            "tourism": "guest_house",
+            "website": "http://www.pensionherrenhaeuser.online.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8941773,
+              48.3765246
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5539892680",
+            "osm_type": "node",
+            "lat": 48.3760545,
+            "lon": 10.9232267,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "38",
+            "addr:postcode": "86165",
+            "addr:street": "Aspernstraße",
+            "addr:suburb": "Lechhausen",
+            "email": "linderhof-augsburg@web.de",
+            "fax": "+49 821 716766",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Linderhof Augsburg - Pension und Apartments",
+            "operator": "Karl Piendl",
+            "phone": "+49 821 713016",
+            "tourism": "guest_house",
+            "website": "http://pension-linderhof.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9232267,
+              48.3760545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7816256844",
+            "osm_type": "node",
+            "lat": 48.3815642,
+            "lon": 10.9865937,
+            "name": "Ana's Landhaus",
+            "tourism": "guest_house",
+            "website": "https://www.anas-landhaus.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9865937,
+              48.3815642
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8441523317",
+            "osm_type": "node",
+            "lat": 48.379614,
+            "lon": 10.8906167,
+            "name:signed": "no",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8906167,
+              48.379614
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9263388008",
+            "osm_type": "node",
+            "lat": 48.3931956,
+            "lon": 10.8650024,
+            "name": "Prime Apartments & Rooms",
+            "tourism": "guest_house",
+            "website": "https://www.prime-apartments.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8650024,
+              48.3931956
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9575886772",
+            "osm_type": "node",
+            "lat": 48.6681165,
+            "lon": 10.869843,
+            "addr:city": "Oberndorf am Lech",
+            "addr:housenumber": "8",
+            "addr:postcode": "86698",
+            "addr:street": "Fischerstraße",
+            "name": "Pension am Mühlbach",
+            "phone": "+49 90904396",
+            "tourism": "guest_house",
+            "website": "https://www.pension-oberndorf.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.869843,
+              48.6681165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9643239719",
+            "osm_type": "node",
+            "lat": 48.3799668,
+            "lon": 10.8517348,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "218",
+            "addr:postcode": "86156",
+            "addr:street": "Ulmer Straße",
+            "name": "Elixirion",
+            "phone": "+49 821 433 943 63",
+            "tourism": "guest_house",
+            "website": "https://www.elixirion.eu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8517348,
+              48.3799668
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9683612846",
+            "osm_type": "node",
+            "lat": 48.3792266,
+            "lon": 10.9103723,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "30",
+            "addr:postcode": "86167",
+            "addr:street": "Lützowstraße",
+            "name": "Alte Schmiede",
+            "tourism": "guest_house",
+            "website": "https://alte-schmiede-augsburg.de/index.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9103723,
+              48.3792266
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10670851780",
+            "osm_type": "node",
+            "lat": 48.3812632,
+            "lon": 10.8752884,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "34",
+            "addr:postcode": "86154",
+            "addr:street": "Ulmer Straße",
+            "beds": "27",
+            "email": "info@slamba-hostel.de",
+            "fax": "+49 821-71060005",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Slamba Hostel",
+            "operator": "Vitalij und Maxim Kobert GbR",
+            "phone": "+49 821-71060001",
+            "rooms": "11",
+            "smoking": "no",
+            "tourism": "guest_house",
+            "website": "https://www.slamba-hostel.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8752884,
+              48.3812632
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12433287638",
+            "osm_type": "node",
+            "lat": 48.4391162,
+            "lon": 10.9455683,
+            "addr:city": "Affing",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86444",
+            "addr:street": "Derchinger Straße",
+            "addr:suburb": "Bergen",
+            "name": "Beim Stazer",
+            "phone": "+49 8207 95 83 38 0",
+            "tourism": "guest_house",
+            "website": "https://www.beimstazer.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9455683,
+              48.4391162
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "317455100",
+            "osm_type": "node",
+            "lat": 48.6753328,
+            "lon": 11.2318549,
+            "beds": "29",
+            "capacity:persons": "29",
+            "charge": "18 EUR/person/night",
+            "email": "info@vcp-bayern.de",
+            "fee": "yes",
+            "group_only": "yes",
+            "name": "Pfadfinderinnen- und Pfadfinderhaus Untermaxfeld",
+            "operator": "VCP Bayern e.V.",
+            "phone": "+49 911 4304264",
+            "tourism": "hostel",
+            "website": "https://untermaxfeld.vcp-bayern.de/home"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2318549,
+              48.6753328
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "415470944",
+            "osm_type": "node",
+            "lat": 48.5648124,
+            "lon": 11.2569295,
+            "addr:city": "Schrobenhausen",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "86529",
+            "addr:street": "Waldeckstraße",
+            "name": "Forster's Bed & Breakfast",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2569295,
+              48.5648124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1279156060",
+            "osm_type": "node",
+            "lat": 48.5882494,
+            "lon": 11.1205288,
+            "name": "Baumhaushotel Pöttmes",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1205288,
+              48.5882494
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2960586279",
+            "osm_type": "node",
+            "lat": 48.5931994,
+            "lon": 11.382769,
+            "addr:city": "Hohenwart",
+            "addr:postcode": "86558",
+            "name": "zur Krone",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.382769,
+              48.5931994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4705173268",
+            "osm_type": "node",
+            "lat": 48.5642476,
+            "lon": 11.2785821,
+            "addr:city": "Schrobenhausen",
+            "addr:country": "DE",
+            "addr:housenumber": "23",
+            "addr:postcode": "86529",
+            "addr:street": "Adalbert-Stifter-Straße",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Pension Streber-Kraus",
+            "operator": "Fr. Streber-Kraus",
+            "phone": "+49 8252 81774",
+            "rooms": "5",
+            "smoking": "outside",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2785821,
+              48.5642476
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8223320187",
+            "osm_type": "node",
+            "lat": 48.4299632,
+            "lon": 11.1520216,
+            "name": "Maiwirt",
+            "operator": "Familie Büchel",
+            "rooms": "2",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1520216,
+              48.4299632
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 37,
+      "leafCount": 37,
+      "averagePosition": [
+        9.893557916216215,
+        48.856618408108105
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "258833775",
+            "osm_type": "node",
+            "lat": 48.7542254,
+            "lon": 9.7816801,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:country": "DE",
+            "addr:housenumber": "91",
+            "addr:postcode": "73529",
+            "addr:street": "Hohenstaufenstraße",
+            "addr:suburb": "Rechberg",
+            "cuisine": "german",
+            "disused:amenity": "restaurant",
+            "name": "Gasthaus Zum Rechberg",
+            "tourism": "guest_house",
+            "website": "https://www.metzgerei-reinold.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7816801,
+              48.7542254
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "434480890",
+            "osm_type": "node",
+            "lat": 48.8421407,
+            "lon": 9.7212073,
+            "addr:city": "Alfdorf",
+            "addr:housenumber": "46",
+            "addr:postcode": "73553",
+            "addr:street": "Untere Schloßstraße",
+            "name": "Gasthof Hirsch",
+            "operator": "Familie Waldner",
+            "tourism": "guest_house",
+            "website": "http://www.gasthof-hirsch-alfdorf.de/",
+            "wikidata": "Q111853074"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7212073,
+              48.8421407
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3008423866",
+            "osm_type": "node",
+            "lat": 48.7086838,
+            "lon": 9.7099105,
+            "addr:city": "Eislingen/Fils",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "73054",
+            "addr:street": "Amselweg",
+            "internet_access": "yes",
+            "name": "Gasthaus Vogelgarten",
+            "phone": "+49-7161-89160",
+            "smoking": "no",
+            "source": "survey",
+            "tourism": "guest_house",
+            "website": "https://www.booking.com/hotel/de/gasthaus-vogelgarten.de.html",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7099105,
+              48.7086838
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3788760134",
+            "osm_type": "node",
+            "lat": 48.6868246,
+            "lon": 9.8113124,
+            "addr:city": "Donzdorf",
+            "addr:country": "DE",
+            "addr:housenumber": "66",
+            "addr:postcode": "73072",
+            "addr:street": "Hauptstraße",
+            "name": "Stern",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8113124,
+              48.6868246
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4396108313",
+            "osm_type": "node",
+            "lat": 48.7887138,
+            "lon": 9.6382339,
+            "addr:city": "Lorch",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "73547",
+            "addr:street": "Lorcher Straße",
+            "addr:suburb": "Waldhausen",
+            "contact:email": "mail@villa-lamba.de",
+            "contact:mobile": "+49 152 01945231",
+            "contact:phone": "+49 7172 328035",
+            "contact:website": "http://www.villa-lamba.de/",
+            "mapillary": "293622129071386",
+            "name": "Casa LamBa",
+            "tourism": "guest_house",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6382339,
+              48.7887138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4440736739",
+            "osm_type": "node",
+            "lat": 48.8439428,
+            "lon": 9.7192764,
+            "name": "Schumpp-Hrusa",
+            "tourism": "guest_house",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7192764,
+              48.8439428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4752764130",
+            "osm_type": "node",
+            "lat": 48.7831583,
+            "lon": 9.6827572,
+            "contact:email": "info@pension-knauss.de",
+            "contact:fax": "+49 7172 919789",
+            "contact:phone": "+49 7172 919787",
+            "contact:website": "http://pension-knauss.de",
+            "name": "Pension Knauss",
+            "operator": "Walter Knauß",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6827572,
+              48.7831583
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4752846889",
+            "osm_type": "node",
+            "lat": 48.7968614,
+            "lon": 9.5965645,
+            "contact:phone": "+49 7181 81368",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "China Garden",
+            "operator": "Dayi Wang",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5965645,
+              48.7968614
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5114324565",
+            "osm_type": "node",
+            "lat": 48.7285128,
+            "lon": 9.6430343,
+            "addr:city": "Rechberghausen",
+            "addr:country": "DE",
+            "addr:housenumber": "25",
+            "addr:postcode": "73098",
+            "addr:street": "Bahnhofstraße",
+            "contact:website": "http://www.alte-station.info/",
+            "lastcheck": "2018-05-20",
+            "name": "Alte Station",
+            "toilets:wheelchair": "no",
+            "tourism": "guest_house",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6430343,
+              48.7285128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5210544544",
+            "osm_type": "node",
+            "lat": 48.8229903,
+            "lon": 9.9617612,
+            "check_date": "2025-04-18",
+            "email": "kontakt@reichsadler.net",
+            "fax": "+49 7174 6724",
+            "name": "Reichsadler",
+            "phone": "+49 7174 5389",
+            "tourism": "guest_house",
+            "website": "http://reichsadler.net",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9617612,
+              48.8229903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7108084393",
+            "osm_type": "node",
+            "lat": 48.7383308,
+            "lon": 9.9619615,
+            "addr:city": "Bartholomä",
+            "addr:housenumber": "2",
+            "addr:postcode": "73566",
+            "addr:street": "Rötenbach",
+            "addr:suburb": "Rötenbach",
+            "check_date": "2024-11-22",
+            "guest_house": "religious",
+            "name": "Freizeitheim Rötenbach",
+            "operator": "Evangelisches Jugendwerk Bezirk Göppingen",
+            "tourism": "hostel",
+            "website": "https://www.ejgp.de/roetenbach",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9619615,
+              48.7383308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7145703974",
+            "osm_type": "node",
+            "lat": 48.8585798,
+            "lon": 9.7951621,
+            "name": "Gästehaus Waibel",
+            "tourism": "guest_house",
+            "website": "https://www.krone-durlangen.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7951621,
+              48.8585798
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "298487449",
+            "osm_type": "node",
+            "lat": 48.7910126,
+            "lon": 10.1077895,
+            "addr:city": "Oberkochen",
+            "addr:country": "DE",
+            "addr:housenumber": "22",
+            "addr:postcode": "73447",
+            "addr:street": "Heideweg",
+            "contact:facebook": "https://www.facebook.com/naturfreundehaus-oberkochen",
+            "name": "Naturfreundehaus Am Tierstein",
+            "opening_hours": "Su 15:00-20:00; We 16:00-20:00 \"Nur im Sommer bei gutem Wetter\"",
+            "operator": "NaturFreunde Deutschland",
+            "ref": "M 029",
+            "source": "Datenspende der NaturFreunde Deutschland",
+            "toilets:wheelchair": "yes",
+            "tourism": "hostel",
+            "website": "https://www.naturfreunde-oberkochen.de/naturfreundehaus",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1077895,
+              48.7910126
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1251656560",
+            "osm_type": "node",
+            "lat": 48.7253807,
+            "lon": 10.0730153,
+            "name": "Hirsch",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0730153,
+              48.7253807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2243455323",
+            "osm_type": "node",
+            "lat": 48.7528171,
+            "lon": 10.3372285,
+            "name": "Gästehaus Erika",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3372285,
+              48.7528171
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5691551297",
+            "osm_type": "node",
+            "lat": 48.6908332,
+            "lon": 10.3887117,
+            "addr:city": "Dischingen",
+            "addr:housenumber": "9",
+            "addr:postcode": "89561",
+            "addr:street": "Karlsbrunnenstraße",
+            "addr:suburb": "Trugenhofen",
+            "name": "Haus Karlsbrunnen",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3887117,
+              48.6908332
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8563113981",
+            "osm_type": "node",
+            "lat": 48.7833343,
+            "lon": 10.1047675,
+            "breakfast": "no",
+            "description": "Monteurzimmer",
+            "name": "Zimmerpool.com",
+            "tourism": "guest_house",
+            "website": "https://www.zimmerpool.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1047675,
+              48.7833343
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8563113982",
+            "osm_type": "node",
+            "lat": 48.7834526,
+            "lon": 10.1045195,
+            "breakfast": "no",
+            "description": "Monteurzimmer",
+            "tourism": "guest_house",
+            "website": "https://www.zimmerpool.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1045195,
+              48.7834526
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8568900380",
+            "osm_type": "node",
+            "lat": 48.8263758,
+            "lon": 10.1153487,
+            "addr:housenumber": "34",
+            "addr:street": "Kochertalstraße",
+            "guest_house": "guest_house",
+            "name": "MKS Hotel-/Monteurzimmer",
+            "operator": "Kadir Sirin",
+            "phone": "+49 1727455916",
+            "rooms": "4",
+            "tourism": "hostel",
+            "website": "https://www.monteurzimmer.de/gaestezimmer/73430-aalen-f0u0pry6bj"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1153487,
+              48.8263758
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12889650568",
+            "osm_type": "node",
+            "lat": 48.7938927,
+            "lon": 10.2648191,
+            "addr:city": "Neresheim",
+            "addr:housenumber": "1",
+            "addr:postcode": "73450",
+            "addr:street": "Am Kirchplatz",
+            "addr:suburb": "Elchingen",
+            "description": "Freizeiten, Klassenfahrten, Familienausflüge, Seminare, Musikproben, private Feiern.",
+            "group_only": "yes",
+            "name": "Härtsfeldhof",
+            "operator": "Katholische Kirchengemeinde Stuttgart-Stammheim",
+            "phone": "+49 711 80 14 14",
+            "tourism": "hostel",
+            "website": "https://www.pfarrei-zumgutenhirten.de",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2648191,
+              48.7938927
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "98198331",
+            "osm_type": "node",
+            "lat": 48.8976761,
+            "lon": 9.6008636,
+            "addr:city": "Kaisersbach",
+            "addr:country": "DE",
+            "addr:postcode": "73667",
+            "beds": "83",
+            "contact:email": "schmalenberg@christusbund.de",
+            "contact:phone": "+49 7183 6330",
+            "contact:website": "https://www.christusbund.de/schmalenberg/",
+            "group_only": "yes",
+            "name": "Freizeitheim Hofgut Schmalenberg",
+            "operator": "Württembergischer Christusbund e.V.",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6008636,
+              48.8976761
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240475609",
+            "osm_type": "node",
+            "lat": 48.9861485,
+            "lon": 9.5757272,
+            "addr:city": "Murrhardt",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "71540",
+            "addr:street": "Wolkenhof",
+            "air_conditioning": "no",
+            "name": "Wolkenhof",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5757272,
+              48.9861485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1623991111",
+            "osm_type": "node",
+            "lat": 48.9278824,
+            "lon": 9.6592041,
+            "addr:city": "Kaisersbach",
+            "addr:country": "DE",
+            "addr:housenumber": "100",
+            "addr:place": "Mönchhof",
+            "addr:postcode": "73667",
+            "group_only": "yes",
+            "name": "Waldakademie Mönchhof",
+            "old_name": "Schullandheim Mönchhof",
+            "tourism": "hostel",
+            "website": "https://moenchhof-waldakademie.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6592041,
+              48.9278824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1991589464",
+            "osm_type": "node",
+            "lat": 48.8776701,
+            "lon": 9.8578768,
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8578768,
+              48.8776701
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2574941174",
+            "osm_type": "node",
+            "lat": 48.8857259,
+            "lon": 9.8138513,
+            "name": "Gästehaus Grüner Pfad",
+            "tourism": "guest_house",
+            "website": "https://www.gaestehaus-gruenerpfad.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8138513,
+              48.8857259
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5126878511",
+            "osm_type": "node",
+            "lat": 48.9745764,
+            "lon": 9.6058059,
+            "name": "Philadelphia Freizeitzentrum",
+            "operator": "Philadelphia-Verein e. V.",
+            "tourism": "hostel",
+            "website": "http://philadelphia-verein.de/freizeitzentrum"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6058059,
+              48.9745764
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8371219755",
+            "osm_type": "node",
+            "lat": 48.9991624,
+            "lon": 9.7705363,
+            "addr:city": "Gaildorf",
+            "addr:country": "DE",
+            "addr:housenumber": "29",
+            "addr:postcode": "74405",
+            "addr:street": "Karlstraße",
+            "name": "Gasthaus Waldhorn",
+            "tourism": "guest_house",
+            "website": "http://metzgerei-wieland.de/de/standorte/gaildorf/uebernachtung",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7705363,
+              48.9991624
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8404670081",
+            "osm_type": "node",
+            "lat": 48.9984475,
+            "lon": 9.7606253,
+            "addr:city": "Gaildorf",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "74405",
+            "addr:street": "Kernerstraße",
+            "name": "Haus am Berg",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7606253,
+              48.9984475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8404694737",
+            "osm_type": "node",
+            "lat": 48.9985127,
+            "lon": 9.7718862,
+            "addr:city": "Gaildorf",
+            "addr:country": "DE",
+            "addr:housenumber": "60",
+            "addr:postcode": "74405",
+            "addr:street": "Karlstraße",
+            "name": "Pension B19",
+            "tourism": "guest_house",
+            "website": "https://pensionb19.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7718862,
+              48.9985127
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8407836610",
+            "osm_type": "node",
+            "lat": 48.997277,
+            "lon": 9.6599652,
+            "name": "Seminar- und Gästehaus Hof Heilenbergen",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6599652,
+              48.997277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8742064706",
+            "osm_type": "node",
+            "lat": 49.0026604,
+            "lon": 9.9189135,
+            "name": "Gästehaus Pension Fam. Siller",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9189135,
+              49.0026604
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11967712336",
+            "osm_type": "node",
+            "lat": 48.9138826,
+            "lon": 9.5517413,
+            "beds": "116",
+            "email": "info@haus-lutzenberg.de",
+            "guest_house": "student_accomodation",
+            "name": "Haus Lutzenberg",
+            "operator": "Haus Lutzenberg e.V.",
+            "phone": "+49 7183 41031",
+            "rooms": "35",
+            "tourism": "hostel",
+            "website": "https://www.haus-lutzenberg.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5517413,
+              48.9138826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1212053866",
+            "osm_type": "node",
+            "lat": 48.883204,
+            "lon": 10.2921683,
+            "addr:city": "Lauchheim",
+            "addr:housenumber": "8",
+            "addr:postcode": "73466",
+            "addr:street": "Kapellenweg",
+            "guest_house": "hotel",
+            "name": "Landgasthof Sonne",
+            "phone": "+49 7363 6129",
+            "tourism": "guest_house",
+            "website": "https://sonne-roettingen.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2921683,
+              48.883204
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2219452854",
+            "osm_type": "node",
+            "lat": 48.954972,
+            "lon": 10.1594545,
+            "check_date": "2025-08-02",
+            "name": "Gasthaus Hasen",
+            "tourism": "guest_house"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1594545,
+              48.954972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3628558676",
+            "osm_type": "node",
+            "lat": 49.00239,
+            "lon": 10.0413517,
+            "capacity": "4",
+            "name": "Pilgerhospiz auf dem Hohenberg",
+            "tourism": "hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0413517,
+              49.00239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9049363453",
+            "osm_type": "node",
+            "lat": 48.9675617,
+            "lon": 10.4353528,
+            "check_date": "2025-07-29",
+            "email": "info@landhotel-waldeck.de",
+            "fax": "+49 9086 1400",
+            "name": "Gästehaus Waldeck",
+            "phone": "+49 9086 230",
+            "tourism": "guest_house",
+            "website": "https://landhotel-waldeck.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4353528,
+              48.9675617
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12581678892",
+            "osm_type": "node",
+            "lat": 48.9270679,
+            "lon": 10.0672577,
+            "addr:city": "Neuler",
+            "addr:country": "DE",
+            "addr:housenumber": "25",
+            "addr:postcode": "73491",
+            "addr:street": "Hauptstraße",
+            "name": "Landgasthof Bieg",
+            "phone": "+49 7961 4937",
+            "tourism": "guest_house",
+            "website": "https://www.landgasthof-bieg.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0672577,
+              48.9270679
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 52,
+      "leafCount": 0,
+      "averagePosition": [
+        11.008009425,
+        48.87895124423077
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 10.484655499999999,
+            "north": 48.851801374999994,
+            "east": 10.961507249999999
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            10.717215364285716,
+            48.76199877142857
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4429406191",
+                "osm_type": "node",
+                "lat": 48.8501745,
+                "lon": 10.4877181,
+                "addr:city": "Nördlingen",
+                "addr:country": "DE",
+                "addr:housenumber": "15",
+                "addr:postcode": "86720",
+                "addr:street": "Hallgasse",
+                "name": "Gasthof Walfisch",
+                "tourism": "guest_house",
+                "website": "http://walfisch-noerdlingen.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4877181,
+                  48.8501745
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10717593372",
+                "osm_type": "node",
+                "lat": 48.8179143,
+                "lon": 10.5132338,
+                "internet_access": "wlan",
+                "internet_access:captive_portal": "no",
+                "internet_access:password": "yes",
+                "internet_access:ssid": "Tagungshaus-Gast",
+                "name": "Tagungshaus Reimlingen",
+                "tourism": "guest_house",
+                "website": "https://www.tagungshaus-reimlingen.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5132338,
+                  48.8179143
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "300907817",
+                "osm_type": "node",
+                "lat": 48.7202107,
+                "lon": 10.8100064,
+                "addr:city": "Donauwörth",
+                "addr:country": "DE",
+                "addr:housenumber": "9",
+                "addr:postcode": "86609",
+                "addr:street": "Schenkensteinerstraße",
+                "addr:suburb": "Zirgesheim",
+                "description": "Hotel garni",
+                "drink": "served",
+                "email": "gasthof-mayer-don@t-online.de",
+                "fax": "+49 906 7066935",
+                "food": "no",
+                "internet_access": "wlan",
+                "internet_access:fee": "yes",
+                "name": "Gasthof Mayer",
+                "operator": "Brigitta Weber",
+                "outdoor_seating": "yes",
+                "phone": "+49 906 706690",
+                "rooms": "17",
+                "tourism": "guest_house",
+                "website": "https://gaestezimmer-mayer.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8100064,
+                  48.7202107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "765243742",
+                "osm_type": "node",
+                "lat": 48.691048,
+                "lon": 10.7611087,
+                "addr:city": "Donauwörth",
+                "addr:country": "DE",
+                "addr:housenumber": "5",
+                "addr:postcode": "86609",
+                "addr:street": "St.-Sebastian-Straße",
+                "name": "Pension Gerstmeier",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7611087,
+                  48.691048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4455588915",
+                "osm_type": "node",
+                "lat": 48.7416288,
+                "lon": 10.9471962,
+                "addr:city": "Marxheim",
+                "addr:housenumber": "16",
+                "addr:postcode": "86688",
+                "addr:street": "Bayernstraße",
+                "air_conditioning": "yes",
+                "contact:email": "info@landsteakhaus.de",
+                "contact:fax": "+49 9097 1012",
+                "contact:phone": "+49 9097 239",
+                "contact:website": "http://www.land-steakhaus.de/",
+                "guest_house": "hotel",
+                "internet_access": "wlan",
+                "name": "Land-Steakhaus Bürger",
+                "old_name": "Zur Sonne",
+                "operator": "Hermann Bürger",
+                "rooms": "6",
+                "tourism": "guest_house",
+                "website": "https://www.land-steakhaus.de/unser-haus#zimmer"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9471962,
+                  48.7416288
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5587962140",
+                "osm_type": "node",
+                "lat": 48.7851626,
+                "lon": 10.5848953,
+                "addr:city": "Mönchsdeggingen",
+                "addr:country": "DE",
+                "addr:housenumber": "21",
+                "addr:place": "Ziswingen",
+                "addr:postcode": "86751",
+                "email": "biohof-strauss@web.de",
+                "fax": "+49 9088 449",
+                "name": "Biolandhof Strauß Radlerzimmer",
+                "phone": "+49 9088 327",
+                "tourism": "guest_house",
+                "website": "https://www.biohof-strauss.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5848953,
+                  48.7851626
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5588031422",
+                "osm_type": "node",
+                "lat": 48.7737434,
+                "lon": 10.5781301,
+                "addr:city": "Mönchsdeggingen",
+                "addr:country": "DE",
+                "addr:housenumber": "36",
+                "addr:postcode": "86751",
+                "addr:street": "Albstraße",
+                "beds": "16",
+                "email": "eberhardt.hanna@t-online.de",
+                "fax": "+49 9088 760",
+                "internet_access": "yes",
+                "name": "Gasthaus-Pension Am Buchberg",
+                "operator": "Familie Eberhardt",
+                "phone": "+49 9088 700 / +49 175 2371978",
+                "rooms": "6",
+                "smoking": "no",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5781301,
+                  48.7737434
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6515484446",
+                "osm_type": "node",
+                "lat": 48.7169081,
+                "lon": 10.7780345,
+                "description": "Doesn't actually have good views. WiFi comes from the square instead of the building.",
+                "name": "Pension Buena Vista",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7780345,
+                  48.7169081
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7499279836",
+                "osm_type": "node",
+                "lat": 48.8466256,
+                "lon": 10.6166552,
+                "addr:city": "Alerheim",
+                "addr:housenumber": "52",
+                "addr:postcode": "86733",
+                "addr:street": "Hauptstraße",
+                "name": "Gasthof Scheible",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6166552,
+                  48.8466256
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7782245439",
+                "osm_type": "node",
+                "lat": 48.7857785,
+                "lon": 10.8176199,
+                "addr:city": "Buchdorf",
+                "addr:country": "DE",
+                "addr:housenumber": "11",
+                "addr:postcode": "86675",
+                "addr:street": "Alte Bundesstraße",
+                "name": "Gasthof Eisenwinter",
+                "phone": "+49 9099 1382",
+                "tourism": "guest_house",
+                "website": "http://www.gasthaus-eisenwinter.de/zimmer.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8176199,
+                  48.7857785
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9591548979",
+                "osm_type": "node",
+                "lat": 48.7212761,
+                "lon": 10.8768796,
+                "addr:city": "Genderkingen",
+                "addr:housenumber": "1",
+                "addr:postcode": "86682",
+                "addr:street": "Eichmühle",
+                "email": "info@ferientenne-eichmuehle.de",
+                "name": "Ferientenne Eichmühle",
+                "phone": "+49 170 1758507",
+                "tourism": "guest_house",
+                "website": "https://ferienparadies-eichmuehle.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8768796,
+                  48.7212761
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9654252296",
+                "osm_type": "node",
+                "lat": 48.7128284,
+                "lon": 10.7926801,
+                "addr:city": "Donauwörth",
+                "addr:country": "DE",
+                "addr:housenumber": "8",
+                "addr:postcode": "86609",
+                "addr:street": "Schützenring",
+                "beds": "4",
+                "email": "bedbreakfast-donauwoerth@web.de",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Bed & Breakfast Jünger",
+                "operator": "Werner Jünger",
+                "phone": "+49 906 7057871",
+                "rooms": "2",
+                "smoking": "no",
+                "tourism": "guest_house",
+                "website": "http://www.bed-breakfast-donauwoerth.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7926801,
+                  48.7128284
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9877100483",
+                "osm_type": "node",
+                "lat": 48.787175,
+                "lon": 10.6892849,
+                "email": "info@moserhaus-harburg.de",
+                "name": "Pension Moserhaus",
+                "phone": "+49 9080 923 742",
+                "tourism": "guest_house",
+                "website": "https://www.bagatelle-harburg.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6892849,
+                  48.787175
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11132563880",
+                "osm_type": "node",
+                "lat": 48.7175088,
+                "lon": 10.7875723,
+                "internet_access": "wlan",
+                "internet_access:fee": "customers",
+                "name": "Pension Haus Gertrud",
+                "phone": "+49 906 5720",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7875723,
+                  48.7175088
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 10.961507249999999,
+            "north": 48.851801374999994,
+            "east": 11.438358999999998
+          },
+          "poiCount": 4,
+          "leafCount": 4,
+          "averagePosition": [
+            11.21424175,
+            48.79174775
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "23658466",
+                "osm_type": "node",
+                "lat": 48.7648446,
+                "lon": 11.4145629,
+                "addr:city": "Ingolstadt",
+                "addr:housename": "Jugendherberge Ingolstadt",
+                "addr:housenumber": "4 1/2",
+                "addr:postcode": "85049",
+                "addr:street": "Friedhofstraße",
+                "check_date": "2025-05-30",
+                "email": "jugendherberge@ingolstadt.de",
+                "int_name": "Youth Hostel Ingolstadt",
+                "name": "Jugendherberge Ingolstadt",
+                "phone": "+49 841 305128-0",
+                "source": "HiRes aerial imagery",
+                "tourism": "hostel",
+                "website": "https://ingolstadt.jugendherberge.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4145629,
+                  48.7648446
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2336770316",
+                "osm_type": "node",
+                "lat": 48.8443339,
+                "lon": 11.161071,
+                "addr:city": "Ochsenfeld",
+                "addr:country": "DE",
+                "addr:housenumber": "4",
+                "addr:postcode": "85111",
+                "addr:street": "Ingolstädter Straße",
+                "addr:suburb": "Ochsenfeld",
+                "email": "info@gasthof-krone-ochsenfeld.de",
+                "guest_house": "guest_house",
+                "name": "Gasthof Krone",
+                "note": "Der Gasthof Krone ist ein alteingesessener Familienbetrieb in Ochsenfeld. Er wird in dritter Generation von der Familie Schißler geführt.",
+                "old_name": "Krone",
+                "operator": "Fam. Schißler",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "payment:visa_debit": "yes",
+                "phone": "+49 (0) 8421-7683",
+                "rooms": "8",
+                "tourism": "guest_house",
+                "website": "https://gasthof-krone-ochsenfeld.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.161071,
+                  48.8443339
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2351563253",
+                "osm_type": "node",
+                "lat": 48.7589943,
+                "lon": 11.0533373,
+                "addr:city": "Rennertshofen",
+                "addr:country": "DE",
+                "addr:housenumber": "4",
+                "addr:postcode": "86643",
+                "addr:street": "Im Gewerbegebiet",
+                "email": "info@pension-herrenhof.de",
+                "name": "Pension Herrenhof",
+                "tourism": "guest_house",
+                "website": "https://www.pension-herrenhof.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0533373,
+                  48.7589943
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9566698724",
+                "osm_type": "node",
+                "lat": 48.7988182,
+                "lon": 11.2279958,
+                "addr:housenumber": "10",
+                "addr:postcode": "85128",
+                "addr:street": "Eichstätter Straße",
+                "amenity": "events_venue",
+                "name": "Zum Bräu",
+                "tourism": "guest_house",
+                "website": "https://www.gasthaus-schweiger.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2279958,
+                  48.7988182
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 10.484655499999999,
+            "north": 49.017078,
+            "east": 10.961507249999999
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            10.802027928571428,
+            48.975682042857144
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370528831",
+                "osm_type": "node",
+                "lat": 48.9607267,
+                "lon": 10.910309,
+                "addr:city": "Treuchtlingen",
+                "addr:country": "DE",
+                "addr:housenumber": "5",
+                "addr:postcode": "91757",
+                "addr:street": "Siedlungsstraße",
+                "check_date": "2024-10-02",
+                "fax": "+49 9142 1489",
+                "name": "Pension FeWo Elsa Tschernach",
+                "phone": "+49 9142 3623",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.910309,
+                  48.9607267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370528863",
+                "osm_type": "node",
+                "lat": 48.9606513,
+                "lon": 10.9107552,
+                "addr:city": "Treuchtlingen",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "91757",
+                "addr:street": "Siedlungsstraße",
+                "check_date": "2024-10-02",
+                "name": "Pension Renate Feigl",
+                "phone": "+49 9142 7701",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9107552,
+                  48.9606513
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "563834420",
+                "osm_type": "node",
+                "lat": 48.9644316,
+                "lon": 10.8971104,
+                "addr:city": "Treuchtlingen",
+                "addr:country": "DE",
+                "addr:housenumber": "70",
+                "addr:postcode": "91757",
+                "addr:street": "Grüntäleinstraße",
+                "capacity": "34",
+                "check_date": "2024-03-05",
+                "name": "Naturfreundehaus Im Grüntälein",
+                "operator": "NaturFreunde Deutschland",
+                "phone": "+49 9142 4196",
+                "ref": "N 039",
+                "source": "http://www.naturfreunde-treuchtlingen.de/",
+                "source:date": "2016-06-13",
+                "tourism": "hostel",
+                "website": "http://www.naturfreunde-treuchtlingen.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8971104,
+                  48.9644316
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "672163466",
+                "osm_type": "node",
+                "lat": 48.9545706,
+                "lon": 10.9108126,
+                "addr:city": "Treuchtlingen",
+                "addr:country": "DE",
+                "addr:housenumber": "12",
+                "addr:postcode": "91757",
+                "addr:street": "Marktgasse",
+                "guest_house": "guest_house",
+                "name": "Gästehaus \"Zur Frankenstube\"",
+                "operator": "Eva Hollweck",
+                "phone": "+49 9142 200837",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9108126,
+                  48.9545706
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7090640895",
+                "osm_type": "node",
+                "lat": 48.9735429,
+                "lon": 10.7309765,
+                "name": "Pensioni Meier",
+                "operator": "Anni Meier",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7309765,
+                  48.9735429
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7674931356",
+                "osm_type": "node",
+                "lat": 49.0077293,
+                "lon": 10.6271431,
+                "email": "wellnesspension@web.de",
+                "fax": "+49 9832 9457",
+                "name": "Wellnesspension Horndasch - Haus Renate",
+                "phone": "+49 9832 7941",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6271431,
+                  49.0077293
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7674931357",
+                "osm_type": "node",
+                "lat": 49.0081219,
+                "lon": 10.6270887,
+                "email": "wellnesspension@web.de",
+                "fax": "+49 9832 9457",
+                "name": "Wellnesspension Horndasch - Haus Alexandra",
+                "phone": "+49 9832 7941",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6270887,
+                  49.0081219
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 10.961507249999999,
+            "north": 49.017078,
+            "east": 11.438358999999998
+          },
+          "poiCount": 27,
+          "leafCount": 27,
+          "averagePosition": [
+            11.181641203703704,
+            48.92743394814815
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4235719606",
+                "osm_type": "node",
+                "lat": 48.8667326,
+                "lon": 11.0015372,
+                "addr:city": "Mörnsheim",
+                "addr:housenumber": "17",
+                "addr:postcode": "91804",
+                "addr:street": "Bachstraße",
+                "fixme": "position estimated",
+                "name": "Pension Schneider",
+                "operator": "Gertrud Schneider",
+                "phone": "+49 9145 7226",
+                "rooms": "3",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0015372,
+                  48.8667326
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4241808723",
+                "osm_type": "node",
+                "lat": 48.8693925,
+                "lon": 11.0067145,
+                "addr:city": "Mörnsheim",
+                "addr:housenumber": "16",
+                "addr:postcode": "91804",
+                "addr:street": "Marktstraße",
+                "fax": "+49 9145 8315-21",
+                "fixme": "closed?",
+                "name": "Mörnsheimer Hof",
+                "phone": "+49 9145 7154",
+                "rooms": "4",
+                "source": "http://www.moernsheimer-hof.de/",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house",
+                "website": "http://www.moernsheimer-hof.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0067145,
+                  48.8693925
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370531595",
+                "osm_type": "node",
+                "lat": 48.8679437,
+                "lon": 11.0767045,
+                "addr:city": "Dollnstein",
+                "addr:housenumber": "23",
+                "addr:postcode": "91795",
+                "addr:street": "Am Gänsbuck",
+                "name": "Pension Bublak Paul",
+                "phone": "+49 8422 383",
+                "phone:mobile": "+49 170 5511911",
+                "source": "http://dollnsteininfo.de/gastgeber/doppel-und-mehrbettzimmer.html",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0767045,
+                  48.8679437
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370531901",
+                "osm_type": "node",
+                "lat": 48.8683163,
+                "lon": 11.0750737,
+                "addr:city": "Dollnstein",
+                "addr:country": "DE",
+                "addr:housenumber": "23",
+                "addr:postcode": "91795",
+                "addr:street": "Wellheimer Straße",
+                "name": "Pension Bittl Maria",
+                "phone": "+49 8422 596",
+                "source": "http://dollnsteininfo.de/gastgeber/doppel-und-mehrbettzimmer.html",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0750737,
+                  48.8683163
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370529344",
+                "osm_type": "node",
+                "lat": 48.925293,
+                "lon": 10.9643509,
+                "addr:city": "Pappenheim",
+                "addr:housenumber": "2",
+                "addr:postcode": "91788",
+                "addr:street": "Niederpappenheimer Straße",
+                "email": "siegmund_schneider@web.de",
+                "name": "Privatpension Siegmund Schneider",
+                "note": "webseite funktioniert nicht",
+                "phone": "+49 9143 1637",
+                "source": "http://www.privatpension-schneider.de/",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house",
+                "website": "http://www.privatpension-schneider.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9643509,
+                  48.925293
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370529421",
+                "osm_type": "node",
+                "lat": 48.9419637,
+                "lon": 10.9789643,
+                "addr:city": "Pappenheim",
+                "addr:housenumber": "9",
+                "addr:postcode": "91788",
+                "addr:street": "An der Stöß",
+                "name": "Sandra Wittmann",
+                "phone": "+49 9143 370",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9789643,
+                  48.9419637
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370529669",
+                "osm_type": "node",
+                "lat": 48.8937642,
+                "lon": 10.9975733,
+                "addr:city": "Solnhofen",
+                "addr:housenumber": "7",
+                "addr:postcode": "91807",
+                "addr:street": "Sonnenstraße",
+                "email": "info@gaestehaus-hertrich.de",
+                "name": "Gästehaus Heiner Hertrich",
+                "operator": "Heiner Hertrich",
+                "phone": "+49 9145 1285",
+                "rooms": "2",
+                "source": "http://www.gaestehaus-hertrich.de/",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house",
+                "website": "http://www.gaestehaus-hertrich.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9975733,
+                  48.8937642
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370529840",
+                "osm_type": "node",
+                "lat": 48.8956643,
+                "lon": 10.991552,
+                "addr:city": "Solnhofen",
+                "addr:housenumber": "1",
+                "addr:postcode": "91807",
+                "addr:street": "Weidleite",
+                "name": "Eugenie Kraus",
+                "phone": "+49 9145 376989",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.991552,
+                  48.8956643
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370529987",
+                "osm_type": "node",
+                "lat": 48.8981296,
+                "lon": 10.9977637,
+                "addr:city": "Solnhofen",
+                "addr:housenumber": "22",
+                "addr:postcode": "91807",
+                "addr:street": "Bürgermeister-Müller-Straße",
+                "name": "Claudia Lutz",
+                "phone": "+49 9145 1899",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9977637,
+                  48.8981296
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4379514790",
+                "osm_type": "node",
+                "lat": 48.9654735,
+                "lon": 11.0121037,
+                "addr:housenumber": "81",
+                "addr:postcode": "91788",
+                "addr:street": "Neudorf",
+                "email": "veitengruber@t-online.de",
+                "internet_access": "wlan",
+                "name": "Ferienhaus beim Schuster",
+                "operator": "Veitengruber",
+                "phone": "+49 914995016",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0121037,
+                  48.9654735
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "320547798",
+                "osm_type": "node",
+                "lat": 48.9003768,
+                "lon": 11.1028139,
+                "addr:city": "Schernfeld",
+                "addr:housenumber": "10",
+                "addr:postcode": "85132",
+                "addr:street": "Wehrstraße",
+                "name": "Cafe Spitzelberg",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1028139,
+                  48.9003768
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370536418",
+                "osm_type": "node",
+                "lat": 48.8767543,
+                "lon": 11.0740994,
+                "addr:city": "Dollnstein",
+                "addr:housenumber": "8",
+                "addr:postcode": "91795",
+                "addr:street": "Thorgasse",
+                "name": "Pension Eberl Hanna",
+                "phone": "+49 8422 465",
+                "source": "http://www.dollnstein-info.de/eberl.html",
+                "source:date": "2016-06-13",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0740994,
+                  48.8767543
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370536530",
+                "osm_type": "node",
+                "lat": 48.8895326,
+                "lon": 11.163868,
+                "addr:city": "Eichstätt",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "85072",
+                "addr:street": "Pflanzgarten",
+                "name": "Pension Georg Schönleitner",
+                "phone": "+49 8421 4836",
+                "rooms": "2",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.163868,
+                  48.8895326
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370537710",
+                "osm_type": "node",
+                "lat": 48.8817667,
+                "lon": 11.1659946,
+                "addr:city": "Eichstätt",
+                "addr:country": "DE",
+                "addr:housenumber": "81",
+                "addr:postcode": "85072",
+                "addr:street": "Kilian-Leib-Straße",
+                "email": "Rudolf.Pupp@altmuehlnet.de",
+                "fax": "+49 8421 905330",
+                "name": "Haus Elisabeth",
+                "operator": "Familie Pupp",
+                "phone": "+49 8421 4705",
+                "source": "http://www.privatpension-haus-elisabeth.de/",
+                "source:date": "2016-06-10",
+                "tourism": "guest_house",
+                "website": "http://www.privatpension-haus-elisabeth.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1659946,
+                  48.8817667
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370538504",
+                "osm_type": "node",
+                "lat": 48.9053478,
+                "lon": 11.3661632,
+                "addr:housenumber": "3",
+                "addr:postcode": "85110",
+                "addr:street": "Bachweg",
+                "check_date": "2025-06-13",
+                "email": "info@rothmuehle.de",
+                "fax": "+49 8465 905666",
+                "name": "Rothmühle",
+                "phone": "+49 8465 1437",
+                "tourism": "guest_house",
+                "website": "http://www.rothmuehle.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3661632,
+                  48.9053478
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370538636",
+                "osm_type": "node",
+                "lat": 48.9807468,
+                "lon": 11.3844119,
+                "addr:city": "Kinding",
+                "addr:housenumber": "5",
+                "addr:place": "Ilbling",
+                "addr:postcode": "85125",
+                "check_date": "2025-06-13",
+                "contact:email": "info@gaestehaus-krieglmeier.de",
+                "contact:fax": "+49 8467 801767",
+                "contact:phone": "+49 8467 380",
+                "contact:website": "http://www.gaestehaus-krieglmeier.de/",
+                "guest_house": "agritourism",
+                "name": "Krieglmeier",
+                "operator": "Franz Krieglmeier",
+                "rooms": "6",
+                "source": "http://www.gaestehaus-krieglmeier.de/",
+                "source:date": "2016-06-10",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3844119,
+                  48.9807468
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370538934",
+                "osm_type": "node",
+                "lat": 49.0020459,
+                "lon": 11.3873834,
+                "addr:city": "Kinding",
+                "addr:housenumber": "17",
+                "addr:postcode": "85125",
+                "addr:street": "Beilngrieser Straße",
+                "email": "elisabeth.roth@web.de",
+                "name": "Pension FeWo Elisabeth Roth",
+                "phone": "+49 8467 904",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3873834,
+                  49.0020459
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370539599",
+                "osm_type": "node",
+                "lat": 48.9952541,
+                "lon": 11.36411,
+                "addr:city": "Kinding",
+                "addr:country": "DE",
+                "addr:housenumber": "4",
+                "addr:postcode": "85125",
+                "addr:street": "Hauptstraße",
+                "addr:suburb": "Enkering",
+                "email": "pension.hackner@t-online.de",
+                "name": "Pension Martina Hackner",
+                "phone": "+49 8467 354",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.36411,
+                  48.9952541
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "577071793",
+                "osm_type": "node",
+                "lat": 48.9491188,
+                "lon": 11.3949081,
+                "addr:city": "Kipfenberg",
+                "addr:housenumber": "16",
+                "addr:postcode": "85110",
+                "addr:street": "Marktplatz",
+                "contact:email": "info@hotel-alter-peter.de",
+                "contact:fax": "+49 8465 905829",
+                "contact:phone": "+49 8465 905826",
+                "contact:website": "http://www.hotel-alter-peter.de/",
+                "name": "Hotel Alter Peter",
+                "operator": "Fritz Pablitschko",
+                "rooms": "23",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3949081,
+                  48.9491188
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "577071834",
+                "osm_type": "node",
+                "lat": 48.9952951,
+                "lon": 11.3646321,
+                "addr:city": "Kinding",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "85125",
+                "addr:street": "Hauptstraße",
+                "addr:suburb": "Enkering",
+                "name": "Haus Rixner",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3646321,
+                  48.9952951
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1271176619",
+                "osm_type": "node",
+                "lat": 49.0003351,
+                "lon": 11.3845426,
+                "addr:city": "Kinding",
+                "addr:country": "DE",
+                "addr:housenumber": "10",
+                "addr:postcode": "85125",
+                "addr:street": "Kipfenberger Straße",
+                "check_date": "2025-06-13",
+                "email": "info@gaestehaus-biedermann.de",
+                "fax": "+49 8467 801750",
+                "name": "Gästehaus Biedermann",
+                "phone": "+49 8467 282",
+                "source": "http://www.gaestehaus-biedermann.de/",
+                "source:date": "2016-06-10",
+                "tourism": "guest_house",
+                "website": "http://www.gaestehaus-biedermann.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3845426,
+                  49.0003351
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1709328472",
+                "osm_type": "node",
+                "lat": 48.9619167,
+                "lon": 11.2285024,
+                "addr:housenumber": "2",
+                "addr:street": "Florianweg",
+                "amenity": "pub",
+                "name": "Zum Löwen",
+                "tourism": "guest_house",
+                "website": "http://gasthaus-pension-zum-loewen.de/index2.php"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2285024,
+                  48.9619167
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4418146528",
+                "osm_type": "node",
+                "lat": 48.9800542,
+                "lon": 11.3850633,
+                "check_date": "2025-06-13",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Häckl",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3850633,
+                  48.9800542
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5631254623",
+                "osm_type": "node",
+                "lat": 48.9452844,
+                "lon": 11.3707159,
+                "addr:city": "Kipfenberg",
+                "addr:housenumber": "17",
+                "addr:postcode": "85110",
+                "addr:street": "Am Brühl",
+                "addr:suburb": "Böhming",
+                "name": "Ferienwohnung Schneider",
+                "toilets:wheelchair": "no",
+                "tourism": "guest_house",
+                "website": "https://tportal.toubiz.de/altmuehltal/ukv/house/GER00020060282939313",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3707159,
+                  48.9452844
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5844680562",
+                "osm_type": "node",
+                "lat": 48.8953365,
+                "lon": 11.1835764,
+                "email": "gaestehaus.kloster.st.walburg@bistum-eichstaett.de",
+                "fax": "+49 8421 9887-40",
+                "name": "Gästehaus St. Walburg",
+                "phone": "+49 8421 9887-0",
+                "tourism": "guest_house",
+                "website": "https://www.abtei-st-walburg.de/gaestehaus/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1835764,
+                  48.8953365
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8894330348",
+                "osm_type": "node",
+                "lat": 49.015512,
+                "lon": 11.4083679,
+                "addr:city": "Kinding",
+                "addr:housenumber": "2",
+                "addr:postcode": "85125",
+                "addr:street": "Seestraße",
+                "name": "zum Bayerischen",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4083679,
+                  49.015512
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11018601764",
+                "osm_type": "node",
+                "lat": 48.8733654,
+                "lon": 11.0728216,
+                "addr:city": "Dollnstein",
+                "addr:housenumber": "2",
+                "addr:postcode": "91795",
+                "addr:street": "Tafernplatz",
+                "contact:fax": "+49 8422 1774",
+                "contact:phone": "+49 8422 302",
+                "name": "Blaue Traube",
+                "rooms": "3",
+                "tourism": "guest_house"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0728216,
+                  48.8733654
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

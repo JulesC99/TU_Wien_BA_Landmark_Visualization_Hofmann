@@ -1,0 +1,2191 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 83,
+  "leafCount": 0,
+  "averagePosition": [
+    16.12799478072289,
+    47.37319982409639
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 15.253173,
+        "north": 47.36431175,
+        "east": 16.2068765
+      },
+      "poiCount": 28,
+      "leafCount": 28,
+      "averagePosition": [
+        15.61826282857143,
+        47.172392314285716
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "25528260",
+            "osm_type": "node",
+            "lat": 47.0723984,
+            "lon": 15.4165166,
+            "ele": "364",
+            "name": "Graz Hauptbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "211.4",
+            "railway:position:exact": "211.355",
+            "railway:ref": "G",
+            "ref:ibnr": "8100173",
+            "short_name": "Graz Hbf",
+            "uic_name": "Graz Hbf",
+            "uic_ref": "8103171",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4165166,
+              47.0723984
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "35526636",
+            "osm_type": "node",
+            "lat": 47.0534204,
+            "lon": 15.4482575,
+            "alt_name": "Graz Ostbahnhof-Messe",
+            "name": "Graz Ostbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gob",
+            "ref:IFOPT": "at:46:3038:1:zug",
+            "uic_name": "Graz Ostbf",
+            "uic_ref": "8100371",
+            "wheelchair": "yes",
+            "wikidata": "Q1544082"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4482575,
+              47.0534204
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "49192585",
+            "osm_type": "node",
+            "lat": 47.0760986,
+            "lon": 15.436762,
+            "ele:müa": "464.581",
+            "ele:source": "sign",
+            "funicular": "yes",
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "name": "Schloßbergbahn Bergstation",
+            "opening_hours": "Mo-Th,Su,PH 10:00-24:00, Fr,Sa 10:00-26:00; Apr-Sep 09:00-10:00; Dec 24 10:00-18:00; Jan 01 10:00-28:00",
+            "public_transport": "station",
+            "railway": "station",
+            "ref:IFOPT": "at:46:5150:0:bahn",
+            "ref:at:bda": "10284",
+            "station": "funicular",
+            "wheelchair": "yes",
+            "wikidata": "Q2244890"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.436762,
+              47.0760986
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "49192593",
+            "osm_type": "node",
+            "lat": 47.0748698,
+            "lon": 15.4350626,
+            "alt_name": "Graz Schloßbergbahn",
+            "funicular": "yes",
+            "loc_name": "Schloßbergbahn Talstation",
+            "name": "Schloßbergbahn",
+            "opening_hours": "Mo-Th,Su,PH 10:00-24:00, Fr,Sa 10:00-26:00; Apr-Sep 09:00-10:00; Dec 24 10:00-18:00; Jan 01 10:00-28:00",
+            "public_transport": "station",
+            "railway": "station",
+            "ref:IFOPT": "at:46:4067:2:bahn",
+            "station": "funicular",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4350626,
+              47.0748698
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3113239673",
+            "osm_type": "node",
+            "lat": 47.0402426,
+            "lon": 15.4149245,
+            "public_transport": "station",
+            "railway": "station",
+            "station": "miniature",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4149245,
+              47.0402426
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4805829477",
+            "osm_type": "node",
+            "lat": 47.0677697,
+            "lon": 15.4129881,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:housenumber": "35-41",
+            "addr:postcode": "8020",
+            "addr:street": "Köflacher Gasse",
+            "alt_name": "Graz Köflacher Bahnhof",
+            "name": "Graz Köflacherbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "0.5",
+            "railway:position:exact": "0.506",
+            "railway:ref": "Gkf",
+            "ref:IFOPT": "at:46:3029:1:zug",
+            "short_name": "Graz Köflacherbf",
+            "uic_name": "Graz Köflacherbahnhof",
+            "uic_ref": "8100843",
+            "wheelchair": "yes",
+            "wikidata": "Q98971798",
+            "wikipedia": "de:Graz Köflacher Bahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4129881,
+              47.0677697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849620803",
+            "osm_type": "node",
+            "lat": 47.0703049,
+            "lon": 15.4177846,
+            "name": "Graz Hbf Verladestelle",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:platform_height": "55",
+            "railway:platform_length": "138",
+            "ref": "21",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4177846,
+              47.0703049
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849620806",
+            "osm_type": "node",
+            "lat": 47.1292951,
+            "lon": 15.3228568,
+            "name": "Gratwein-Gratkorn",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gw",
+            "ref:IFOPT": "at:46:525:1:zug",
+            "uic_ref": "8100370"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3228568,
+              47.1292951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849620810",
+            "osm_type": "node",
+            "lat": 47.2074055,
+            "lon": 15.3432293,
+            "name": "Peggau-Deutschfeistritz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Pg",
+            "ref:IFOPT": "at:46:1760:1:zug",
+            "uic_ref": "8100034"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3432293,
+              47.2074055
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849620812",
+            "osm_type": "node",
+            "lat": 47.3319056,
+            "lon": 15.3599502,
+            "name": "Mixnitz-Bärenschützklamm",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mx",
+            "ref:IFOPT": "at:46:2051:1:zug"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3599502,
+              47.3319056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849620815",
+            "osm_type": "node",
+            "lat": 47.3592592,
+            "lon": 15.3431401,
+            "name": "Pernegg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Pn",
+            "ref:IFOPT": "at:46:1745:1:zug",
+            "train": "yes",
+            "uic_ref": "8101370",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3431401,
+              47.3592592
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8609816501",
+            "osm_type": "node",
+            "lat": 47.2663552,
+            "lon": 15.3270213,
+            "name": "Frohnleiten",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fro",
+            "ref:IFOPT": "at:46:2042:1:zug",
+            "uic_ref": "8100033",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3270213,
+              47.2663552
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "271340790",
+            "osm_type": "node",
+            "lat": 47.0993691,
+            "lon": 15.7088704,
+            "contact:phone": "+43 3112 2230 39",
+            "name": "Gleisdorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gld",
+            "ref:IFOPT": "at:46:28:1:zug",
+            "train": "yes",
+            "uic_ref": "8100195",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7088704,
+              47.0993691
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "271406315",
+            "osm_type": "node",
+            "lat": 47.0789224,
+            "lon": 15.5884382,
+            "name": "Laßnitzhöhe",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Lah",
+            "ref:IFOPT": "at:46:1761:1:zug",
+            "train": "yes",
+            "uic_name": "Laßnitzhöhe",
+            "uic_ref": "8100194"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5884382,
+              47.0789224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295144908",
+            "osm_type": "node",
+            "lat": 47.2148798,
+            "lon": 15.6301275,
+            "alt_name": "Weiz Bahnhof",
+            "name": "Weiz Bahnhof",
+            "old_name": "Weiz",
+            "operator": "STLB",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "Wez",
+            "ref:IFOPT": "at:46:46:1:zug",
+            "train": "yes",
+            "uic_name": "Weiz Bahnhof",
+            "uic_ref": "8101813"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6301275,
+              47.2148798
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295149883",
+            "osm_type": "node",
+            "lat": 47.3529562,
+            "lon": 15.6981653,
+            "alt_name": "Birkfeld Bahnhof",
+            "ele": "574",
+            "name": "Birkfeld",
+            "operator": "Feistritztalbahn Betriebsgesellschaft",
+            "public_transport": "station",
+            "railway": "station",
+            "ref:IFOPT": "at:46:5182:1:zug"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6981653,
+              47.3529562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295254828",
+            "osm_type": "node",
+            "lat": 47.2610397,
+            "lon": 15.714401,
+            "alt_name": "Oberfeistritz Bahnhof",
+            "ele": "461",
+            "name": "Oberfeistritz",
+            "operator": "STLB",
+            "railway": "station",
+            "ref:IFOPT": "at:46:7959:1:zug"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.714401,
+              47.2610397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "470850771",
+            "osm_type": "node",
+            "lat": 47.1795712,
+            "lon": 15.6672828,
+            "alt_name": "Unterfladnitz Bahnhof",
+            "name": "Unterfladnitz",
+            "operator": "STLB",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "ref:IFOPT": "at:46:329:1:zug",
+            "train": "yes",
+            "uic_name": "Unterfladnitz",
+            "uic_ref": "8100794"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6672828,
+              47.1795712
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "853046849",
+            "osm_type": "node",
+            "lat": 47.270749,
+            "lon": 15.6989902,
+            "alt_name": "Anger bei Weiz Bahnhof",
+            "name": "Anger",
+            "operator": "FTB",
+            "public_transport": "station",
+            "railway": "station",
+            "ref:IFOPT": "at:46:5180:1:zug",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6989902,
+              47.270749
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "853256851",
+            "osm_type": "node",
+            "lat": 47.3016055,
+            "lon": 15.693509,
+            "name": "Rosegg",
+            "operator": "FTB",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.693509,
+              47.3016055
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3472789784",
+            "osm_type": "node",
+            "lat": 47.188928,
+            "lon": 15.9990432,
+            "name": "Sebersdorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Seb",
+            "ref:IFOPT": "at:46:1775:1:zug",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9990432,
+              47.188928
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3822610314",
+            "osm_type": "node",
+            "lat": 47.2814296,
+            "lon": 15.9852442,
+            "name": "Hartberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position:exact": "49.866",
+            "railway:ref": "Har",
+            "start_date": "1891",
+            "train": "yes",
+            "uic_name": "Hartberg",
+            "uic_ref": "8100180",
+            "wikidata": "Q31271260",
+            "wikimedia_commons": "Category:Bahnhof Hartberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9852442,
+              47.2814296
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4391518759",
+            "osm_type": "node",
+            "lat": 47.0457295,
+            "lon": 15.7578137,
+            "name": "Takern-St. Margarethen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Tak",
+            "ref:IFOPT": "at:46:1762:1:zug",
+            "uic_name": "Takern-St. Margarethen",
+            "uic_ref": "8100318",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7578137,
+              47.0457295
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4864117441",
+            "osm_type": "node",
+            "lat": 47.2277778,
+            "lon": 15.6724301,
+            "ele": "480",
+            "name": "Peesen",
+            "operator": "STLB",
+            "railway": "station",
+            "ref:IFOPT": "at:46:30079:0:1"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6724301,
+              47.2277778
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7201843814",
+            "osm_type": "node",
+            "lat": 47.0881846,
+            "lon": 15.6566441,
+            "name": "Laßnitzthal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Laz",
+            "ref:IFOPT": "at:46:2244:1:zug",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6566441,
+              47.0881846
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8138745249",
+            "osm_type": "node",
+            "lat": 47.3466806,
+            "lon": 16.0036093,
+            "name": "Grafendorf bei Hartberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gd",
+            "ref:IFOPT": "at:46:5211:1:zug",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0036093,
+              47.3466806
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2653574545",
+            "osm_type": "node",
+            "lat": 47.0979706,
+            "lon": 16.0743249,
+            "name": "Bierbaum an der Safen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Bib",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0743249,
+              47.0979706
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8134193198",
+            "osm_type": "node",
+            "lat": 47.0418662,
+            "lon": 16.0839717,
+            "alt_name": "Fürstenfeld Bahnhof",
+            "name": "Fürstenfeld",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fue",
+            "ref:IFOPT": "at:46:1982:1:zug",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0839717,
+              47.0418662
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 16.2068765,
+        "north": 47.36431175,
+        "east": 17.16058
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        16.814948207692307,
+        47.22133396923077
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93548712",
+            "osm_type": "node",
+            "lat": 47.2357451,
+            "lon": 16.7271137,
+            "name": "Vép",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Vép",
+            "railway:ref": "VEP",
+            "ref:mav": "65415",
+            "uic_ref": "5502238"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7271137,
+              47.2357451
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800945",
+            "osm_type": "node",
+            "lat": 47.3580051,
+            "lon": 16.8987723,
+            "name": "Hegyfalu",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Hegyfalu",
+            "ref:mav": "65428",
+            "uic_ref": "5502469"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8987723,
+              47.3580051
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800949",
+            "osm_type": "node",
+            "lat": 47.3005197,
+            "lon": 16.8431981,
+            "name": "Ölbő-Alsószeleste",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Ölbő-Alsószeleste",
+            "ref:mav": "65430",
+            "uic_ref": "5502485"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8431981,
+              47.3005197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800951",
+            "osm_type": "node",
+            "lat": 47.2389101,
+            "lon": 16.833177,
+            "name": "Porpác",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Porpác",
+            "railway:ref": "PO",
+            "ref:mav": "2888",
+            "train": "yes",
+            "uic_ref": "5502220",
+            "website": "https://www2.gysev.hu/allomasok-es-megallohelyek/porpac-vasutallomas",
+            "wikidata": "Q21876837",
+            "wikipedia": "hu:Porpác vasútállomás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.833177,
+              47.2389101
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800956",
+            "osm_type": "node",
+            "lat": 47.2373509,
+            "lon": 16.6327619,
+            "name": "Szombathely",
+            "name:de": "Steinamanger",
+            "name:hr": "Sambotel",
+            "name:la": "Savaria",
+            "name:ru": "Сомбатхей",
+            "name:sr": "Сомбатхељ",
+            "old_name:de": "Stein am Anger",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Szombathely",
+            "railway:ref": "SM",
+            "ref:mav": "53589",
+            "uic_ref": "5502246"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6327619,
+              47.2373509
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "94074329",
+            "osm_type": "node",
+            "lat": 47.056967,
+            "lon": 16.800034,
+            "addr:city": "Vasvár",
+            "addr:housenumber": "11",
+            "addr:postcode": "9800",
+            "addr:street": "Vasúti utca",
+            "name": "Vasvár",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Vasvár",
+            "railway:position": "118602",
+            "ref:mav": "65395",
+            "train": "yes",
+            "uic_ref": "5505314",
+            "website": "https://www2.gysev.hu/allomasok-es-megallohelyek/vasvar-vasutallomas",
+            "wheelchair": "yes",
+            "wikidata": "Q22140139",
+            "wikipedia": "hu:Vasvár vasútállomás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.800034,
+              47.056967
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "94074460",
+            "osm_type": "node",
+            "lat": 47.0849546,
+            "lon": 16.7685186,
+            "name": "Püspökmolnári",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Püspökmolnári",
+            "railway:position": "114778",
+            "ref:mav": "65398",
+            "uic_ref": "5505306"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7685186,
+              47.0849546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "268196140",
+            "osm_type": "node",
+            "lat": 47.2840326,
+            "lon": 17.0243333,
+            "name": "Ostffyasszonyfa",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Ostffyasszonyfa",
+            "railway:ref": "OF",
+            "ref:mav": "2886",
+            "uic_ref": "5502204"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0243333,
+              47.2840326
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "268196808",
+            "osm_type": "node",
+            "lat": 47.0908446,
+            "lon": 16.6197349,
+            "name": "Egyházasrádóc",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Egyházasrádóc",
+            "ref:mav": "65390",
+            "uic_ref": "5502279"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6197349,
+              47.0908446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "618346248",
+            "osm_type": "node",
+            "lat": 47.3082805,
+            "lon": 16.7346998,
+            "name": "Acsád",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Acsád",
+            "ref:mav": "2534",
+            "uic_ref": "5505249"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7346998,
+              47.3082805
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "780946519",
+            "osm_type": "node",
+            "lat": 47.2589682,
+            "lon": 16.929516,
+            "alt_name:de": "Rotenturm an der Raab",
+            "name": "Sárvár",
+            "name:de": "Kotenburg",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Sárvár",
+            "railway:ref": "SR",
+            "ref:mav": "2887",
+            "uic_ref": "5502212"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.929516,
+              47.2589682
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1065129602",
+            "osm_type": "node",
+            "lat": 47.1613062,
+            "lon": 16.6302597,
+            "addr:city": "Balogunyom",
+            "addr:postcode": "9771",
+            "addr:street": "Vasút utca",
+            "name": "Ják-Balogunyom",
+            "network": "GySEV",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Ják-Balogunyom",
+            "ref:mav": "65394",
+            "uic_ref": "5502261"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6302597,
+              47.1613062
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4696599905",
+            "osm_type": "node",
+            "lat": 47.261457,
+            "lon": 17.1522074,
+            "name": "Celldömölk",
+            "name:de": "Kleinmariazell",
+            "name:hr": "Demlak",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Celldömölk",
+            "railway:ref": "CE",
+            "ref:mav": "2883",
+            "train": "yes",
+            "uic_ref": "5502170"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1522074,
+              47.261457
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 15.253173,
+        "north": 47.694865,
+        "east": 16.2068765
+      },
+      "poiCount": 20,
+      "leafCount": 20,
+      "averagePosition": [
+        15.771145975,
+        47.550033435
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "248059805",
+            "osm_type": "node",
+            "lat": 47.5011743,
+            "lon": 15.448375,
+            "alt_name": "Kindberg Bahnhof",
+            "name": "Kindberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ki",
+            "ref:IFOPT": "at:46:6313:1:zug",
+            "toilets:wheelchair": "no",
+            "uic_ref": "8100030",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.448375,
+              47.5011743
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "266916718",
+            "osm_type": "node",
+            "lat": 47.473199,
+            "lon": 15.3731231,
+            "alt_name": "Sankt Marein im Mürztal Marein-St Lorenzen Bahnhof",
+            "name": "St.Marein-St.Lorenzen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mas",
+            "ref:IFOPT": "at:46:6155:1:zug",
+            "train": "yes",
+            "uic_ref": "8101243",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3731231,
+              47.473199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3591878656",
+            "osm_type": "node",
+            "lat": 47.4138843,
+            "lon": 15.2794981,
+            "name": "Bruck an der Mur",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Bm",
+            "ref:IFOPT": "at:46:2065:1:zug",
+            "train": "yes",
+            "uic_name": "Bruck a.d. Mur",
+            "uic_ref": "8100032",
+            "wheelchair": "yes",
+            "wikipedia": "de:Bahnhof Bruck an der Mur"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2794981,
+              47.4138843
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3591878657",
+            "osm_type": "node",
+            "lat": 47.4452296,
+            "lon": 15.2923523,
+            "name": "Kapfenberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ka",
+            "ref:IFOPT": "at:46:6092:1:zug",
+            "train": "yes",
+            "uic_ref": "8100031"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2923523,
+              47.4452296
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849549853",
+            "osm_type": "node",
+            "lat": 47.5367371,
+            "lon": 15.5132788,
+            "alt_name": "Mitterdorf im Mürztal Mitterdorf-Veitsch Bahnhof",
+            "name": "Mitterdorf-Veitsch",
+            "network": "VST",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mv",
+            "ref:IFOPT": "at:46:7423:1:zug",
+            "train": "yes",
+            "uic_ref": "8101221",
+            "wikidata": "Q111267451"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5132788,
+              47.5367371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5849549855",
+            "osm_type": "node",
+            "lat": 47.5273681,
+            "lon": 15.4847265,
+            "alt_name": "Wartberg im Mürztal Bahnhof",
+            "name": "Wartberg im Mürztal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:ref": "War",
+            "ref:IFOPT": "at:46:7422:1:zug",
+            "uic_ref": "8100383"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4847265,
+              47.5273681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "248061440",
+            "osm_type": "node",
+            "lat": 47.6079138,
+            "lon": 15.6772482,
+            "name": "Mürzzuschlag",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mz",
+            "ref:IFOPT": "at:46:7426:1:zug",
+            "uic_name": "Mürzzuschlag",
+            "uic_ref": "8100029",
+            "wheelchair": "yes",
+            "wikidata": "Q801226",
+            "wikipedia": "de:Bahnhof Mürzzuschlag"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6772482,
+              47.6079138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "248064880",
+            "osm_type": "node",
+            "lat": 47.6395943,
+            "lon": 15.8308831,
+            "name": "Semmering",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Sem",
+            "uic_name": "Semmering",
+            "uic_ref": "8100028",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8308831,
+              47.6395943
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "319351630",
+            "osm_type": "node",
+            "lat": 47.6721752,
+            "lon": 15.9110463,
+            "name": "Eichberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Eib",
+            "uic_ref": "8100736"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9110463,
+              47.6721752
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3317722406",
+            "osm_type": "node",
+            "lat": 47.6776851,
+            "lon": 15.9471974,
+            "name": "Gloggnitz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:ref": "Glo",
+            "uic_name": "Gloggnitz",
+            "uic_ref": "8100026",
+            "wheelchair": "yes",
+            "wikidata": "Q800821",
+            "wikipedia": "de:Bahnhof Gloggnitz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9471974,
+              47.6776851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3596040128",
+            "osm_type": "node",
+            "lat": 47.6600216,
+            "lon": 15.8204882,
+            "name": "Breitenstein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Bt",
+            "uic_ref": "8100692",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8204882,
+              47.6600216
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3596129298",
+            "osm_type": "node",
+            "lat": 47.6163825,
+            "lon": 15.7480016,
+            "name": "Spital am Semmering",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Sps",
+            "ref:IFOPT": "at:46:7427:1:zug",
+            "uic_ref": "8101596",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7480016,
+              47.6163825
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3597326973",
+            "osm_type": "node",
+            "lat": 47.5472776,
+            "lon": 15.5602213,
+            "name": "Krieglach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ke",
+            "ref:IFOPT": "at:46:6539:1:zug",
+            "uic_name": "Krieglach",
+            "uic_ref": "8101080",
+            "wheelchair": "no",
+            "wikidata": "Q111171473"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5602213,
+              47.5472776
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8134193195",
+            "osm_type": "node",
+            "lat": 47.3894098,
+            "lon": 15.9858163,
+            "alt_name": "Rohrbach an der Lafnitz Rohrbach-Vorau Bahnhof",
+            "name": "Rohrbach-Vorau",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Rv",
+            "ref:IFOPT": "at:46:5230:1:zug",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9858163,
+              47.3894098
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5811025324",
+            "osm_type": "node",
+            "lat": 47.5624021,
+            "lon": 16.0996833,
+            "name": "Aspang",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ap",
+            "train": "yes",
+            "uic_ref": "8100188"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0996833,
+              47.5624021
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5811025329",
+            "osm_type": "node",
+            "lat": 47.6169762,
+            "lon": 16.1278921,
+            "ele": "405",
+            "name": "Edlitz-Grimmenstein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Edl",
+            "train": "yes",
+            "uic_name": "Edlitz-Grimmenstein",
+            "uic_ref": "8100189",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1278921,
+              47.6169762
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5896340406",
+            "osm_type": "node",
+            "lat": 47.6622717,
+            "lon": 16.1310376,
+            "name": "Scheiblingkirchen-Warth",
+            "network": "VOR",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "73.0",
+            "railway:position:exact": "73.010",
+            "railway:ref": "Sgk",
+            "train": "yes",
+            "uic_ref": "8101546"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1310376,
+              47.6622717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6844641416",
+            "osm_type": "node",
+            "lat": 47.4347121,
+            "lon": 16.0539216,
+            "alt_name": "Friedberg Bahnhof",
+            "departures_board": "realtime",
+            "departures_board:speech_output": "yes",
+            "ele": "551",
+            "name": "Friedberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fd",
+            "ref:IFOPT": "at:46:7543:1:zug",
+            "train": "yes",
+            "uic_name": "Friedberg in Stmk",
+            "uic_ref": "8100185",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0539216,
+              47.4347121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6844641417",
+            "osm_type": "node",
+            "lat": 47.4831422,
+            "lon": 16.0549363,
+            "alt_name": "Steirisch-Tauchen Bahnhof",
+            "name": "Tauchen-Schaueregg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Tau",
+            "ref:IFOPT": "at:46:7548:1:zug",
+            "train": "yes",
+            "uic_name": "Tauchen-Schaueregg",
+            "uic_ref": "8100187",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0549363,
+              47.4831422
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6844641418",
+            "osm_type": "node",
+            "lat": 47.5331121,
+            "lon": 16.0831924,
+            "name": "Ausschlag-Zöbern",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Auz",
+            "train": "yes",
+            "uic_name": "Ausschlag-Zöbern",
+            "uic_ref": "8100642"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0831924,
+              47.5331121
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 16.2068765,
+        "north": 47.694865,
+        "east": 17.16058
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        16.695225518181818,
+        47.55775410454546
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "78564114",
+            "osm_type": "node",
+            "lat": 47.585697,
+            "lon": 16.4758246,
+            "name": "Lackenbach",
+            "note": "Draisine",
+            "old_name": "Lakompak",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Lch",
+            "train": "yes",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4758246,
+              47.585697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "78564360",
+            "osm_type": "node",
+            "lat": 47.5647768,
+            "lon": 16.4319938,
+            "name": "Markt St. Martin",
+            "note": "Draisine",
+            "old_name": "Sopronszentmárton",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mam",
+            "train": "yes",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4319938,
+              47.5647768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "78572877",
+            "osm_type": "node",
+            "lat": 47.4962125,
+            "lon": 16.5047449,
+            "name": "Oberpullendorf",
+            "note": "Draisine",
+            "old_name": "Felsőpulya",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Opu",
+            "train": "yes",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5047449,
+              47.4962125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "755510125",
+            "osm_type": "node",
+            "lat": 47.5286769,
+            "lon": 16.4700106,
+            "name": "Stoob",
+            "note": "Draisine",
+            "old_name": "Csáva",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Sto",
+            "train": "yes",
+            "usage": "tourism",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4700106,
+              47.5286769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2050439304",
+            "osm_type": "node",
+            "lat": 47.5848577,
+            "lon": 16.5161562,
+            "name": "Raiding-Lackendorf",
+            "note": "Draisine",
+            "old_name": "Doborján-Lakfalva",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Rai",
+            "train": "yes",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5161562,
+              47.5848577
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "50825206",
+            "osm_type": "node",
+            "lat": 47.509619,
+            "lon": 16.777372,
+            "name": "Lövő",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Lövő",
+            "ref:mav": "2530",
+            "uic_ref": "5505207"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.777372,
+              47.509619
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "78547401",
+            "osm_type": "node",
+            "lat": 47.5913871,
+            "lon": 16.5470437,
+            "name": "Neckenmarkt-Horitschon",
+            "note": "Draisine",
+            "old_name": "Sopronnyék-Haracsony",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "Nm",
+            "uic_ref": "8101268",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5470437,
+              47.5913871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800938",
+            "osm_type": "node",
+            "lat": 47.4190234,
+            "lon": 17.0090591,
+            "addr:city": "Répcelak",
+            "addr:postcode": "9653",
+            "addr:street": "Ady Endre utca",
+            "name": "Répcelak",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Répcelak",
+            "railway:ref": "RL",
+            "ref:mav": "65396",
+            "uic_ref": "5502436",
+            "website": "https://www2.gysev.hu/allomasok-es-megallohelyek/repcelak-vasutallomas",
+            "wikidata": "Q22138348",
+            "wikipedia": "hu:Répcelak vasútállomás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0090591,
+              47.4190234
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "324567423",
+            "osm_type": "node",
+            "lat": 47.6013303,
+            "lon": 16.6894255,
+            "alt_name:de": "Zinkendorf",
+            "name": "Nagycenk",
+            "name:de": "Großzinkendorf",
+            "name:hr": "Cinka",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Nagycenk",
+            "ref:mav": "2527",
+            "uic_ref": "5505173"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6894255,
+              47.6013303
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "344302131",
+            "osm_type": "node",
+            "lat": 47.5996814,
+            "lon": 16.859932,
+            "addr:city": "Fertőszentmiklós",
+            "addr:housenumber": "12",
+            "addr:postcode": "9444",
+            "addr:street": "Gesztenye sor",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Fertőszentmiklós",
+            "name:de": "Sankt Niklaus am Neusiedlersee",
+            "name:hr": "Mikloš",
+            "name:hu": "Fertőszentmiklós",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "EM",
+            "ref:mav": "800",
+            "uic_ref": "5502667",
+            "website": "https://www2.gysev.hu/gysev-szolgaltatasok/allomasok-penztarak/fertoszentmiklos-vasutallomas",
+            "wikidata": "Q21876825",
+            "wikipedia": "hu:Fertőszentmiklós vasútállomás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.859932,
+              47.5996814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "685038262",
+            "osm_type": "node",
+            "lat": 47.6157397,
+            "lon": 16.6896795,
+            "name": "Barátság",
+            "operator": "GySEV Nagycenki Múzeumvasút",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6896795,
+              47.6157397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "685038296",
+            "osm_type": "node",
+            "lat": 47.6247237,
+            "lon": 16.6919878,
+            "name": "Fertőboz",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Fertőboz",
+            "railway:ref": "FB",
+            "ref:mav": "802",
+            "uic_ref": "5502709",
+            "wikidata": "Q21890498"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6919878,
+              47.6247237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "685038306",
+            "osm_type": "node",
+            "lat": 47.6108943,
+            "lon": 16.7054434,
+            "alt_name": "Kastély",
+            "name": "Kastély (Nagycenk)",
+            "operator": "GySEV Nagycenki Múzeumvasút",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7054434,
+              47.6108943
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1065129608",
+            "osm_type": "node",
+            "lat": 47.3886682,
+            "lon": 16.7523487,
+            "name": "Bük",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Bük",
+            "ref:mav": "2533",
+            "uic_ref": "5505231",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7523487,
+              47.3886682
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1212434034",
+            "osm_type": "node",
+            "lat": 47.5956531,
+            "lon": 16.8894395,
+            "name": "Petőháza",
+            "name:de": "Pöttelshausen",
+            "name:hu": "Petőháza",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Petőháza",
+            "railway:ref": "PH",
+            "ref:mav": "799",
+            "uic_ref": "5502659"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8894395,
+              47.5956531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1212434093",
+            "osm_type": "node",
+            "lat": 47.6002102,
+            "lon": 16.7689328,
+            "name": "Pinnye",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Pinnye",
+            "railway:ref": "PI",
+            "ref:mav": "801",
+            "uic_ref": "5502683"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7689328,
+              47.6002102
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4530022025",
+            "osm_type": "node",
+            "lat": 47.6415845,
+            "lon": 16.6190777,
+            "addr:city": "Harka",
+            "disused:public_transport": "station",
+            "name": "Harka",
+            "name:de": "Harkau",
+            "name:hr": "Horka",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Harka",
+            "railway:ref": "HK",
+            "train": "no",
+            "uic_ref": "5505157"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6190777,
+              47.6415845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5008124072",
+            "osm_type": "node",
+            "lat": 47.3817353,
+            "lon": 16.5568922,
+            "name": "Kőszeg",
+            "name:de": "Güns",
+            "name:hr": "Kiseg",
+            "name:sk": "Kysek",
+            "old_name": "Kiseg",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Kőszeg",
+            "railway:ref": "KG",
+            "ref:mav": "65399",
+            "train": "yes",
+            "uic_ref": "5505538",
+            "wikidata": "Q22117639",
+            "wikipedia": "hu:Kőszeg vasútállomás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5568922,
+              47.3817353
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5054207270",
+            "osm_type": "node",
+            "lat": 47.6038786,
+            "lon": 16.6202104,
+            "name": "Deutschkreutz",
+            "old_name": "Sopronkeresztúr",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Dk",
+            "uic_ref": "8100719",
+            "wheelchair": "limited",
+            "wikidata": "Q28686616"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6202104,
+              47.6038786
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9481803762",
+            "osm_type": "node",
+            "lat": 47.6776491,
+            "lon": 16.5868912,
+            "alt_name": "Sopron-GYSEV pu.",
+            "name": "Sopron",
+            "name:cs": "Šoproň",
+            "name:de": "Ödenburg",
+            "name:he": "שופרון",
+            "name:hr": "Šopron",
+            "name:it": "Odenburgo",
+            "name:ja": "ショプロン",
+            "name:la": "Scarbantia",
+            "name:ru": "Шопрон",
+            "name:sk": "Šopron",
+            "name:sr": "Шопрон",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Sopron",
+            "railway:ref": "SP",
+            "railway:ref:ÖBB": "Sop",
+            "ref:mav": "804",
+            "train": "yes",
+            "uic_ref": "5502725",
+            "wheelchair": "no",
+            "wikidata": "Q1007116"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5868912,
+              47.6776491
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "93800933",
+            "osm_type": "node",
+            "lat": 47.4666397,
+            "lon": 17.0846662,
+            "name": "Beled",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Beled",
+            "ref:mav": "65423",
+            "uic_ref": "5502402"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0846662,
+              47.4666397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1065129663",
+            "osm_type": "node",
+            "lat": 47.5819518,
+            "lon": 17.0478296,
+            "name": "Kapuvár",
+            "name:de": "Kobrunn",
+            "name:hr": "Kapuja",
+            "operator": "GYSEV",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:name:VPE": "Kapuvár",
+            "railway:ref": "KA",
+            "ref:mav": "797",
+            "uic_ref": "5502626"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0478296,
+              47.5819518
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

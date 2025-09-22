@@ -1,0 +1,2454 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 11.438358999999998,
+    "north": 49.017078,
+    "east": 13.345766
+  },
+  "poiCount": 102,
+  "leafCount": 0,
+  "averagePosition": [
+    12.329633755882353,
+    48.70999797745098
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 11.438358999999998,
+        "north": 48.68652475,
+        "east": 12.392062499999998
+      },
+      "poiCount": 31,
+      "leafCount": 31,
+      "averagePosition": [
+        11.840688429032257,
+        48.50719025806452
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1786898845",
+            "osm_type": "node",
+            "lat": 48.3658353,
+            "lon": 11.4600852,
+            "access": "yes",
+            "addr:city": "Vierkirchen",
+            "addr:housenumber": "1",
+            "addr:postcode": "85256",
+            "addr:street": "Schulweg",
+            "amenity": "library",
+            "email": "buecherei@gemeinde.vierkirchen.de",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "@BayernWLAN",
+            "level": "0,_-1",
+            "name": "Gemeindebücherei",
+            "opening_hours": "Mo 16:00 - 18:00, We 18:00 - 20:00, Th 16:00 - 18:00, Fr 16:00 - 17:00",
+            "operator": "Gemeinde Vierkirchen",
+            "operator:type": "public",
+            "phone": "+49 8139 931423",
+            "website": "https://www.vierkirchen.de",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4600852,
+              48.3658353
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4574117086",
+            "osm_type": "node",
+            "lat": 48.3661306,
+            "lon": 12.2531476,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "note": "Altes Rathaus",
+            "opening_hours": "Tu 16:00-18:00; Th 09:30-12:00; Fr 16:00-18:00; Su 09:30-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2531476,
+              48.3661306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "272406469",
+            "osm_type": "node",
+            "lat": 48.4647184,
+            "lon": 11.5067605,
+            "amenity": "library",
+            "name": "Gemeindebücherei Reichertshausen",
+            "opening_hours": "Tu 16:00-19:00; We 09:00-12:00; Fr 15:00-19:00; Sa 10:00-13:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5067605,
+              48.4647184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1151542445",
+            "osm_type": "node",
+            "lat": 48.5303492,
+            "lon": 11.5044075,
+            "amenity": "library",
+            "name": "Stadtbücherei",
+            "opening_hours": "Tu 18:00-20:00; We 09:00-11:00, 15:00-17:00; Th 15:00-17:00; Fr 17:00-19:00; Su 09:30-11:30",
+            "ref:isil": "DE-1462",
+            "website": "https://www.pfaffenhofen.de/stadtbuecherei",
+            "wheelchair": "yes",
+            "wikidata": "Q28662291"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5044075,
+              48.5303492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2535711128",
+            "osm_type": "node",
+            "lat": 48.6575061,
+            "lon": 11.4676218,
+            "addr:housenumber": "20",
+            "addr:postcode": "85084",
+            "addr:street": "Marktstraße",
+            "amenity": "library",
+            "name": "Gemeindebibliothek",
+            "website": "https://www.reichertshofen.de/index.php?id=0,57"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4676218,
+              48.6575061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3767111811",
+            "osm_type": "node",
+            "lat": 48.526345,
+            "lon": 11.4983508,
+            "amenity": "library",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "lgbtq": "welcome",
+            "name": "Kreisbücherei",
+            "opening_hours": "Tu, We, Fr 10:30-18:00; Th 10:30-19:00; Sa 10:00-13:00",
+            "operator": "Landkreis Pfaffenhofen",
+            "phone": "+49 8441 786776",
+            "website": "http://kbpaf.landkreis-pfaffenhofen.de/kreisbuecherei/kreisbuecherei.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4983508,
+              48.526345
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3767111812",
+            "osm_type": "node",
+            "lat": 48.5261022,
+            "lon": 11.4983066,
+            "amenity": "library",
+            "name": "Medienzentrum",
+            "opening_hours": "Mo-Fr 09:00-12:00, Tu,We,Th 12:30-15:00",
+            "operator": "Landkreis Pfaffenhofen",
+            "website": "http://www.medienzentrum-pfaffenhofen.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4983066,
+              48.5261022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4209001089",
+            "osm_type": "node",
+            "lat": 48.4094905,
+            "lon": 11.4696152,
+            "amenity": "library",
+            "name": "Gemeindebücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4696152,
+              48.4094905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "255583252",
+            "osm_type": "node",
+            "lat": 48.4046742,
+            "lon": 11.9885787,
+            "amenity": "library",
+            "check_date": "2025-07-20",
+            "check_date:opening_hours": "2025-07-20",
+            "internet_access": "wlan",
+            "name": "Medienzentrum",
+            "opening_hours": "Tu-Fr 15:00-18:00, Fr 10:00-12:00; Sa 10:00-13:00",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9885787,
+              48.4046742
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "324838034",
+            "osm_type": "node",
+            "lat": 48.6175963,
+            "lon": 11.9913071,
+            "addr:city": "Weihmichl",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "84107",
+            "addr:street": "Süßbacher Straße",
+            "addr:suburb": "Unterneuhausen",
+            "amenity": "library",
+            "email": "buecherei-weihmichl@web.de",
+            "name": "Bücherei",
+            "opening_hours": "Tu 16:00-19:00; Fr 15:00-17:00",
+            "operator": "Gemeinde Weihmichl",
+            "phone": "+49 8708 326",
+            "website": "http://www.buecherei-weihmichl.de",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9913071,
+              48.6175963
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "358828085",
+            "osm_type": "node",
+            "lat": 48.4679202,
+            "lon": 11.9369627,
+            "addr:city": "Moosburg a.d. Isar",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "85368",
+            "addr:street": "Kirchengäßchen",
+            "amenity": "library",
+            "check_date": "2025-02-21",
+            "games": "board_games",
+            "internet_access": "wlan",
+            "name": "Stadtbücherei Moosburg",
+            "opening_hours": "Tu 09:00-18:00; We-Fr 14:00-18:00; Sa 09:00-13:00; Mo,Su,PH off",
+            "operator": "Stadt Moosburg a.d.Isar",
+            "toilets:wheelchair": "no",
+            "website": "https://www.moosburg.de/index.php?id=145,32",
+            "wheelchair": "yes",
+            "wheelchair:description": "Bücher im 1. Stock nicht erreichbar.",
+            "wikidata": "Q28662281"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9369627,
+              48.4679202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "429615966",
+            "osm_type": "node",
+            "lat": 48.5358643,
+            "lon": 11.8054582,
+            "amenity": "library",
+            "check_date": "2025-05-26"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8054582,
+              48.5358643
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "446246505",
+            "osm_type": "node",
+            "lat": 48.6103993,
+            "lon": 11.5614465,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "opening_hours": "Tu 16:00-19:00; We 15:00-18:00; SH, PH off",
+            "phone": "+49 8442 95695127",
+            "website": "https://www.rohrbach-ilm.de/project/gemeindebuecherei/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5614465,
+              48.6103993
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1127931556",
+            "osm_type": "node",
+            "lat": 48.3983987,
+            "lon": 11.7456925,
+            "addr:city": "Freising",
+            "addr:housenumber": "40",
+            "addr:place": "Domberg",
+            "addr:postcode": "85354",
+            "amenity": "library",
+            "check_date": "2024-06-14",
+            "name": "Dombibliothek",
+            "opening_hours": "off",
+            "operator": "Erzdiözese München und Freising",
+            "ref:isil": "DE-Freis2",
+            "website": "https://www.erzbistum-muenchen.de/im-blick/domberg-freising/bauvorhaben/dioezesanmuseum/cont/62684",
+            "wheelchair": "limited",
+            "wikidata": "Q1236921",
+            "wikimedia_commons": "File:Marstall Freising 2014.jpg",
+            "wikipedia": "de:Dombibliothek Freising"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7456925,
+              48.3983987
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1726384586",
+            "osm_type": "node",
+            "lat": 48.6428256,
+            "lon": 11.7866376,
+            "addr:city": "Mainburg",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "84048",
+            "addr:street": "Abensberger Straße",
+            "amenity": "library",
+            "contact:email": "Stadtbibliothek@hallertau.net",
+            "contact:phone": "+49 8751 2662",
+            "name": "Stadtbibliothek Mainburg",
+            "opening_hours": "Tu 14:00-19:00; We 09:00-13:00; Th 14:00-18:00; Fr 09:00-12:00,14:00-18:00",
+            "wikidata": "Q28683052"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7866376,
+              48.6428256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2091325301",
+            "osm_type": "node",
+            "lat": 48.430561,
+            "lon": 11.5950958,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "opening_hours": "Tu-We 15:00-17:00;Th 17:00-19:00;Fr 10:00-12:00;Su 10:00-12:30; PH closed",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5950958,
+              48.430561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2384317780",
+            "osm_type": "node",
+            "lat": 48.6812426,
+            "lon": 11.6078118,
+            "amenity": "library",
+            "name": "Stadtbücherei Geisenfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6078118,
+              48.6812426
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2769374238",
+            "osm_type": "node",
+            "lat": 48.5552843,
+            "lon": 11.7471572,
+            "addr:city": "Au i.d. Hallertau",
+            "addr:country": "DE",
+            "addr:housenumber": "42a",
+            "addr:postcode": "84072",
+            "addr:street": "Obere Hauptstraße",
+            "amenity": "library",
+            "check_date": "2024-12-05",
+            "name": "Gemeindebücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7471572,
+              48.5552843
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6002141009",
+            "osm_type": "node",
+            "lat": 48.5921671,
+            "lon": 12.0262154,
+            "addr:housenumber": "9",
+            "addr:street": "Klosterstraße",
+            "amenity": "library",
+            "check_date:opening_hours": "2024-02-02",
+            "name": "Bücherei Furth",
+            "opening_hours": "Mo 16:00-18:00; Th 17:00-19:00; Su 10:00-12:00",
+            "phone": "+49 8704 927860",
+            "website": "https://www.buecherei-furth.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0262154,
+              48.5921671
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6683396285",
+            "osm_type": "node",
+            "lat": 48.4062187,
+            "lon": 11.7588342,
+            "addr:city": "Freising",
+            "addr:country": "DE",
+            "addr:housenumber": "31",
+            "addr:postcode": "85356",
+            "addr:street": "Landshuter Straße",
+            "amenity": "library",
+            "check_date": "2024-12-17",
+            "email": "medienzentrum@kreis-fs.de",
+            "level": "0",
+            "name": "Medienzentrum für Schule und Bildung",
+            "name:de": "Medienzentrum für Schule und Bildung",
+            "name:en": "Educational Media Center",
+            "opening_hours": "Mo 10:00-12:00,13:30-16:30; We 08:00-12:00,14:00-16:30; Th 10:00-12:00,13:30-16:30",
+            "operator": "Landratsamt Freising",
+            "phone": "+49 8161600134",
+            "website": "https://www.kreis-freising.de/buergerservice/abteilungen-und-sachgebiete/medienzentrum.html",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7588342,
+              48.4062187
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7148194221",
+            "osm_type": "node",
+            "lat": 48.4076315,
+            "lon": 11.7559216,
+            "access": "private",
+            "addr:city": "Freising",
+            "addr:country": "DE",
+            "addr:housenumber": "13",
+            "addr:postcode": "85356",
+            "addr:street": "Ignaz-Günther-Straße",
+            "amenity": "library",
+            "email": "neustift1@kita-freising.de",
+            "internet_access": "no",
+            "name": "Kindergartenbücherei",
+            "operator": "Stadt Freising",
+            "operator:type": "public",
+            "phone": "+49-8161-5420300",
+            "ref:isil": "none",
+            "website": "https://www.freising.de/leben-wohnen/kindertageseinrichtungen/kitas-der-stadt-freising"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7559216,
+              48.4076315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8202467786",
+            "osm_type": "node",
+            "lat": 48.4538491,
+            "lon": 11.7699,
+            "access": "yes",
+            "addr:city": "Zolling",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "85406",
+            "addr:street": "Heilmaierstraße",
+            "amenity": "library",
+            "level": "0",
+            "name": "Gemeindebücherei Zolling",
+            "opening_hours": "Mo-Tu 16:00-18:00; Th 10:00-12:30, 15:00-18:00; We 15:00-18:00; Fr 09:00-12:00, 14:00-16:00",
+            "operator": "Gemeinde Zolling",
+            "operator:type": "government",
+            "ref:isil": "DE-2717"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7699,
+              48.4538491
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11090978308",
+            "osm_type": "node",
+            "lat": 48.3986571,
+            "lon": 11.7273352,
+            "addr:city": "Freising",
+            "addr:country": "DE",
+            "addr:housenumber": "38",
+            "addr:postcode": "85354",
+            "addr:street": "Vöttinger Straße",
+            "amenity": "library",
+            "check_date": "2024-04-26",
+            "email": "AIW@LfL.bayern.de",
+            "fax": "+49-8161-715816",
+            "name": "LfL Bibliothek",
+            "name:de": "LfL Bibliothek",
+            "name:en": "LfL Library",
+            "phone": "+49-8161-715804",
+            "wikidata": "Q28737863"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7273352,
+              48.3986571
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "280554132",
+            "osm_type": "node",
+            "lat": 48.5546193,
+            "lon": 12.1073508,
+            "addr:city": "Altdorf",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "84032",
+            "addr:street": "Dekan-Wagner-Straße",
+            "amenity": "library",
+            "email": "buecherei-altdorf@t-online.de",
+            "name": "Bücherei",
+            "opening_hours": "Mo,Th,Fr 14:00-17:00; Tu 14:00-19:00; We 09:00-11:00",
+            "phone": "+49 871 95389319",
+            "website": "https://www.markt-altdorf.de/",
+            "wheelchair": "yes",
+            "wikidata": "Q28734584"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1073508,
+              48.5546193
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "303189681",
+            "osm_type": "node",
+            "lat": 48.5355755,
+            "lon": 12.1528977,
+            "addr:city": "Landshut",
+            "addr:housenumber": "308",
+            "addr:postcode": "84028",
+            "addr:street": "Steckengasse",
+            "amenity": "library",
+            "contact:email": "stadtbuecherei@landshut.de",
+            "contact:phone": "+49 871 22877",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "HOTSPLOTS-Stadtbuecherei",
+            "name": "Stadtbücherei im Salzstadel",
+            "opening_hours": "Mo off; Tu,We,Fr 10:00-18:00; Th 10:00-19:00; Sa 10:00-15:00",
+            "ref:isil": "DE-487",
+            "website": "https://www.landshut.de/stadtbuecherei",
+            "wheelchair": "limited",
+            "wikidata": "Q28661904"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1528977,
+              48.5355755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "688713127",
+            "osm_type": "node",
+            "lat": 48.457356,
+            "lon": 12.3619472,
+            "addr:city": "Vilsbiburg",
+            "addr:country": "DE",
+            "addr:housenumber": "4a",
+            "addr:postcode": "84137",
+            "addr:street": "Gobener Straße",
+            "amenity": "library",
+            "name": "Kreis- und Stadtbibliothek Vilsbiburg",
+            "wikidata": "Q28681441"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3619472,
+              48.457356
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "920381001",
+            "osm_type": "node",
+            "lat": 48.5366131,
+            "lon": 12.1529482,
+            "addr:city": "Landshut",
+            "addr:country": "DE",
+            "addr:housenumber": "342",
+            "addr:postcode": "84028",
+            "addr:street": "Taubengäßchen",
+            "amenity": "library",
+            "check_date": "2016-03-27",
+            "name": "Volksbücherei",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1529482,
+              48.5366131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1888817594",
+            "osm_type": "node",
+            "lat": 48.5707844,
+            "lon": 12.1701186,
+            "addr:country": "DE",
+            "addr:housenumber": "1a",
+            "addr:postcode": "84030",
+            "addr:street": "Bauhofstraße",
+            "amenity": "library",
+            "name": "Gemeindebücherei Ergolding",
+            "opening_hours": "Tu 12:00-18:00; We 09:00-14:00; Th,Fr 15:00-18:00; Sa 10:00-12:00",
+            "wikidata": "Q28729380"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1701186,
+              48.5707844
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6937001273",
+            "osm_type": "node",
+            "lat": 48.6018764,
+            "lon": 12.2475605,
+            "amenity": "library",
+            "operator": "Essenbach/Pfarrei Ahrain"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2475605,
+              48.6018764
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7935215188",
+            "osm_type": "node",
+            "lat": 48.4744702,
+            "lon": 12.2585635,
+            "amenity": "library",
+            "name": "Bücherei Geisenhausen",
+            "opening_hours": "Mo 10:00-11:00; Th 16:00-17:30; Fr 16:00-17:30; Sa 10:00-11:00",
+            "website": "https://geisenhausen.de/buecherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2585635,
+              48.4744702
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8051496276",
+            "osm_type": "node",
+            "lat": 48.5418358,
+            "lon": 12.1473051,
+            "access": "permit",
+            "addr:city": "Landshut",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "84034",
+            "addr:street": "Bismarckplatz",
+            "amenity": "library",
+            "check_date": "2024-12-24",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Zentralbibliothek Seligenthal",
+            "operator": "Schulstiftung Seligenthal",
+            "operator:type": "private"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1473051,
+              48.5418358
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 12.392062499999998,
+        "north": 48.68652475,
+        "east": 13.345766
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        12.9355520125,
+        48.527309843750004
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "747444557",
+            "osm_type": "node",
+            "lat": 48.3597903,
+            "lon": 12.5079951,
+            "amenity": "library",
+            "name": "Herzoglicher Kasten/Stadtbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5079951,
+              48.3597903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1080431036",
+            "osm_type": "node",
+            "lat": 48.3719337,
+            "lon": 13.1218554,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1218554,
+              48.3719337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11982058400",
+            "osm_type": "node",
+            "lat": 48.6289692,
+            "lon": 12.4984331,
+            "addr:city": "Dingolfing",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "84130",
+            "addr:street": "Marienplatz",
+            "amenity": "library",
+            "name": "Kreis- und Stadtbibliothek Dingolfing",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q28681533"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4984331,
+              48.6289692
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "278136989",
+            "osm_type": "node",
+            "lat": 48.4296022,
+            "lon": 12.9376339,
+            "addr:city": "Pfarrkirchen",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "84347",
+            "addr:street": "St.-Rémy-Platz",
+            "amenity": "library",
+            "level": "2",
+            "name": "Stadtbücherei Pfarrkirchen",
+            "opening_hours": "Mo-We,Fr 14:00-17:00; Th 14:00-19:00",
+            "operator": "Stadt Pfarrkirchen",
+            "phone": "+49 8561 3065150",
+            "toilets:wheelchair": "designated",
+            "wheelchair": "yes",
+            "wikidata": "Q28662193"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9376339,
+              48.4296022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2155787536",
+            "osm_type": "node",
+            "lat": 48.6333569,
+            "lon": 12.8568659,
+            "amenity": "library",
+            "name": "Pfarrbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8568659,
+              48.6333569
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2294202464",
+            "osm_type": "node",
+            "lat": 48.6688727,
+            "lon": 12.6903734,
+            "amenity": "library",
+            "name": "Stadtbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6903734,
+              48.6688727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2294203803",
+            "osm_type": "node",
+            "lat": 48.6780933,
+            "lon": 12.6890208,
+            "amenity": "library",
+            "name": "Stadtbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6890208,
+              48.6780933
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11672368836",
+            "osm_type": "node",
+            "lat": 48.4039584,
+            "lon": 12.7643772,
+            "addr:city": "Eggenfelden",
+            "addr:housenumber": "12",
+            "addr:postcode": "84307",
+            "addr:street": "Pfarrkirchener Straße",
+            "amenity": "library",
+            "name": "Stadtbibliothek Eggenfelden",
+            "opening_hours": "Tu,Th,Fr 09:30-14:00,16:00-18:00; We off",
+            "website": "https://www.eggenfelden.de/de/buergerinfo/bildung/buecherei",
+            "wikidata": "Q28681754"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7643772,
+              48.4039584
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13105242127",
+            "osm_type": "node",
+            "lat": 48.39174,
+            "lon": 12.6091303,
+            "addr:city": "Massing",
+            "addr:housenumber": "32",
+            "addr:postcode": "84323",
+            "addr:street": "Marktplatz",
+            "amenity": "library",
+            "name": "Pfarr- und Gemeindebücherei Massing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6091303,
+              48.39174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1855353882",
+            "osm_type": "node",
+            "lat": 48.599448,
+            "lon": 13.1387074,
+            "amenity": "library",
+            "name": "Bücherei Aunkirchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1387074,
+              48.599448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3066219700",
+            "osm_type": "node",
+            "lat": 48.4005722,
+            "lon": 13.3114833,
+            "amenity": "library",
+            "name": "Stadtbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3114833,
+              48.4005722
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3189802493",
+            "osm_type": "node",
+            "lat": 48.4408041,
+            "lon": 13.0863909,
+            "amenity": "library",
+            "name": "Mamertus",
+            "opening_hours": "Nov-Mar: Mo-Fr 09:00-12:30,13:00-17:00; Nov-Mar: Sa 10:00-13:00; Apr-Oct: Mo-Fr 09:00-12:30,13:00-18:00; Apr-Oct: Sa 10:00-13:00; Apr-Oct: Su 10:00-12:00; Apr-Oct: PH 10:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0863909,
+              48.4408041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3257286658",
+            "osm_type": "node",
+            "lat": 48.5464274,
+            "lon": 13.2234115,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "operator": "Ortenburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2234115,
+              48.5464274
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6594703381",
+            "osm_type": "node",
+            "lat": 48.6242761,
+            "lon": 13.2218555,
+            "amenity": "library",
+            "name": "Bücherei Windorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2218555,
+              48.6242761
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11116289826",
+            "osm_type": "node",
+            "lat": 48.6777865,
+            "lon": 13.1175308,
+            "addr:city": "Hofkirchen",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "94544",
+            "addr:street": "Marktplatz",
+            "amenity": "library",
+            "opening_hours": "Tu 15:00-17:00; Fr 17:00-19:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1175308,
+              48.6777865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11389875924",
+            "osm_type": "node",
+            "lat": 48.5813265,
+            "lon": 13.1937677,
+            "amenity": "library",
+            "name": "Bücherei Neustift",
+            "opening_hours": "We 18:00-19:15; Mo 10:00-11:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1937677,
+              48.5813265
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 11.438358999999998,
+        "north": 49.017078,
+        "east": 12.392062499999998
+      },
+      "poiCount": 30,
+      "leafCount": 30,
+      "averagePosition": [
+        11.982708376666666,
+        48.90669008666667
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "521990055",
+            "osm_type": "node",
+            "lat": 48.8103033,
+            "lon": 11.5002789,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "opening_hours": "Tu,Th 14:30-18:30; We 09:00-11:00; Su 10:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5002789,
+              48.8103033
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "708069885",
+            "osm_type": "node",
+            "lat": 48.8098838,
+            "lon": 11.4563734,
+            "addr:city": "Lenting",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "85101",
+            "addr:street": "Rathausplatz",
+            "amenity": "library",
+            "name": "Bücherei",
+            "opening_hours": "Mo 16:30-18:30; We 17:30-19:30; Th 09:00-11:00; Fr 15:30-17:30",
+            "phone": "+49 8456 1899",
+            "website": "http://www.sanktnikolaus-lenting.de/index.php?option=com_content&view=article&id=63&Itemid=67"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4563734,
+              48.8098838
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1796799325",
+            "osm_type": "node",
+            "lat": 48.7174348,
+            "lon": 11.4932837,
+            "addr:city": "Manching",
+            "addr:housenumber": "1",
+            "addr:postcode": "85077",
+            "addr:street": "Niederfelder Straße",
+            "amenity": "library",
+            "internet_access": "terminal",
+            "internet_access:fee": "yes",
+            "name": "Bibliothek Manching",
+            "operator": "Markt Manchig",
+            "operator:type": "public",
+            "wikidata": "Q28734567"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4932837,
+              48.7174348
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8598025917",
+            "osm_type": "node",
+            "lat": 48.8584649,
+            "lon": 11.4589434,
+            "amenity": "library",
+            "name": "Bücherei Stammham"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4589434,
+              48.8584649
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12190135036",
+            "osm_type": "node",
+            "lat": 48.7694456,
+            "lon": 11.448965,
+            "amenity": "library",
+            "name": "Bücherei der Pfarrgemeinde St. Konrad",
+            "opening_hours": "Tu 16:00-18:00; Th 17:30-18:30; Su 09:15-10:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.448965,
+              48.7694456
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "393456138",
+            "osm_type": "node",
+            "lat": 48.7053017,
+            "lon": 12.0198514,
+            "amenity": "library",
+            "name": "Stadtbibliotek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0198514,
+              48.7053017
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1941526201",
+            "osm_type": "node",
+            "lat": 48.7679168,
+            "lon": 11.9668118,
+            "amenity": "library",
+            "name": "Benedictus-Bücherei",
+            "opening_hours": "Tu 09:00-12:00; We 16:30-18:30; Th,Fr 09:00-12:00; Sa 14:00-15:00; SH Tu,Th,Fr off; PH off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9668118,
+              48.7679168
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3990210075",
+            "osm_type": "node",
+            "lat": 48.8095794,
+            "lon": 11.7644872,
+            "addr:city": "Neustadt a.d.Donau",
+            "addr:country": "DE",
+            "addr:postcode": "93333",
+            "amenity": "library",
+            "name": "Stadtbücherei Neustadt a.d. Donau",
+            "opening_hours": "Tu 14:00-19:00; We 08:00-13:00; Th,Fr 14:00-18:00",
+            "wikidata": "Q28662298"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7644872,
+              48.8095794
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3990210076",
+            "osm_type": "node",
+            "lat": 48.8093826,
+            "lon": 11.764412,
+            "addr:city": "Neustadt an der Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "93333",
+            "addr:street": "Stadtplatz",
+            "amenity": "library",
+            "email": "stadtbuecherei@neustadt-donau.de",
+            "internet_access": "no",
+            "name": "Stadtbücherei Neustadt/Donau",
+            "opening_hours": "Tu 14:00-19:00, We 10:00-13:00, Th 14:00-18:00, Fr 14:00-18:00",
+            "phone": "+49 9445 971763",
+            "website": "https://opac.winbiap.net/neustadt_donau/index.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.764412,
+              48.8093826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3357532384",
+            "osm_type": "node",
+            "lat": 48.820727,
+            "lon": 12.0502714,
+            "addr:city": "Langquaid",
+            "addr:housenumber": "1",
+            "addr:postcode": "84085",
+            "addr:street": "Marktplatz",
+            "amenity": "library",
+            "name": "Gemeindebücherei Langquaid",
+            "wikidata": "Q28729491"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0502714,
+              48.820727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6780130104",
+            "osm_type": "node",
+            "lat": 48.8371572,
+            "lon": 12.1391509,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1391509,
+              48.8371572
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7297747928",
+            "osm_type": "node",
+            "lat": 48.771399,
+            "lon": 12.2366112,
+            "addr:city": "Mallersdorf-Pfaffenberg",
+            "addr:housenumber": "37",
+            "addr:postcode": "84066",
+            "addr:street": "Straubinger Straße",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "operator": "Gemeinde Mallersdorf-Pfaffenberg",
+            "operator:type": "public",
+            "phone": "+498772 8 04 23 41",
+            "website": "https://www.mallersdorf-pfaffenberg.de/kultur-und-freizeit/buecherei.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2366112,
+              48.771399
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11065373179",
+            "osm_type": "node",
+            "lat": 48.8970665,
+            "lon": 11.6519236,
+            "amenity": "library",
+            "website": "https://www.altmannstein.de/buecherei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6519236,
+              48.8970665
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "320541978",
+            "osm_type": "node",
+            "lat": 48.999992,
+            "lon": 12.0937308,
+            "amenity": "library",
+            "name": "Universitätsbibliotheken Recht & Wirtschaft",
+            "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 08:00-22:00",
+            "source": "DOP_LVA_BY_01",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0937308,
+              48.999992
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "322082742",
+            "osm_type": "node",
+            "lat": 48.9995352,
+            "lon": 12.092811,
+            "amenity": "library",
+            "created_by": "Potlatch 0.10f",
+            "name": "Bibliothek Recht II",
+            "opening_hours": "Mo-Su 08:00-22:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.092811,
+              48.9995352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "517874512",
+            "osm_type": "node",
+            "lat": 48.9661404,
+            "lon": 12.1620817,
+            "amenity": "library",
+            "name": "Gemeinde- und Pfarrbücherei",
+            "opening_hours": "Tu 08:30-10:30,15:00-17:30; Th 16:00-18:30; Su 09:30-11:30",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1620817,
+              48.9661404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "708684617",
+            "osm_type": "node",
+            "lat": 48.9886934,
+            "lon": 12.1418002,
+            "addr:city": "Regensburg",
+            "addr:housenumber": "3",
+            "addr:postcode": "93055",
+            "addr:street": "Friedrich-Viehbacher-Allee",
+            "amenity": "library",
+            "email": "buechereiburgweinting@regensburg.de",
+            "layer": "1",
+            "name": "Stadtbücherei",
+            "opening_hours": "Tu, We, Fr 12:00-18:00; Th 12:00-17:00; Sa 10:00-12:30",
+            "phone": "+49 9415073471",
+            "wikidata": "Q28498747",
+            "wikipedia": "de:Stadtbücherei Regensburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1418002,
+              48.9886934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1035303675",
+            "osm_type": "node",
+            "lat": 49.0059209,
+            "lon": 12.109552,
+            "addr:city": "Regensburg",
+            "addr:country": "DE",
+            "addr:housenumber": "18",
+            "addr:postcode": "93053",
+            "addr:street": "Alfons-Auer-Straße",
+            "amenity": "library",
+            "email": "buechereiost@regensburg.de",
+            "name": "Stadtbücherei Ost im Kerschensteiner Berufsschulzentrum",
+            "opening_hours": "We,Fr 13:00-18:00",
+            "phone": "+49 941 5073474",
+            "toilets:wheelchair": "no",
+            "website": "https://www.regensburg.de/",
+            "wheelchair": "limited",
+            "wikidata": "Q28498747",
+            "wikipedia": "de:Stadtbücherei Regensburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.109552,
+              49.0059209
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1232177301",
+            "osm_type": "node",
+            "lat": 49.0074506,
+            "lon": 12.0626824,
+            "addr:city": "Regensburg",
+            "addr:country": "DE",
+            "addr:housenumber": "47",
+            "addr:postcode": "93051",
+            "addr:street": "Dr.-Gessler-Straße",
+            "air_conditioning": "yes",
+            "amenity": "library",
+            "contact:website": "http://www.regensburg.de/stadtbuecherei/unsere-buechereien/stadtteilbuecherei-sued/46526",
+            "email": "buechereisued@regensburg.de",
+            "level": "1",
+            "name": "Stadtteilbücherei Süd",
+            "opening_hours": "Tu,We,Fr 12:00-18:00; Th 12:00-17:00; Sa 10:00-14:00; Mo off",
+            "operator": "Stadt Regensburg",
+            "phone": "+49 941 5073476",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.regensburg.de/stadtbuecherei/",
+            "wheelchair": "yes",
+            "wikidata": "Q28498747",
+            "wikipedia": "de:Stadtbücherei Regensburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0626824,
+              49.0074506
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1538636462",
+            "osm_type": "node",
+            "lat": 48.9603394,
+            "lon": 12.3741879,
+            "amenity": "library",
+            "source": "local knowledge",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3741879,
+              48.9603394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2131320602",
+            "osm_type": "node",
+            "lat": 48.9879549,
+            "lon": 12.0903265,
+            "amenity": "library",
+            "name": "Teilbibliothek Medizin",
+            "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-13:00; PH,Su off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0903265,
+              48.9879549
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2439272049",
+            "osm_type": "node",
+            "lat": 48.9921611,
+            "lon": 12.1976519,
+            "amenity": "library",
+            "level": "1",
+            "name": "Stadtbücherei",
+            "opening_hours": "Tu 15:00-19:00; We 10:00-13:00; Th 14:00-18:00; Fr 15:00-18:00; Sa[1] 10:00-12:00",
+            "phone": "+49 9401 539418-54",
+            "website": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/stadtbuecherei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1976519,
+              48.9921611
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549264599",
+            "osm_type": "node",
+            "lat": 49.0135719,
+            "lon": 12.1278608,
+            "addr:city": "Regensburg",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "93055",
+            "addr:street": "Kastenmaierstraße",
+            "amenity": "library",
+            "email": "buechereicandis@regensburg.de",
+            "name": "Stadtteilbücherei Candis",
+            "opening_hours": "Tu, We, Fr 12:00-18:00; Th 12:00-17:00; Sa 10:00-14:00",
+            "phone": "+49 941 5073477",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.regensburg.de/stadtbuecherei",
+            "wheelchair": "yes",
+            "wikidata": "Q28498747",
+            "wikipedia": "de:Stadtbücherei Regensburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1278608,
+              49.0135719
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4673095540",
+            "osm_type": "node",
+            "lat": 48.894398,
+            "lon": 12.2188168,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "opening_hours": "Su 10:20-11:20; We 16:00-18:00",
+            "website": "http://www.pfarrgemeinde.hagelstadt.de/html/body_bucherei.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2188168,
+              48.894398
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6785881407",
+            "osm_type": "node",
+            "lat": 48.9982253,
+            "lon": 12.0957199,
+            "amenity": "library",
+            "description": "Anlaufstelle um Printmedien, Mikrofiches, Mikrofilme, Dias, Audio- und Videomaterialien für wissenschaftliche Zwecke zu digitalisieren. Service für Sehbehinderte und Blinde.",
+            "internet_access": "yes",
+            "level": "Ebene_5",
+            "name": "Multimediazentrum Universitätsbibliothek",
+            "operator": "Universitätsbibliothek Regensburg",
+            "operator:type": "government",
+            "start_date": "2001",
+            "website": "https://www.uni-regensburg.de/bibliothek/digitalisierung/multimediazentrum/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0957199,
+              48.9982253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6785931300",
+            "osm_type": "node",
+            "lat": 48.9981143,
+            "lon": 12.0963057,
+            "amenity": "library",
+            "description": "Die Auskunft im Infozentrum unterstützt bei allen Fragen zu bibliothekarischen Dienstleistungen. Die Gruppenarbeitsplätze im Infozentrum lassen sich mit mobilen Trennwänden individuell gestalten.",
+            "level": "Ebene_5",
+            "name": "Infozentrum Universitätsbibliothek Regensburg",
+            "opening_hours": "Mo-Fr 08:00-20:00",
+            "operator": "Universitätsbibliothek Regensburg",
+            "operator:type": "government",
+            "website": "https://www.uni-regensburg.de/bibliothek/auskunft-und-fachinformationen/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0963057,
+              48.9981143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6785942111",
+            "osm_type": "node",
+            "lat": 48.997883,
+            "lon": 12.0955872,
+            "amenity": "library",
+            "description": "Im Allgemeinen Lesesaal finden sich neben den zahlreichen Arbeitsplätzen Enzyklopädien, Lexika, Wörterbücher, fachübergreifende Nachschlagewerke und Zeitschriften.",
+            "level": "Ebene_6",
+            "name": "Allgemeiner Lesesaal",
+            "opening_hours": "Mo-Fr 08:00-22:00; Sa 10:00-18:00",
+            "operator": "Universitätsbibliothek Regensburg",
+            "operator:type": "government",
+            "website": "https://www.uni-regensburg.de/bibliothek/faecher/zentralbibliothek/allgemeiner-lesesaal/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0955872,
+              48.997883
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6785983393",
+            "osm_type": "node",
+            "lat": 48.9989439,
+            "lon": 12.0960297,
+            "amenity": "library",
+            "level": "Ebene_2_und_Ebene_3_(Galerie)",
+            "name": "Lesesaal Philosophicum 1",
+            "opening_hours": "Mo-Fr 08:00-22:00; Sa 10:00-18:00; Su 10:00-16:00",
+            "operator": "Universitätsbibliothek Regensburg",
+            "operator:type": "government",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0960297,
+              48.9989439
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6785983394",
+            "osm_type": "node",
+            "lat": 48.9995855,
+            "lon": 12.0961512,
+            "amenity": "library",
+            "level": "Ebene_1_und_2_(Galerie)",
+            "name": "Lesesaal Philosophicum 2",
+            "opening_hours": "Mo-Fr 08:00-22:00; Sa 10:00-18:00; Su 10:00-16:00",
+            "operator": "Universitätsbibliothek Regensburg",
+            "operator:type": "government",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0961512,
+              48.9995855
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11910880061",
+            "osm_type": "node",
+            "lat": 49.0077302,
+            "lon": 12.3785917,
+            "addr:city": "Wiesent",
+            "addr:housenumber": "1",
+            "addr:postcode": "93109",
+            "addr:street": "Frauenzeller Straße",
+            "amenity": "library",
+            "email": "buechereiteam.wiesent@freenet.de",
+            "name": "Gemeindebücherei Mariä Himmelfahrt Wiesent",
+            "opening_hours": "We 18:00-19:30; Fr 15:00-16:30; Sa 19:00-20:00; Su 10:00-11:30",
+            "phone": "+49 9482 8024490",
+            "website": "https://www.wiesent.de/leben-in-wiesent/bildung/gemeinde-pfarrbuecherei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3785917,
+              49.0077302
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 12.392062499999998,
+        "north": 49.017078,
+        "east": 13.345766
+      },
+      "poiCount": 25,
+      "leafCount": 25,
+      "averagePosition": [
+        12.964448732000001,
+        48.842369424
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2145263277",
+            "osm_type": "node",
+            "lat": 48.7390653,
+            "lon": 12.7470316,
+            "addr:housenumber": "19",
+            "addr:postcode": "94522",
+            "addr:street": "Marktplatz",
+            "amenity": "library",
+            "contact:email": "fernleihe@st-michaelsbund.de",
+            "contact:phone": "+49 9933 90 22 74",
+            "contact:website": "https://www.markt-wallersdorf.de/verzeichnis/visitenkarte.php?mandat=36124",
+            "name": "Gemeindebücherei Wallersdorf",
+            "opening_hours": "Mo 18:00-19:30; We 15:00-17:00; Fr 10:00-11:00; Tu,Th,Sa,Su,PH off",
+            "ref:isil": "DE-1768",
+            "wikidata": "Q28729379"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7470316,
+              48.7390653
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3618523441",
+            "osm_type": "node",
+            "lat": 48.7013068,
+            "lon": 13.0219629,
+            "amenity": "library",
+            "name": "Stadtbücherei",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0219629,
+              48.7013068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6697031120",
+            "osm_type": "node",
+            "lat": 48.7760105,
+            "lon": 12.8749075,
+            "addr:city": "Plattling",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "94447",
+            "addr:street": "Ludwigplatz",
+            "amenity": "library",
+            "name": "Stadt- und Pfarrbücherei Plattling",
+            "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00",
+            "operator": "Stadt Plattling",
+            "phone": "+49 9931 89013-23",
+            "wikidata": "Q28734565"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8749075,
+              48.7760105
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9349157695",
+            "osm_type": "node",
+            "lat": 48.8410721,
+            "lon": 12.9557724,
+            "addr:city": "Deggendorf",
+            "addr:housenumber": "35",
+            "addr:postcode": "94469",
+            "addr:street": "Detterstraße",
+            "amenity": "library",
+            "contact:email": "info@buecherei-stmartin-deg.de",
+            "contact:phone": "+49991 99137653",
+            "contact:website": "http://www.buecherei-stmartin-deg.de/index.html",
+            "name": "Bücherei St. Martin",
+            "opening_hours": "We,Sa 16:00-18:00; Su 09:30-12:30",
+            "operator": "Katholische Pfarramt Sankt Martin",
+            "operator:type": "religious"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9557724,
+              48.8410721
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10727543226",
+            "osm_type": "node",
+            "lat": 48.7980223,
+            "lon": 13.0089071,
+            "addr:housenumber": "3",
+            "addr:street": "Stephanusweg",
+            "amenity": "library",
+            "contact:email": "buecherei.seebach@web.de",
+            "contact:facebook": "https://www.facebook.com/buechereiseebach/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0089071,
+              48.7980223
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10808000431",
+            "osm_type": "node",
+            "lat": 48.8548225,
+            "lon": 12.9183217,
+            "addr:housenumber": "3",
+            "addr:street": "Abteistraße",
+            "amenity": "library",
+            "contact:email": "bibliothek@kloster-metten.de",
+            "contact:phone": "+499919108125;+499919108151",
+            "opening_hours": "Mo-Th 07:30-16:30; Fr 07:30-15:00",
+            "ref:isil": "DE-Met1",
+            "service_times": "Tu-Sa 10:00-11:00,15:00-16:00; Su 15:00-16:00",
+            "wheelchair": "limited",
+            "wikidata": "Q1776378",
+            "wikipedia": "de:Klosterbibliothek Metten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9183217,
+              48.8548225
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11584080010",
+            "osm_type": "node",
+            "lat": 48.8295558,
+            "lon": 12.9558767,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9558767,
+              48.8295558
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11737021300",
+            "osm_type": "node",
+            "lat": 48.8119635,
+            "lon": 12.5695437,
+            "addr:housenumber": "1",
+            "addr:street": "Am Reichenederhof",
+            "amenity": "library",
+            "contact:email": "buecherei@bildung-salching.de",
+            "contact:phone": "+499426 7633300",
+            "contact:website": "https://webopac.winbiap.de/salching/index.aspx",
+            "name": "Gemeindebücherei Salching",
+            "opening_hours": "We 15:00-19:00; Th,Fr 15:00-17:00",
+            "operator": "Gemeinde Salching"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5695437,
+              48.8119635
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11738753160",
+            "osm_type": "node",
+            "lat": 48.764831,
+            "lon": 13.0255437,
+            "addr:housenumber": "7",
+            "addr:street": "Gundelauer Straße",
+            "amenity": "library",
+            "contact:phone": "+499901 9487894",
+            "contact:website": "https://www.niederalteich.de/einrichtungen-in-niederalteich/gemeindebuecherei/",
+            "description": "Eingang hinter dem Gebäude",
+            "opening_hours": "Tu 09:30-11:30, 17:00-19:00; Th 15:00-16:00",
+            "operator": "Gemeinde Niederalteich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0255437,
+              48.764831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "274516725",
+            "osm_type": "node",
+            "lat": 48.7133275,
+            "lon": 13.2710358,
+            "amenity": "library",
+            "name": "Pfarrheim, Jugendheim und Pfarrbücherei",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2710358,
+              48.7133275
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "369977530",
+            "osm_type": "node",
+            "lat": 48.7557444,
+            "lon": 13.1748778,
+            "amenity": "library",
+            "name": "Gemeindebücherei Schöllnach",
+            "ref": "DE-1759",
+            "wikidata": "Q28729384"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1748778,
+              48.7557444
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1229607295",
+            "osm_type": "node",
+            "lat": 48.8397724,
+            "lon": 13.2306271,
+            "amenity": "library",
+            "name": "Bücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2306271,
+              48.8397724
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2343895213",
+            "osm_type": "node",
+            "lat": 48.8450338,
+            "lon": 13.1409524,
+            "addr:housenumber": "12",
+            "addr:street": "Hauptstraße",
+            "amenity": "library",
+            "name": "Gemeindebücherei Lalling",
+            "opening_hours": "Su 09:00-11:00; We 16:00-18:00",
+            "wikidata": "Q28729389"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1409524,
+              48.8450338
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2357277368",
+            "osm_type": "node",
+            "lat": 48.8430494,
+            "lon": 13.0668292,
+            "amenity": "library",
+            "name": "Bücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0668292,
+              48.8430494
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3873165516",
+            "osm_type": "node",
+            "lat": 48.8401257,
+            "lon": 13.3361646,
+            "amenity": "library",
+            "name": "Bücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3361646,
+              48.8401257
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6197815713",
+            "osm_type": "node",
+            "lat": 48.8518542,
+            "lon": 13.2759461,
+            "amenity": "library",
+            "name": "Pfarr- und Gemeindebücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2759461,
+              48.8518542
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11611641463",
+            "osm_type": "node",
+            "lat": 48.8044945,
+            "lon": 13.1521331,
+            "addr:housenumber": "1",
+            "addr:street": "Auguste-Winkler-Straße",
+            "amenity": "library",
+            "contact:website": "https://grattersdorf.de/leben-in-grattersdorf/buecherei/",
+            "opening_hours": "Mo 16:00-17:00; Th 16:00-17:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1521331,
+              48.8044945
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10265636591",
+            "osm_type": "node",
+            "lat": 49.0036571,
+            "lon": 12.4084123,
+            "amenity": "library",
+            "internet_access": "no",
+            "name": "Stadtbücherei Wörth an der Donau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4084123,
+              49.0036571
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "312383278",
+            "osm_type": "node",
+            "lat": 48.8851624,
+            "lon": 12.5718471,
+            "addr:city": "Straubing",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "94315",
+            "addr:street": "Rentamtsberg",
+            "amenity": "library",
+            "name": "Stadtbibliothek im Salzstadel",
+            "opening_hours": "Tu-Fr 10:00-18:00; Th 09:00-18:00; Sa 10:00-13:00",
+            "phone": "+49 9421 9919 30",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.stadtbibliothek-straubing.de/",
+            "wheelchair": "yes",
+            "wikidata": "Q28681920"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5718471,
+              48.8851624
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1240902543",
+            "osm_type": "node",
+            "lat": 48.8851851,
+            "lon": 12.5832536,
+            "addr:city": "Straubing",
+            "addr:country": "DE",
+            "addr:housenumber": "18",
+            "addr:postcode": "94315",
+            "addr:street": "Petersgasse",
+            "amenity": "library",
+            "name": "TUM Universitätsbibliothek (Straubing)",
+            "ref:isil": "DE-91S",
+            "source": "professional_knowledge",
+            "website": "http://www.ub.tum.de/teilbibliothek-straubing",
+            "wikidata": "Q28739280"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5832536,
+              48.8851851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8372701819",
+            "osm_type": "node",
+            "lat": 48.8940112,
+            "lon": 12.9738712,
+            "addr:city": "Grafling",
+            "addr:housenumber": "3",
+            "addr:postcode": "94539",
+            "addr:street": "Kirchenstraße",
+            "amenity": "library",
+            "email": "buecherei-grafling@gmx.de",
+            "name": "Pfarr- und Gemeindebücherei",
+            "opening_hours": "Tu,Th 07:45-08:45, Th 17:00-18:00",
+            "website": "https://www.biblino.de/grafling"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9738712,
+              48.8940112
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8781221213",
+            "osm_type": "node",
+            "lat": 48.9091449,
+            "lon": 12.691719,
+            "addr:housenumber": "3",
+            "addr:postcode": "94327",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "library",
+            "name": "Stadtbücherei Bogen",
+            "operator": "Stadt Bogen",
+            "operator:type": "public",
+            "phone": "+49 9422 505-720",
+            "website": "https://www.bogen.de/besondere-attraktionen/haus-der-begegnung/ueber-das-haus-der-begegnung"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.691719,
+              48.9091449
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12580251738",
+            "osm_type": "node",
+            "lat": 48.8877669,
+            "lon": 12.7964805,
+            "amenity": "library",
+            "baby_feeding": "no",
+            "books": "Sachbücher, Kinderbücher, Belletristik, Hörbücher, Medien",
+            "changing_table": "no",
+            "contact:phone": "+4999622033345",
+            "kids_area:indoor": "yes",
+            "kids_area:supervised": "yes",
+            "level": "1",
+            "name": "Gemeindebibliothek Niederwinkling",
+            "opening_hours": "We 18:45-20:00; Fr 15:30-17:30; Su 10:15-11:30",
+            "operator": "Pfarrgemeinde St. Wolfgang",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7964805,
+              48.8877669
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "668763825",
+            "osm_type": "node",
+            "lat": 48.9702006,
+            "lon": 13.1280708,
+            "addr:city": "Regen",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "94209",
+            "addr:street": "Kirchplatz",
+            "amenity": "library",
+            "name": "Stadtbücherei",
+            "opening_hours": "We 10:00-16:00; Th-Fr 14:00-18:00; Su 09:30-11:30",
+            "website": "https://www.stadtbuecherei-regen.de",
+            "wheelchair": "no",
+            "wikidata": "Q28662345"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1280708,
+              48.9702006
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2938055886",
+            "osm_type": "node",
+            "lat": 49.0140557,
+            "lon": 13.2311304,
+            "amenity": "library",
+            "name": "Stadtbücherei Zwiesel",
+            "wikidata": "Q28662338"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2311304,
+              49.0140557
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

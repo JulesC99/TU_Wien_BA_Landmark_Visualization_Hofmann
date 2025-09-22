@@ -1,0 +1,85 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 13.345766,
+    "north": 49.017078,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    13.4502671,
+    48.6181654
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7013480898",
+        "osm_type": "node",
+        "lat": 48.4039231,
+        "lon": 13.389269,
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389269,
+          48.4039231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10699286231",
+        "osm_type": "node",
+        "lat": 48.8564829,
+        "lon": 13.3974041,
+        "addr:city": "Grafenau",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "94481",
+        "addr:street": "Stadtplatz",
+        "amenity": "hospital",
+        "description": "Zahnmedizin & Zahngesundheit in der Zahnarztpraxis Dr Pöschl in Grafenau, Niederbayern.",
+        "email": "praxis@zahnheilkundegrafenau.de",
+        "fax": "+49 8552 4305",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist",
+        "name": "Dr. Gerd Pöschl - Zahnheilkunde Grafenau",
+        "phone": "+49 8552 4325",
+        "website": "https://www.zahnheilkundegrafenau.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3974041,
+          48.8564829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "310137518",
+        "osm_type": "node",
+        "lat": 48.5940902,
+        "lon": 13.5641282,
+        "amenity": "hospital",
+        "check_date": "2025-04-13",
+        "healthcare": "hospital",
+        "name": "Klinik Prof. Schedel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5641282,
+          48.5940902
+        ]
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,3582 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 150,
+  "leafCount": 0,
+  "averagePosition": [
+    10.336650345333332,
+    48.63391386666666
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 46,
+      "leafCount": 46,
+      "averagePosition": [
+        10.047383723913043,
+        48.4990515
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "408413887",
+            "osm_type": "node",
+            "lat": 48.6238495,
+            "lon": 10.0200653,
+            "addr:city": "Gerstetten",
+            "addr:housenumber": "9",
+            "addr:postcode": "89547",
+            "addr:street": "Wilhelmstraße",
+            "name": "Schuhhaus & Bergsport Banzhaf",
+            "opening_hours": "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We 09:00-12:00; Sa 08:30-12:30; PH off",
+            "phone": "+49 7323 5468",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0200653,
+              48.6238495
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "484285130",
+            "osm_type": "node",
+            "lat": 48.4630432,
+            "lon": 9.9476695,
+            "addr:city": "Dornstadt",
+            "addr:housenumber": "16",
+            "addr:postcode": "89160",
+            "addr:street": "Lerchenbergstraße",
+            "name": "WERDICH Lagerverkauf",
+            "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-16:00",
+            "operator": "WERDICH",
+            "phone": "+49 7348 / 205704",
+            "shop": "shoes",
+            "website": "https://www.werdich.com/shop_content.php?coID=15",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9476695,
+              48.4630432
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "669994090",
+            "osm_type": "node",
+            "lat": 48.3988373,
+            "lon": 9.9859003,
+            "check_date": "2023-11-17",
+            "name": "ShoeTown Werdich",
+            "opening_hours": "Mo-Sa 10:00-19:00",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9859003,
+              48.3988373
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1223487614",
+            "osm_type": "node",
+            "lat": 48.4007725,
+            "lon": 9.9909046,
+            "name": "Bambini",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9909046,
+              48.4007725
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1316416566",
+            "osm_type": "node",
+            "lat": 48.6524674,
+            "lon": 9.5726436,
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5726436,
+              48.6524674
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1437422140",
+            "osm_type": "node",
+            "lat": 48.3994365,
+            "lon": 9.9911581,
+            "addr:city": "Ulm",
+            "addr:housenumber": "4",
+            "addr:postcode": "89073",
+            "addr:street": "Platzgasse",
+            "check_date:opening_hours": "2023-01-08",
+            "name": "Ratter",
+            "opening_hours": "Mo-Sa 09:30-18:00",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9911581,
+              48.3994365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1481375422",
+            "osm_type": "node",
+            "lat": 48.3986757,
+            "lon": 9.9938484,
+            "check_date": "2025-07-21",
+            "check_date:opening_hours": "2025-07-21",
+            "name": "Werdich",
+            "opening_hours": "Mo-Sa 09:30-18:30",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9938484,
+              48.3986757
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2441207338",
+            "osm_type": "node",
+            "lat": 48.4064575,
+            "lon": 10.0008637,
+            "addr:city": "Ulm",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "89073",
+            "addr:street": "Böfinger Straße",
+            "brand": "Foot Solutions",
+            "brand:wikidata": "Q69982369",
+            "healthcare:speciality": "pedorthist",
+            "name": "Foot Solutions",
+            "opening_hours": "Mo,Tu,Th 09:00-12:30,14:00-18:00; We 09:00-12:30; Fr 08:00-12:30; PH,Sa,Su off",
+            "payment:cash": "yes",
+            "shoes": "orthopaedic",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0008637,
+              48.4064575
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2441645699",
+            "osm_type": "node",
+            "lat": 48.4764179,
+            "lon": 9.6309588,
+            "addr:city": "Laichingen",
+            "addr:country": "DE",
+            "addr:housenumber": "101-103",
+            "addr:postcode": "89150",
+            "addr:street": "Lange Straße",
+            "addr:suburb": "Feldstetten",
+            "email": "info@schuh-weeger.de",
+            "fax": "+49 7333 21356",
+            "name": "Schuhmode Weeger",
+            "phone": "+49 7333 7014",
+            "shop": "shoes",
+            "website": "https://www.schuh-weeger.de/",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6309588,
+              48.4764179
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2584756738",
+            "osm_type": "node",
+            "lat": 48.4047292,
+            "lon": 9.9658472,
+            "check_date": "2024-04-04",
+            "name": "Schuhmachermeister Georg Jitaru",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9658472,
+              48.4047292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2687088847",
+            "osm_type": "node",
+            "lat": 48.4001587,
+            "lon": 9.9900273,
+            "check_date": "2023-12-05",
+            "name": "Peters Schuhmoden",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9900273,
+              48.4001587
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2687091702",
+            "osm_type": "node",
+            "lat": 48.3998025,
+            "lon": 9.9896169,
+            "check_date": "2023-09-07",
+            "name": "Tresspunkt",
+            "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-16:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9896169,
+              48.3998025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2695625933",
+            "osm_type": "node",
+            "lat": 48.3991624,
+            "lon": 9.9900098,
+            "check_date": "2024-01-31",
+            "name": "Think! Store",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9900098,
+              48.3991624
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2725144005",
+            "osm_type": "node",
+            "lat": 48.3981215,
+            "lon": 9.9871287,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date:opening_hours": "2025-07-16",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:30-20:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9871287,
+              48.3981215
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2924549772",
+            "osm_type": "node",
+            "lat": 48.3981875,
+            "lon": 9.986532,
+            "brand": "Foot Locker",
+            "brand:wikidata": "Q63335",
+            "check_date": "2023-10-21",
+            "name": "Foot Locker",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.986532,
+              48.3981875
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3002532072",
+            "osm_type": "node",
+            "lat": 48.3996197,
+            "lon": 9.9937959,
+            "check_date": "2024-12-28",
+            "check_date:opening_hours": "2024-12-28",
+            "name": "Stamina",
+            "opening_hours": "Mo-Sa 11:00-19:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9937959,
+              48.3996197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4001434807",
+            "osm_type": "node",
+            "lat": 48.6236206,
+            "lon": 9.8281393,
+            "check_date:opening_hours": "2022-05-07",
+            "name": "Johannes Walter Off Price Schuhe",
+            "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-18:00",
+            "organic": "no",
+            "phone": "+49 7331 67967",
+            "second_hand": "no",
+            "shop": "shoes",
+            "website": "https://www.walter-schuhe.de/filiale.php?ort=geislingen",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8281393,
+              48.6236206
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4113718621",
+            "osm_type": "node",
+            "lat": 48.5132107,
+            "lon": 9.6339197,
+            "addr:city": "Westerheim",
+            "addr:housenumber": "52",
+            "addr:postcode": "72589",
+            "addr:street": "Riedstraße",
+            "name": "Walter Schuhe und Moden",
+            "shop": "shoes",
+            "website": "http://www.2go-shoes.com/de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6339197,
+              48.5132107
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4894170054",
+            "osm_type": "node",
+            "lat": 48.6791613,
+            "lon": 9.7640948,
+            "addr:city": "Süßen",
+            "addr:housenumber": "25",
+            "addr:postcode": "73079",
+            "addr:street": "Bühlstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "shop": "shoes",
+            "website": "https://www.deichmann.com"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7640948,
+              48.6791613
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5064770004",
+            "osm_type": "node",
+            "lat": 48.4747223,
+            "lon": 9.6348446,
+            "addr:city": "Laichingen",
+            "addr:housenumber": "2",
+            "addr:postcode": "89150",
+            "addr:street": "Beim Lager",
+            "name": "vitaform Fabrikverkauf",
+            "opening_hours": "Mo-Fr 8:00-18:00; Sa 9:00-13:00",
+            "operator": "vitaform GmbH & Co. KG",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+49 7333 5788",
+            "shop": "shoes",
+            "website": "https://www.vitaform.com/beratung/fabrikverkauf/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6348446,
+              48.4747223
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6323966689",
+            "osm_type": "node",
+            "lat": 48.610444,
+            "lon": 9.8070929,
+            "brand": "Schuh-Mann",
+            "brand:wikidata": "Q66133314",
+            "name": "Schuh-Mann",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8070929,
+              48.610444
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6338421596",
+            "osm_type": "node",
+            "lat": 48.6236958,
+            "lon": 9.8350933,
+            "brand": "Schuh-Mann",
+            "brand:wikidata": "Q66133314",
+            "check_date:opening_hours": "2022-02-19",
+            "name": "Schuh-Mann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8350933,
+              48.6236958
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7775712671",
+            "osm_type": "node",
+            "lat": 48.3992078,
+            "lon": 9.9850548,
+            "addr:city": "Ulm",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "89073",
+            "addr:street": "Bahnhofstraße",
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "brand:wikipedia": "de:Snipes (Unternehmen)",
+            "check_date:opening_hours": "2024-08-12",
+            "name": "Snipes",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "Snipes SE",
+            "phone": "+49 731 96919830",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9850548,
+              48.3992078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10293227086",
+            "osm_type": "node",
+            "lat": 48.6415901,
+            "lon": 9.7962293,
+            "name": "Kust",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7962293,
+              48.6415901
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11985317071",
+            "osm_type": "node",
+            "lat": 48.3942455,
+            "lon": 10.0058808,
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "brand:wikipedia": "de:Snipes (Unternehmen)",
+            "level": "0;1",
+            "name": "Snipes Outlet",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "Snipes SE",
+            "ref": "18",
+            "second_hand": "no",
+            "shop": "shoes",
+            "start_date": "2021-06-04",
+            "website": "https://www.snipes.com",
+            "wheelchair": "yes",
+            "wheelchair:description:de": "Aufzug vorhanden.",
+            "wheelchair:description:en": "Elevator inside."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0058808,
+              48.3942455
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12811842516",
+            "osm_type": "node",
+            "lat": 48.3961056,
+            "lon": 9.9891647,
+            "addr:housenumber": "1",
+            "addr:street": "Fischergasse",
+            "check_date": "2025-05-05",
+            "level": "0",
+            "name": "leguano Barfußschuhe",
+            "opening_hours": "Mo-Sa 09:30-13:00,13:30-18:00",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+49 731 39899305",
+            "shop": "shoes",
+            "source": "survey",
+            "website": "https://www.leguano.eu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9891647,
+              48.3961056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299688377",
+            "osm_type": "node",
+            "lat": 48.4549302,
+            "lon": 10.2770251,
+            "name": "Orthopädieschuhtechnik Nobert Frick",
+            "opening_hours": "Mo-Fr 09:30-18:00; Sa 10:00-14:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2770251,
+              48.4549302
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299688378",
+            "osm_type": "node",
+            "lat": 48.3865857,
+            "lon": 10.4374476,
+            "addr:city": "Jettingen-Scheppach",
+            "addr:housenumber": "1",
+            "addr:postcode": "89343",
+            "addr:street": "Rieder Weg",
+            "name": "Imminger Orthopädieschuhe",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4374476,
+              48.3865857
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "961352066",
+            "osm_type": "node",
+            "lat": 48.679384,
+            "lon": 10.1528031,
+            "indoor": "yes",
+            "level": "1",
+            "name": "Shoetown Werdich",
+            "opening_hours": "Mo-Sa 09:30-19:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1528031,
+              48.679384
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1318469935",
+            "osm_type": "node",
+            "lat": 48.6815151,
+            "lon": 10.1522869,
+            "name": "Nusser + Schaal Lager",
+            "shop": "shoes",
+            "website": "https://www.nusser-schaal.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1522869,
+              48.6815151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2087349669",
+            "osm_type": "node",
+            "lat": 48.4524245,
+            "lon": 10.2613529,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00; PH,Su off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2613529,
+              48.4524245
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2247037319",
+            "osm_type": "node",
+            "lat": 48.4598106,
+            "lon": 10.2785124,
+            "email": "guenzburg@walter-schuhe.de",
+            "fax": "+49 8221 - 399778",
+            "name": "Schuh Walter",
+            "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-18:00",
+            "phone": "+49 8221 - 399777",
+            "shop": "shoes",
+            "website": "https://www.walter-schuhe.de/filiale.php?ort=guenzburg",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2785124,
+              48.4598106
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2387168690",
+            "osm_type": "node",
+            "lat": 48.6217629,
+            "lon": 10.1765018,
+            "name": "Schuh Merkle",
+            "opening_hours": "Mo-Fr 09:30-12:30, 14:00-17:30; sa 09:30-12:30; ph off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1765018,
+              48.6217629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3703572645",
+            "osm_type": "node",
+            "lat": 48.4980384,
+            "lon": 10.1220244,
+            "name": "Schuh Merkle e.K.",
+            "opening_hours": "Mo-Tu,Th-Fr 09:30-12:30,14:00-17:30; We,Sa 09:30-12:30",
+            "shop": "shoes",
+            "website": "http://www.schuhmerkle.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1220244,
+              48.4980384
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3720204296",
+            "osm_type": "node",
+            "lat": 48.5012294,
+            "lon": 10.1223358,
+            "name": "Erhardt gesunde Schuhe",
+            "shoes": "orthopaedic",
+            "shoes:repair": "yes",
+            "shop": "shoes",
+            "website": "https://erhardt.gesunde-schuhe.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1223358,
+              48.5012294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3720274458",
+            "osm_type": "node",
+            "lat": 48.4999555,
+            "lon": 10.1340461,
+            "addr:city": "Langenau",
+            "addr:postcode": "89129",
+            "addr:street": "Benzstraße",
+            "name": "Kern",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+            "shop": "shoes",
+            "source": "Selbst erstellte Luftbilder",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1340461,
+              48.4999555
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4585837518",
+            "osm_type": "node",
+            "lat": 48.4100754,
+            "lon": 10.4443751,
+            "brand": "ara",
+            "brand:wikidata": "Q623598",
+            "name": "ara",
+            "opening_hours": "Mo-Sa 09:30-19:00",
+            "phone": "+49 8225 3087056",
+            "shop": "shoes",
+            "website": "https://www.outlets-jettingen-scheppach.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4443751,
+              48.4100754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6016134983",
+            "osm_type": "node",
+            "lat": 48.4479947,
+            "lon": 10.0980673,
+            "name": "Herrmann Schuhe und Mode",
+            "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-19:00",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "shoes",
+            "website": "https://www.herrmann-schuhe-mode.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0980673,
+              48.4479947
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6236256210",
+            "osm_type": "node",
+            "lat": 48.4074597,
+            "lon": 10.4340608,
+            "name": "Kern Schuhe",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4340608,
+              48.4074597
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6237106224",
+            "osm_type": "node",
+            "lat": 48.5785065,
+            "lon": 10.478408,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.478408,
+              48.5785065
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6749601415",
+            "osm_type": "node",
+            "lat": 48.6169179,
+            "lon": 10.2516306,
+            "addr:city": "Giengen an der Brenz",
+            "addr:housenumber": "40/2",
+            "addr:postcode": "89537",
+            "addr:street": "Riedstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date:opening_hours": "2024-07-17",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00; PH off",
+            "ref": "1314",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2516306,
+              48.6169179
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6853090206",
+            "osm_type": "node",
+            "lat": 48.6793912,
+            "lon": 10.1067069,
+            "addr:city": "Heidenheim an der Brenz",
+            "addr:housenumber": "65",
+            "addr:postcode": "89518",
+            "addr:street": "Steinheimer Straße",
+            "alt_name": "Markenschuh Herrmann Schuhe und Mode",
+            "name": "Herrmann",
+            "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-18:00; PH off",
+            "phone": "+49 7321 9469666",
+            "shop": "shoes",
+            "website": "https://www.herrmann-schuhe-mode.de/",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1067069,
+              48.6793912
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7080747040",
+            "osm_type": "node",
+            "lat": 48.4542845,
+            "lon": 10.2779131,
+            "email": "info@merk-2-0.de",
+            "name": "Merk 2.0",
+            "opening_hours": "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00",
+            "phone": "+49 8221 2013980",
+            "shop": "shoes",
+            "website": "https://www.sabu.de/haendler/guenzburg/merk-2-0.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2779131,
+              48.4542845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7110952012",
+            "osm_type": "node",
+            "lat": 48.6204687,
+            "lon": 10.2465767,
+            "addr:city": "Giengen an der Brenz",
+            "addr:housenumber": "54",
+            "addr:postcode": "89537",
+            "addr:street": "Marktstraße",
+            "check_date:opening_hours": "2024-07-16",
+            "name": "Schuh Staudenmayer",
+            "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off",
+            "phone": "+49 7322 5362",
+            "shop": "shoes",
+            "website": "https://www.schuh-staudenmayer.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2465767,
+              48.6204687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9595134144",
+            "osm_type": "node",
+            "lat": 48.6779551,
+            "lon": 10.1518634,
+            "addr:city": "Heidenheim an der Brenz",
+            "addr:housenumber": "3/1",
+            "addr:postcode": "89518",
+            "addr:street": "Eugen-Jaekle-Platz",
+            "email": "schuh-baumann@gmx.de",
+            "fax": "+49 7321 2 27 84",
+            "name": "Schuh Baumann",
+            "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-14:00",
+            "phone": "+49 7321 27 79 19",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1518634,
+              48.6779551
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10880294917",
+            "osm_type": "node",
+            "lat": 48.4519363,
+            "lon": 10.259229,
+            "name": "Schuh Kern",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.259229,
+              48.4519363
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 36,
+      "leafCount": 36,
+      "averagePosition": [
+        10.932419344444446,
+        48.44830280555556
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "611875693",
+            "osm_type": "node",
+            "lat": 48.3663499,
+            "lon": 10.8910634,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "86150",
+            "addr:street": "Bahnhofstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date": "2024-05-04",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:30-20:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8910634,
+              48.3663499
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "622354256",
+            "osm_type": "node",
+            "lat": 48.3673135,
+            "lon": 10.8978423,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "86150",
+            "addr:street": "Moritzplatz",
+            "name": "Werdich Schuhhaus",
+            "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:30-18:00",
+            "shop": "shoes",
+            "website": "https://www.werdich.com/werdich-das-schuhhaus-in-augsburg/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8978423,
+              48.3673135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3518872272",
+            "osm_type": "node",
+            "lat": 48.3679649,
+            "lon": 10.8980236,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "86150",
+            "addr:street": "Maximilianstraße",
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "brand:wikipedia": "de:Snipes (Unternehmen)",
+            "check_date": "2024-05-04",
+            "entrance": "yes",
+            "name": "Snipes",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8980236,
+              48.3679649
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584242114",
+            "osm_type": "node",
+            "lat": 48.3652667,
+            "lon": 10.9078649,
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "brand:wikipedia": "de:Snipes (Unternehmen)",
+            "check_date": "2024-01-15",
+            "level": "0",
+            "name": "Snipes",
+            "opening_hours": "Mo-Sa 09:30-20:00; Su,PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9078649,
+              48.3652667
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584242137",
+            "osm_type": "node",
+            "lat": 48.3652157,
+            "lon": 10.9080991,
+            "check_date": "2025-06-24",
+            "level": "0",
+            "name": "Thomas Schuhe",
+            "shop": "shoes",
+            "source": "survey",
+            "url": "https://www.city-galerie-augsburg.de/shops/thomas-schuhe/?location=p189-29"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9080991,
+              48.3652157
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584258646",
+            "osm_type": "node",
+            "lat": 48.3656728,
+            "lon": 10.9060576,
+            "addr:city": "Augsburg",
+            "brand": "Rieker",
+            "brand:wikidata": "Q2152193",
+            "brand:wikipedia": "sv:Calida",
+            "check_date": "2023-05-09",
+            "level": "0",
+            "name": "Rieker",
+            "shop": "shoes",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9060576,
+              48.3656728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584286514",
+            "osm_type": "node",
+            "lat": 48.3658938,
+            "lon": 10.9067294,
+            "addr:city": "Augsburg",
+            "brand": "Humanic",
+            "brand:wikidata": "Q1636668",
+            "check_date": "2023-11-25",
+            "currency:EUR": "yes",
+            "level": "1",
+            "name": "Humanic",
+            "second_hand": "no",
+            "shop": "shoes",
+            "stroller": "yes",
+            "toilets": "no",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9067294,
+              48.3658938
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584290118",
+            "osm_type": "node",
+            "lat": 48.3650624,
+            "lon": 10.9081188,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date": "2025-02-01",
+            "level": "1",
+            "name": "Deichmann",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9081188,
+              48.3650624
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3584290121",
+            "osm_type": "node",
+            "lat": 48.3651653,
+            "lon": 10.9088737,
+            "check_date": "2023-08-12",
+            "level": "1",
+            "name": "ShoeTown Werdich",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9088737,
+              48.3651653
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5218345411",
+            "osm_type": "node",
+            "lat": 48.3672842,
+            "lon": 10.8953089,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "33",
+            "addr:postcode": "86150",
+            "addr:street": "Annastraße",
+            "brand": "Foot Locker",
+            "brand:wikidata": "Q63335",
+            "brand:wikipedia": "en:Foot Locker",
+            "check_date:opening_hours": "2024-02-06",
+            "name": "Foot Locker",
+            "opening_hours": "Mo-Sa 10:00-19:00; Su off",
+            "phone": "+49 821 3499647",
+            "shop": "shoes",
+            "website": "https://www.footlocker.de/de/filiale-3188-augsburg-anna-strasse-33-86150-augsburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8953089,
+              48.3672842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6438864681",
+            "osm_type": "node",
+            "lat": 48.3696794,
+            "lon": 10.8968739,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "9",
+            "addr:postcode": "86150",
+            "addr:street": "Steingasse",
+            "name": "Schuhhaus Hartlmaier",
+            "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-18:00",
+            "phone": "+49 821 30529",
+            "shop": "shoes",
+            "website": "https://www.hartlmaier-schuhe.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8968739,
+              48.3696794
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6802793653",
+            "osm_type": "node",
+            "lat": 48.367726,
+            "lon": 10.8958957,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "27",
+            "addr:postcode": "86150",
+            "addr:street": "Annastraße",
+            "check_date:opening_hours": "2022-08-13",
+            "name": "leguano Barfußschuhe",
+            "opening_hours": "Mo-Sa 09:30-13:00,13:30-18:00",
+            "operator": "leguano GmbH",
+            "phone": "+49 821 81561252",
+            "shop": "shoes",
+            "website": "https://www.leguano.eu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8958957,
+              48.367726
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6854088054",
+            "osm_type": "node",
+            "lat": 48.3678783,
+            "lon": 10.8971541,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "13",
+            "addr:postcode": "86150",
+            "addr:street": "Philippine-Welser-Straße",
+            "name": "Kennel & Schmenger Schuhmanufaktur",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off",
+            "phone": "+49 821 71058935",
+            "shop": "shoes",
+            "website": "https://www.kennel-schmenger.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8971541,
+              48.3678783
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "450244875",
+            "osm_type": "node",
+            "lat": 48.5844305,
+            "lon": 10.4911391,
+            "name": "Schuh Herrmann",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4911391,
+              48.5844305
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2091229535",
+            "osm_type": "node",
+            "lat": 48.5781088,
+            "lon": 10.4960257,
+            "addr:city": "Dillingen a.d.Donau",
+            "addr:housenumber": "3a",
+            "addr:postcode": "89407",
+            "addr:street": "Kapuzinerstraße",
+            "name": "Amberg",
+            "shop": "shoes",
+            "website": "https://www.schuhhaus-amberg.de/index2.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4960257,
+              48.5781088
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10243425646",
+            "osm_type": "node",
+            "lat": 48.5786483,
+            "lon": 10.495927,
+            "addr:city": "Dillingen a.d.Donau",
+            "addr:housenumber": "29-31",
+            "addr:postcode": "89407",
+            "addr:street": "Kapuzinerstraße",
+            "brand": "MyShoes",
+            "brand:wikidata": "Q107091147",
+            "check_date": "2024-02-24",
+            "currency:EUR": "yes",
+            "email": "info@myshoes.de",
+            "name": "MyShoes",
+            "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH,Su off",
+            "payment:cash:EUR": "yes",
+            "payment:credit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+49 9071 7942697",
+            "shop": "shoes",
+            "website": "https://stores.myshoes.de/bayern/dillingen-an-der-donau/kapuzinerstrasse-29-31.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.495927,
+              48.5786483
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "354619155",
+            "osm_type": "node",
+            "lat": 48.5181701,
+            "lon": 10.8123643,
+            "name": "Falch",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8123643,
+              48.5181701
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "603173501",
+            "osm_type": "node",
+            "lat": 48.3784419,
+            "lon": 10.8417724,
+            "addr:city": "Stadtbergen",
+            "addr:housenumber": "303",
+            "addr:postcode": "86391",
+            "addr:street": "Ulmer Landstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "phone": "+49 821 401190",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8417724,
+              48.3784419
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2096112953",
+            "osm_type": "node",
+            "lat": 48.5567084,
+            "lon": 10.8521959,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date:opening_hours": "2022-01-01",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8521959,
+              48.5567084
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4512909308",
+            "osm_type": "node",
+            "lat": 48.3795751,
+            "lon": 10.8801881,
+            "craft": "shoemaker;locksmith",
+            "name": "Tezel's Schuh- und Schlüssel-Service",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8801881,
+              48.3795751
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4596427922",
+            "osm_type": "node",
+            "lat": 48.5615589,
+            "lon": 10.6826257,
+            "name": "Lorenz",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6826257,
+              48.5615589
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5060182607",
+            "osm_type": "node",
+            "lat": 48.3787755,
+            "lon": 10.8467406,
+            "brand": "MyShoes",
+            "brand:wikidata": "Q107091147",
+            "name": "MyShoes",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8467406,
+              48.3787755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6437394495",
+            "osm_type": "node",
+            "lat": 48.4248243,
+            "lon": 10.876361,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.876361,
+              48.4248243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9699247376",
+            "osm_type": "node",
+            "lat": 48.380797,
+            "lon": 10.9177736,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "6",
+            "addr:postcode": "86165",
+            "addr:street": "Blücherstraße",
+            "check_date:opening_hours": "2024-11-15",
+            "name": "Busta Gesunde Schuhe",
+            "opening_hours": "Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-17:00; Sa off",
+            "shop": "shoes",
+            "website": "https://www.schuh-busta.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9177736,
+              48.380797
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12840805222",
+            "osm_type": "node",
+            "lat": 48.4266643,
+            "lon": 10.8792208,
+            "addr:city": "Gersthofen",
+            "addr:country": "DE",
+            "addr:housenumber": "11a",
+            "addr:postcode": "86368",
+            "addr:street": "Donauwörther Straße",
+            "craft": "shoemaker",
+            "email": "info@ortho-mueller.de",
+            "name": "Müller Orthopädie-Schuhtechnik",
+            "opening_hours": "Mo,Tu,Th,Fr 09:00-12:30,13:30-18:00; We 09:00-12:30; Sa,Su,PH off",
+            "operator": "Müller Orthopädie-Schuhtechnik GmbH",
+            "phone": "+49 821 491338",
+            "shop": "shoes",
+            "website": "https://www.ortho-mueller.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8792208,
+              48.4266643
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "751972223",
+            "osm_type": "node",
+            "lat": 48.5131177,
+            "lon": 11.1141316,
+            "addr:city": "Inchenhofen",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "86570",
+            "addr:street": "Kabisstraße",
+            "name": "Huber",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1141316,
+              48.5131177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "823624805",
+            "osm_type": "node",
+            "lat": 48.490826,
+            "lon": 11.1830563,
+            "name": "Schuhhaus Metzger",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1830563,
+              48.490826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "998611503",
+            "osm_type": "node",
+            "lat": 48.4594951,
+            "lon": 11.1316136,
+            "addr:city": "Aichach",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "86551",
+            "addr:street": "Stadtplatz",
+            "check_date": "2022-01-14",
+            "name": "Schuhprofi",
+            "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-18:30; Sa 09:00-13:30; Su,PH off",
+            "shop": "shoes",
+            "website": "https://www.schuhprofi-aichach.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1316136,
+              48.4594951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1957248068",
+            "osm_type": "node",
+            "lat": 48.5636144,
+            "lon": 11.288769,
+            "brand": "Quick Schuh",
+            "brand:wikidata": "Q2123069",
+            "brand:wikipedia": "de:Quick Schuh",
+            "name": "Quick Schuh",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.288769,
+              48.5636144
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2249140577",
+            "osm_type": "node",
+            "lat": 48.3917885,
+            "lon": 11.0925851,
+            "addr:city": "Dasing",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "86453",
+            "addr:street": "Samweg",
+            "addr:suburb": "Laimering",
+            "email": "info@schuhstadl-laimering.de",
+            "name": "Schuhstadl Laimering",
+            "opening_hours": "Th,Fr 14:00-18:00; Sa 10:00-14:00",
+            "phone": "+49 8205 1317",
+            "shop": "shoes",
+            "website": "https://norbertaulinger.wixsite.com/meinewebsite-2"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0925851,
+              48.3917885
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8636335152",
+            "osm_type": "node",
+            "lat": 48.4574659,
+            "lon": 11.1295975,
+            "addr:city": "Aichach",
+            "addr:country": "DE",
+            "addr:housenumber": "3-5",
+            "addr:postcode": "86551",
+            "addr:street": "Werlbergerstraße",
+            "check_date": "2024-06-19",
+            "email": "info@winkler-schuhe.de",
+            "name": "Schuhhaus Winkler",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:30; PH off",
+            "phone": "+4982512850",
+            "shop": "shoes",
+            "website": "https://www.winkler-schuhe.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1295975,
+              48.4574659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8636345349",
+            "osm_type": "node",
+            "lat": 48.4590336,
+            "lon": 11.1293281,
+            "addr:city": "Aichach",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86551",
+            "addr:street": "Danhauserplatz",
+            "craft": "shoemaker",
+            "name": "Orthopädie-Schuhtechnik Müller",
+            "opening_hours": "Mo-Fr 09:00-12:30,13:30-18:00; Sa,Su,PH off",
+            "phone": "+49 8251 3704",
+            "shop": "shoes",
+            "start_date": "2017-09",
+            "website": "https://www.ortho-mueller.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1293281,
+              48.4590336
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8758344606",
+            "osm_type": "node",
+            "lat": 48.5632152,
+            "lon": 11.2640383,
+            "addr:city": "Schrobenhausen",
+            "addr:country": "DE",
+            "addr:postcode": "86529",
+            "addr:street": "Perger Platz",
+            "name": "Lust auf schöne Schuhe Winkler",
+            "oldhousenumber": "1",
+            "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-13:00",
+            "organic": "no",
+            "phone": "+49 825270541410",
+            "second_hand": "no",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2640383,
+              48.5632152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9545670986",
+            "osm_type": "node",
+            "lat": 48.5842852,
+            "lon": 11.0898413,
+            "name": "Orthopädie-Schuh-Technik Reil",
+            "shop": "shoes",
+            "website": "https://www.christa-reil.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0898413,
+              48.5842852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9545670992",
+            "osm_type": "node",
+            "lat": 48.5830352,
+            "lon": 11.0892713,
+            "check_date": "2024-09-15",
+            "name": "Schuhhaus Lechner",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off",
+            "operator": "Sigrid Lechner-Rummel",
+            "phone": "+49 8253 6632",
+            "shop": "shoes",
+            "website": "https://www.schuhhaus-lechner.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0892713,
+              48.5830352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12138362575",
+            "osm_type": "node",
+            "lat": 48.5598482,
+            "lon": 11.2646247,
+            "addr:city": "Schrobenhausen",
+            "addr:country": "DE",
+            "addr:housenumber": "62",
+            "addr:postcode": "86529",
+            "addr:street": "Lenbachstraße",
+            "name": "Müller Orthopädie-Schuhtechnik",
+            "opening_hours": "Mo-Fr 09:00-12:30,13:30-18:00; Sa,Su,PH off",
+            "phone": "+49 8252 5592",
+            "shoes": "orthopaedic",
+            "shop": "shoes",
+            "website": "https://www.ortho-mueller.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2646247,
+              48.5598482
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 46,
+      "leafCount": 46,
+      "averagePosition": [
+        9.853065239130434,
+        48.82281861304348
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "296968585",
+            "osm_type": "node",
+            "lat": 48.8017243,
+            "lon": 9.7977258,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "73525",
+            "addr:street": "Kappelgasse",
+            "name": "GEA",
+            "old_name": "Buchhandlung Stiegele",
+            "opening_hours": "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-16:00",
+            "shop": "shoes",
+            "website": "http://gea-gd.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7977258,
+              48.8017243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "366642475",
+            "osm_type": "node",
+            "lat": 48.7065978,
+            "lon": 9.5849386,
+            "addr:city": "Uhingen",
+            "addr:country": "DE",
+            "addr:housenumber": "13",
+            "addr:postcode": "73066",
+            "addr:street": "Ulmer Straße",
+            "fax": "+49 7161 389678",
+            "name": "Johannes Walter",
+            "opening_hours": "Mo-We 09:00-12:30,13:30-18:30; Th,Fr 09:00-12:30,13:30-19:00; Sa 09:00-16:00",
+            "operator": "Johannes Walter",
+            "phone": "+49 7161 389676",
+            "shop": "shoes",
+            "website": "https://walter-schuhe.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5849386,
+              48.7065978
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "432829026",
+            "osm_type": "node",
+            "lat": 48.6887119,
+            "lon": 9.6304432,
+            "addr:city": "Göppingen",
+            "addr:housenumber": "9",
+            "addr:postcode": "73035",
+            "addr:street": "Herdweg",
+            "addr:suburb": "Jebenhausen",
+            "name": "Schuhhaus / Ortopäd. Schuh-Technik Maier",
+            "phone": "+49-7161-45868",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6304432,
+              48.6887119
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "529038732",
+            "osm_type": "node",
+            "lat": 48.842956,
+            "lon": 9.7212533,
+            "name": "Steffis Schuh-Lagerverkauf",
+            "opening_hours": "Th,Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7212533,
+              48.842956
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "571192166",
+            "osm_type": "node",
+            "lat": 48.8012058,
+            "lon": 9.8002029,
+            "brand": "Schuh-Mann",
+            "brand:wikidata": "Q66133314",
+            "contact:phone": "+49 7171 998850",
+            "level": "0",
+            "name": "Schuh-Mann",
+            "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8002029,
+              48.8012058
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "574726922",
+            "osm_type": "node",
+            "lat": 48.7881993,
+            "lon": 9.9322236,
+            "addr:city": "Heubach",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "73540",
+            "addr:street": "Scheuelbergstraße",
+            "name": "Schuh Braun",
+            "opening_hours": "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-13:00",
+            "phone": "+49 7173 927260",
+            "shop": "shoes",
+            "website": "https://www.schuhe.de/online-kaufen/store-1520060789.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9322236,
+              48.7881993
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "593896848",
+            "osm_type": "node",
+            "lat": 48.7984723,
+            "lon": 9.7941743,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "73525",
+            "addr:street": "Traubengäßle",
+            "entrance": "yes",
+            "name": "Bambini",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7941743,
+              48.7984723
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "692494363",
+            "osm_type": "node",
+            "lat": 48.7024154,
+            "lon": 9.6538716,
+            "name": "Shoetown",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6538716,
+              48.7024154
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1091703151",
+            "osm_type": "node",
+            "lat": 48.798579,
+            "lon": 9.7932649,
+            "name": "Schuh-Kraus",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7932649,
+              48.798579
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2329862848",
+            "osm_type": "node",
+            "lat": 48.7043683,
+            "lon": 9.646663,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "check_date:opening_hours": "2022-07-22",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "phone": "+49 7161 929523",
+            "shop": "shoes",
+            "website": "https://www.deichmann.com/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.646663,
+              48.7043683
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2362354539",
+            "osm_type": "node",
+            "lat": 48.8014703,
+            "lon": 9.798879,
+            "entrance": "yes",
+            "name": "Braun Orthopädieschuhtechnik",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.798879,
+              48.8014703
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2371160433",
+            "osm_type": "node",
+            "lat": 48.800157,
+            "lon": 9.796711,
+            "alt_name": "Der Barfußladen",
+            "name": "leguano",
+            "opening_hours": "Mo-Sa 09:30-13:00,13:30-18:00; PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.796711,
+              48.800157
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2725467875",
+            "osm_type": "node",
+            "lat": 48.7979816,
+            "lon": 9.6899928,
+            "contact:phone": "+49 7172 915376",
+            "contact:website": "http://schuh-staudenmayer.de",
+            "name": "Staudenmayer",
+            "opening_hours": "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00; Su, PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6899928,
+              48.7979816
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3576166486",
+            "osm_type": "node",
+            "lat": 48.8319984,
+            "lon": 9.793318,
+            "addr:city": "Mutlangen",
+            "addr:country": "DE",
+            "addr:housenumber": "13/1",
+            "addr:postcode": "73557",
+            "addr:street": "In der Breite",
+            "brand": "K+K Schuh-Center",
+            "brand:wikidata": "Q100272258",
+            "contact:phone": "+49 7171 9086336",
+            "name": "K+K Schuh-Center",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off",
+            "shop": "shoes",
+            "website": "https://www.k-und-k-schuhcenter.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.793318,
+              48.8319984
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3793744783",
+            "osm_type": "node",
+            "lat": 48.6878196,
+            "lon": 9.6841659,
+            "addr:city": "Göppingen",
+            "addr:housenumber": "34",
+            "addr:postcode": "73037",
+            "addr:street": "Göppinger Straße",
+            "addr:suburb": "Holzheim",
+            "name": "Rollmann",
+            "opening_hours": "Mo-We 09:00-18:15; Th 09:00-19:00; Fr 09:00-18:30; Sa 09:00-16:00",
+            "operator": "Rollmann GmbH & Co. KG",
+            "phone": "+49 7161 98466 0",
+            "shop": "shoes",
+            "website": "https://www.rollmann.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6841659,
+              48.6878196
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3838671580",
+            "osm_type": "node",
+            "lat": 48.7041745,
+            "lon": 9.5904139,
+            "name": "Säufferer",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5904139,
+              48.7041745
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4739422043",
+            "osm_type": "node",
+            "lat": 48.8014688,
+            "lon": 9.8000405,
+            "contact:email": "zentrale@walter-schuhe.de",
+            "contact:fax": "+49 7171 1819831",
+            "contact:phone": "+49 7171 1819830",
+            "contact:website": "http://walter-schuhe.de",
+            "level": "1",
+            "name": "Schuhhaus Walter",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8000405,
+              48.8014688
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7194998601",
+            "osm_type": "node",
+            "lat": 48.804756,
+            "lon": 9.8401773,
+            "brand": "Schuh-Mann",
+            "brand:wikidata": "Q66133314",
+            "check_date:opening_hours": "2025-02-07",
+            "name": "Schuh-Mann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8401773,
+              48.804756
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7657182196",
+            "osm_type": "node",
+            "lat": 48.7994108,
+            "lon": 9.7979711,
+            "name": "Sneaker Twins",
+            "opening_hours": "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-16:00; Su, PH off",
+            "phone": "+49 7174 899880",
+            "shop": "shoes",
+            "website": "https://sneakertwins.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7979711,
+              48.7994108
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7903345885",
+            "osm_type": "node",
+            "lat": 48.7045639,
+            "lon": 9.6496295,
+            "name": "Schuhgarten Bloss GmbH",
+            "phone": "+49 7161 72451",
+            "shop": "shoes",
+            "website": "https://www.schuh-bloss.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6496295,
+              48.7045639
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8923365131",
+            "osm_type": "node",
+            "lat": 48.8013017,
+            "lon": 9.8007674,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "73525",
+            "addr:street": "Kalter Markt",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "contact:phone": "+49 7171 8766586",
+            "level": "-1",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00; Su, PH off",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8007674,
+              48.8013017
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9138740106",
+            "osm_type": "node",
+            "lat": 48.6975704,
+            "lon": 9.6789497,
+            "addr:city": "Göppingen",
+            "addr:postcode": "73037",
+            "addr:street": "Esslinger Straße",
+            "brand": "Quick Schuh",
+            "brand:wikidata": "Q2123069",
+            "name": "Quick Schuh",
+            "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-20:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6789497,
+              48.6975704
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10309532579",
+            "osm_type": "node",
+            "lat": 48.7018601,
+            "lon": 9.6583149,
+            "brand": "Tamaris",
+            "brand:wikidata": "Q61994827",
+            "level": "0",
+            "name": "Tamaris",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6583149,
+              48.7018601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12621294925",
+            "osm_type": "node",
+            "lat": 48.7020389,
+            "lon": 9.6576522,
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "level": "0",
+            "name": "Snipes",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6576522,
+              48.7020389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1478798735",
+            "osm_type": "node",
+            "lat": 48.8609898,
+            "lon": 10.3492224,
+            "name": "Schuh Kauffmann",
+            "shop": "shoes",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3492224,
+              48.8609898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3400914931",
+            "osm_type": "node",
+            "lat": 48.8381898,
+            "lon": 10.0937379,
+            "name": "Schuh Kauffmann",
+            "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:00-16:00",
+            "shop": "shoes",
+            "url": "https://www.schuh-kauffmann.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0937379,
+              48.8381898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3752933517",
+            "osm_type": "node",
+            "lat": 48.8239507,
+            "lon": 10.0582506,
+            "addr:city": "Aalen",
+            "addr:housenumber": "16",
+            "addr:postcode": "73431",
+            "addr:street": "Daimlerstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "level": "1",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "shop": "shoes",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0582506,
+              48.8239507
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4193547316",
+            "osm_type": "node",
+            "lat": 48.8387507,
+            "lon": 10.0935103,
+            "name": "Schuhstadel",
+            "opening_hours": "Su,PH off; Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0935103,
+              48.8387507
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5248806222",
+            "osm_type": "node",
+            "lat": 48.7767543,
+            "lon": 10.099647,
+            "name": "Pedcad",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.099647,
+              48.7767543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5248806621",
+            "osm_type": "node",
+            "lat": 48.7764521,
+            "lon": 10.099649,
+            "name": "Orthopedie Walter",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.099649,
+              48.7764521
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5407893341",
+            "osm_type": "node",
+            "lat": 48.8399039,
+            "lon": 10.0941001,
+            "addr:city": "Aalen",
+            "addr:housenumber": "23",
+            "addr:postcode": "73430",
+            "addr:street": "Bahnhofstraße",
+            "brand": "Snipes",
+            "brand:wikidata": "Q42306166",
+            "brand:wikipedia": "de:Snipes (Unternehmen)",
+            "contact:facebook": "https://facebook.com/SnipesAalen",
+            "contact:phone": "+49 7361 9214456",
+            "contact:website": "https://snipes.com",
+            "name": "Snipes",
+            "opening_hours": "Mo-Sa 10:00-19:00; Su,PH off",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0941001,
+              48.8399039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5588222280",
+            "osm_type": "node",
+            "lat": 48.8380257,
+            "lon": 10.0929128,
+            "addr:city": "Aalen",
+            "addr:housenumber": "2/1",
+            "addr:postcode": "73430",
+            "addr:street": "Radgasse",
+            "level": "0",
+            "name": "Tausenfüßler Kinderschuhe",
+            "opening_hours": "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0929128,
+              48.8380257
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6917423946",
+            "osm_type": "node",
+            "lat": 48.8310888,
+            "lon": 10.0840045,
+            "addr:city": "Aalen",
+            "addr:housenumber": "126",
+            "addr:postcode": "73430",
+            "addr:street": "Stuttgarter Straße",
+            "level": "0",
+            "name": "Herrmann",
+            "opening_hours": "Mo-We 09:30-19:00; Th, Fr 09:30-20:00; Sa 09:30-18:00; Su, PH off",
+            "phone": "+49 7361 924010",
+            "shop": "shoes",
+            "website": "https://www.herrmann-schuhe-mode.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0840045,
+              48.8310888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9861029948",
+            "osm_type": "node",
+            "lat": 48.7805253,
+            "lon": 10.1028018,
+            "addr:city": "Oberkochen",
+            "addr:housenumber": "82",
+            "addr:postcode": "73447",
+            "addr:street": "Heidenheimer Straße",
+            "email": "shop@klox.de",
+            "name": "Klox",
+            "opening_hours": "Mo-Th 09:00-12:00; Fr 14:00-17:00",
+            "phone": "+49 7364 957160",
+            "shoes": "clogs",
+            "shop": "shoes",
+            "website": "https://www.klox.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1028018,
+              48.7805253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11228853973",
+            "osm_type": "node",
+            "lat": 48.8660765,
+            "lon": 10.1048341,
+            "check_date": "2023-09-30",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1048341,
+              48.8660765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "458768657",
+            "osm_type": "node",
+            "lat": 48.9768727,
+            "lon": 9.5799389,
+            "addr:city": "Murrhardt",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "71540",
+            "addr:street": "Friedenstraße",
+            "name": "Schlepple",
+            "opening_hours": "Mo-Tu,Th-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa 09:00-12:30",
+            "shop": "shoes",
+            "website": "http://www.schuh-schlepple.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5799389,
+              48.9768727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3059138867",
+            "osm_type": "node",
+            "lat": 48.8745708,
+            "lon": 9.6327361,
+            "name": "Schuh-Frey",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6327361,
+              48.8745708
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5250401456",
+            "osm_type": "node",
+            "lat": 48.9995852,
+            "lon": 9.7710477,
+            "addr:city": "Gaildorf",
+            "addr:housenumber": "15",
+            "addr:postcode": "74405",
+            "addr:street": "Karlstraße",
+            "name": "Schuhhaus Diem",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7710477,
+              48.9995852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5481251510",
+            "osm_type": "node",
+            "lat": 48.9807537,
+            "lon": 9.5809581,
+            "addr:city": "Murrhardt",
+            "addr:housenumber": "6",
+            "addr:postcode": "71540",
+            "addr:street": "Fritz-Schweizer-Straße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "level": "1",
+            "name": "Deichmann",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5809581,
+              48.9807537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9001758222",
+            "osm_type": "node",
+            "lat": 48.8756094,
+            "lon": 9.6348105,
+            "name": "Schuh Höfer",
+            "opening_hours": "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30",
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6348105,
+              48.8756094
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10706642482",
+            "osm_type": "node",
+            "lat": 48.999275,
+            "lon": 9.7732032,
+            "addr:city": "Gaildorf",
+            "addr:housenumber": "3",
+            "addr:postcode": "74405",
+            "addr:street": "Schillerstraße",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+            "phone": "+49 7971 978110",
+            "shop": "shoes",
+            "website": "https://www.deichmann.com",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7732032,
+              48.999275
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11915864757",
+            "osm_type": "node",
+            "lat": 48.9665193,
+            "lon": 9.8442925,
+            "addr:city": "Sulzbach-Laufen",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "74429",
+            "addr:street": "Eisbachstraße",
+            "lottery": "yes",
+            "name": "Berroth",
+            "opening_hours": "Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00; PH off",
+            "phone": "+49 7976 910490",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8442925,
+              48.9665193
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2868025855",
+            "osm_type": "node",
+            "lat": 48.9533924,
+            "lon": 10.167801,
+            "addr:city": "Ellwangen (Jagst)",
+            "addr:postcode": "73479",
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.167801,
+              48.9533924
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2923537784",
+            "osm_type": "node",
+            "lat": 48.9612924,
+            "lon": 10.130424,
+            "addr:city": "Ellwangen (Jagst)",
+            "addr:housenumber": "18",
+            "addr:postcode": "73479",
+            "addr:street": "Schmiedstraße",
+            "brand": "Quick Schuh",
+            "brand:wikidata": "Q2123069",
+            "brand:wikipedia": "de:Quick Schuh",
+            "name": "Quick Schuh",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+            "phone": "+49 7961 9695535",
+            "shop": "shoes",
+            "toilets:wheelchair": "no",
+            "website": "http://www.schuhe.de/online-kaufen/store-1000581507/online-kaufen/store-1000581507/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.130424,
+              48.9612924
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3834873010",
+            "osm_type": "node",
+            "lat": 48.9602277,
+            "lon": 10.1300645,
+            "addr:city": "Ellwangen (Jagst)",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "73479",
+            "addr:street": "Marienstraße",
+            "name": "Orthopädie-Schuhtechnik Schneider",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1300645,
+              48.9602277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3851612260",
+            "osm_type": "node",
+            "lat": 48.9610479,
+            "lon": 10.1313096,
+            "check_date": "2023-03-21",
+            "name": "enzo",
+            "opening_hours": "Mo-Fr 09:00-18:30; sa 09:00-16:00; ph off",
+            "phone": "+49 7961 565122",
+            "shop": "shoes",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1313096,
+              48.9610479
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        10.977718322727272,
+        48.82464335454545
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1360183482",
+            "osm_type": "node",
+            "lat": 48.8575104,
+            "lon": 10.5037155,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5037155,
+              48.8575104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10654238677",
+            "osm_type": "node",
+            "lat": 48.84999,
+            "lon": 10.4907538,
+            "addr:city": "Nördlingen",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "86720",
+            "addr:street": "Drehergasse",
+            "name": "Schuhhaus Stark",
+            "opening_hours": "Mo-Fr 08:30-12:30,13:45-18:00; Sa 08:30-13:00",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4907538,
+              48.84999
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12301574365",
+            "osm_type": "node",
+            "lat": 48.8518767,
+            "lon": 10.4947733,
+            "addr:city": "Nördlingen",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "86720",
+            "addr:street": "Wemdinger Straße",
+            "addr:suburb": "Nördlingen",
+            "name": "Schuh Herrmann",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4947733,
+              48.8518767
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1579302131",
+            "osm_type": "node",
+            "lat": 48.7111907,
+            "lon": 10.7554038,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-18:00",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7554038,
+              48.7111907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2176292717",
+            "osm_type": "node",
+            "lat": 48.6901817,
+            "lon": 10.9205515,
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9205515,
+              48.6901817
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3866671989",
+            "osm_type": "node",
+            "lat": 48.7123172,
+            "lon": 10.7581911,
+            "addr:city": "Donauwörth",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "86609",
+            "addr:street": "Joseph-Gänsler-Straße",
+            "name": "Markenschuh Herrmann",
+            "opening_hours": "Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 09:00-18:00; PH off",
+            "shop": "shoes",
+            "website": "http://www.markenschuh-herrmann.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7581911,
+              48.7123172
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11730316565",
+            "osm_type": "node",
+            "lat": 48.8416993,
+            "lon": 10.8564646,
+            "name": "Schuhe Pfeifer",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8564646,
+              48.8416993
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "361121227",
+            "osm_type": "node",
+            "lat": 48.7633349,
+            "lon": 11.4269525,
+            "name": "Linn Shoes & More",
+            "shop": "shoes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4269525,
+              48.7633349
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "416928162",
+            "osm_type": "node",
+            "lat": 48.8199086,
+            "lon": 11.0812445,
+            "shop": "shoes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0812445,
+              48.8199086
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2134259871",
+            "osm_type": "node",
+            "lat": 48.7650759,
+            "lon": 11.4266758,
+            "name": "Deiser Schuhe",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4266758,
+              48.7650759
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3128100102",
+            "osm_type": "node",
+            "lat": 48.7799996,
+            "lon": 11.4366059,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:street": "Lena-Christ-Straße",
+            "level": "1",
+            "name": "Schuh Mücke",
+            "opening_hours": "Mo-Fr 09:30-20:00;Sa 09:00-19:00",
+            "postal_code": "85055",
+            "shop": "shoes",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.schuhmuecke.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4366059,
+              48.7799996
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4176958115",
+            "osm_type": "node",
+            "lat": 48.8029929,
+            "lon": 11.2268453,
+            "name": "Schuhoase",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2268453,
+              48.8029929
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4870419352",
+            "osm_type": "node",
+            "lat": 48.7219236,
+            "lon": 11.1695257,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "shop": "shoes",
+            "website": "https://www.suedpark-neuburg.de/deichmann-neuburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1695257,
+              48.7219236
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8025950652",
+            "osm_type": "node",
+            "lat": 48.8021173,
+            "lon": 11.3665169,
+            "addr:city": "Gaimersheim",
+            "addr:housenumber": "15",
+            "addr:postcode": "85080",
+            "addr:street": "Ziegeleistraße",
+            "name": "Schuhkind. Der Kinderschuhladen",
+            "opening_hours": "Mo-Fr 09:30-12:30,14:00-18:30; We off; Sa 09:30-13:00",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3665169,
+              48.8021173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9766968028",
+            "osm_type": "node",
+            "lat": 48.8701654,
+            "lon": 11.3320929,
+            "addr:city": "Hitzhofen",
+            "addr:housenumber": "19",
+            "addr:postcode": "85122",
+            "addr:street": "Ingolstädter Straße",
+            "name": "Gangauf Orthopädie",
+            "opening_hours": "Mo-Fr 08:30-12:30; Mo 14:00-18:00; Mi-Fr 14:00-18:00; Sa 8:30-14:00",
+            "phone": "+49 8406 264",
+            "shop": "shoes",
+            "website": "https://www.gangauf.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3320929,
+              48.8701654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3784845693",
+            "osm_type": "node",
+            "lat": 48.9533687,
+            "lon": 10.6043398,
+            "name": "Schuhsport Jung",
+            "opening_hours": "Mo 13:30-18:00; Tu-Fr 09:00-12:00,13:30-18:00; Sa 08:30-13:00, Sa 13:00-16:00 \"an langen Samstag bis 16:00 Uhr geöffnet\"",
+            "operator": "M. Jung",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6043398,
+              48.9533687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4311775272",
+            "osm_type": "node",
+            "lat": 48.9537128,
+            "lon": 10.6042842,
+            "brand": "Salamander",
+            "brand:wikidata": "Q878354",
+            "name": "Salamander",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6042842,
+              48.9537128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6040147661",
+            "osm_type": "node",
+            "lat": 48.874346,
+            "lon": 10.7240322,
+            "name": "appl + Rösch",
+            "shop": "shoes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7240322,
+              48.874346
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8811191108",
+            "osm_type": "node",
+            "lat": 48.8742543,
+            "lon": 10.723139,
+            "name": "e-schuhe",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.723139,
+              48.8742543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2653956523",
+            "osm_type": "node",
+            "lat": 48.8926104,
+            "lon": 11.1838149,
+            "name": "Schuhe + Sport Hausfelder",
+            "phone": "+49 8421 7451",
+            "shop": "shoes",
+            "source": "survey;extrapolation",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1838149,
+              48.8926104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3227170182",
+            "osm_type": "node",
+            "lat": 48.877185,
+            "lon": 11.210553,
+            "addr:city": "Eichstätt",
+            "addr:country": "DE",
+            "addr:housenumber": "30",
+            "addr:postcode": "85072",
+            "addr:street": "Sollnau",
+            "contact:email": "dergehpunkt@googlemail.com",
+            "contact:facebook": "https://www.facebook.com/MH-Shoes-GmbH-106260154417554",
+            "contact:instagram": "https://instagram.com/mh_shoes_eichstaett/",
+            "contact:phone": "+49 8421 935 282",
+            "contact:website": "https://www.mh-shoes.de/",
+            "name": "M&H Shoes",
+            "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-17:00; PH off",
+            "operator": "M&H Shoes GmbH",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.210553,
+              48.877185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3228570354",
+            "osm_type": "node",
+            "lat": 48.8763924,
+            "lon": 11.2133269,
+            "brand": "Deichmann",
+            "brand:wikidata": "Q664543",
+            "brand:wikipedia": "en:Deichmann SE",
+            "name": "Deichmann",
+            "phone": "+49 8421 934915",
+            "shop": "shoes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2133269,
+              48.8763924
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,1608 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 77,
+  "leafCount": 0,
+  "averagePosition": [
+    16.44138975844156,
+    48.73378821558441
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 15.253173,
+        "north": 48.68652475,
+        "east": 16.2068765
+      },
+      "poiCount": 8,
+      "leafCount": 8,
+      "averagePosition": [
+        15.7373378,
+        48.4907787375
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5389494641",
+            "osm_type": "node",
+            "lat": 48.3659627,
+            "lon": 15.6121339,
+            "amenity": "library",
+            "check_date": "2024-09-20",
+            "name": "Graphische Sammlung Stift Göttweig",
+            "operator": "Donau-Universität Krems"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6121339,
+              48.3659627
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "456881837",
+            "osm_type": "node",
+            "lat": 48.408416,
+            "lon": 15.5862543,
+            "amenity": "library",
+            "name": "Universitätsbibliothek und Universitätsarchiv",
+            "operator": "Donau-Universität Krems",
+            "website": "https://www.donau-uni.ac.at/de/universitaet/service/bibliothek.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5862543,
+              48.408416
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4197466402",
+            "osm_type": "node",
+            "lat": 48.4112935,
+            "lon": 15.5970521,
+            "addr:city": "Krems an der Donau",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "3500",
+            "addr:street": "Körnermarkt",
+            "amenity": "library",
+            "email": "buecherei@krems.gv.at",
+            "level": "1",
+            "name": "Stadtbücherei Krems",
+            "opening_hours": "Tu 10:00-18:00; We 10:00-16:00; Th 10:00-18:00; Fr 10:00-16:00; Sa 10:00-13:00; Su,Mo,PH off",
+            "operator": "Magistrat der Stadt Krems",
+            "phone": "+43 2732 801 382",
+            "website": "https://www.krems.at/buecherei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5970521,
+              48.4112935
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7809670357",
+            "osm_type": "node",
+            "lat": 48.6653746,
+            "lon": 15.6566483,
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wikidata": "Q56215613"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6566483,
+              48.6653746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10940623177",
+            "osm_type": "node",
+            "lat": 48.6427379,
+            "lon": 15.595348,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.595348,
+              48.6427379
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11951660167",
+            "osm_type": "node",
+            "lat": 48.4723575,
+            "lon": 15.6767811,
+            "addr:city": "Langenlois",
+            "addr:housenumber": "2",
+            "addr:postcode": "3550",
+            "addr:street": "Rathausstraße",
+            "amenity": "library",
+            "name": "Stadtbücherei Langenlois",
+            "opening_hours": "Mo 10:30-11:30; Tu,Th 16:00-18:30; Sa 09:30-11:30; PH off",
+            "website": "http://stadtbuecherei-langenlois.noebib.at",
+            "wikidata": "Q56215531"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6767811,
+              48.4723575
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1891897318",
+            "osm_type": "node",
+            "lat": 48.5632546,
+            "lon": 16.0789405,
+            "amenity": "library",
+            "name": "Stadtbücherei",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0789405,
+              48.5632546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4782980461",
+            "osm_type": "node",
+            "lat": 48.3968331,
+            "lon": 16.0955442,
+            "addr:city": "Hausleiten",
+            "addr:housenumber": "41",
+            "addr:postcode": "3464",
+            "addr:street": "Kirchenstraße",
+            "amenity": "library",
+            "internet_access": "no",
+            "name": "Öffentliche Bücherei Hausleiten",
+            "opening_hours": "We 16:00-18:00; Sa 10:00-11:00; Su 09:00-10:00",
+            "operator": "Pfarre Hausleiten",
+            "website": "https://www.hausleiten.gv.at/Pfarre_St_Agatha/Oeffentliche_Buecherei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0955442,
+              48.3968331
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 16.2068765,
+        "north": 48.68652475,
+        "east": 17.16058
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        16.820518763157896,
+        48.454799963157896
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5731779301",
+            "osm_type": "node",
+            "lat": 48.3623448,
+            "lon": 16.4683555,
+            "addr:city": "Großebersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2203",
+            "addr:street": "Schulgasse",
+            "amenity": "library",
+            "contact:email": "grossebersdorf@bibliotheken.at",
+            "contact:website": "http://bibliothek.grossebersdorf.at",
+            "name": "Bibliothek und Mediathek Großebersdorf",
+            "opening_hours": "Mo 17:00-19:30; Fr 15:00-17:30; Su 09:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4683555,
+              48.3623448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286217",
+            "osm_type": "node",
+            "lat": 48.3634567,
+            "lon": 16.9708345,
+            "amenity": "library",
+            "contact:email": "starosta@obeclab.sk",
+            "contact:phone": "+421 34 779 0509",
+            "name": "Obecná knižnica",
+            "website": "https://www.obeclab.sk/sk/miestna-ludova-kniznica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9708345,
+              48.3634567
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11770912219",
+            "osm_type": "node",
+            "lat": 48.3570292,
+            "lon": 16.5692081,
+            "addr:city": "Großengersdorf",
+            "addr:housenumber": "12",
+            "addr:postcode": "2212",
+            "addr:street": "Bahngasse",
+            "amenity": "library",
+            "name": "Bibliothek Großengersdorf",
+            "opening_hours": "Mo,Th 17:00-19:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5692081,
+              48.3570292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286210",
+            "osm_type": "node",
+            "lat": 48.3677814,
+            "lon": 17.1437606,
+            "amenity": "library",
+            "email": "starosta@pernek.sk",
+            "name": "Obecná knižnica",
+            "phone": "+421 915 795 154"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1437606,
+              48.3677814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1082340647",
+            "osm_type": "node",
+            "lat": 48.3870157,
+            "lon": 16.218067,
+            "addr:city": "Stockerau",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2000",
+            "addr:street": "Eduard Rösch-Straße",
+            "amenity": "library",
+            "entrance": "yes",
+            "name": "Bücherei der Stadt Stockerau",
+            "opening_hours": "Mo 15:00-18:00; We 8:00-19:00; Fr 15:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.218067,
+              48.3870157
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3234032811",
+            "osm_type": "node",
+            "lat": 48.3826538,
+            "lon": 16.5187308,
+            "addr:city": "Wolkersdorf im Weinviertel",
+            "addr:housenumber": "13",
+            "addr:postcode": "2120",
+            "addr:street": "Hauptstraße",
+            "amenity": "library",
+            "check_date:opening_hours": "2023-03-19",
+            "name": "Bibliothek Wolkersdorf",
+            "opening_hours": "We 15:00-19:00; Th 09:00-13:00; Fr 15:00-19:00; Sa 09:00-13:00",
+            "operator": "Maria Regen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5187308,
+              48.3826538
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "253284832",
+            "osm_type": "node",
+            "lat": 48.5702446,
+            "lon": 16.5696997,
+            "amenity": "library",
+            "name": "Stadtbibliothek Mistelbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5696997,
+              48.5702446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3882294646",
+            "osm_type": "node",
+            "lat": 48.439581,
+            "lon": 17.0128323,
+            "amenity": "library",
+            "contact:email": "jana.zetkova@mckmalacky.sk",
+            "contact:phone": "+421 944 214 551",
+            "name": "Mestské centrum kultúry Malacky - Knižnica",
+            "opening_hours": "Mo,Tu,Th-Sa 09:00-12:00, Mo-Fr 13:00-18:00",
+            "website": "http://www.kniznicamalacky.sk/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0128323,
+              48.439581
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4159167675",
+            "osm_type": "node",
+            "lat": 48.6579488,
+            "lon": 17.0200982,
+            "amenity": "library",
+            "contact:email": "obec@kuty.sk",
+            "contact:phone": "+421 948 064 875",
+            "name": "Miestna ľudová knižnica Kúty"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0200982,
+              48.6579488
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4453317587",
+            "osm_type": "node",
+            "lat": 48.5453528,
+            "lon": 16.762127,
+            "amenity": "library",
+            "name": "Stadtbücherei Zistersdorf",
+            "operator": "Stadtgemeinde Zistersdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.762127,
+              48.5453528
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286209",
+            "osm_type": "node",
+            "lat": 48.4458543,
+            "lon": 16.9886887,
+            "amenity": "library",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Obecná knižnica",
+            "website": "https://www.kostoliste.sk/obecna-kniznica/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9886887,
+              48.4458543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286213",
+            "osm_type": "node",
+            "lat": 48.3757887,
+            "lon": 16.9978838,
+            "amenity": "library",
+            "contact:email": "ivan.slezak@obecplaveckystvrtok.sk",
+            "contact:phone": "+421 908 069 643",
+            "name": "Obecná knižnica Plavecký Štvrtok",
+            "opening_hours": "Tu,We 16:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9978838,
+              48.3757887
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286216",
+            "osm_type": "node",
+            "lat": 48.5027211,
+            "lon": 16.9668096,
+            "amenity": "library",
+            "contact:email": "starosta@malelevare.sk",
+            "contact:phone": "+421 907 550 392",
+            "name": "Miestna ľudová knižnica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9668096,
+              48.5027211
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8513152290",
+            "osm_type": "node",
+            "lat": 48.4132137,
+            "lon": 16.9257679,
+            "amenity": "library",
+            "name": "Obecná knižnica",
+            "website": "https://www.jakubov.sk/p/704/obecna-kniznica.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9257679,
+              48.4132137
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11269864166",
+            "osm_type": "node",
+            "lat": 48.3813342,
+            "lon": 16.847448,
+            "amenity": "library",
+            "name": "Obecná knižnice Záhorská Ves",
+            "opening_hours": "Fr 17:00-19:00",
+            "url": "https://www.zahorskaves.sk/kniznica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.847448,
+              48.3813342
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12698331762",
+            "osm_type": "node",
+            "lat": 48.4855722,
+            "lon": 16.681355,
+            "addr:city": "Sulz im Weinviertel",
+            "addr:housenumber": "21",
+            "addr:postcode": "2224",
+            "addr:street": "Niedersulz",
+            "amenity": "library",
+            "name": "Gemeindebibliothek Sulz im Weinviertel",
+            "opening_hours": "We 16:00-19:00; Su 09:00-12:00",
+            "operator": "Marktgemeinde Sulz im Weinviertel",
+            "operator:type": "public"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.681355,
+              48.4855722
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12887488261",
+            "osm_type": "node",
+            "lat": 48.6688652,
+            "lon": 16.6302143,
+            "addr:city": "Poysdorf",
+            "addr:housenumber": "1",
+            "addr:postcode": "2170",
+            "addr:street": "Liechtensteinstraße",
+            "amenity": "library",
+            "internet_access": "yes",
+            "opening_hours": "Tu 17:00-19:00; Th 16:00-18:00; Fr 08:00-10:00; Su 10:00-12:00",
+            "website": "http://bibliothek.poysdorf.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6302143,
+              48.6688652
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286208",
+            "osm_type": "node",
+            "lat": 48.5271017,
+            "lon": 17.1382439,
+            "amenity": "library",
+            "contact:email": "starosta.obce.studienka@gmail.com",
+            "contact:phone": "+421 34 778 2151",
+            "name": "Obecná knižnica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1382439,
+              48.5271017
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4823286212",
+            "osm_type": "node",
+            "lat": 48.4073394,
+            "lon": 17.1597316,
+            "amenity": "library",
+            "contact:email": "starosta@obeckuchyna.sk",
+            "contact:phone": "+421 902 962 504",
+            "name": "Obecná knižnica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1597316,
+              48.4073394
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 15.253173,
+        "north": 49.017078,
+        "east": 16.2068765
+      },
+      "poiCount": 18,
+      "leafCount": 18,
+      "averagePosition": [
+        15.857034050000001,
+        48.890381355555554
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1072622520",
+            "osm_type": "node",
+            "lat": 48.8141998,
+            "lon": 15.2844715,
+            "amenity": "library",
+            "name": "Waidhofner Stadtbibliothek",
+            "operator": "Stadtgemeinde Waidhofen an der Thaya"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2844715,
+              48.8141998
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1562562998",
+            "osm_type": "node",
+            "lat": 48.7910174,
+            "lon": 15.4060779,
+            "amenity": "library",
+            "name": "Stadtbuecherei",
+            "wikidata": "Q56215577"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4060779,
+              48.7910174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1898318273",
+            "osm_type": "node",
+            "lat": 48.6872126,
+            "lon": 15.7474661,
+            "amenity": "library",
+            "wikidata": "Q56215570"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7474661,
+              48.6872126
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8949511317",
+            "osm_type": "node",
+            "lat": 48.8107912,
+            "lon": 16.0088299,
+            "amenity": "library",
+            "website": "https://www.havraniky.cz/obecni-knihovna/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0088299,
+              48.8107912
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9200276922",
+            "osm_type": "node",
+            "lat": 48.8682421,
+            "lon": 15.6194988,
+            "amenity": "library",
+            "check_date": "2024-10-26",
+            "name": "Stadtbücherei",
+            "opening_hours": "Mo 16:00-17:00; Sa 09:00-10:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6194988,
+              48.8682421
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9511951062",
+            "osm_type": "node",
+            "lat": 48.7815186,
+            "lon": 15.8112066,
+            "addr:city": "Weitersfeld",
+            "addr:housenumber": "113",
+            "addr:place": "Weitersfeld",
+            "addr:postcode": "2084",
+            "amenity": "library",
+            "name": "Biblio-Dreieck Hardegg-Langau-Weitersfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8112066,
+              48.7815186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13004576912",
+            "osm_type": "node",
+            "lat": 48.8547152,
+            "lon": 15.8593847,
+            "amenity": "library",
+            "name": "BUCHEGG HARDEGG"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8593847,
+              48.8547152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2067900225",
+            "osm_type": "node",
+            "lat": 48.8694664,
+            "lon": 16.0508802,
+            "amenity": "library",
+            "name": "Lékařská knihovna Nemocnice Znojmo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0508802,
+              48.8694664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5641946111",
+            "osm_type": "node",
+            "lat": 49.0031733,
+            "lon": 15.2568461,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2568461,
+              49.0031733
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5422542449",
+            "osm_type": "node",
+            "lat": 48.9228773,
+            "lon": 15.8710317,
+            "amenity": "library",
+            "name": "Knihovna Šumná",
+            "website": "http://sumna.knihovna.cz/kontakt/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8710317,
+              48.9228773
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9755140857",
+            "osm_type": "node",
+            "lat": 48.9830683,
+            "lon": 15.6981325,
+            "amenity": "library",
+            "name": "Obecní knihovna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6981325,
+              48.9830683
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11102873851",
+            "osm_type": "node",
+            "lat": 49.0168208,
+            "lon": 15.8970593,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8970593,
+              49.0168208
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "599907998",
+            "osm_type": "node",
+            "lat": 48.9060365,
+            "lon": 16.1871142,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1871142,
+              48.9060365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1562022928",
+            "osm_type": "node",
+            "lat": 48.9367801,
+            "lon": 16.180929,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.180929,
+              48.9367801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4527168033",
+            "osm_type": "node",
+            "lat": 49.0132032,
+            "lon": 16.1092723,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1092723,
+              49.0132032
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10731395842",
+            "osm_type": "node",
+            "lat": 48.9495285,
+            "lon": 16.1598049,
+            "amenity": "library",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1598049,
+              48.9495285
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11114955996",
+            "osm_type": "node",
+            "lat": 48.9283043,
+            "lon": 16.1202035,
+            "amenity": "library",
+            "opening_hours": "Th 16:00-17:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1202035,
+              48.9283043
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12015569676",
+            "osm_type": "node",
+            "lat": 48.8899088,
+            "lon": 16.1584037,
+            "amenity": "library",
+            "opening_hours": "We 16:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1584037,
+              48.8899088
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 16.2068765,
+        "north": 49.017078,
+        "east": 17.16058
+      },
+      "poiCount": 32,
+      "leafCount": 32,
+      "averagePosition": [
+        16.7209949875,
+        48.87210621875
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4524349411",
+            "osm_type": "node",
+            "lat": 48.7530852,
+            "lon": 16.3764467,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3764467,
+              48.7530852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4695219121",
+            "osm_type": "node",
+            "lat": 48.8003182,
+            "lon": 16.3806472,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3806472,
+              48.8003182
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5379087873",
+            "osm_type": "node",
+            "lat": 48.7760984,
+            "lon": 16.2685995,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2685995,
+              48.7760984
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10773814299",
+            "osm_type": "node",
+            "lat": 48.7219351,
+            "lon": 16.3847886,
+            "addr:city": "Laa an der Thaya",
+            "addr:housenumber": "58",
+            "addr:postcode": "2136",
+            "addr:street": "Stadtplatz",
+            "amenity": "library",
+            "name": "Stadtbibliothek Laa an der Thaya",
+            "opening_hours": "Mo 10:00-14:00; Tu 10:00-12:00, 15:00-18:00; Th 15:00-20:00; Sa 10:00-12:00; We,Fr,Su,PH off",
+            "ref:isil": "ref:isil=none",
+            "website": "https://laa-thaya.bibliotheca-open.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3847886,
+              48.7219351
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12419445531",
+            "osm_type": "node",
+            "lat": 48.7945127,
+            "lon": 16.2226967,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2226967,
+              48.7945127
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1569135287",
+            "osm_type": "node",
+            "lat": 48.7413546,
+            "lon": 16.755257,
+            "addr:city": "Valtice",
+            "addr:housenumber": "21",
+            "addr:postcode": "69142",
+            "addr:street": "nám. Svobody",
+            "amenity": "library",
+            "name": "Městská knihovna Valtice",
+            "wikidata": "Q114625840"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.755257,
+              48.7413546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1802096479",
+            "osm_type": "node",
+            "lat": 48.854128,
+            "lon": 16.8891844,
+            "amenity": "library",
+            "name": "Městská knihovna Velké Bílovice",
+            "wikidata": "Q114625702"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8891844,
+              48.854128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2027882395",
+            "osm_type": "node",
+            "lat": 48.8283701,
+            "lon": 16.980853,
+            "amenity": "library",
+            "email": "knihovna@obecprusanky.cz",
+            "internet_access": "yes",
+            "name": "Knihovna Prušánky",
+            "opening_hours": "Mo,We 08:00-11:30,13:00-17:00; Tu 13:00-15:00",
+            "operator": "obec Prušánky",
+            "website": "https://www.prusanky.knihovna.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.980853,
+              48.8283701
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3925700459",
+            "osm_type": "node",
+            "lat": 48.8308013,
+            "lon": 16.8488846,
+            "amenity": "library",
+            "name": "Městská knihovna",
+            "wikidata": "Q114625837"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8488846,
+              48.8308013
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6949636248",
+            "osm_type": "node",
+            "lat": 48.7665619,
+            "lon": 16.8470013,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8470013,
+              48.7665619
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8085494391",
+            "osm_type": "node",
+            "lat": 48.7765575,
+            "lon": 17.0112682,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0112682,
+              48.7765575
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9214888192",
+            "osm_type": "node",
+            "lat": 48.8556283,
+            "lon": 16.7735662,
+            "amenity": "library",
+            "email": "knihovna.pritluky@seznam.cz",
+            "name": "Obecní knihovna Přítluky",
+            "website": "https://knihovnapritluky.webk.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7735662,
+              48.8556283
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10034558103",
+            "osm_type": "node",
+            "lat": 48.834986,
+            "lon": 16.6228003,
+            "amenity": "library",
+            "opening_hours": "Fr 16:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6228003,
+              48.834986
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11213727771",
+            "osm_type": "node",
+            "lat": 48.8313489,
+            "lon": 16.7489951,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7489951,
+              48.8313489
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12953573614",
+            "osm_type": "node",
+            "lat": 48.7771811,
+            "lon": 17.0120242,
+            "amenity": "library",
+            "name": "Místní knihovna Týnec",
+            "website": "https://knihovnatynec.webk.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0120242,
+              48.7771811
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1695266770",
+            "osm_type": "node",
+            "lat": 48.8531063,
+            "lon": 17.1262625,
+            "addr:city": "Hodonín",
+            "addr:conscriptionnumber": "3957",
+            "addr:country": "CZ",
+            "addr:housenumber": "3957/36",
+            "addr:place": "Hodonín",
+            "addr:postcode": "69501",
+            "addr:street": "Národní třída",
+            "addr:streetnumber": "36",
+            "amenity": "library",
+            "name": "Knihovna Hodonín",
+            "ref:ruian:addr": "27843858",
+            "source:addr": "cuzk:ruian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1262625,
+              48.8531063
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2971966200",
+            "osm_type": "node",
+            "lat": 48.715133,
+            "lon": 17.1167853,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1167853,
+              48.715133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1876292441",
+            "osm_type": "node",
+            "lat": 48.9777321,
+            "lon": 16.3192626,
+            "amenity": "library",
+            "name": "Knihovna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3192626,
+              48.9777321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12443791757",
+            "osm_type": "node",
+            "lat": 48.8969197,
+            "lon": 16.215472,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.215472,
+              48.8969197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3097014150",
+            "osm_type": "node",
+            "lat": 49.0033809,
+            "lon": 16.6162886,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6162886,
+              49.0033809
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3979705436",
+            "osm_type": "node",
+            "lat": 49.0118535,
+            "lon": 16.6544551,
+            "amenity": "library",
+            "name": "Obecní knihovna Nosislav",
+            "opening_hours": "Tu 17:00-19:00; Th 15:00-17:00",
+            "wikidata": "Q114622239"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6544551,
+              49.0118535
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4364945426",
+            "osm_type": "node",
+            "lat": 48.8754544,
+            "lon": 16.626017,
+            "amenity": "library",
+            "contact:website": "http://www.knihovnahornivestonice.webk.cz/",
+            "name": "Místní lidová knihovna",
+            "opening_hours": "Fr 16:00-17:00",
+            "wikidata": "Q114622362"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.626017,
+              48.8754544
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4933584015",
+            "osm_type": "node",
+            "lat": 48.89903,
+            "lon": 16.8184464,
+            "amenity": "library",
+            "name": "Městská knihovna",
+            "opening_hours": "Tu,Fr 08:00-11:00, Tu-Fr 13:00-19:00, We,Th 08:00-11:00,13:00-16:00",
+            "wikidata": "Q114625701"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8184464,
+              48.89903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7723521875",
+            "osm_type": "node",
+            "lat": 48.8733087,
+            "lon": 16.7646781,
+            "amenity": "library",
+            "name": "Místní knihovna",
+            "website": "https://knihovnazajeci.webk.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7646781,
+              48.8733087
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8059210054",
+            "osm_type": "node",
+            "lat": 49.0135082,
+            "lon": 16.7805582,
+            "amenity": "library",
+            "name": "Obecní knihovna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7805582,
+              49.0135082
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8069274695",
+            "osm_type": "node",
+            "lat": 48.9533462,
+            "lon": 16.7084635,
+            "amenity": "library",
+            "name": "Obecní knihovna Starovice",
+            "opening_hours": "Mo,Fr 17:00-19:00",
+            "wikidata": "Q114622337"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7084635,
+              48.9533462
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8069454060",
+            "osm_type": "node",
+            "lat": 48.9345156,
+            "lon": 16.8210035,
+            "amenity": "library",
+            "name": "Obecnî knihovna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8210035,
+              48.9345156
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8191674111",
+            "osm_type": "node",
+            "lat": 48.9893662,
+            "lon": 16.7878095,
+            "amenity": "library",
+            "name": "Diváky",
+            "opening_hours": "Tu 16:00-18:00",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7878095,
+              48.9893662
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9197983148",
+            "osm_type": "node",
+            "lat": 49.0036038,
+            "lon": 16.6139255,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6139255,
+              49.0036038
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10312011492",
+            "osm_type": "node",
+            "lat": 49.0149995,
+            "lon": 17.0111379,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0111379,
+              49.0149995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11753747150",
+            "osm_type": "node",
+            "lat": 48.9673582,
+            "lon": 16.8132104,
+            "amenity": "library",
+            "opening_hours": "Mo 16:30-18:30; Fr 17:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8132104,
+              48.9673582
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12768170422",
+            "osm_type": "node",
+            "lat": 48.9819154,
+            "lon": 17.1550505,
+            "amenity": "library",
+            "name": "Obecní knihovna",
+            "phone": "+420 608 772 171",
+            "website": "https://knihovnaskoronice.webk.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1550505,
+              48.9819154
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

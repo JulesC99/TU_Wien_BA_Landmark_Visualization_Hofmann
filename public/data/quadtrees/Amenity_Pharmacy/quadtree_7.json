@@ -1,0 +1,4916 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 176,
+  "leafCount": 0,
+  "averagePosition": [
+    16.004673017045455,
+    47.2866014840909
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 15.253173,
+        "north": 47.36431175,
+        "east": 16.2068765
+      },
+      "poiCount": 83,
+      "leafCount": 0,
+      "averagePosition": [
+        15.513312034939757,
+        47.10805695301204
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.253173,
+            "north": 47.199035125,
+            "east": 15.73002475
+          },
+          "poiCount": 64,
+          "leafCount": 0,
+          "averagePosition": [
+            15.4527543203125,
+            47.07858448437499
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 47.033758500000005,
+                "west": 15.253173,
+                "north": 47.1163968125,
+                "east": 15.491598875000001
+              },
+              "poiCount": 52,
+              "leafCount": 0,
+              "averagePosition": [
+                15.434283080769232,
+                47.07153066923077
+              ],
+              "data": [],
+              "children": [
+                {
+                  "bbox": {
+                    "south": 47.033758500000005,
+                    "west": 15.253173,
+                    "north": 47.07507765625,
+                    "east": 15.3723859375
+                  },
+                  "poiCount": 1,
+                  "leafCount": 1,
+                  "averagePosition": [
+                    15.3037727,
+                    47.0346945
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "6909706069",
+                        "osm_type": "node",
+                        "lat": 47.0346945,
+                        "lon": 15.3037727,
+                        "addr:city": "Hitzendorf",
+                        "addr:country": "AT",
+                        "addr:housename": "Marien-Apotheke",
+                        "addr:housenumber": "280",
+                        "addr:place": "Hitzendorf",
+                        "addr:postcode": "8151",
+                        "amenity": "pharmacy",
+                        "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Th 08:00-12:30,14:30-18:30; Sa 08:00-12:00",
+                        "website": "http://www.apotheke-hitzendorf.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.3037727,
+                          47.0346945
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "bbox": {
+                    "south": 47.033758500000005,
+                    "west": 15.3723859375,
+                    "north": 47.07507765625,
+                    "east": 15.491598875000001
+                  },
+                  "poiCount": 35,
+                  "leafCount": 35,
+                  "averagePosition": [
+                    15.438206757142858,
+                    47.06400246285714
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "26414073",
+                        "osm_type": "node",
+                        "lat": 47.0578483,
+                        "lon": 15.4711077,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "45",
+                        "addr:postcode": "8042",
+                        "addr:street": "Sankt-Peter-Hauptstraße",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2021-12-19",
+                        "contact:email": "petrus-apotheke@aon.at",
+                        "contact:fax": "+43 316 471442-22",
+                        "contact:phone": "+43 316 471442",
+                        "healthcare": "pharmacy",
+                        "name": "Zum Heiligen Petrus",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. Dr. Birgit Gallien-Lintschinger e.U.",
+                        "source": "survey",
+                        "website": "https://www.petrus-apotheke.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4711077,
+                          47.0578483
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "31797495",
+                        "osm_type": "node",
+                        "lat": 47.0407724,
+                        "lon": 15.4644615,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8041",
+                        "addr:street": "Ostbahnstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "level": "0",
+                        "name": "Apotheke Liebenau",
+                        "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-18:00; Su,PH off",
+                        "phone": "+43 316 472324",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4644615,
+                          47.0407724
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "39663360",
+                        "osm_type": "node",
+                        "lat": 47.0701905,
+                        "lon": 15.4399178,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "11",
+                        "addr:postcode": "8010",
+                        "addr:street": "Herrengasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Bärenapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+                        "phone": "+43 316 830267",
+                        "website": "https://baerenapotheke.at/",
+                        "wheelchair": "limited",
+                        "wikimedia_commons": "Category:Hainrichspergisches Haus"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4399178,
+                          47.0701905
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "242806651",
+                        "osm_type": "node",
+                        "lat": 47.0618784,
+                        "lon": 15.4716621,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "31",
+                        "addr:postcode": "8010",
+                        "addr:street": "Eisteichgasse",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2022-11-20",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "level": "0",
+                        "name": "Sankt Paul",
+                        "official_name": "St. Paul",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
+                        "phone": "+43 316 472429",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4716621,
+                          47.0618784
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "270508833",
+                        "osm_type": "node",
+                        "lat": 47.0708376,
+                        "lon": 15.4019546,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "44",
+                        "addr:postcode": "8020",
+                        "addr:street": "Eggenberger Allee",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "email": "info@schlossapotheke-graz.at",
+                        "fax": "+43 316 582351 4",
+                        "healthcare": "pharmacy",
+                        "name": "Schlossapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. Wegschaider KG",
+                        "phone": "+43 316 582351",
+                        "website": "https://www.schlossapotheke-graz.at/",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4019546,
+                          47.0708376
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "270508834",
+                        "osm_type": "node",
+                        "lat": 47.0743676,
+                        "lon": 15.4046624,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "24",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lilienthalgasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "name": "Schutzengelapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 581265",
+                        "wheelchair": "limited",
+                        "wikimedia_commons": "File:Schutzengel Apotheke Graz.jpg"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4046624,
+                          47.0743676
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "276960168",
+                        "osm_type": "node",
+                        "lat": 47.0684154,
+                        "lon": 15.4425034,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "24",
+                        "addr:postcode": "8010",
+                        "addr:street": "Opernring",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2025-07-06",
+                        "contact:phone": "+43 316 829647",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Opern-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
+                        "website": "https://www.opernapotheke.com/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4425034,
+                          47.0684154
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "277415712",
+                        "osm_type": "node",
+                        "lat": 47.0666856,
+                        "lon": 15.4384943,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "22",
+                        "addr:postcode": "8010",
+                        "addr:street": "Joanneumring",
+                        "amenity": "pharmacy",
+                        "contact:email": "offizin@neutorapotheke.at",
+                        "contact:phone": "+43 316 826561",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Neutorapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "website": "https://www.neutorapotheke.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4384943,
+                          47.0666856
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "278690467",
+                        "osm_type": "node",
+                        "lat": 47.0670918,
+                        "lon": 15.4433636,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "15",
+                        "addr:postcode": "8010",
+                        "addr:street": "Jakominiplatz",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2025-07-12",
+                        "contact:phone": "+43 316 830161",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Jakominiapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
+                        "operator": "Mag. Andreas Ladner K.G.",
+                        "source": "survey",
+                        "website": "https://www.jakomini-apotheke.at/kontakt",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4433636,
+                          47.0670918
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "278690595",
+                        "osm_type": "node",
+                        "lat": 47.0673991,
+                        "lon": 15.441481,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "24",
+                        "addr:postcode": "8010",
+                        "addr:street": "Jakominiplatz",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Sonnenapotheke",
+                        "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-12:30",
+                        "phone": "+43 316 823159",
+                        "website": "https://sonnenapotheke-graz.at/#kontakt",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.441481,
+                          47.0673991
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "278906353",
+                        "osm_type": "node",
+                        "lat": 47.0708149,
+                        "lon": 15.4377955,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "4",
+                        "addr:postcode": "8010",
+                        "addr:street": "Hauptplatz",
+                        "amenity": "pharmacy",
+                        "contact:email": "office@adlerapotheke-graz.at",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "heritage": "2",
+                        "heritage:operator": "bda",
+                        "name": "Adlerapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
+                        "phone": "+43 316 830342",
+                        "ref:at:bda": "36047",
+                        "website": "https://www.adlerapotheke-graz.at/",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Barrierefreier Zugang über \"Wurzelsepp\"",
+                        "wikidata": "Q37973157",
+                        "wikimedia_commons": "Category:Adler-Apotheke, Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4377955,
+                          47.0708149
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "278908354",
+                        "osm_type": "node",
+                        "lat": 47.0717929,
+                        "lon": 15.4377197,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "4",
+                        "addr:postcode": "8010",
+                        "addr:street": "Sackstraße",
+                        "amenity": "pharmacy",
+                        "check_date": "2019-10-06",
+                        "check_date:opening_hours": "2022-07-09",
+                        "contact:phone": "+43 316 830420",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "heritage": "2",
+                        "heritage:operator": "bda",
+                        "name": "Landschaftsapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "ref:at:bda": "36083",
+                        "start_date": "1615",
+                        "website": "https://www.landschaftsapotheke-graz.at/",
+                        "wikidata": "Q37973423",
+                        "wikimedia_commons": "Category:Landschaftsapotheke, Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4377197,
+                          47.0717929
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "280393634",
+                        "osm_type": "node",
+                        "lat": 47.0696827,
+                        "lon": 15.4338781,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "12",
+                        "addr:postcode": "8020",
+                        "addr:street": "Griesgasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Apotheke Zum Goldenen Engel",
+                        "phone": "+43 316 712028",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4338781,
+                          47.0696827
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "281040689",
+                        "osm_type": "node",
+                        "lat": 47.0711349,
+                        "lon": 15.4244829,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "45",
+                        "addr:postcode": "8020",
+                        "addr:street": "Annenstraße",
+                        "amenity": "pharmacy",
+                        "contact:email": "mail@apotheke-annenstrasse.at",
+                        "contact:fax": "+43 316 71 26 80-6",
+                        "contact:phone": "+43 316 712680",
+                        "contact:website": "www.apotheke-zum-gruenen-kreuz.com",
+                        "dispensing": "yes",
+                        "level": "0",
+                        "name": "Zum Grünen Kreuz",
+                        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4244829,
+                          47.0711349
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "282463417",
+                        "osm_type": "node",
+                        "lat": 47.0661722,
+                        "lon": 15.4270131,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "1",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lazarettgasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Dreifaltigkeitsapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off",
+                        "phone": "+43 316 711987",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4270131,
+                          47.0661722
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "282463721",
+                        "osm_type": "node",
+                        "lat": 47.0654486,
+                        "lon": 15.4312115,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "26",
+                        "addr:postcode": "8020",
+                        "addr:street": "Griesplatz",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Panther Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-12:30, 14:30-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 711147",
+                        "website": "https://www.pantherapotheke.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4312115,
+                          47.0654486
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "287506026",
+                        "osm_type": "node",
+                        "lat": 47.0684696,
+                        "lon": 15.4474716,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "5",
+                        "addr:postcode": "8010",
+                        "addr:street": "Kaiser-Josef-Platz",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2025-07-25",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Kaiser Josef-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 829571",
+                        "source": "survey",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4474716,
+                          47.0684696
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "287506834",
+                        "osm_type": "node",
+                        "lat": 47.0745261,
+                        "lon": 15.4467633,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "31",
+                        "addr:postcode": "8010",
+                        "addr:street": "Glacisstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Glacis Apotheke",
+                        "phone": "+43 316 323392",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4467633,
+                          47.0745261
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "290419412",
+                        "osm_type": "node",
+                        "lat": 47.0688712,
+                        "lon": 15.455819,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "26",
+                        "addr:postcode": "8010",
+                        "addr:street": "Nibelungengasse",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2022-07-16",
+                        "contact:email": "office@apotheke-herz-jesu.at",
+                        "contact:fax": "+43 316 830629 19",
+                        "contact:phone": "+43 316 830629",
+                        "contact:website": "https://www.apotheke-herz-jesu.at/",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Herz-Jesu Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. pharm. Claudia Rodas Gruber",
+                        "payment:cash": "yes",
+                        "payment:maestro": "yes",
+                        "phone": "+43 316 830629",
+                        "ref:UID": "ATU68755457",
+                        "source": "survey",
+                        "wheelchair": "limited"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.455819,
+                          47.0688712
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "330268154",
+                        "osm_type": "node",
+                        "lat": 47.0707559,
+                        "lon": 15.4334824,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "7",
+                        "addr:postcode": "8020",
+                        "addr:street": "Südtiroler Platz",
+                        "amenity": "pharmacy",
+                        "changing_table": "yes",
+                        "check_date:opening_hours": "2025-06-06",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Mohren Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 713280",
+                        "website": "https://www.mohren-apotheke.at/",
+                        "wheelchair": "yes",
+                        "wikimedia_commons": "Category:Mohren-Apotheke, Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4334824,
+                          47.0707559
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "614244465",
+                        "osm_type": "node",
+                        "lat": 47.058092,
+                        "lon": 15.4525056,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "110",
+                        "addr:postcode": "8010",
+                        "addr:street": "Münzgrabenstraße",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2024-09-25",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Sankt Franziskus Apotheke",
+                        "official_name": "St. Franziskus Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 825062",
+                        "website": "https://www.franziskus-apotheke.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4525056,
+                          47.058092
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1363117568",
+                        "osm_type": "node",
+                        "lat": 47.068911,
+                        "lon": 15.4847145,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "121",
+                        "addr:postcode": "8010",
+                        "addr:street": "Waltendorfer Hauptstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "drive_through": "no",
+                        "healthcare": "pharmacy",
+                        "name": "Rothlauer-Apotheke",
+                        "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-12:00",
+                        "phone": "+43 316 422210",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4847145,
+                          47.068911
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1366481791",
+                        "osm_type": "node",
+                        "lat": 47.0660198,
+                        "lon": 15.4473291,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Münzgrabenstraße",
+                        "amenity": "pharmacy",
+                        "check_date": "2025-01-20",
+                        "check_date:opening_hours": "2025-01-20",
+                        "contact:email": "information@sanktanna.at",
+                        "contact:fax": "+43 316 830546-7",
+                        "contact:phone": "+43 316 830546",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Sankt Anna Apotheke",
+                        "official_name": "St. Anna Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. pharm. Bernhard Molitschnig KG",
+                        "source": "survey",
+                        "website": "https://www.sanktanna.at/",
+                        "wheelchair": "limited"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4473291,
+                          47.0660198
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1385105414",
+                        "osm_type": "node",
+                        "lat": 47.0339221,
+                        "lon": 15.4165608,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housename": "Center West",
+                        "addr:housenumber": "25",
+                        "addr:postcode": "8054",
+                        "addr:street": "Weblinger Gürtel",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Regenbogen Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:30",
+                        "phone": "+43 316 292979",
+                        "source": "survey",
+                        "website": "www.regenbogenapo.at",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4165608,
+                          47.0339221
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1411205653",
+                        "osm_type": "node",
+                        "lat": 47.0612129,
+                        "lon": 15.4440645,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "28",
+                        "addr:postcode": "8010",
+                        "addr:street": "Conrad-von-Hötzendorf-Straße",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2024-12-15",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Kronen-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 826226",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4440645,
+                          47.0612129
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1536753823",
+                        "osm_type": "node",
+                        "lat": 47.056431,
+                        "lon": 15.440727,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "106",
+                        "addr:postcode": "8010",
+                        "addr:street": "Schönaugasse",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2024-09-26",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Schönau-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-12:00",
+                        "phone": "+43 316 829249",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "kleine flache Rampe, Glastür relativ leicht zu öffnen. sehr nettes Personal!"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.440727,
+                          47.056431
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1587241611",
+                        "osm_type": "node",
+                        "lat": 47.0712022,
+                        "lon": 15.4386151,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "15",
+                        "addr:postcode": "8010",
+                        "addr:street": "Hauptplatz",
+                        "amenity": "pharmacy",
+                        "contact:email": "info@stadtapotheke-graz.at",
+                        "contact:phone": "+43 316 830566",
+                        "dispensing": "yes",
+                        "email": "info@stadtapotheke-graz.at",
+                        "healthcare": "pharmacy",
+                        "name": "Stadt Apotheke Graz",
+                        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00",
+                        "owner": "Stadt Apotheke Graz Dr. Brandner KG",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4386151,
+                          47.0712022
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1688884063",
+                        "osm_type": "node",
+                        "lat": 47.0719758,
+                        "lon": 15.4484958,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "6",
+                        "addr:postcode": "8010",
+                        "addr:street": "Leonhardstraße",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2022-11-06",
+                        "contact:phone": "+43 316 322129",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Zum Guten Hirten",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "source": "survey",
+                        "website": "http://www.apoguterhirte.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4484958,
+                          47.0719758
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824332865",
+                        "osm_type": "node",
+                        "lat": 47.0602128,
+                        "lon": 15.4264059,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "55",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lazarettgürtel",
+                        "amenity": "pharmacy",
+                        "contact:email": "apotic@aon.at",
+                        "contact:fax": "+43 316 76 48 09",
+                        "contact:phone": "+43 316 764778",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Apotheke im Citypark",
+                        "note": "level? war ebenerdig vom Parkhaus aus erreichbar",
+                        "operator": "Mag. pharm Reingart Paschke",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4264059,
+                          47.0602128
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824332892",
+                        "osm_type": "node",
+                        "lat": 47.0733424,
+                        "lon": 15.4295568,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "20",
+                        "addr:postcode": "8020",
+                        "addr:street": "Volksgartenstraße",
+                        "alt_name": "Apotheke zur Mariahilf",
+                        "amenity": "pharmacy",
+                        "contact:email": "office@mariahilf-apo.at",
+                        "contact:phone": "+43 316 713431",
+                        "contact:website": "http://www.mariahilf-apo.at/",
+                        "dispensing": "yes",
+                        "full_name": "Apotheke zur Mariahilf Graz",
+                        "healthcare": "pharmacy",
+                        "name": "Mariahilf Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Tu,Th 08:00-19:00; Sa 08:00-12:00",
+                        "operator": "Mag. Glaser KG"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4295568,
+                          47.0733424
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "6766563364",
+                        "osm_type": "node",
+                        "lat": 47.0386702,
+                        "lon": 15.395994,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "4",
+                        "addr:postcode": "8054",
+                        "addr:street": "Olga-Rudel-Zeynek-Gasse",
+                        "amenity": "pharmacy",
+                        "healthcare": "pharmacy",
+                        "name": "GreenCity Apotheke",
+                        "opening_hours": "off",
+                        "start_date": "2019-09-09"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.395994,
+                          47.0386702
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "8018565185",
+                        "osm_type": "node",
+                        "lat": 47.0455712,
+                        "lon": 15.4312337,
+                        "addr:city": "Graz",
+                        "addr:housenumber": "21",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lauzilgasse",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2023-07-02",
+                        "dispensing": "yes",
+                        "drive_through": "no",
+                        "healthcare": "pharmacy",
+                        "name": "Helios Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-12:00",
+                        "website": "https://www.heliosapotheke-graz.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4312337,
+                          47.0455712
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "8093147149",
+                        "osm_type": "node",
+                        "lat": 47.0671276,
+                        "lon": 15.4691003,
+                        "addr:city": "Graz",
+                        "addr:door": "4",
+                        "addr:housenumber": "31",
+                        "addr:postcode": "8010",
+                        "addr:street": "Waltendorfer Hauptstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "drive_through": "no",
+                        "email": "office@apotheke-waltendorf.at",
+                        "healthcare": "pharmacy",
+                        "level": "0",
+                        "name": "Apotheke Waltendorf",
+                        "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-12:00",
+                        "operator": "Mag. Pharm. Schramm",
+                        "phone": "+43316829216",
+                        "website": "https://www.elisabeth-apotheke.net",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4691003,
+                          47.0671276
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "11103297889",
+                        "osm_type": "node",
+                        "lat": 47.0506928,
+                        "lon": 15.3979712,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "101",
+                        "addr:postcode": "8052",
+                        "addr:street": "Peter-Rosegger-Straße",
+                        "amenity": "pharmacy",
+                        "contact:email": "info@apothekegraz.at",
+                        "contact:fax": "+43 316 28 41 56-4",
+                        "contact:phone": "+43 316 284156",
+                        "contact:website": "www.apothekegraz.at",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Peter Rosegger Apotheke",
+                        "ref:FB": "FN 9859 z. Graz",
+                        "ref:UID": "ATU27580506",
+                        "roof:shape": "flat",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "start_date": "2022",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.3979712,
+                          47.0506928
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "11956217126",
+                        "osm_type": "node",
+                        "lat": 47.0735467,
+                        "lon": 15.4187167,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "79",
+                        "addr:postcode": "8020",
+                        "addr:street": "Bahnhofgürtel",
+                        "amenity": "pharmacy",
+                        "contact:phone": "+43 316 715 135",
+                        "healthcare": "pharmacy",
+                        "name": "Bahnhof Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. Anna Katharina Wurzer",
+                        "website": "https://www.bahnhof-apo.at/kontakt/?v=fa868488740a",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4187167,
+                          47.0735467
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "bbox": {
+                    "south": 47.07507765625,
+                    "west": 15.3723859375,
+                    "north": 47.1163968125,
+                    "east": 15.491598875000001
+                  },
+                  "poiCount": 16,
+                  "leafCount": 16,
+                  "averagePosition": [
+                    15.4338569375,
+                    47.09030088125
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "39663366",
+                        "osm_type": "node",
+                        "lat": 47.0785075,
+                        "lon": 15.4274803,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "19",
+                        "addr:postcode": "8020",
+                        "addr:street": "Wiener Straße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Löwen-Apotheke",
+                        "phone": "+43 316 714691",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4274803,
+                          47.0785075
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "269444697",
+                        "osm_type": "node",
+                        "lat": 47.1048065,
+                        "lon": 15.4209552,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "52",
+                        "addr:postcode": "8045",
+                        "addr:street": "Andritzer Reichsstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Sankt Josef Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00",
+                        "payment:debit_cards": "yes",
+                        "payment:electronic_purses": "yes",
+                        "payment:mastercard": "yes",
+                        "payment:visa": "yes",
+                        "phone": "+43 316 691150",
+                        "website": "https://josef-apotheke.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4209552,
+                          47.1048065
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "270508841",
+                        "osm_type": "node",
+                        "lat": 47.0815179,
+                        "lon": 15.4044737,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "34",
+                        "addr:postcode": "8020",
+                        "addr:street": "Peter-Tunner-Gasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "entrance": "yes",
+                        "name": "Rosenapotheke",
+                        "phone": "+43 316 570070",
+                        "wheelchair": "limited"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4044737,
+                          47.0815179
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "369831948",
+                        "osm_type": "node",
+                        "lat": 47.1040588,
+                        "lon": 15.4867304,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "190",
+                        "addr:postcode": "8044",
+                        "addr:street": "Mariatroster Straße",
+                        "amenity": "pharmacy",
+                        "contact:phone": "+43 316 398939",
+                        "dispensing": "yes",
+                        "drive_through": "no",
+                        "healthcare": "pharmacy",
+                        "name": "Lebenskraft Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag. Illmayer KG",
+                        "website": "https://www.lebenskraft-apotheke.at/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4867304,
+                          47.1040588
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "435036437",
+                        "osm_type": "node",
+                        "lat": 47.1138914,
+                        "lon": 15.4240897,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8045",
+                        "addr:street": "Weinitzenstraße",
+                        "amenity": "pharmacy",
+                        "check_date": "2024-05-21",
+                        "contact:email": "info@antonius-apotheke-graz.at",
+                        "contact:fax": "+43 316 691377 4",
+                        "contact:mobile": "+43 664 1817677",
+                        "contact:phone": "+43 316 691377",
+                        "contact:website": "http://www.antonius-apotheke-graz.at/",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Antonius-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "operator": "Mag.ph. Baumheller-Gartner KG",
+                        "payment:cash": "yes",
+                        "payment:credit_cards": "yes",
+                        "payment:debit_cards": "yes",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4240897,
+                          47.1138914
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "456228213",
+                        "osm_type": "node",
+                        "lat": 47.0782049,
+                        "lon": 15.4445018,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Heinrichstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "entrance": "yes",
+                        "name": "Zur göttlichen Vorsehung",
+                        "opening_hours": "Tu-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00; Mo 08:00-24:00; Tu 00:00-08:00",
+                        "phone": "+43 316 321128",
+                        "source": "survey",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4445018,
+                          47.0782049
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "707416615",
+                        "osm_type": "node",
+                        "lat": 47.0848588,
+                        "lon": 15.4311225,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "69",
+                        "addr:postcode": "8010",
+                        "addr:street": "Theodor-Körner-Straße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Theodor-Körner-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 683494",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4311225,
+                          47.0848588
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1256979560",
+                        "osm_type": "node",
+                        "lat": 47.0789697,
+                        "lon": 15.4390827,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "1",
+                        "addr:postcode": "8010",
+                        "addr:street": "Wickenburggasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "entrance": "yes",
+                        "name": "Salvator Apotheke",
+                        "opening_hours": "Sa 08:00-12:00; Mo-Fr 08:00-12:30,14:30-18:00",
+                        "phone": "+43 316 830112",
+                        "wheelchair": "yes",
+                        "wikimedia_commons": "Category:Salvator-Apotheke, Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4390827,
+                          47.0789697
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1592712383",
+                        "osm_type": "node",
+                        "lat": 47.0937834,
+                        "lon": 15.4132267,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "77",
+                        "addr:postcode": "8051",
+                        "addr:street": "Augasse",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Kalvarien Apotheke",
+                        "phone": "+43 316 684266",
+                        "wheelchair": "limited",
+                        "wheelchair:description": "keine Stufe, aber Schwingtür nach außen"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4132267,
+                          47.0937834
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1688893177",
+                        "osm_type": "node",
+                        "lat": 47.0784413,
+                        "lon": 15.4637464,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Leonhardplatz",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2022-03-13",
+                        "contact:phone": "+43 316 322103",
+                        "contact:website": "www.leonhard-apotheke.com",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Apotheke zum Heiligen Leonhard",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "payment:cash": "yes",
+                        "payment:maestro": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4637464,
+                          47.0784413
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1790776942",
+                        "osm_type": "node",
+                        "lat": 47.0992453,
+                        "lon": 15.4168024,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8045",
+                        "addr:street": "Weinzöttlstraße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Apotheke Andritz",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
+                        "phone": "+43 316 672808",
+                        "source": "survey",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4168024,
+                          47.0992453
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1821307194",
+                        "osm_type": "node",
+                        "lat": 47.0905636,
+                        "lon": 15.4083534,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "215",
+                        "addr:postcode": "8051",
+                        "addr:street": "Wiener Straße",
+                        "amenity": "pharmacy",
+                        "contact:email": "office@janus-apotheke.at",
+                        "contact:fax": "+43 316 682143-13",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Janus-Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
+                        "operator": "Janus-Weinkopf Paschke KG Apotheke & Drogerie",
+                        "payment:credit_cards": "yes",
+                        "payment:debit_cards": "yes",
+                        "phone": "+43 316 682143",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "website": "https://www.janus-apotheke.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4083534,
+                          47.0905636
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824332860",
+                        "osm_type": "node",
+                        "lat": 47.104609,
+                        "lon": 15.3986029,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "351",
+                        "addr:postcode": "8051",
+                        "addr:street": "Wiener Straße",
+                        "amenity": "pharmacy",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "level": "0",
+                        "name": "Apotheke Graz Shopping Nord",
+                        "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:00-17:00",
+                        "phone": "+43 316 670747",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.3986029,
+                          47.104609
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824332899",
+                        "osm_type": "node",
+                        "lat": 47.0785533,
+                        "lon": 15.473772,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8047",
+                        "addr:street": "Ragnitzstraße",
+                        "amenity": "pharmacy",
+                        "contact:phone": "+43 316 322050",
+                        "contact:website": "https://www.casamedica.at/",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy",
+                        "name": "Casa Medica Apotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:30-12:30",
+                        "operator": "Mag. pharm. Dr. Sabine Peyer (Casa Medica Apotheke Dr. Peyer KG)",
+                        "source": "Stadt Graz - data.graz.gv.at, österr. Apothekerkammer - apothekerkammer.at",
+                        "survey:date": "2020-01-25",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.473772,
+                          47.0785533
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "8852915683",
+                        "osm_type": "node",
+                        "lat": 47.0753967,
+                        "lon": 15.4131148,
+                        "addr:housenumber": "47",
+                        "addr:street": "Waagner-Biro-Straße",
+                        "amenity": "pharmacy",
+                        "check_date:opening_hours": "2023-02-03",
+                        "healthcare": "pharmacy",
+                        "name": "Turmapotheke",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43316575199"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4131148,
+                          47.0753967
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "12738945789",
+                        "osm_type": "node",
+                        "lat": 47.099406,
+                        "lon": 15.4756561,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "142a",
+                        "addr:postcode": "8044",
+                        "addr:street": "Mariatroster Straße",
+                        "amenity": "pharmacy",
+                        "healthcare": "pharmacy",
+                        "name": "Apotheke am Rettenbach",
+                        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                        "phone": "+43 316 39 28 80",
+                        "website": "https://apotheke-amrettenbach.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4756561,
+                          47.099406
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "bbox": {
+                "south": 47.033758500000005,
+                "west": 15.491598875000001,
+                "north": 47.1163968125,
+                "east": 15.73002475
+              },
+              "poiCount": 6,
+              "leafCount": 6,
+              "averagePosition": [
+                15.596556833333333,
+                47.08439906666666
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "337284593",
+                    "osm_type": "node",
+                    "lat": 47.0770127,
+                    "lon": 15.4968559,
+                    "addr:city": "Graz",
+                    "addr:country": "AT",
+                    "addr:housenumber": "177",
+                    "addr:postcode": "8047",
+                    "addr:street": "Ragnitzstraße",
+                    "amenity": "pharmacy",
+                    "check_date": "2024-06-18",
+                    "contact:email": "apotheke.ragnitz@aon.at",
+                    "contact:fax": "+43 316 30 13 05-15",
+                    "contact:phone": "+43 316 301305",
+                    "dispensing": "yes",
+                    "healthcare": "pharmacy",
+                    "name": "Apotheke Ragnitz",
+                    "shop": "chemist",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.4968559,
+                      47.0770127
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "7402771705",
+                    "osm_type": "node",
+                    "lat": 47.0439619,
+                    "lon": 15.5196181,
+                    "amenity": "pharmacy",
+                    "dispensing": "yes",
+                    "email": "info@apotheke-hart.at",
+                    "healthcare": "pharmacy",
+                    "name": "Apotheke Hart",
+                    "opening_hours": "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-12:00",
+                    "phone": "+43 316 207120",
+                    "start_date": "2014",
+                    "website": "https://www.apotheke-hart.at",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5196181,
+                      47.0439619
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1420047361",
+                    "osm_type": "node",
+                    "lat": 47.1054445,
+                    "lon": 15.7055269,
+                    "addr:city": "Gleisdorf",
+                    "addr:country": "AT",
+                    "addr:housenumber": "27",
+                    "addr:postcode": "8200",
+                    "addr:street": "Ludwig-Binder-Straße",
+                    "amenity": "pharmacy",
+                    "contact:email": "raabtal.apotheke@aon.at",
+                    "contact:phone": "+43 3112 56 00",
+                    "dispensing": "yes",
+                    "healthcare": "pharmacy",
+                    "name": "Raabtal Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-12:00",
+                    "ref:ogdsteiermark": "83",
+                    "website": "https://www.raabtal-apotheke.at/",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.7055269,
+                      47.1054445
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6435821806",
+                    "osm_type": "node",
+                    "lat": 47.1050847,
+                    "lon": 15.7116341,
+                    "addr:city": "Gleisdorf",
+                    "addr:country": "AT",
+                    "addr:housenumber": "8",
+                    "addr:postcode": "8200",
+                    "addr:street": "Florianiplatz",
+                    "amenity": "pharmacy",
+                    "contact:email": "office@apotheke-mayr.com",
+                    "contact:phone": "+43 3112 2469",
+                    "healthcare": "pharmacy",
+                    "name": "Stadt-Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-12:00",
+                    "ref:ogdsteiermark": "82",
+                    "source": "geoimage.at",
+                    "toilets:wheelchair": "no",
+                    "website": "http://www.apotheke-mayr.com/",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.7116341,
+                      47.1050847
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6436554659",
+                    "osm_type": "node",
+                    "lat": 47.0751371,
+                    "lon": 15.5886816,
+                    "addr:city": "Laßnitzhöhe",
+                    "addr:country": "AT",
+                    "addr:housenumber": "66",
+                    "addr:postcode": "8301",
+                    "addr:street": "Hauptstraße",
+                    "amenity": "pharmacy",
+                    "contact:phone": "+43 3133 24 56",
+                    "healthcare": "pharmacy",
+                    "name": "Kur Apotheke",
+                    "opening_hours": "Mo-Th 08:00-18:30; Tu,Fr 08:00-18:00; Sa 08:00-12:00",
+                    "ref:ogdsteiermark": "94",
+                    "source": "geoimage.at",
+                    "website": "https://www.kur-apotheke.cc/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5886816,
+                      47.0751371
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10012243413",
+                    "osm_type": "node",
+                    "lat": 47.0997535,
+                    "lon": 15.5570244,
+                    "amenity": "pharmacy",
+                    "healthcare": "pharmacy",
+                    "name": "Apotheke Kainbach",
+                    "website": "http://apotheke-kainbach.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5570244,
+                      47.0997535
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.1163968125,
+                "west": 15.253173,
+                "north": 47.199035125,
+                "east": 15.491598875000001
+              },
+              "poiCount": 3,
+              "leafCount": 3,
+              "averagePosition": [
+                15.3331152,
+                47.126704933333336
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "289426247",
+                    "osm_type": "node",
+                    "lat": 47.116692,
+                    "lon": 15.3421093,
+                    "addr:city": "Gratwein-Straßengel",
+                    "addr:country": "AT",
+                    "addr:housenumber": "19",
+                    "addr:postcode": "8111",
+                    "addr:street": "Gratweiner Straße",
+                    "amenity": "pharmacy",
+                    "contact:phone": "+43 3124 522 10",
+                    "dispensing": "yes",
+                    "healthcare": "pharmacy",
+                    "name": "Flora-Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00",
+                    "ref:ogdsteiermark": "72",
+                    "website": "https://www.flora-apotheke.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.3421093,
+                      47.116692
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2312451805",
+                    "osm_type": "node",
+                    "lat": 47.1342581,
+                    "lon": 15.3373631,
+                    "addr:city": "Gratkorn",
+                    "addr:housenumber": "12",
+                    "addr:postcode": "8101",
+                    "addr:street": "Brucker Straße",
+                    "addr:suburb": "Kirchenviertel",
+                    "amenity": "pharmacy",
+                    "contact:phone": "+43 3124 222 36",
+                    "healthcare": "pharmacy",
+                    "name": "Donatus-Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00",
+                    "ref:ogdsteiermark": "71",
+                    "website": "http://www.donatus.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.3373631,
+                      47.1342581
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2312451807",
+                    "osm_type": "node",
+                    "lat": 47.1291647,
+                    "lon": 15.3198732,
+                    "addr:city": "Gratwein",
+                    "addr:country": "AT",
+                    "addr:housenumber": "3",
+                    "addr:postcode": "8112",
+                    "addr:street": "Bahnhofstraße",
+                    "amenity": "pharmacy",
+                    "contact:phone": "+43 3124 521 36",
+                    "healthcare": "pharmacy",
+                    "name": "Fischer Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00",
+                    "ref:ogdsteiermark": "73",
+                    "website": "https://www.fischer-apotheke.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.3198732,
+                      47.1291647
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.1163968125,
+                "west": 15.491598875000001,
+                "north": 47.199035125,
+                "east": 15.73002475
+              },
+              "poiCount": 3,
+              "leafCount": 3,
+              "averagePosition": [
+                15.604956566666667,
+                47.141101
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "964007546",
+                    "osm_type": "node",
+                    "lat": 47.1458828,
+                    "lon": 15.5488557,
+                    "addr:city": "Kumberg",
+                    "addr:country": "AT",
+                    "addr:housenumber": "48i",
+                    "addr:postcode": "8062",
+                    "addr:street": "Grazer Straße",
+                    "amenity": "pharmacy",
+                    "at_bev:addr_date": "2018-10-01",
+                    "contact:phone": "+43 3132 21177",
+                    "dispensing": "yes",
+                    "drive_through": "no",
+                    "healthcare": "pharmacy",
+                    "level": "0",
+                    "name": "Apotheke Kumberg",
+                    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                    "phone": "+43313221177",
+                    "website": "http://www.apotheke-kumberg.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5488557,
+                      47.1458828
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2312451808",
+                    "osm_type": "node",
+                    "lat": 47.1247356,
+                    "lon": 15.6033863,
+                    "addr:city": "Eggersdorf bei Graz",
+                    "addr:housenumber": "33",
+                    "addr:postcode": "8063",
+                    "addr:street": "Hauptstraße",
+                    "amenity": "pharmacy",
+                    "contact:phone": "+43 3117 279 88",
+                    "dispensing": "yes",
+                    "drive_through": "no",
+                    "healthcare": "pharmacy",
+                    "name": "Planeten Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-18:00; We 08:00-19:00; Sa 08:00-12:00",
+                    "ref:ogdsteiermark": "63",
+                    "website": "https://www.planetenapotheke.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.6033863,
+                      47.1247356
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2343317020",
+                    "osm_type": "node",
+                    "lat": 47.1526846,
+                    "lon": 15.6626277,
+                    "addr:country": "AT",
+                    "addr:housenumber": "25",
+                    "addr:postcode": "8181",
+                    "addr:street": "Untere Hauptstraße",
+                    "amenity": "pharmacy",
+                    "contact:email": "office@marktapotheke.at",
+                    "contact:phone": "+43 3178 28311",
+                    "healthcare": "pharmacy",
+                    "name": "Zur Markt Apotheke",
+                    "opening_hours": "Mo-Fr 08:00-12:30, 15:00-18:00; Sa 08:00-12:00",
+                    "website": "https://marktapotheke.at/impressum/",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.6626277,
+                      47.1526846
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.73002475,
+            "north": 47.199035125,
+            "east": 16.2068765
+          },
+          "poiCount": 6,
+          "leafCount": 6,
+          "averagePosition": [
+            15.978811133333332,
+            47.10321158333333
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1838705344",
+                "osm_type": "node",
+                "lat": 47.0870195,
+                "lon": 15.9225613,
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3385 77 57",
+                "healthcare": "pharmacy",
+                "name": "Jacobus-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Sa 15:00-18:00, Sa 08:00-12:00",
+                "ref:ogdsteiermark": "90",
+                "website": "http://www.jacobus-apotheke.at/impressum/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9225613,
+                  47.0870195
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2313566013",
+                "osm_type": "node",
+                "lat": 47.1726805,
+                "lon": 15.8069712,
+                "addr:city": "Pischelsdorf am Kulm",
+                "addr:housenumber": "59",
+                "addr:place": "Pischelsdorf",
+                "addr:postcode": "8212",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3113 8330-0",
+                "healthcare": "pharmacy",
+                "name": "Kulmland Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "84",
+                "website": "https://kulmlandapotheke.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8069712,
+                  47.1726805
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5888692318",
+                "osm_type": "node",
+                "lat": 47.1021215,
+                "lon": 15.8205459,
+                "amenity": "pharmacy",
+                "healthcare": "pharmacy",
+                "name": "Apotheke Sinabelkirchen",
+                "opening_hours": "Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:00-12:00",
+                "website": "https://apotheke-sinabelkirchen.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8205459,
+                  47.1021215
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2313499732",
+                "osm_type": "node",
+                "lat": 47.0476041,
+                "lon": 16.0802799,
+                "addr:city": "Fürstenfeld",
+                "addr:housenumber": "5",
+                "addr:postcode": "8280",
+                "addr:street": "Stadt-Zug-Platz",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 316 71 11 47",
+                "healthcare": "pharmacy",
+                "name": "Panther-Apotheke",
+                "ref:ogdsteiermark": "93"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0802799,
+                  47.0476041
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2313499733",
+                "osm_type": "node",
+                "lat": 47.0504702,
+                "lon": 16.0760807,
+                "addr:city": "Fürstenfeld",
+                "addr:country": "AT",
+                "addr:housenumber": "14",
+                "addr:postcode": "8280",
+                "addr:street": "Hauptplatz",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3382 524 17",
+                "healthcare": "pharmacy",
+                "name": "Stadt-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "92",
+                "website": "https://www.stadtapotheke-fuerstenfeld.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0760807,
+                  47.0504702
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4244144060",
+                "osm_type": "node",
+                "lat": 47.1593737,
+                "lon": 16.1664278,
+                "addr:housenumber": "14",
+                "addr:postcode": "7551",
+                "addr:street": "Hauptplatz",
+                "amenity": "pharmacy",
+                "name": "Salvator-Apotheke",
+                "phone": "+43 3326 52310"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1664278,
+                  47.1593737
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.253173,
+            "north": 47.36431175,
+            "east": 15.73002475
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            15.528385418181818,
+            47.25066667272727
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "285861268",
+                "osm_type": "node",
+                "lat": 47.1993653,
+                "lon": 15.3370693,
+                "addr:city": "Deutschfeistritz",
+                "addr:country": "AT",
+                "addr:housenumber": "21",
+                "addr:postcode": "8121",
+                "addr:street": "Übelbacherstraße",
+                "amenity": "pharmacy",
+                "at_bev:addr_date": "2016-10-02",
+                "contact:phone": "+43 3127 42500-0",
+                "healthcare": "pharmacy",
+                "name": "Marien-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "74",
+                "website": "https://www.apotheke-deutschfeistritz.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3370693,
+                  47.1993653
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2312451806",
+                "osm_type": "node",
+                "lat": 47.2712549,
+                "lon": 15.3272725,
+                "addr:city": "Frohnleiten",
+                "addr:country": "AT",
+                "addr:housenumber": "41",
+                "addr:postcode": "8130",
+                "addr:street": "Hauptplatz",
+                "amenity": "pharmacy",
+                "at_bev:addr_date": "2018-10-01",
+                "contact:phone": "+43 3126 24 41",
+                "healthcare": "pharmacy",
+                "name": "Engel-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "75",
+                "website": "https://www.apotheke-frohnleiten.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3272725,
+                  47.2712549
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4159497789",
+                "osm_type": "node",
+                "lat": 47.2814616,
+                "lon": 15.5147357,
+                "addr:city": "Passail",
+                "addr:country": "AT",
+                "addr:housenumber": "12",
+                "addr:postcode": "8162",
+                "addr:street": "Markt",
+                "amenity": "pharmacy",
+                "contact:email": "office@almenlandapotheke.at",
+                "contact:phone": "+433179 23 042",
+                "healthcare": "pharmacy",
+                "name": "Almenland Apotheke",
+                "opening_hours": "Mo-Fr 07:30-12:30,14:30-18:00; Tu,We 07:30-12:30,14:30-18:30; Sa 08:00-12:00",
+                "website": "https://www.almenlandapotheke.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5147357,
+                  47.2814616
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6436506053",
+                "osm_type": "node",
+                "lat": 47.2659737,
+                "lon": 15.316661,
+                "addr:city": "Frohnleiten",
+                "addr:country": "AT",
+                "addr:housenumber": "30",
+                "addr:postcode": "8130",
+                "addr:street": "Römerstraße",
+                "amenity": "pharmacy",
+                "at_bev:addr_date": "2016-10-02",
+                "healthcare": "pharmacy",
+                "name": "mur apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:00; Th 08:00-12:30,15:00-20:00; Sa 08:00-12:00",
+                "website": "https://www.murapotheke.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.316661,
+                  47.2659737
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6436522438",
+                "osm_type": "node",
+                "lat": 47.2007793,
+                "lon": 15.3461934,
+                "addr:city": "Peggau",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "8120",
+                "addr:street": "Karl Thomann-Straße",
+                "amenity": "pharmacy",
+                "at_bev:addr_date": "2018-10-01",
+                "healthcare": "pharmacy",
+                "name": "Marien-Apotheke Filiale Peggau",
+                "opening_hours": "Mo 08:00-12:30,15:00-18:00; Tu-Fr 08:00-12:30; Th 15:00-18:00; Sa 08:00-12:00",
+                "website": "https://www.apotheke-deutschfeistritz.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3461934,
+                  47.2007793
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "352653439",
+                "osm_type": "node",
+                "lat": 47.3544435,
+                "lon": 15.6923175,
+                "addr:city": "Birkfeld",
+                "addr:housenumber": "2",
+                "addr:postcode": "8190",
+                "addr:street": "Berggasse",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3174 45 15",
+                "healthcare": "pharmacy",
+                "name": "St. Petrus Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30; 14:00-18:00; Sa 07:30-12:00",
+                "ref:ogdsteiermark": "81",
+                "website": "https://www.apotheke-birkfeld.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6923175,
+                  47.3544435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "352956703",
+                "osm_type": "node",
+                "lat": 47.2723626,
+                "lon": 15.6953943,
+                "addr:city": "Anger",
+                "addr:housenumber": "2",
+                "addr:postcode": "8184",
+                "addr:street": "Pettauer Straße",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3175 715 00",
+                "healthcare": "pharmacy",
+                "name": "Andreas-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "80",
+                "website": "https://www.ribul.at/home.html",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6953943,
+                  47.2723626
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1394760636",
+                "osm_type": "node",
+                "lat": 47.2170592,
+                "lon": 15.6266894,
+                "addr:city": "Weiz",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "8160",
+                "addr:street": "Birkfelder Straße",
+                "amenity": "pharmacy",
+                "dispensing": "yes",
+                "healthcare": "pharmacy",
+                "name": "Paracelsus Apotheke",
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:30",
+                "operator": "Mag. Pharm. Roland Palten",
+                "phone": "+43 3172 3650-0",
+                "ref:ogdsteiermark": "78",
+                "website": "http://www.paracelsus-weiz.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6266894,
+                  47.2170592
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2497021588",
+                "osm_type": "node",
+                "lat": 47.2727862,
+                "lon": 15.6925602,
+                "addr:country": "AT",
+                "addr:housenumber": "11",
+                "addr:postcode": "8184",
+                "addr:street": "Wassergartenweg",
+                "amenity": "pharmacy",
+                "healthcare": "pharmacy",
+                "name": "Dr. Marianne Gehrig- Allgemeinmedizin"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6925602,
+                  47.2727862
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5936691706",
+                "osm_type": "node",
+                "lat": 47.2071405,
+                "lon": 15.6383871,
+                "addr:city": "Weiz",
+                "addr:country": "AT",
+                "addr:housenumber": "14",
+                "addr:postcode": "8160",
+                "addr:street": "Kaplanweg",
+                "amenity": "pharmacy",
+                "email": "office@apothekeweiz.at",
+                "healthcare": "pharmacy",
+                "name": "Apotheke Weiz",
+                "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
+                "phone": "+43 3172 42200",
+                "website": "http://www.apothekeweiz.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6383871,
+                  47.2071405
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6434521045",
+                "osm_type": "node",
+                "lat": 47.2147066,
+                "lon": 15.6249592,
+                "amenity": "pharmacy",
+                "email": "office@steirerapotheke.at",
+                "healthcare": "pharmacy",
+                "name": "Steirer Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 09:00-12:00",
+                "phone": "+43 3172 42100",
+                "website": "https://www.steirerapotheke.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6249592,
+                  47.2147066
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.73002475,
+            "north": 47.36431175,
+            "east": 16.2068765
+          },
+          "poiCount": 2,
+          "leafCount": 2,
+          "averagePosition": [
+            15.971758000000001,
+            47.281358600000004
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "451712013",
+                "osm_type": "node",
+                "lat": 47.2820769,
+                "lon": 15.9746492,
+                "addr:city": "Hartberg",
+                "addr:housenumber": "48",
+                "addr:postcode": "8230",
+                "addr:street": "Ressavarstraße",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 316 27 15 96",
+                "contact:website": "www.paracelsus-apotheke.co.at",
+                "dispensing": "yes",
+                "healthcare": "pharmacy",
+                "name": "Paracelsus-Apotheke",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00",
+                "ref:ogdsteiermark": "87"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9746492,
+                  47.2820769
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "451712135",
+                "osm_type": "node",
+                "lat": 47.2806403,
+                "lon": 15.9688668,
+                "addr:city": "Hartberg",
+                "addr:housenumber": "2",
+                "addr:postcode": "8230",
+                "addr:street": "Kirchengasse",
+                "amenity": "pharmacy",
+                "contact:phone": "+43 3332 623 65",
+                "dispensing": "yes",
+                "healthcare": "pharmacy",
+                "name": "Apotheke \"Zum Schwarzen Bären\"",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00;Sa 08:00-12:00",
+                "ref:ogdsteiermark": "86",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9688668,
+                  47.2806403
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 16.2068765,
+        "north": 47.36431175,
+        "east": 17.16058
+      },
+      "poiCount": 30,
+      "leafCount": 30,
+      "averagePosition": [
+        16.64253124,
+        47.21078848333333
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "685258550",
+            "osm_type": "node",
+            "lat": 47.283824,
+            "lon": 16.2069294,
+            "addr:city": "Oberwart",
+            "addr:country": "AT",
+            "addr:housenumber": "28",
+            "addr:postcode": "7400",
+            "addr:street": "Schulgasse",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3352 32371",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Kronenapotheke",
+            "opening_hours": "Mo-Sa 07:30-18:30; Sa 07:30-13:00",
+            "website": "https://www.kronen.apo.or.at/de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2069294,
+              47.283824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "964754333",
+            "osm_type": "node",
+            "lat": 47.3348402,
+            "lon": 16.2306007,
+            "addr:city": "Bad Tatzmannsdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "7431",
+            "addr:street": "Parkstraße",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Bad Tatzmannsdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2306007,
+              47.3348402
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "971987340",
+            "osm_type": "node",
+            "lat": 47.0592043,
+            "lon": 16.3241774,
+            "addr:city": "Güssing",
+            "addr:housenumber": "4",
+            "addr:postcode": "7540",
+            "addr:street": "Pater Gratian Leser-Straße",
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "healthcare": "pharmacy",
+            "name": "Diana Apotheke",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3241774,
+              47.0592043
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1345855952",
+            "osm_type": "node",
+            "lat": 47.1605599,
+            "lon": 16.4476544,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Dr. Moser"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4476544,
+              47.1605599
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1878360864",
+            "osm_type": "node",
+            "lat": 47.305506,
+            "lon": 16.4410616,
+            "addr:country": "AT",
+            "addr:housename": "Engel Apotheke",
+            "addr:housenumber": "2",
+            "addr:postcode": "7471",
+            "addr:street": "Hauptplatz",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Engel Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30",
+            "website": "https://www.apotheke-rechnitz.at/",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4410616,
+              47.305506
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5888692302",
+            "osm_type": "node",
+            "lat": 47.2408412,
+            "lon": 16.315056,
+            "addr:city": "Großpetersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "7503",
+            "addr:street": "Rosengasse",
+            "amenity": "pharmacy",
+            "at_bev:addr_date": "2020-10-01",
+            "healthcare": "pharmacy",
+            "name": "Schutzengel-Apotheke"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.315056,
+              47.2408412
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12556165801",
+            "osm_type": "node",
+            "lat": 47.3352704,
+            "lon": 16.2212801,
+            "addr:city": "Oberschützen",
+            "addr:country": "AT",
+            "addr:housenumber": "51a",
+            "addr:postcode": "7432",
+            "addr:street": "Tatzmannsdorfer Straße",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Oberschützen",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00",
+            "operator": "Mag.pharm. Doris Pieler KG",
+            "phone": "+43 3353 7526",
+            "website": "https://www.apotheke-oberschuetzen.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2212801,
+              47.3352704
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1780492974",
+            "osm_type": "node",
+            "lat": 47.2312414,
+            "lon": 16.6238626,
+            "addr:city": "Szombathely",
+            "addr:housenumber": "31",
+            "addr:postcode": "9700",
+            "addr:street": "Fő tér",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Kígyó Gyógyszertár",
+            "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-19:00",
+            "source": "survey; Bing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6238626,
+              47.2312414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2436726609",
+            "osm_type": "node",
+            "lat": 47.2378786,
+            "lon": 16.6254939,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Pelikán Gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6254939,
+              47.2378786
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2772162298",
+            "osm_type": "node",
+            "lat": 47.1269358,
+            "lon": 16.8417233,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8417233,
+              47.1269358
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2925252051",
+            "osm_type": "node",
+            "lat": 47.2205946,
+            "lon": 16.629319,
+            "addr:city": "Szombathely",
+            "addr:housenumber": "14",
+            "addr:postcode": "9700",
+            "addr:street": "Gábor Áron utca",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Rókus Gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.629319,
+              47.2205946
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2937134446",
+            "osm_type": "node",
+            "lat": 47.2147848,
+            "lon": 16.6228534,
+            "amenity": "pharmacy",
+            "brand": "Benu",
+            "dispensing": "yes",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6228534,
+              47.2147848
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3041616547",
+            "osm_type": "node",
+            "lat": 47.0695686,
+            "lon": 16.7433691,
+            "addr:city": "Rábahídvég",
+            "addr:housenumber": "36",
+            "addr:postcode": "9777",
+            "addr:street": "Bertha György utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "opening_hours": "Mo,We 08:30-12:00; Th 14:00-17:00",
+            "website": "https://www.rabahidveg.hu/index.php/intezmenyek/orvosi-rendel-es-gyogyszertar.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7433691,
+              47.0695686
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3085879668",
+            "osm_type": "node",
+            "lat": 47.048792,
+            "lon": 16.8015301,
+            "amenity": "pharmacy",
+            "check_date": "2024-03-30",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Hegyháti patika",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8015301,
+              47.048792
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3181686870",
+            "osm_type": "node",
+            "lat": 47.2106164,
+            "lon": 16.8983754,
+            "amenity": "pharmacy",
+            "dispensing": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8983754,
+              47.2106164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3194457748",
+            "osm_type": "node",
+            "lat": 47.0871106,
+            "lon": 16.6132106,
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6132106,
+              47.0871106
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3210697646",
+            "osm_type": "node",
+            "lat": 47.2361893,
+            "lon": 16.6380647,
+            "addr:city": "Szombathely",
+            "addr:housenumber": "20",
+            "addr:postcode": "9700",
+            "addr:street": "Zanati út",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Elefánt gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6380647,
+              47.2361893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3262983174",
+            "osm_type": "node",
+            "lat": 47.2390033,
+            "lon": 16.6062591,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Fagyöngy Gyógyszertár",
+            "opening_hours": "Mo-Fr 08:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6062591,
+              47.2390033
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3295505100",
+            "osm_type": "node",
+            "lat": 47.0492178,
+            "lon": 16.8001639,
+            "amenity": "pharmacy",
+            "check_date": "2024-03-30",
+            "contact:phone": "+36 94 573 227",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "name": "Szentháromság Gyógyszertár",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8001639,
+              47.0492178
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3397038473",
+            "osm_type": "node",
+            "lat": 47.2411694,
+            "lon": 16.5908224,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Panacea Gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5908224,
+              47.2411694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3426689783",
+            "osm_type": "node",
+            "lat": 47.2215766,
+            "lon": 16.6135593,
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "healthcare": "pharmacy",
+            "name": "Margaréta gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6135593,
+              47.2215766
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3471878055",
+            "osm_type": "node",
+            "lat": 47.2289188,
+            "lon": 16.6168187,
+            "addr:city": "Szombathely",
+            "addr:housenumber": "4",
+            "addr:postcode": "9700",
+            "addr:street": "Óperint utca",
+            "amenity": "pharmacy",
+            "name": "Őrangyal gyógyszertár",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6168187,
+              47.2289188
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3474961396",
+            "osm_type": "node",
+            "lat": 47.280693,
+            "lon": 16.597375,
+            "amenity": "pharmacy",
+            "source": "turistautak.hu",
+            "source:date": "2011-09-06",
+            "url": "http://turistautak.hu/poi.php?id=49404"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.597375,
+              47.280693
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3665247754",
+            "osm_type": "node",
+            "lat": 47.2349322,
+            "lon": 16.633068,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Szent Rita Gyógyszertár",
+            "opening_hours": "Mo-Fr 08:00-17:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.633068,
+              47.2349322
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4477462790",
+            "osm_type": "node",
+            "lat": 47.2322669,
+            "lon": 16.6295465,
+            "addr:city": "Szombathely",
+            "addr:housenumber": "18",
+            "addr:postcode": "9700",
+            "addr:street": "Szent Márton utca",
+            "amenity": "pharmacy",
+            "name": "Szent Márton Gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6295465,
+              47.2322669
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4958449105",
+            "osm_type": "node",
+            "lat": 47.2464746,
+            "lon": 16.9569242,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9569242,
+              47.2464746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5815140556",
+            "osm_type": "node",
+            "lat": 47.1409222,
+            "lon": 16.5801735,
+            "amenity": "pharmacy",
+            "description": "pharmacy / apotheke / gyógyszertár",
+            "dispensing": "yes",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5801735,
+              47.1409222
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "293138784",
+            "osm_type": "node",
+            "lat": 47.2589448,
+            "lon": 17.1522815,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Kiscelli Patika",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1522815,
+              47.2589448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "293435566",
+            "osm_type": "node",
+            "lat": 47.2558473,
+            "lon": 17.153103,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Szent Márton Gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.153103,
+              47.2558473
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7852621922",
+            "osm_type": "node",
+            "lat": 47.2899295,
+            "lon": 17.1212804,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1212804,
+              47.2899295
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 15.253173,
+        "north": 47.694865,
+        "east": 16.2068765
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        15.627542410526315,
+        47.50610732631579
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4817915182",
+            "osm_type": "node",
+            "lat": 47.3717421,
+            "lon": 16.1225405,
+            "addr:city": "Pinkafeld",
+            "addr:country": "AT",
+            "addr:housenumber": "12-13",
+            "addr:postcode": "7423",
+            "addr:street": "Hauptplatz",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Apotheke \"Zum Salvator\"",
+            "website": "https://apotheke-pinkafeld.at/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1225405,
+              47.3717421
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "353152089",
+            "osm_type": "node",
+            "lat": 47.4113425,
+            "lon": 15.2708615,
+            "addr:city": "Bruck an der Mur",
+            "addr:housenumber": "11",
+            "addr:postcode": "8600",
+            "addr:street": "Herzog-Ernst-Gasse",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3382 524 17",
+            "healthcare": "pharmacy",
+            "name": "Stadtapotheke",
+            "ref:ogdsteiermark": "133",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2708615,
+              47.4113425
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "353152381",
+            "osm_type": "node",
+            "lat": 47.4094125,
+            "lon": 15.2640092,
+            "addr:city": "Bruck an der Mur",
+            "addr:housenumber": "10",
+            "addr:postcode": "8600",
+            "addr:street": "Bergstraße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3862 523 19",
+            "healthcare": "pharmacy",
+            "name": "Landskron Apotheke",
+            "ref:ogdsteiermark": "132"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2640092,
+              47.4094125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "884459438",
+            "osm_type": "node",
+            "lat": 47.4322037,
+            "lon": 15.2713442,
+            "addr:city": "Kapfenberg-Diemlach",
+            "addr:country": "AT",
+            "addr:housenumber": "79",
+            "addr:postcode": "8605",
+            "addr:street": "Grazer Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3862 22317",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Diemlach",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "ref:ogdsteiermark": "135",
+            "source": "survey",
+            "website": "https://www.apotheke-diemlach.at",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2713442,
+              47.4322037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "951300714",
+            "osm_type": "node",
+            "lat": 47.44783,
+            "lon": 15.3062328,
+            "addr:city": "Kapfenberg",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "8605",
+            "addr:street": "Grillparzerstraße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3862 282 88",
+            "healthcare": "pharmacy",
+            "name": "Aesculap-Apotheke Walfersam",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "phone": "+43 3862 28288",
+            "ref:ogdsteiermark": "136",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3062328,
+              47.44783
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1891102323",
+            "osm_type": "node",
+            "lat": 47.4664285,
+            "lon": 15.3419496,
+            "addr:city": "Kapfenberg",
+            "addr:housenumber": "7",
+            "addr:postcode": "8605",
+            "addr:street": "Siegfried-Marcus-Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3862 32500",
+            "healthcare": "pharmacy",
+            "name": "Lebenswert Apotheke",
+            "ref:ogdsteiermark": "138"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3419496,
+              47.4664285
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2311685463",
+            "osm_type": "node",
+            "lat": 47.4749373,
+            "lon": 15.3719872,
+            "addr:city": "Sankt Marein im Mürztal",
+            "addr:housenumber": "1",
+            "addr:postcode": "8641",
+            "addr:street": "Landstraße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3864 37 36",
+            "healthcare": "pharmacy",
+            "name": "Bernhard-Apotheke",
+            "ref:ogdsteiermark": "143"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3719872,
+              47.4749373
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2311685466",
+            "osm_type": "node",
+            "lat": 47.5059861,
+            "lon": 15.4494311,
+            "addr:city": "Kindberg",
+            "addr:housenumber": "28",
+            "addr:postcode": "8650",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3865 25 84",
+            "healthcare": "pharmacy",
+            "name": "Zum heiligen Josef",
+            "ref:ogdsteiermark": "144"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4494311,
+              47.5059861
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2311685467",
+            "osm_type": "node",
+            "lat": 47.465117,
+            "lon": 15.3279402,
+            "addr:city": "Kapfenberg",
+            "addr:housenumber": "9",
+            "addr:postcode": "8605",
+            "addr:street": "Hugo-Wolf-Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3862 313 80",
+            "contact:website": "http://www.apotheke-schirmitz.com/",
+            "name": "Zur den heiligen Kosmas und Damian",
+            "opening_hours": "Mo-Sa 08:00-12:00, Mo-Fr 14:30-18:00",
+            "ref:ogdsteiermark": "137"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3279402,
+              47.465117
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2311685468",
+            "osm_type": "node",
+            "lat": 47.5324566,
+            "lon": 15.5119486,
+            "addr:city": "Mitterdorf im Mürztal",
+            "addr:housenumber": "69",
+            "addr:postcode": "8662",
+            "addr:street": "Grazer Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3858 61 60",
+            "name": "Zur heiligen Barbara",
+            "ref:ogdsteiermark": "145"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5119486,
+              47.5324566
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "364978072",
+            "osm_type": "node",
+            "lat": 47.5685232,
+            "lon": 15.6207513,
+            "addr:city": "Langenwang",
+            "addr:housenumber": "10",
+            "addr:postcode": "8665",
+            "addr:street": "Grazer Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3175 715 00",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Andreas-Apotheke",
+            "ref:ogdsteiermark": "146"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6207513,
+              47.5685232
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "874502376",
+            "osm_type": "node",
+            "lat": 47.6060199,
+            "lon": 15.674668,
+            "addr:city": "Mürzzuschlag",
+            "addr:housenumber": "27",
+            "addr:postcode": "8680",
+            "addr:street": "Wiener Straße",
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2024-08-30",
+            "contact:phone": "+43 3865 25 84",
+            "healthcare": "pharmacy",
+            "name": "Josefsapotheke",
+            "opening_hours": "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00",
+            "ref:ogdsteiermark": "149",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.674668,
+              47.6060199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "952635079",
+            "osm_type": "node",
+            "lat": 47.5454669,
+            "lon": 15.5619075,
+            "addr:city": "Krieglach",
+            "addr:housenumber": "4",
+            "addr:postcode": "8670",
+            "addr:street": "Roseggerstraße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3855 23 26",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Jakobus Apotheke",
+            "ref:ogdsteiermark": "147",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5619075,
+              47.5454669
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1234615230",
+            "osm_type": "node",
+            "lat": 47.692967,
+            "lon": 15.8626578,
+            "addr:city": "Payerbach",
+            "addr:housenumber": "8",
+            "addr:postcode": "2650",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Elisabeth Apotheke Payerbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8626578,
+              47.692967
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2313499731",
+            "osm_type": "node",
+            "lat": 47.4060166,
+            "lon": 15.8863336,
+            "addr:city": "Vorau",
+            "addr:country": "AT",
+            "addr:housenumber": "425",
+            "addr:postcode": "8250",
+            "addr:street": "Griesplatz",
+            "amenity": "pharmacy",
+            "at_bev:addr_date": "2019-10-01",
+            "contact:phone": "+43 3337 41 50",
+            "name": "Augustinus-Apotheke",
+            "ref:ogdsteiermark": "89",
+            "website": "https://augustinusapotheke.istsuper.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8863336,
+              47.4060166
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4081109122",
+            "osm_type": "node",
+            "lat": 47.675181,
+            "lon": 15.9335493,
+            "addr:city": "Gloggnitz",
+            "addr:country": "AT",
+            "addr:housenumber": "29",
+            "addr:postcode": "2640",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "check_date": "2023-10-04",
+            "dispensing": "yes",
+            "email": "apo.glogg@aon.at",
+            "fax": "+43 2662 4225220",
+            "name": "Stadtapotheke Gloggnitz",
+            "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su,PH off",
+            "phone": "+43 2662 42252"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9335493,
+              47.675181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4167514528",
+            "osm_type": "node",
+            "lat": 47.6088279,
+            "lon": 15.9940777,
+            "addr:city": "Kirchberg am Wechsel",
+            "addr:country": "AT",
+            "addr:housenumber": "235",
+            "addr:place": "Markt",
+            "addr:postcode": "2880",
+            "amenity": "pharmacy",
+            "email": "kontakt@wolfgangapotheke.at",
+            "fax": "+43 2641 2470-4",
+            "name": "St .Wolfgang",
+            "opening_hours": "Mo-Fr 07:30-12:30,14:00-18:00; Sa 07:30-12:00; Su off",
+            "phone": "+43 2641 2470",
+            "website": "https://www.wolfgangapotheke.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9940777,
+              47.6088279
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1978498404",
+            "osm_type": "node",
+            "lat": 47.4411738,
+            "lon": 16.0602243,
+            "addr:city": "Friedberg",
+            "addr:housenumber": "120",
+            "addr:postcode": "8240",
+            "addr:street": "Wiener Straße",
+            "amenity": "pharmacy",
+            "contact:phone": "+43 3339 227 28",
+            "healthcare": "pharmacy",
+            "name": "Zur Maria Heil der Kranken",
+            "ref:ogdsteiermark": "88"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0602243,
+              47.4411738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8093188374",
+            "osm_type": "node",
+            "lat": 47.5544066,
+            "lon": 16.0908914,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Apotheke zur Heiligen Dreifaltigkeit",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "operator": "Mag. Doris Richter",
+            "website": "https://www.apotheke-aspang.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0908914,
+              47.5544066
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 16.2068765,
+        "north": 47.694865,
+        "east": 17.16058
+      },
+      "poiCount": 44,
+      "leafCount": 44,
+      "averagePosition": [
+        16.659507025,
+        47.580305463636364
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11156125136",
+            "osm_type": "node",
+            "lat": 47.3724041,
+            "lon": 16.9849799,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9849799,
+              47.3724041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "482763789",
+            "osm_type": "node",
+            "lat": 47.503483,
+            "lon": 16.2970556,
+            "addr:city": "Kirchschlag in der Buckligen Welt",
+            "addr:country": "AT",
+            "addr:housenumber": "13",
+            "addr:postcode": "2860",
+            "addr:street": "Äußerer Markt",
+            "amenity": "pharmacy",
+            "at_bev:addr_date": "2020-10-01",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "St. Anna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2970556,
+              47.503483
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3048338355",
+            "osm_type": "node",
+            "lat": 47.6889782,
+            "lon": 16.5223478,
+            "addr:city": "Ágfalva",
+            "addr:housenumber": "18",
+            "addr:postcode": "9423",
+            "addr:street": "Soproni utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Hajnal",
+            "opening_hours": "Mo 13:00-17:00; Tu,Th,Fr 09:00-12:00",
+            "phone": "+36 99 324 575"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5223478,
+              47.6889782
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5888692329",
+            "osm_type": "node",
+            "lat": 47.4072838,
+            "lon": 16.417741,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Apotheke zur heiligen Margarete"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.417741,
+              47.4072838
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5888692331",
+            "osm_type": "node",
+            "lat": 47.5801411,
+            "lon": 16.4260747,
+            "addr:city": "Weppersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "54",
+            "addr:postcode": "7331",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "at_bev:addr_date": "2018-04-02",
+            "name": "Apotheke zum Schwarzen Adler",
+            "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00, Sa 08:00-12:00; PH,Su closed",
+            "operator": "Mag. Pharm. Andreas Norden KG",
+            "phone": "+43 2618 2892",
+            "wheelchair": "designated"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4260747,
+              47.5801411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1406906400",
+            "osm_type": "node",
+            "lat": 47.6837658,
+            "lon": 16.5992089,
+            "addr:city": "Sopron",
+            "addr:housenumber": "21",
+            "addr:postcode": "9400",
+            "addr:street": "Híd utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Ikvahíd",
+            "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-12:00",
+            "phone": "+36 99 314 084",
+            "website": "http://ikvahid.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5992089,
+              47.6837658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1417794037",
+            "osm_type": "node",
+            "lat": 47.3872672,
+            "lon": 16.5436614,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Benu",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5436614,
+              47.3872672
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1448679480",
+            "osm_type": "node",
+            "lat": 47.6829441,
+            "lon": 16.591007,
+            "addr:city": "Sopron",
+            "addr:housenumber": "114",
+            "addr:postcode": "9400",
+            "addr:street": "Várkerület",
+            "amenity": "pharmacy",
+            "email": "info@kiralypatika.eu",
+            "healthcare": "pharmacy",
+            "name": "Király",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00",
+            "phone": "+36 99 508 242",
+            "website": "https://www.kiralypatika.eu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.591007,
+              47.6829441
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1932800176",
+            "osm_type": "node",
+            "lat": 47.6913322,
+            "lon": 16.576634,
+            "addr:city": "Sopron",
+            "addr:housenumber": "12",
+            "addr:postcode": "9400",
+            "addr:street": "Kodály Zoltán tér",
+            "amenity": "pharmacy",
+            "email": "ezustke@mail.datanet.hu",
+            "name": "Ezüst Kehely",
+            "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-12:00",
+            "phone": "+36 99 505 078",
+            "website": "http://ezustkehelysopron.novodata.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.576634,
+              47.6913322
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2313056104",
+            "osm_type": "node",
+            "lat": 47.6189054,
+            "lon": 16.8647277,
+            "addr:city": "Fertőd",
+            "addr:housenumber": "1",
+            "addr:postcode": "9431",
+            "addr:street": "Vasút sor",
+            "amenity": "pharmacy",
+            "branch": "patika",
+            "brand": "Benu",
+            "brand:wikidata": "Q62562792",
+            "healthcare": "pharmacy",
+            "name": "Benu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8647277,
+              47.6189054
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325161466",
+            "osm_type": "node",
+            "lat": 47.6764757,
+            "lon": 16.5975341,
+            "addr:city": "Sopron",
+            "addr:housenumber": "15",
+            "addr:postcode": "9400",
+            "addr:street": "Győri út",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Erzsébet",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00",
+            "phone": "+36 99 311 254"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5975341,
+              47.6764757
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325161467",
+            "osm_type": "node",
+            "lat": 47.6812173,
+            "lon": 16.5799557,
+            "addr:city": "Sopron",
+            "addr:housenumber": "4",
+            "addr:postcode": "9400",
+            "addr:street": "Béke út",
+            "amenity": "pharmacy",
+            "contact:fax": "+36 99 329 921",
+            "email": "info@loverpatika.hu",
+            "healthcare": "pharmacy",
+            "name": "Lővér",
+            "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-13:00",
+            "phone": "+36 99 508 614",
+            "website": "https://loverpatika.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5799557,
+              47.6812173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325161468",
+            "osm_type": "node",
+            "lat": 47.6808013,
+            "lon": 16.5877824,
+            "addr:city": "Sopron",
+            "addr:housenumber": "35",
+            "addr:postcode": "9400",
+            "addr:street": "Deák tér",
+            "amenity": "pharmacy",
+            "contact:fax": "+36 99 524 891",
+            "email": "szebelledy@mail.pharmanet.hu",
+            "healthcare": "pharmacy",
+            "name": "Szebellédy",
+            "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-13:00",
+            "phone": "+36 99 505 469",
+            "website": "http://szebelledysopron.novodata.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5877824,
+              47.6808013
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325161469",
+            "osm_type": "node",
+            "lat": 47.6793976,
+            "lon": 16.582533,
+            "addr:city": "Sopron",
+            "addr:housenumber": "13",
+            "addr:postcode": "9400",
+            "addr:street": "Béke út",
+            "amenity": "pharmacy",
+            "contact:fax": "+36 99 523 232",
+            "name": "Segítő Mária",
+            "opening_hours": "Mo-Fr 07:40-18:00",
+            "phone": "+36 99 523 233",
+            "website": "http://segitomaria.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.582533,
+              47.6793976
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325161470",
+            "osm_type": "node",
+            "lat": 47.6849932,
+            "lon": 16.5835312,
+            "addr:city": "Sopron",
+            "addr:housenumber": "54",
+            "addr:postcode": "9400",
+            "addr:street": "Újteleki utca",
+            "amenity": "pharmacy",
+            "name": "Than Károly",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:00",
+            "phone": "+36 99 510 787",
+            "website": "http://thankarolysopron.novodata.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5835312,
+              47.6849932
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2473347397",
+            "osm_type": "node",
+            "lat": 47.6782205,
+            "lon": 16.5509317,
+            "addr:city": "Sopron",
+            "addr:housenumber": "10",
+            "addr:postcode": "9400",
+            "addr:street": "Malompatak utca",
+            "amenity": "pharmacy",
+            "name": "Hajnal",
+            "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+            "phone": "+36 99 506 544"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5509317,
+              47.6782205
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2477360479",
+            "osm_type": "node",
+            "lat": 47.6823165,
+            "lon": 16.5873989,
+            "addr:city": "Sopron",
+            "addr:housenumber": "6",
+            "addr:postcode": "9400",
+            "addr:street": "Erzsébet utca",
+            "amenity": "pharmacy",
+            "email": "info@medicina-patika.hu",
+            "healthcare": "pharmacy",
+            "name": "Medicina",
+            "opening_hours": "Mo-Fr 08:00-17:00",
+            "phone": "+36 99 505 500",
+            "website": "https://medicina-patika.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5873989,
+              47.6823165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2510884509",
+            "osm_type": "node",
+            "lat": 47.5043325,
+            "lon": 16.7843561,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7843561,
+              47.5043325
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2820918521",
+            "osm_type": "node",
+            "lat": 47.687337,
+            "lon": 16.5925651,
+            "addr:city": "Sopron",
+            "addr:housenumber": "29",
+            "addr:postcode": "9400",
+            "addr:street": "Várkerület",
+            "amenity": "pharmacy",
+            "email": "postmaster@oroszlanpatika.t-online.hu",
+            "healthcare": "pharmacy",
+            "name": "Oroszlán",
+            "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00",
+            "phone": "+36 99 524 005",
+            "website": "http://oroszlansopron.novodata.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5925651,
+              47.687337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3030157033",
+            "osm_type": "node",
+            "lat": 47.3838505,
+            "lon": 16.7517287,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Sanitas gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7517287,
+              47.3838505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3035671431",
+            "osm_type": "node",
+            "lat": 47.68396,
+            "lon": 16.5926472,
+            "addr:city": "Sopron",
+            "addr:housenumber": "73",
+            "addr:postcode": "9400",
+            "addr:street": "Várkerület",
+            "amenity": "pharmacy",
+            "check_date": "2024-09-28",
+            "email": "info@korona-patika.hu",
+            "healthcare": "pharmacy",
+            "name": "Korona",
+            "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off",
+            "phone": "+36 99 505 865",
+            "website": "http://korona-patika.hu/",
+            "wheelchair": "yes",
+            "wheelchair:description": "Apotheke: keine Kundentoiletten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5926472,
+              47.68396
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3048208480",
+            "osm_type": "node",
+            "lat": 47.6378356,
+            "lon": 16.6423988,
+            "addr:city": "Kópháza",
+            "addr:housenumber": "17",
+            "addr:postcode": "9495",
+            "addr:street": "Fő utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Pelikán",
+            "opening_hours": "Mo-We,Fr 08:00-13:00; Th 08:00-17:00",
+            "phone": "+36 99 357 701"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6423988,
+              47.6378356
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3061199533",
+            "osm_type": "node",
+            "lat": 47.6731604,
+            "lon": 16.6116594,
+            "addr:city": "Sopron",
+            "addr:housenumber": "2",
+            "addr:postcode": "9400",
+            "addr:street": "Határdomb út",
+            "amenity": "pharmacy",
+            "email": "postmaster@alfapatika.t-online.hu",
+            "healthcare": "pharmacy",
+            "name": "Patika Plus",
+            "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+            "phone": "+36 99 505 220"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6116594,
+              47.6731604
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3061199534",
+            "osm_type": "node",
+            "lat": 47.6785409,
+            "lon": 16.5877712,
+            "addr:city": "Sopron",
+            "addr:housenumber": "23",
+            "addr:postcode": "9400",
+            "addr:street": "Mátyás király utca",
+            "amenity": "pharmacy",
+            "check_date": "2024-10-02",
+            "email": "allomaspatika@gmail.com",
+            "healthcare": "pharmacy",
+            "name": "Állomás",
+            "opening_hours": "Mo-Su 08:00-20:00",
+            "phone": "+36 99 524 965",
+            "website": "https://allomaspatika.hu/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5877712,
+              47.6785409
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3061199535",
+            "osm_type": "node",
+            "lat": 47.6893624,
+            "lon": 16.5837062,
+            "addr:city": "Sopron",
+            "addr:housenumber": "15-17",
+            "addr:postcode": "9400",
+            "addr:street": "Selmeci utca",
+            "amenity": "pharmacy",
+            "name": "Ametiszt",
+            "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+            "phone": "+36 99 505 472"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5837062,
+              47.6893624
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3061199537",
+            "osm_type": "node",
+            "lat": 47.6814059,
+            "lon": 16.593058,
+            "addr:city": "Sopron",
+            "addr:housenumber": "6",
+            "addr:postcode": "9400",
+            "addr:street": "Magyar utca",
+            "amenity": "pharmacy",
+            "email": "gangl@aranykigyo.hu",
+            "healthcare": "pharmacy",
+            "name": "Arany Kígyó",
+            "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00",
+            "phone": "+36 99 311 732",
+            "website": "http://www.aranykigyo.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.593058,
+              47.6814059
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3061248724",
+            "osm_type": "node",
+            "lat": 47.6704155,
+            "lon": 16.6124839,
+            "addr:city": "Sopron",
+            "addr:housenumber": "30",
+            "addr:postcode": "9400",
+            "addr:street": "Ipar körút",
+            "amenity": "pharmacy",
+            "contact:fax": "+36 99 702 032",
+            "email": "info@sepiapatika.hu",
+            "healthcare": "pharmacy",
+            "name": "Sepia",
+            "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+            "phone": "+36 99 702 012",
+            "website": "http://sepiapatika.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6124839,
+              47.6704155
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3087959185",
+            "osm_type": "node",
+            "lat": 47.594603,
+            "lon": 17.0238417,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0238417,
+              47.594603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3465143499",
+            "osm_type": "node",
+            "lat": 47.3879,
+            "lon": 16.543533,
+            "amenity": "pharmacy",
+            "contact:phone": "+36 94 361 450",
+            "description": "Cím: 9730, Kőszeg Kossuth Lajos utca 9.",
+            "healthcare": "pharmacy",
+            "name": "Szent Benedek gyógyszertár",
+            "source": "turistautak.hu",
+            "source:date": "2011-09-06",
+            "url": "http://turistautak.hu/poi.php?id=75193",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.543533,
+              47.3879
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3465143504",
+            "osm_type": "node",
+            "lat": 47.385327,
+            "lon": 16.5447835,
+            "amenity": "pharmacy",
+            "contact:phone": "+36 94 362 168;+36 94 368 308",
+            "name": "Szerecsen gyógyszertár",
+            "source": "turistautak.hu",
+            "source:date": "2011-09-06",
+            "url": "http://turistautak.hu/poi.php?id=75194"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5447835,
+              47.385327
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3466299234",
+            "osm_type": "node",
+            "lat": 47.592836,
+            "lon": 17.0258556,
+            "amenity": "pharmacy",
+            "brand": "Benu",
+            "brand:wikidata": "Q62562792",
+            "healthcare": "pharmacy",
+            "name": "Benu",
+            "source": "turistautak.hu",
+            "source:date": "2009-11-12",
+            "url": "http://turistautak.hu/poi.php?id=81828",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0258556,
+              47.592836
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3500565384",
+            "osm_type": "node",
+            "lat": 47.6172609,
+            "lon": 16.8359336,
+            "addr:city": "Fertőszéplak",
+            "addr:housenumber": "4",
+            "addr:postcode": "9436",
+            "addr:street": "Ady Endre utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8359336,
+              47.6172609
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3500581566",
+            "osm_type": "node",
+            "lat": 47.6187694,
+            "lon": 16.7913425,
+            "addr:city": "Hegykő",
+            "addr:housenumber": "1",
+            "addr:postcode": "9437",
+            "addr:street": "Kertekalja utca",
+            "amenity": "pharmacy",
+            "description": "Alma patika",
+            "healthcare": "pharmacy",
+            "name": "Lővér Patika",
+            "opening_hours": "Mo-Fr 09:00-17:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7913425,
+              47.6187694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3510598493",
+            "osm_type": "node",
+            "lat": 47.6038573,
+            "lon": 16.697305,
+            "addr:city": "Nagycenk",
+            "addr:housenumber": "1",
+            "addr:postcode": "9485",
+            "addr:street": "Iskola utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Ezüsthárs Gyógyszertár",
+            "phone": "+36 99 360 016",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.697305,
+              47.6038573
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760656254",
+            "osm_type": "node",
+            "lat": 47.5897867,
+            "lon": 16.8798414,
+            "addr:city": "Fertőszentmiklós",
+            "addr:housenumber": "8",
+            "addr:postcode": "9444",
+            "addr:street": "Ifjúság tér",
+            "amenity": "pharmacy",
+            "brand": "Benu",
+            "brand:wikidata": "Q62562792",
+            "healthcare": "pharmacy",
+            "name": "Benu",
+            "opening_hours": "Mo-Fr 07:30-16:30; Sa 08:00-12:00",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8798414,
+              47.5897867
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4335712120",
+            "osm_type": "node",
+            "lat": 47.3825997,
+            "lon": 16.5465993,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5465993,
+              47.3825997
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4780591955",
+            "osm_type": "node",
+            "lat": 47.5936995,
+            "lon": 16.7347975,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Ezüsthárs gyógyszertár",
+            "opening_hours": "Mo,Tu,Th,Fr 15:00-16:00; We 16:00-17:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7347975,
+              47.5936995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5370472184",
+            "osm_type": "node",
+            "lat": 47.3796877,
+            "lon": 16.5538162,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5538162,
+              47.3796877
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7043240888",
+            "osm_type": "node",
+            "lat": 47.6028101,
+            "lon": 16.6234173,
+            "addr:city": "Deutschkreutz",
+            "addr:housenumber": "15",
+            "addr:postcode": "7301",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2025-05-14",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Apotheke zum Heiligen Geist Deutschkreutz",
+            "opening_hours": "Mo-We 08:00-12:00,14:00-18:00; Th 08:00-12:00; Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00",
+            "operator": "Mag. Dieter Schmid e.U."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6234173,
+              47.6028101
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7836095667",
+            "osm_type": "node",
+            "lat": 47.4006903,
+            "lon": 16.7080218,
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2020-08-15",
+            "healthcare": "pharmacy",
+            "name": "Üdvözítő Gyógyszertár",
+            "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su,PH off",
+            "source:opening_hours": "entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7080218,
+              47.4006903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10589376991",
+            "osm_type": "node",
+            "lat": 47.4217613,
+            "lon": 17.0180281,
+            "amenity": "pharmacy",
+            "brand": "Benu",
+            "brand:wikidata": "Q62562792",
+            "healthcare": "pharmacy",
+            "name": "Benu",
+            "operator": "BENU"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0180281,
+              47.4217613
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12107719809",
+            "osm_type": "node",
+            "lat": 47.5896748,
+            "lon": 16.5468585,
+            "addr:city": "Horitschon",
+            "addr:housenumber": "51",
+            "addr:postcode": "7312",
+            "addr:street": "Hauptstraße",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Hausapotheke Dr. Reinhold Dinhopel",
+            "opening_hours": "Mo-Fr 07:30:00-12:00; Mo,Di,Fr 13:30-15:30; Do 16:00-18:30",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5468585,
+              47.5896748
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13112597680",
+            "osm_type": "node",
+            "lat": 47.6355379,
+            "lon": 16.602329,
+            "addr:city": "Harka",
+            "addr:housenumber": "25",
+            "addr:postcode": "9422",
+            "addr:street": "Soproni utca",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Arany Kígyó gyógyszertár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.602329,
+              47.6355379
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2814840070",
+            "osm_type": "node",
+            "lat": 47.4665111,
+            "lon": 17.0965255,
+            "amenity": "pharmacy",
+            "fixme": "put on appropriate building"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0965255,
+              47.4665111
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

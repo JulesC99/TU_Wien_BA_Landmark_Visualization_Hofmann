@@ -1,0 +1,79 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 11.438358999999998,
+    "north": 47.694865,
+    "east": 13.345766
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    12.787059133333335,
+    47.267029966666676
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12142415302",
+        "osm_type": "node",
+        "lat": 47.2011436,
+        "lon": 11.9180095,
+        "name": "Farm zoo Gerlossstein",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9180095,
+          47.2011436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4899277963",
+        "osm_type": "node",
+        "lat": 47.273684,
+        "lon": 13.2524609,
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2524609,
+          47.273684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13075980789",
+        "osm_type": "node",
+        "lat": 47.3262623,
+        "lon": 13.190707,
+        "addr:city": "Sankt Johann im Pongau",
+        "addr:country": "AT",
+        "addr:housenumber": "136",
+        "addr:postcode": "5600",
+        "addr:street": "Liechtensteinklammstraße",
+        "contact:website": "https://www.lerchs.at/de/hotel-lerch/familienurlaub/spielplatz-streichelzoo.html",
+        "name": "Lerch Streichelzoo",
+        "opening_hours": "Mo-Su 09:00-12:00,17:00-21:00",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.190707,
+          47.3262623
+        ]
+      }
+    }
+  ],
+  "children": []
+}

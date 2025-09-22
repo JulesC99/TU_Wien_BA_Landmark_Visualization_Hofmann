@@ -1,0 +1,1771 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 89,
+  "leafCount": 0,
+  "averagePosition": [
+    10.338786270786516,
+    48.74236281235955
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        9.810919513636364,
+        48.569788159090905
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1472889737",
+            "osm_type": "node",
+            "lat": 48.4116841,
+            "lon": 9.845584,
+            "climbing:grade:uiaa:max": "9-",
+            "climbing:grade:uiaa:min": "2+",
+            "climbing:length:max": "25",
+            "climbing:length:min": "15",
+            "climbing:orientation": "N;E;S;W",
+            "climbing:rock": "limestone",
+            "climbing:sport": "28",
+            "name": "Katzentaler Fels",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.845584,
+              48.4116841
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2545347554",
+            "osm_type": "node",
+            "lat": 48.3933121,
+            "lon": 9.7731462,
+            "climbing:grade:uiaa:max": "8",
+            "climbing:grade:uiaa:min": "3+",
+            "climbing:length:max": "15",
+            "climbing:length:min": "10",
+            "climbing:orientation": "E;W",
+            "climbing:rock": "limestone",
+            "climbing:sport": "12",
+            "name": "Spitzer Stein",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7731462,
+              48.3933121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3253274777",
+            "osm_type": "node",
+            "lat": 48.6060707,
+            "lon": 9.9993822,
+            "name": "Adlerfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9993822,
+              48.6060707
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3686725148",
+            "osm_type": "node",
+            "lat": 48.5125292,
+            "lon": 10.0211894,
+            "name": "Hubertusfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0211894,
+              48.5125292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3721204954",
+            "osm_type": "node",
+            "lat": 48.6587274,
+            "lon": 9.8957428,
+            "name": "Donaldstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8957428,
+              48.6587274
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4718811797",
+            "osm_type": "node",
+            "lat": 48.5160413,
+            "lon": 10.0200229,
+            "name": "Mehlsack",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0200229,
+              48.5160413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5628405184",
+            "osm_type": "node",
+            "lat": 48.5725483,
+            "lon": 9.5902119,
+            "name": "Fingerfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5902119,
+              48.5725483
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5628405198",
+            "osm_type": "node",
+            "lat": 48.5739214,
+            "lon": 9.5763934,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5763934,
+              48.5739214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6286445261",
+            "osm_type": "node",
+            "lat": 48.5697887,
+            "lon": 9.5777097,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5777097,
+              48.5697887
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6286445262",
+            "osm_type": "node",
+            "lat": 48.5665211,
+            "lon": 9.5726524,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5726524,
+              48.5665211
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6495442705",
+            "osm_type": "node",
+            "lat": 48.5858872,
+            "lon": 9.712922,
+            "ele": "752",
+            "name": "Oberbergfels",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.712922,
+              48.5858872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6495442707",
+            "osm_type": "node",
+            "lat": 48.5867231,
+            "lon": 9.7133964,
+            "name": "Eckfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7133964,
+              48.5867231
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6496112852",
+            "osm_type": "node",
+            "lat": 48.5785769,
+            "lon": 9.7170047,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7170047,
+              48.5785769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6496112854",
+            "osm_type": "node",
+            "lat": 48.5725861,
+            "lon": 9.7101015,
+            "name": "Badfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7101015,
+              48.5725861
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9873272136",
+            "osm_type": "node",
+            "lat": 48.574563,
+            "lon": 9.6845376,
+            "ele": "737",
+            "name": "Tierstein",
+            "natural": "rock",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6845376,
+              48.574563
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10020649763",
+            "osm_type": "node",
+            "lat": 48.5582988,
+            "lon": 9.6629847,
+            "name": "Nasenfels",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6629847,
+              48.5582988
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11235886733",
+            "osm_type": "node",
+            "lat": 48.5867369,
+            "lon": 9.7133616,
+            "ele": "750",
+            "name": "Eckfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7133616,
+              48.5867369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11926693368",
+            "osm_type": "node",
+            "lat": 48.5658401,
+            "lon": 9.5998599,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5998599,
+              48.5658401
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2284388024",
+            "osm_type": "node",
+            "lat": 48.6846939,
+            "lon": 10.0660432,
+            "alt_name": "Steinhirtfelsen;Wäldlesfelsen",
+            "height": "8",
+            "inscription": "Arbeit härtet, Entsagung macht frei, Genußsucht u. Trägheit bringt Sklaverei.",
+            "monument": "yes",
+            "name": "Wäldldesfels",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0660432,
+              48.6846939
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4794896644",
+            "osm_type": "node",
+            "lat": 48.6854483,
+            "lon": 10.0619772,
+            "name": "Froschfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0619772,
+              48.6854483
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7428071418",
+            "osm_type": "node",
+            "lat": 48.6302043,
+            "lon": 10.153994,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.153994,
+              48.6302043
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9012055923",
+            "osm_type": "node",
+            "lat": 48.5446366,
+            "lon": 10.1720116,
+            "inscription": "1888",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1720116,
+              48.5446366
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 1,
+      "leafCount": 1,
+      "averagePosition": [
+        10.7924225,
+        48.597012
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12616653507",
+            "osm_type": "node",
+            "lat": 48.597012,
+            "lon": 10.7924225,
+            "name": "Gründungsstein SVEO",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7924225,
+              48.597012
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 40,
+      "leafCount": 40,
+      "averagePosition": [
+        10.1246694525,
+        48.780635565
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1287699784",
+            "osm_type": "node",
+            "lat": 48.7097828,
+            "lon": 9.8897432,
+            "climbing:bolted": "yes",
+            "climbing:length": "20",
+            "climbing:multipitch": "no",
+            "climbing:sport": "yes",
+            "name": "Beutelfels",
+            "natural": "rock",
+            "note": "flexible Sperrzeiten beachten",
+            "sport": "climbing",
+            "website": "http://felsinfo.alpenverein.de/felsinfo/schwaebische_alb/klettergebiet_auswaehlen/1431",
+            "wikidata": "Q58017480"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8897432,
+              48.7097828
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7465897121",
+            "osm_type": "node",
+            "lat": 48.7889863,
+            "lon": 9.9470391,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9470391,
+              48.7889863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7861493480",
+            "osm_type": "node",
+            "lat": 48.7369744,
+            "lon": 10.0180453,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0180453,
+              48.7369744
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7861496487",
+            "osm_type": "node",
+            "lat": 48.735155,
+            "lon": 10.0171038,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0171038,
+              48.735155
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7861496492",
+            "osm_type": "node",
+            "lat": 48.7343103,
+            "lon": 10.016892,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.016892,
+              48.7343103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9576268006",
+            "osm_type": "node",
+            "lat": 48.8291336,
+            "lon": 9.6818027,
+            "name": "Hohler Stein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6818027,
+              48.8291336
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1003329035",
+            "osm_type": "node",
+            "lat": 48.8582534,
+            "lon": 10.1791249,
+            "name": "Ahornfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1791249,
+              48.8582534
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1575083883",
+            "osm_type": "node",
+            "lat": 48.8067606,
+            "lon": 10.0870914,
+            "name": "Langertspitznadel",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0870914,
+              48.8067606
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2309251876",
+            "osm_type": "node",
+            "lat": 48.7722383,
+            "lon": 10.0920096,
+            "name": "Schmiedefelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0920096,
+              48.7722383
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3163730393",
+            "osm_type": "node",
+            "lat": 48.7466344,
+            "lon": 10.3587597,
+            "attraction": "rock",
+            "name": "Madonnafelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3587597,
+              48.7466344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3687991088",
+            "osm_type": "node",
+            "lat": 48.7762906,
+            "lon": 10.2262706,
+            "name": "Hohler Stein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2262706,
+              48.7762906
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4359036610",
+            "osm_type": "node",
+            "lat": 48.8152247,
+            "lon": 10.1137218,
+            "ele": "632",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1137218,
+              48.8152247
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4578858849",
+            "osm_type": "node",
+            "lat": 48.7913248,
+            "lon": 10.1108609,
+            "description": "Fels",
+            "name": "Tierstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1108609,
+              48.7913248
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5159723406",
+            "osm_type": "node",
+            "lat": 48.7654131,
+            "lon": 10.374999,
+            "name": "Hohler Stein",
+            "natural": "rock",
+            "tourism": "yes",
+            "wikidata": "Q57994781"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.374999,
+              48.7654131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5236909602",
+            "osm_type": "node",
+            "lat": 48.7345919,
+            "lon": 10.1163797,
+            "climbing:bolted": "yes",
+            "climbing:rock": "limestone",
+            "climbing:sport": "yes",
+            "name": "Großer Herwartstein",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1163797,
+              48.7345919
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6300073134",
+            "osm_type": "node",
+            "lat": 48.8079124,
+            "lon": 10.0865112,
+            "boundary": "protected_area",
+            "name": "Kuckuckstein",
+            "natural": "rock",
+            "protection_title": "Naturdenkmal",
+            "short_protection_title": "ND",
+            "wikidata": "Q58111324"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0865112,
+              48.8079124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6300086424",
+            "osm_type": "node",
+            "lat": 48.8031316,
+            "lon": 10.1085552,
+            "name": "Spitzbubenfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1085552,
+              48.8031316
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6373077185",
+            "osm_type": "node",
+            "lat": 48.7910527,
+            "lon": 10.0929426,
+            "name": "Katzenstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0929426,
+              48.7910527
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6896485141",
+            "osm_type": "node",
+            "lat": 48.7416078,
+            "lon": 10.1199157,
+            "name": "Herrenstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1199157,
+              48.7416078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6896485142",
+            "osm_type": "node",
+            "lat": 48.7458997,
+            "lon": 10.1174735,
+            "name": "Frauenstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1174735,
+              48.7458997
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7086944904",
+            "osm_type": "node",
+            "lat": 48.759494,
+            "lon": 10.1061013,
+            "name": "Pulverturm",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1061013,
+              48.759494
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7176731275",
+            "osm_type": "node",
+            "lat": 48.8040165,
+            "lon": 10.0409996,
+            "name": "Kleine Höhle",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0409996,
+              48.8040165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7449583963",
+            "osm_type": "node",
+            "lat": 48.7353197,
+            "lon": 10.1149496,
+            "climbing:bolted": "yes",
+            "climbing:rock": "limestone",
+            "climbing:sport": "yes",
+            "name": "Kleiner Herwartstein",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1149496,
+              48.7353197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7453753195",
+            "osm_type": "node",
+            "lat": 48.7742456,
+            "lon": 10.1397812,
+            "name": "Spitziger Fels",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1397812,
+              48.7742456
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7453859747",
+            "osm_type": "node",
+            "lat": 48.797411,
+            "lon": 10.1074583,
+            "alt_name": "Loachfelsen",
+            "climbing:bolted": "yes",
+            "climbing:rock": "limestone",
+            "climbing:routes": "16",
+            "climbing:sport": "yes",
+            "name": "Lohstein",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1074583,
+              48.797411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7494494193",
+            "osm_type": "node",
+            "lat": 48.7926969,
+            "lon": 10.0864488,
+            "name": "Hexenfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0864488,
+              48.7926969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7500574915",
+            "osm_type": "node",
+            "lat": 48.7796395,
+            "lon": 10.1111693,
+            "name": "Unterer Rodstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1111693,
+              48.7796395
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7575550824",
+            "osm_type": "node",
+            "lat": 48.779948,
+            "lon": 10.1142098,
+            "name": "Oberer Rodstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1142098,
+              48.779948
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8653265589",
+            "osm_type": "node",
+            "lat": 48.8016659,
+            "lon": 10.1049442,
+            "climbing:bolted": "yes",
+            "climbing:rock": "limestone",
+            "climbing:routes": "8",
+            "climbing:sport": "yes",
+            "name": "Langertstein",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1049442,
+              48.8016659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8653265591",
+            "osm_type": "node",
+            "lat": 48.7962864,
+            "lon": 10.1192862,
+            "name": "Kleebfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1192862,
+              48.7962864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8653265592",
+            "osm_type": "node",
+            "lat": 48.7907424,
+            "lon": 10.1197141,
+            "name": "Heidefelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1197141,
+              48.7907424
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8653307540",
+            "osm_type": "node",
+            "lat": 48.7916654,
+            "lon": 10.0988145,
+            "name": "Gerhart-Hauptmann-Weg Blick",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0988145,
+              48.7916654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8728186565",
+            "osm_type": "node",
+            "lat": 48.7433526,
+            "lon": 10.1188577,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1188577,
+              48.7433526
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8758568890",
+            "osm_type": "node",
+            "lat": 48.7458569,
+            "lon": 10.1171543,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1171543,
+              48.7458569
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9272319677",
+            "osm_type": "node",
+            "lat": 48.8602434,
+            "lon": 10.4238796,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4238796,
+              48.8602434
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9274633824",
+            "osm_type": "node",
+            "lat": 48.863589,
+            "lon": 10.4133868,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4133868,
+              48.863589
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9274633825",
+            "osm_type": "node",
+            "lat": 48.8634232,
+            "lon": 10.413596,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.413596,
+              48.8634232
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10804111725",
+            "osm_type": "node",
+            "lat": 48.744338,
+            "lon": 10.1607666,
+            "name": "Metzgerfels",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1607666,
+              48.744338
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11560187448",
+            "osm_type": "node",
+            "lat": 48.7051546,
+            "lon": 10.2259087,
+            "name": "Ramenstein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2259087,
+              48.7051546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12652679940",
+            "osm_type": "node",
+            "lat": 48.8056552,
+            "lon": 10.0941096,
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0941096,
+              48.8056552
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 26,
+      "leafCount": 26,
+      "averagePosition": [
+        11.0974057,
+        48.83509677692307
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1647204615",
+            "osm_type": "node",
+            "lat": 48.8333915,
+            "lon": 11.0959663,
+            "climbing": "crag",
+            "name": "Merltürme",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0959663,
+              48.8333915
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1647204635",
+            "osm_type": "node",
+            "lat": 48.8334893,
+            "lon": 11.0963445,
+            "climbing": "crag",
+            "name": "Weiße Wand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0963445,
+              48.8334893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3440004158",
+            "osm_type": "node",
+            "lat": 48.8491765,
+            "lon": 11.0622983,
+            "name": "Sommerfelsen",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0622983,
+              48.8491765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5843815979",
+            "osm_type": "node",
+            "lat": 48.8291376,
+            "lon": 11.0810453,
+            "climbing": "crag",
+            "description": "Südlicher Frankenjura: Konstein, Sektor A1",
+            "name": "Madonna",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0810453,
+              48.8291376
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5988422620",
+            "osm_type": "node",
+            "lat": 48.8267371,
+            "lon": 11.2456513,
+            "historic": "wayside_cross",
+            "name": "Findling",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2456513,
+              48.8267371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6695177808",
+            "osm_type": "node",
+            "lat": 48.8340509,
+            "lon": 11.0983726,
+            "climbing": "crag",
+            "name": "Märchenturm",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0983726,
+              48.8340509
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6696824504",
+            "osm_type": "node",
+            "lat": 48.8283423,
+            "lon": 11.0812911,
+            "climbing": "crag",
+            "name": "Konsteiner Wand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0812911,
+              48.8283423
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6718804009",
+            "osm_type": "node",
+            "lat": 48.8298307,
+            "lon": 11.0844885,
+            "climbing": "crag",
+            "name": "Braut & Bräutigam",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0844885,
+              48.8298307
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6718828082",
+            "osm_type": "node",
+            "lat": 48.828446,
+            "lon": 11.0807704,
+            "climbing": "crag",
+            "name": "Hintere Konsteiner Wand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0807704,
+              48.828446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7434985514",
+            "osm_type": "node",
+            "lat": 48.8183646,
+            "lon": 11.204172,
+            "name": "Hoher Stein",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.204172,
+              48.8183646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9158964507",
+            "osm_type": "node",
+            "lat": 48.8295502,
+            "lon": 11.08181,
+            "climbing:sport": "yes",
+            "name": "Dohlenwandl",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.08181,
+              48.8295502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9158964508",
+            "osm_type": "node",
+            "lat": 48.8299748,
+            "lon": 11.0829357,
+            "climbing": "crag",
+            "name": "Dohlenturm",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0829357,
+              48.8299748
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9158964509",
+            "osm_type": "node",
+            "lat": 48.8308817,
+            "lon": 11.0847572,
+            "climbing": "yes",
+            "name": "Vergessene Wand",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0847572,
+              48.8308817
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11930216216",
+            "osm_type": "node",
+            "lat": 48.8336983,
+            "lon": 11.0969415,
+            "climbing": "crag",
+            "name": "Fensterlwand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0969415,
+              48.8336983
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11930216242",
+            "osm_type": "node",
+            "lat": 48.8338131,
+            "lon": 11.0976013,
+            "climbing": "crag",
+            "name": "Oberlandwand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0976013,
+              48.8338131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367918",
+            "osm_type": "node",
+            "lat": 48.8296301,
+            "lon": 11.0830083,
+            "climbing": "crag",
+            "name": "Försterfels",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0830083,
+              48.8296301
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367919",
+            "osm_type": "node",
+            "lat": 48.830361,
+            "lon": 11.0833297,
+            "climbing": "crag",
+            "name": "Bergspinnenturm",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0833297,
+              48.830361
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367920",
+            "osm_type": "node",
+            "lat": 48.8303805,
+            "lon": 11.084277,
+            "name": "Lucky Luke",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.084277,
+              48.8303805
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367921",
+            "osm_type": "node",
+            "lat": 48.8300609,
+            "lon": 11.0847866,
+            "climbing": "yes",
+            "name": "Asterix & Obelix",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0847866,
+              48.8300609
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367922",
+            "osm_type": "node",
+            "lat": 48.8336875,
+            "lon": 11.0989071,
+            "climbing": "crag",
+            "name": "Kessel",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0989071,
+              48.8336875
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367923",
+            "osm_type": "node",
+            "lat": 48.8335018,
+            "lon": 11.0992075,
+            "climbing": "crag",
+            "name": "Münchner Wand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0992075,
+              48.8335018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11940367924",
+            "osm_type": "node",
+            "lat": 48.83342,
+            "lon": 11.1004011,
+            "climbing": "crag",
+            "name": "Aichaer Wand",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1004011,
+              48.83342
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11947573347",
+            "osm_type": "node",
+            "lat": 48.8331687,
+            "lon": 11.0997645,
+            "climbing": "crag",
+            "name": "Zahn",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0997645,
+              48.8331687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11947579175",
+            "osm_type": "node",
+            "lat": 48.8330898,
+            "lon": 11.0990472,
+            "climbing": "crag",
+            "name": "Leinwandl",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0990472,
+              48.8330898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11784017114",
+            "osm_type": "node",
+            "lat": 48.8780585,
+            "lon": 11.0626169,
+            "name": "Hölzerne Klinge",
+            "natural": "rock",
+            "sport": "climbing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0626169,
+              48.8780585
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12252643466",
+            "osm_type": "node",
+            "lat": 48.8782728,
+            "lon": 11.0627563,
+            "name": "Felsentor",
+            "natural": "rock"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0627563,
+              48.8782728
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

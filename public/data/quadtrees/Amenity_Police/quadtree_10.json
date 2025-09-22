@@ -1,0 +1,1289 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 51,
+  "leafCount": 0,
+  "averagePosition": [
+    10.16233379607843,
+    48.63110746862745
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 23,
+      "leafCount": 23,
+      "averagePosition": [
+        9.918766282608695,
+        48.52098538260869
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "271943712",
+            "osm_type": "node",
+            "lat": 48.489337,
+            "lon": 9.6885556,
+            "amenity": "police",
+            "check_date": "2025-05-21",
+            "name": "Polizeiposten Laichingen",
+            "opening_hours": "Mo-Fr 08:00-16:00",
+            "phone": "07333950960",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6885556,
+              48.489337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "283769768",
+            "osm_type": "node",
+            "lat": 48.4134158,
+            "lon": 9.7826231,
+            "addr:city": "Blaubeuren",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "89143",
+            "addr:street": "Rittergasse",
+            "amenity": "police",
+            "check_date": "2025-04-17",
+            "contact:phone": "+49 7344 9635-0",
+            "name": "Polizeiposten Blaubeuren",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7826231,
+              48.4134158
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "300129511",
+            "osm_type": "node",
+            "lat": 48.5820111,
+            "lon": 9.6566959,
+            "amenity": "police",
+            "name": "Autobahnpolizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6566959,
+              48.5820111
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "371766971",
+            "osm_type": "node",
+            "lat": 48.6185982,
+            "lon": 9.5393,
+            "addr:city": "Weilheim an der Teck",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "73235",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "police",
+            "name": "Polizeiposten Weilheim an der Teck"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5393,
+              48.6185982
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "373831619",
+            "osm_type": "node",
+            "lat": 48.4652081,
+            "lon": 9.9430266,
+            "addr:city": "Dornstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "89160",
+            "addr:street": "Kirchplatz",
+            "amenity": "police",
+            "name": "Polizeiposten Dornstadt",
+            "website": "http://www.polizei-ulm.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9430266,
+              48.4652081
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "401360057",
+            "osm_type": "node",
+            "lat": 48.6170757,
+            "lon": 9.8387963,
+            "amenity": "police",
+            "name": "Polizeirevier Geislingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8387963,
+              48.6170757
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "561206828",
+            "osm_type": "node",
+            "lat": 48.6423447,
+            "lon": 9.6131399,
+            "addr:city": "Bad Boll",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "73087",
+            "addr:street": "Erlengarten",
+            "amenity": "police",
+            "check_date": "2025-03-27",
+            "email": "BAD-BOLL.PW@polizei.bwl.de",
+            "name": "Polizeiposten Bad Boll",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 7164 12024",
+            "website": "https://ppulm.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6131399,
+              48.6423447
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "802774955",
+            "osm_type": "node",
+            "lat": 48.4002808,
+            "lon": 9.9831776,
+            "addr:city": "Ulm",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "89073",
+            "addr:street": "Bahnhofplatz",
+            "amenity": "police",
+            "check_date": "2025-09-01",
+            "email": "bpolr.ulm@polizei.bund.de",
+            "fax": "+49 731 14087-117",
+            "name": "Bundespolizeirevier Ulm",
+            "opening_hours": "24/7",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+            "phone": "+49 731 14087-0",
+            "website": "https://www.bundespolizei.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9831776,
+              48.4002808
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2135113352",
+            "osm_type": "node",
+            "lat": 48.3870845,
+            "lon": 9.9670296,
+            "addr:country": "DE",
+            "addr:housenumber": "122",
+            "addr:postcode": "89077",
+            "addr:street": "Römerstraße",
+            "amenity": "police",
+            "name": "Polizeirevier Ulm-West"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9670296,
+              48.3870845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2355125718",
+            "osm_type": "node",
+            "lat": 48.4337228,
+            "lon": 10.0251836,
+            "amenity": "police",
+            "name": "Polizeiposten Böfingen",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0251836,
+              48.4337228
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2593810516",
+            "osm_type": "node",
+            "lat": 48.4161539,
+            "lon": 9.9181479,
+            "amenity": "police",
+            "name": "Polizeiposten Blaustein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9181479,
+              48.4161539
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2852212889",
+            "osm_type": "node",
+            "lat": 48.6828619,
+            "lon": 9.7591451,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7591451,
+              48.6828619
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2878314928",
+            "osm_type": "node",
+            "lat": 48.6364947,
+            "lon": 9.7988971,
+            "addr:city": "Kuchen",
+            "addr:housenumber": "118",
+            "addr:postcode": "73329",
+            "addr:street": "Hauptstraße",
+            "amenity": "police",
+            "name": "Polizei",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7988971,
+              48.6364947
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4022602293",
+            "osm_type": "node",
+            "lat": 48.5784179,
+            "lon": 9.8714253,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8714253,
+              48.5784179
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4473050979",
+            "osm_type": "node",
+            "lat": 48.3965509,
+            "lon": 9.9729169,
+            "addr:housenumber": "1",
+            "addr:street": "Lindenstraße",
+            "amenity": "police",
+            "check_date": "2024-09-24",
+            "name": "Kriminalpolizeidirektion Ulm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9729169,
+              48.3965509
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9924785684",
+            "osm_type": "node",
+            "lat": 48.4131822,
+            "lon": 9.9621352,
+            "TODO": "Daten anpassen",
+            "amenity": "police",
+            "check_date": "2025-07-25",
+            "name": "Polizeiposten Ulm-Eselsberg",
+            "opening_hours": "Mo-Th 07:30-16:00; Fr 07:30-14:30",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9621352,
+              48.4131822
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11395213969",
+            "osm_type": "node",
+            "lat": 48.3973249,
+            "lon": 9.9900269,
+            "addr:city": "Ulm",
+            "addr:housenumber": "47",
+            "addr:postcode": "89073",
+            "addr:street": "Münsterplatz",
+            "amenity": "police",
+            "name": "Polizeipräsidium Ulm",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 731 188-0",
+            "website": "https://ppulm.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9900269,
+              48.3973249
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11881021699",
+            "osm_type": "node",
+            "lat": 48.6856718,
+            "lon": 9.8080727,
+            "addr:city": "Donzdorf",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "73072",
+            "addr:street": "Poststraße",
+            "amenity": "police",
+            "name": "Polizeiposten Donzdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8080727,
+              48.6856718
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12168897693",
+            "osm_type": "node",
+            "lat": 48.6264683,
+            "lon": 10.0199622,
+            "addr:city": "Gerstetten",
+            "addr:housenumber": "2",
+            "addr:postcode": "89547",
+            "addr:street": "Heuchstetter Straße",
+            "amenity": "police",
+            "fax": "+49 7323 7983",
+            "name": "Polizeiposten Gerstetten",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 7323 920065"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0199622,
+              48.6264683
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3265530921",
+            "osm_type": "node",
+            "lat": 48.6202915,
+            "lon": 10.1763318,
+            "addr:housenumber": "4",
+            "addr:street": "Pfarrstraße",
+            "amenity": "police",
+            "entrance": "yes",
+            "name": "Polizeiposten",
+            "phone": "+49 7324 919014",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1763318,
+              48.6202915
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3705832690",
+            "osm_type": "node",
+            "lat": 48.4962041,
+            "lon": 10.1182124,
+            "amenity": "police",
+            "name": "Polizeiposten Langenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1182124,
+              48.4962041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6611418382",
+            "osm_type": "node",
+            "lat": 48.5583762,
+            "lon": 10.2887423,
+            "addr:city": "Sontheim an der Brenz",
+            "addr:housenumber": "25",
+            "addr:postcode": "89567",
+            "addr:street": "Brenzer Straße",
+            "amenity": "police",
+            "email": "sontheim.pw@polizei.bwl.de",
+            "name": "Polizeiposten Sontheim an der Brenz",
+            "phone": "+49 7325 919003"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2887423,
+              48.5583762
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8742521790",
+            "osm_type": "node",
+            "lat": 48.4255868,
+            "lon": 10.4100805,
+            "amenity": "police",
+            "name": "Polizei Inspektion Burgau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4100805,
+              48.4255868
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 6,
+      "leafCount": 6,
+      "averagePosition": [
+        10.846099350000001,
+        48.38891453333333
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4966855111",
+            "osm_type": "node",
+            "lat": 48.3666935,
+            "lon": 10.8851544,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "3",
+            "addr:postcode": "86150",
+            "addr:street": "Viktoriastraße",
+            "amenity": "police",
+            "level": "0",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+            "phone": "+49 821 343560",
+            "website": "https://www.bundespolizei.de/SharedDocs/Webs/Web/Organisationseinheiten/BPOLR/Augsburg.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8851544,
+              48.3666935
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5552351456",
+            "osm_type": "node",
+            "lat": 48.3623973,
+            "lon": 10.8686971,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "38",
+            "addr:postcode": "86157",
+            "addr:street": "Augsburger Straße",
+            "amenity": "police",
+            "check_date": "2024-05-20",
+            "fax": "+49 821 3232640",
+            "name": "Polizeiinspektion 6",
+            "phone": "+49 821 3232610",
+            "website": "https://www.polizei.bayern.de/schwaben/wir/organisation/dienststellen/index.html/69857",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8686971,
+              48.3623973
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8742813563",
+            "osm_type": "node",
+            "lat": 48.3561599,
+            "lon": 10.9160115,
+            "addr:city": "Augsburg",
+            "addr:country": "DE",
+            "addr:housenumber": "41",
+            "addr:postcode": "86161",
+            "addr:street": "Friedberger Straße",
+            "amenity": "police",
+            "check_date": "2025-02-23",
+            "name": "Verkehrspolizeiinspektion Augsburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9160115,
+              48.3561599
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "297472746",
+            "osm_type": "node",
+            "lat": 48.4240284,
+            "lon": 10.9327516,
+            "amenity": "police",
+            "name": "Flughafenpolizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9327516,
+              48.4240284
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1374188270",
+            "osm_type": "node",
+            "lat": 48.3983687,
+            "lon": 10.5963582,
+            "addr:city": "Zusmarshausen",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "86441",
+            "addr:street": "Schloßplatz",
+            "amenity": "police",
+            "name": "Polizeiinspektion Zusmarshausen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5963582,
+              48.3983687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7725356032",
+            "osm_type": "node",
+            "lat": 48.4258394,
+            "lon": 10.8776233,
+            "addr:city": "Gersthofen",
+            "addr:country": "DE",
+            "addr:housenumber": "18",
+            "addr:postcode": "86368",
+            "addr:street": "Schulstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Gersthofen",
+            "wheelchair": "no",
+            "wheelchair:description": "Klingeln dann kommt jemand"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8776233,
+              48.4258394
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 15,
+      "leafCount": 15,
+      "averagePosition": [
+        9.877300306666665,
+        48.81970635333333
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1656157728",
+            "osm_type": "node",
+            "lat": 48.848777,
+            "lon": 9.8819297,
+            "addr:city": "Leinzell",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "73575",
+            "addr:street": "Mulfinger Straße",
+            "amenity": "police",
+            "email": "LEINZELL.PW@polizei.bwl.de",
+            "name": "Polizeiposten Leinzell",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 7175 9219680",
+            "website": "https://ppaalen.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8819297,
+              48.848777
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2324900565",
+            "osm_type": "node",
+            "lat": 48.7949431,
+            "lon": 9.6029358,
+            "addr:city": "Plüderhausen",
+            "addr:housenumber": "3",
+            "addr:postcode": "73655",
+            "addr:street": "Brunnenstraße",
+            "amenity": "police",
+            "contact:phone": "+49 7181 81344",
+            "email": "PLUEDERHAUSEN.PW@polizei.bwl.de",
+            "name": "Polizeiposten Plüderhausen",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+497181 81344",
+            "website": "https://ppaalen.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6029358,
+              48.7949431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2978104335",
+            "osm_type": "node",
+            "lat": 48.7962934,
+            "lon": 9.7916692,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:housenumber": "7",
+            "addr:postcode": "73525",
+            "addr:street": "Lessingstraße",
+            "amenity": "police",
+            "entrance": "yes",
+            "name": "Polizeirevier Schwäbisch Gmünd",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7916692,
+              48.7962934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4380968777",
+            "osm_type": "node",
+            "lat": 48.797846,
+            "lon": 9.6890052,
+            "addr:city": "Lorch",
+            "addr:housenumber": "40",
+            "addr:postcode": "73547",
+            "addr:street": "Kirchstraße",
+            "amenity": "police",
+            "email": "LORCH.PW@polizei.bwl.de",
+            "name": "Polizeiposten Lorch",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 7172 7315",
+            "website": "https://ppaalen.polizei-bw.de/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6890052,
+              48.797846
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6594003187",
+            "osm_type": "node",
+            "lat": 48.7901654,
+            "lon": 9.8482809,
+            "addr:city": "Schwäbisch Gmünd",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "73529",
+            "addr:street": "Bühlgasse",
+            "addr:suburb": "Bettringen",
+            "amenity": "police",
+            "email": "BETTRINGEN.PW@polizei.bwl.de",
+            "name": "Polizeiposten Schwäbisch Gmünd-Bettringen",
+            "note": "Haben zwar Bühlgasse 1 in der Anschrift, konnte aber im amtl. Geoportal nicht verifiziert werden: Dort hat das gesamte Gebäude Hausnummer 3",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+49 7171 7966490",
+            "website": "https://ppaalen.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8482809,
+              48.7901654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9493112867",
+            "osm_type": "node",
+            "lat": 48.7322037,
+            "lon": 9.6426878,
+            "addr:city": "Rechberghausen",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "73098",
+            "addr:street": "Schloßmarkt",
+            "amenity": "police",
+            "email": "RECHBERGHAUSEN.PW@polizei.bwl.de",
+            "name": "Polizeiposten Rechberghausen",
+            "phone": "+497161959306",
+            "website": "https://ppulm.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6426878,
+              48.7322037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11013000135",
+            "osm_type": "node",
+            "lat": 48.6930561,
+            "lon": 9.7107218,
+            "addr:postcode": "73054",
+            "addr:street": "Ulmer Straße",
+            "amenity": "police",
+            "name": "Polizei Eislingen/Fils",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7107218,
+              48.6930561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "444827375",
+            "osm_type": "node",
+            "lat": 48.6919633,
+            "lon": 10.0638803,
+            "addr:city": "Steinheim am Albuch",
+            "addr:housenumber": "2",
+            "addr:postcode": "89555",
+            "addr:street": "Forststraße",
+            "alt_name": "Polizeiposten",
+            "amenity": "police",
+            "name": "Polizei Steinheim",
+            "phone": "+49 7329 91 90 07"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0638803,
+              48.6919633
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "765990766",
+            "osm_type": "node",
+            "lat": 48.7836949,
+            "lon": 10.0986486,
+            "addr:city": "Oberkochen",
+            "addr:country": "DE",
+            "addr:housenumber": "38a",
+            "addr:postcode": "73447",
+            "addr:street": "Dreißentalstraße",
+            "amenity": "police",
+            "description": "Zuständig für kleinere und mittlere Kriminalität in AA-Unterkochen und Oberkochen",
+            "name": "Polizeiposten Oberkochen",
+            "phone": "+49 7364 95599-0"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0986486,
+              48.7836949
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4613944087",
+            "osm_type": "node",
+            "lat": 48.869442,
+            "lon": 10.1060473,
+            "amenity": "police",
+            "name": "Polizeiposten Wasseralfingen",
+            "note": "zuständig für Wasseralfingen u. Hüttlingen",
+            "phone": "+49 7361 97960"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1060473,
+              48.869442
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "280341856",
+            "osm_type": "node",
+            "lat": 48.8775193,
+            "lon": 9.6351444,
+            "addr:housenumber": "3",
+            "addr:postcode": "73642",
+            "addr:street": "Gottlob-Bauknecht-Platz",
+            "amenity": "police",
+            "email": "WELZHEIM.PW@polizei.bwl.de",
+            "name": "Polizeiposten Welzheim",
+            "phone": "+49 7182 92810",
+            "website": "https://www.service-bw.de/zufi/organisationseinheiten/6004694",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6351444,
+              48.8775193
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8307416070",
+            "osm_type": "node",
+            "lat": 48.8968698,
+            "lon": 10.0071064,
+            "addr:city": "Abtsgmünd",
+            "addr:housenumber": "16",
+            "addr:postcode": "73453",
+            "addr:street": "Osteren",
+            "amenity": "police",
+            "name": "Polizeiposten Abtsgmünd",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0071064,
+              48.8968698
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11208823219",
+            "osm_type": "node",
+            "lat": 48.879765,
+            "lon": 9.7620625,
+            "addr:city": "Spraitbach",
+            "addr:housenumber": "2",
+            "addr:postcode": "73565",
+            "addr:street": "Kirchplatz",
+            "amenity": "police",
+            "email": "SPRAITBACH.PW@polizei.bwl.de",
+            "name": "Polizeiposten Spraitbach",
+            "operator": "Polizei Baden-Württemberg",
+            "operator:wikidata": "Q881955",
+            "phone": "+497176 6562",
+            "website": "https://ppaalen.polizei-bw.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7620625,
+              48.879765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "269197439",
+            "osm_type": "node",
+            "lat": 48.9643856,
+            "lon": 10.1314592,
+            "addr:city": "Ellwangen (Jagst)",
+            "addr:housenumber": "3",
+            "addr:postcode": "73479",
+            "addr:street": "Karlstraße",
+            "amenity": "police",
+            "name": "Polizeirevier Ellwangen/Jagst",
+            "note": "Gewerbe / Umwelt",
+            "phone": "+49 7961 9300",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1314592,
+              48.9643856
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12351488739",
+            "osm_type": "node",
+            "lat": 48.8786707,
+            "lon": 10.1879255,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1879255,
+              48.8786707
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 7,
+      "leafCount": 7,
+      "averagePosition": [
+        10.987328342857142,
+        48.79639065714286
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "325137166",
+            "osm_type": "node",
+            "lat": 48.8493711,
+            "lon": 10.4907527,
+            "addr:city": "Nördlingen",
+            "addr:country": "DE",
+            "addr:housenumber": "7",
+            "addr:postcode": "86720",
+            "addr:street": "Reimlinger Straße",
+            "amenity": "police",
+            "check_date": "2024-10-18",
+            "name": "Polizeiinspektion Nördlingen",
+            "website": "https://www.polizei.bayern.de/schwaben/wir/organisation/dienststellen/index.html/69941",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4907527,
+              48.8493711
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "420806897",
+            "osm_type": "node",
+            "lat": 48.6902849,
+            "lon": 10.9159487,
+            "addr:city": "Rain",
+            "addr:country": "DE",
+            "addr:housenumber": "50",
+            "addr:postcode": "86641",
+            "addr:street": "Hauptstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Rain",
+            "phone": "+49 909070070",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9159487,
+              48.6902849
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4214484681",
+            "osm_type": "node",
+            "lat": 48.7148734,
+            "lon": 10.7751949,
+            "addr:city": "Donauwörth",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86609",
+            "addr:street": "Langemarckstraße",
+            "amenity": "police",
+            "entrance": "yes",
+            "fax": "+49 906 402115-40",
+            "name": "Verkehrspolizeiinspektion Donauwörth",
+            "phone": "+49 906 402115-0",
+            "ramp:wheelchair": "yes",
+            "step_count": "2",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7751949,
+              48.7148734
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2907284819",
+            "osm_type": "node",
+            "lat": 48.7441572,
+            "lon": 11.4369453,
+            "amenity": "police",
+            "indoor": "yes",
+            "level": "0",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "source": "extrapolation",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4369453,
+              48.7441572
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2913912204",
+            "osm_type": "node",
+            "lat": 48.7299297,
+            "lon": 11.1772802,
+            "addr:city": "Neuburg an der Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "B 108",
+            "addr:postcode": "86633",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "police",
+            "contact:phone": "+49 8431 6711-0",
+            "name": "Polizeiinspektion Neuburg",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1772802,
+              48.7299297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299967885",
+            "osm_type": "node",
+            "lat": 48.9611568,
+            "lon": 10.9110479,
+            "amenity": "police",
+            "check_date": "2024-03-05",
+            "name": "Polizeiinspektion Treuchtlingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9110479,
+              48.9611568
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "282908435",
+            "osm_type": "node",
+            "lat": 48.8849615,
+            "lon": 11.2041287,
+            "addr:city": "Eichstätt",
+            "addr:country": "DE",
+            "addr:housenumber": "2b",
+            "addr:postcode": "85072",
+            "addr:street": "Kipfenberger Straße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Eichstätt",
+            "phone": "+49 8421 9770 0",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2041287,
+              48.8849615
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

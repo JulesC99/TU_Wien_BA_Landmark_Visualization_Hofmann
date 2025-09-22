@@ -1,0 +1,2741 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 108,
+  "leafCount": 0,
+  "averagePosition": [
+    14.23765374351852,
+    46.68660214351852
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 13.345766,
+        "north": 46.70320525,
+        "east": 14.2994695
+      },
+      "poiCount": 36,
+      "leafCount": 36,
+      "averagePosition": [
+        13.91294568888889,
+        46.58823758611111
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "228310681",
+            "osm_type": "node",
+            "lat": 46.4986252,
+            "lon": 13.3766814,
+            "amenity": "fuel",
+            "brand": "Esso",
+            "brand:wikidata": "Q867662",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Esso",
+            "operator": "Nuova Sidap S.R.L.",
+            "ref:mise": "36400"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3766814,
+              46.4986252
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "877881472",
+            "osm_type": "node",
+            "lat": 46.6285759,
+            "lon": 13.4751214,
+            "addr:city": "Hermagor-Pressegger See",
+            "addr:housenumber": "46",
+            "addr:postcode": "9615",
+            "addr:street": "Förolach",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Eni",
+            "phone": "+43 4283 2270"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4751214,
+              46.6285759
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1108178792",
+            "osm_type": "node",
+            "lat": 46.6296381,
+            "lon": 13.3787496,
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "fixme": "Sorten ergänzen",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "operator": "OMV",
+            "shop": "kiosk"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3787496,
+              46.6296381
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1141211939",
+            "osm_type": "node",
+            "lat": 46.6223018,
+            "lon": 13.3748483,
+            "amenity": "fuel",
+            "fixme": "Öffnungszeiten?",
+            "fuel:diesel": "yes",
+            "operator": "Bauhof Hermagor",
+            "shop": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3748483,
+              46.6223018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "228735392",
+            "osm_type": "node",
+            "lat": 46.506228,
+            "lon": 13.565251,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Agip",
+            "operator": "Collini Mauro",
+            "ref:mise": "39125"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.565251,
+              46.506228
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "228735393",
+            "osm_type": "node",
+            "lat": 46.5055053,
+            "lon": 13.56939,
+            "amenity": "fuel",
+            "brand": "Esso",
+            "brand:wikidata": "Q867662",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Esso",
+            "operator": "Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.",
+            "ref:mise": "40572"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56939,
+              46.5055053
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286982933",
+            "osm_type": "node",
+            "lat": 46.6251,
+            "lon": 13.8218323,
+            "addr:city": "Villach",
+            "addr:country": "AT",
+            "addr:housenumber": "124",
+            "addr:postcode": "9500",
+            "addr:street": "St.Martiner-Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "fuel:premium_diesel": "yes",
+            "name": "Turmöl Quick",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "operator": "Doppler Mineralöle GmbH",
+            "self_service": "yes",
+            "website": "https://turmöl.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8218323,
+              46.6251
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "301173135",
+            "osm_type": "node",
+            "lat": 46.5609465,
+            "lon": 13.8735587,
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Esso"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8735587,
+              46.5609465
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "332029393",
+            "osm_type": "node",
+            "lat": 46.6116851,
+            "lon": 13.8560045,
+            "addr:city": "Villach",
+            "addr:country": "AT",
+            "addr:housenumber": "50a",
+            "addr:postcode": "9500",
+            "addr:street": "Ossiacher Zeile",
+            "amenity": "fuel",
+            "brand": "BP",
+            "brand:wikidata": "Q152057",
+            "brand:wikipedia": "en:BP",
+            "check_date": "2022-08-02",
+            "fuel:diesel": "yes",
+            "name": "BP",
+            "opening_hours": "24/7",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+43 4242 24589",
+            "website": "https://www.bp.com/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8560045,
+              46.6116851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "332035697",
+            "osm_type": "node",
+            "lat": 46.6176708,
+            "lon": 13.8607505,
+            "addr:city": "Villach",
+            "addr:country": "AT",
+            "addr:housenumber": "74",
+            "addr:postcode": "9500",
+            "addr:street": "Ossiacher Zeile",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "compressed_air": "yes",
+            "fuel:cng": "no",
+            "fuel:diesel": "yes",
+            "fuel:octane_91": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Eni",
+            "opening_hours": "24/7",
+            "operator": "Eni",
+            "phone": "+43(0)4242/41978",
+            "website": "https://www.eni.com",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8607505,
+              46.6176708
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "339665923",
+            "osm_type": "node",
+            "lat": 46.626045,
+            "lon": 13.8751667,
+            "addr:city": "Villach-Landskron",
+            "addr:country": "AT",
+            "addr:housenumber": "45",
+            "addr:postcode": "9523",
+            "addr:street": "Triester Straße",
+            "amenity": "fuel",
+            "brand": "A1",
+            "name": "A1",
+            "operator": "A1 Tankstellenbetrieb GmbH"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8751667,
+              46.626045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "355867029",
+            "osm_type": "node",
+            "lat": 46.5800917,
+            "lon": 13.60754,
+            "addr:city": "Feistritz an der Gail",
+            "addr:country": "AT",
+            "addr:housenumber": "159",
+            "addr:place": "Feistritz an der Gail",
+            "addr:postcode": "9613",
+            "amenity": "fuel",
+            "at_bev:addr_date": "2017-10-01",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "name": "Turmöl Quick",
+            "opening_hours": "24/7",
+            "operator": "Doppler Mineralöle GmbH",
+            "payment:cash": "no",
+            "self_service": "only",
+            "vending_machine": "only"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.60754,
+              46.5800917
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "864669581",
+            "osm_type": "node",
+            "lat": 46.6792122,
+            "lon": 13.9681899,
+            "addr:city": "Steindorf am Ossiacher See",
+            "addr:country": "AT",
+            "addr:housenumber": "65",
+            "addr:postcode": "9551",
+            "addr:street": "Bundesstraße West",
+            "amenity": "fuel",
+            "at_bev:addr_date": "2016-10-02",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "brand:wikipedia": "en:BP",
+            "check_date": "2022-08-09",
+            "compressed_air": "no",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Turmöl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9681899,
+              46.6792122
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1726188024",
+            "osm_type": "node",
+            "lat": 46.5418539,
+            "lon": 13.6484585,
+            "addr:city": "Thörl-Maglern",
+            "addr:housenumber": "B83",
+            "addr:postcode": "9602",
+            "addr:street": "Tankanlage",
+            "amenity": "fuel",
+            "changing_table": "no",
+            "fuel:adblue": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "mobile": "+43 664 1333934",
+            "name": "MONTEX",
+            "opening_hours": "24/7",
+            "operator": "MONTEX Tankstellenbetriebs GmbH",
+            "self_service": "yes",
+            "website": "https://www.montex-tank.at",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6484585,
+              46.5418539
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2113013496",
+            "osm_type": "node",
+            "lat": 46.5780427,
+            "lon": 13.9362562,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "name": "Shell Schiestl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9362562,
+              46.5780427
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3334248995",
+            "osm_type": "node",
+            "lat": 46.5596871,
+            "lon": 13.6972286,
+            "addr:city": "Arnoldstein",
+            "addr:housenumber": "6",
+            "addr:postcode": "9601",
+            "addr:street": "Industriestraße",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "name": "EuroTruck",
+            "not:brand:wikidata": "Q168238",
+            "opening_hours": "24/7",
+            "operator": "OMV"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6972286,
+              46.5596871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5430930115",
+            "osm_type": "node",
+            "lat": 46.6314929,
+            "lon": 13.8265501,
+            "amenity": "fuel",
+            "brand": "Hofer Diskont",
+            "brand:wikidata": "Q107803455",
+            "name": "Hofer Diskont",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "website": "https://www.diskonttanken.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8265501,
+              46.6314929
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5766930092",
+            "osm_type": "node",
+            "lat": 46.5834136,
+            "lon": 13.6107329,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "name": "Eni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6107329,
+              46.5834136
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5829794257",
+            "osm_type": "node",
+            "lat": 46.5661908,
+            "lon": 13.8221919,
+            "addr:city": "Fürnitz",
+            "addr:country": "AT",
+            "addr:housenumber": "18a",
+            "addr:postcode": "9586",
+            "addr:street": "Industriestraße",
+            "amenity": "fuel",
+            "name": "F. Leitner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8221919,
+              46.5661908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6702757289",
+            "osm_type": "node",
+            "lat": 46.5791653,
+            "lon": 13.9996024,
+            "amenity": "fuel",
+            "check_date": "2025-08-25"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9996024,
+              46.5791653
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7888275971",
+            "osm_type": "node",
+            "lat": 46.6903531,
+            "lon": 13.6810946,
+            "addr:city": "Paternion",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "9710",
+            "addr:street": "Drautalstraße (Neu-Feffernitz)",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "contact:email": "office@auto-abc.at",
+            "contact:phone": "+43 4245 40001",
+            "contact:website": "http://www.auto-abc.at/",
+            "name": "Eni",
+            "operator": "name=ABC Auto Bedarf Center"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6810946,
+              46.6903531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "20825091",
+            "osm_type": "node",
+            "lat": 46.6303447,
+            "lon": 14.0946634,
+            "addr:city": "Raststation Wörthersee A2",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "compressed_air": "yes",
+            "fuel:HGV_diesel": "yes",
+            "fuel:adblue": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Eni",
+            "opening_hours": "24/7",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0946634,
+              46.6303447
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "247935355",
+            "osm_type": "node",
+            "lat": 46.5919359,
+            "lon": 14.2715053,
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "operator": "OMV",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2715053,
+              46.5919359
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "263711000",
+            "osm_type": "node",
+            "lat": 46.6232988,
+            "lon": 14.2837899,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "116",
+            "addr:postcode": "9020",
+            "addr:street": "Koschatstraße",
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "compressed_air": "yes",
+            "name": "Shell",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2837899,
+              46.6232988
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "363819698",
+            "osm_type": "node",
+            "lat": 46.5246696,
+            "lon": 14.1635963,
+            "amenity": "fuel",
+            "brand": "Socar",
+            "brand:wikidata": "Q1622293",
+            "name": "SOCAR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1635963,
+              46.5246696
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "428836872",
+            "osm_type": "node",
+            "lat": 46.587532,
+            "lon": 14.1407761,
+            "amenity": "fuel",
+            "name": "Diskonttankstelle Sabotnik",
+            "operator": "Indipend."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1407761,
+              46.587532
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "465209290",
+            "osm_type": "node",
+            "lat": 46.6034914,
+            "lon": 14.2969592,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "name": "Eni",
+            "operator": "ENI S.p.A."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2969592,
+              46.6034914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "465209291",
+            "osm_type": "node",
+            "lat": 46.6087497,
+            "lon": 14.2993105,
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Turmöl",
+            "opening_hours": "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 07:00-22:00",
+            "operator": "Doppler Gruppe"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2993105,
+              46.6087497
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "602762414",
+            "osm_type": "node",
+            "lat": 46.6198428,
+            "lon": 14.2821596,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "143",
+            "addr:postcode": "9020",
+            "addr:street": "Villacher Straße",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "name": "Eni wash",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2821596,
+              46.6198428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1335360793",
+            "osm_type": "node",
+            "lat": 46.5512993,
+            "lon": 14.0490034,
+            "addr:city": "St. Jakob im Rosental",
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "operator": "Lagerhaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0490034,
+              46.5512993
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1471844660",
+            "osm_type": "node",
+            "lat": 46.5280226,
+            "lon": 14.2918761,
+            "addr:city": "Ferlach",
+            "addr:country": "AT",
+            "addr:housenumber": "23",
+            "addr:postcode": "9170",
+            "addr:street": "Klagenfurter Straße",
+            "amenity": "fuel",
+            "at_bev:addr_date": "2017-10-01",
+            "brand": "BP",
+            "brand:wikidata": "Q152057",
+            "brand:wikipedia": "en:BP",
+            "fuel:diesel": "yes",
+            "fuel:octane_91": "yes",
+            "fuel:octane_95": "yes",
+            "name": "BP",
+            "operator": "Veratschnig Handels Gmbh & Co KG",
+            "source": "geoimage.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2918761,
+              46.5280226
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1471844667",
+            "osm_type": "node",
+            "lat": 46.5284416,
+            "lon": 14.2913509,
+            "addr:city": "Ferlach",
+            "addr:country": "AT",
+            "addr:housenumber": "42",
+            "addr:postcode": "9170",
+            "addr:street": "Klagenfurter Straße",
+            "amenity": "fuel",
+            "at_bev:addr_date": "2017-10-01",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "fuel:diesel": "yes",
+            "fuel:octane_91": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Eni",
+            "operator": "Kurt Lagler",
+            "source": "geoimage.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2913509,
+              46.5284416
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1490511563",
+            "osm_type": "node",
+            "lat": 46.6589902,
+            "lon": 14.1770573,
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Turmöl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1770573,
+              46.6589902
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5041219229",
+            "osm_type": "node",
+            "lat": 46.4308113,
+            "lon": 14.0644689,
+            "amenity": "fuel",
+            "fuel:cng": "yes",
+            "name": "Metan",
+            "opening_hours": "Mo-Th 07:00-15:00; Fr 07:00-13:00",
+            "operator": "ENOS"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0644689,
+              46.4308113
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7615887299",
+            "osm_type": "node",
+            "lat": 46.6493258,
+            "lon": 14.2841317,
+            "amenity": "fuel",
+            "brand": "Hofer Diskont",
+            "brand:wikidata": "Q107803455",
+            "compressed_air": "no",
+            "name": "Hofer Diskont",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "website": "https://www.diskonttanken.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2841317,
+              46.6493258
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8907958881",
+            "osm_type": "node",
+            "lat": 46.6179724,
+            "lon": 14.0501967,
+            "addr:city": "Velden am Wörther See",
+            "addr:housenumber": "19",
+            "addr:postcode": "9220",
+            "addr:street": "Klagenfurter Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "name": "Turmöl",
+            "operator": "Turmöl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0501967,
+              46.6179724
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 14.2994695,
+        "north": 46.70320525,
+        "east": 15.253173
+      },
+      "poiCount": 35,
+      "leafCount": 35,
+      "averagePosition": [
+        14.487907037142856,
+        46.63501838571428
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "274283667",
+            "osm_type": "node",
+            "lat": 46.6958676,
+            "lon": 14.7369796,
+            "addr:city": "Griffen",
+            "addr:postcode": "9112",
+            "amenity": "fuel",
+            "brand": "BP",
+            "brand:wikidata": "Q152057",
+            "brand:wikipedia": "en:BP",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "yes",
+            "fuel:octane_95": "yes",
+            "name": "BP",
+            "opening_hours": "24/7",
+            "operator": "BP"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7369796,
+              46.6958676
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "801079568",
+            "osm_type": "node",
+            "lat": 46.6592355,
+            "lon": 14.6172141,
+            "addr:city": "Völkermarkt",
+            "addr:country": "AT",
+            "addr:housenumber": "42a",
+            "addr:postcode": "9100",
+            "addr:street": "Klagenfurter Straße",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "fuel:cng": "yes",
+            "name": "Eni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6172141,
+              46.6592355
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "820838472",
+            "osm_type": "node",
+            "lat": 46.5758681,
+            "lon": 14.7758792,
+            "amenity": "fuel",
+            "name": "OMV"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7758792,
+              46.5758681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1586422804",
+            "osm_type": "node",
+            "lat": 46.576839,
+            "lon": 14.564589,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.564589,
+              46.576839
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2135195999",
+            "osm_type": "node",
+            "lat": 46.6558431,
+            "lon": 14.5495303,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "fuel:biodiesel": "no",
+            "fuel:biogas": "no",
+            "fuel:cng": "no",
+            "fuel:diesel": "yes",
+            "fuel:electricity": "no",
+            "name": "Shell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5495303,
+              46.6558431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2404919738",
+            "osm_type": "node",
+            "lat": 46.6588732,
+            "lon": 14.7708688,
+            "amenity": "fuel",
+            "name": "ADEG Markt Ruden",
+            "opening_hours": "Mo-Fr: 7:30-12:30, 15:00-18:00, Sa: 7:30-12:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7708688,
+              46.6588732
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2426499329",
+            "osm_type": "node",
+            "lat": 46.6150212,
+            "lon": 14.5751891,
+            "addr:city": "St. Kanzian am Klopeiner See",
+            "addr:housenumber": "6",
+            "addr:postcode": "9122",
+            "addr:street": "Klopeiner Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "email": "stkanzian@doppler-tankstellen.at",
+            "fax": "+43 4239 24504",
+            "fuel:GTL_diesel": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Turmöl",
+            "opening_hours": "Mo-Fr 06:00-22:00, Sa 07:00-22:00,Su 08:00-20:00",
+            "operator": "Doppler Gruppe",
+            "phone": "+43 4239 2450",
+            "source": "survey",
+            "website": "https://www.turmöl.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5751891,
+              46.6150212
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2505889115",
+            "osm_type": "node",
+            "lat": 46.5919722,
+            "lon": 14.636897,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.636897,
+              46.5919722
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2853452098",
+            "osm_type": "node",
+            "lat": 46.7027224,
+            "lon": 14.7285888,
+            "amenity": "fuel",
+            "brand": "Avanti",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "no",
+            "fuel:diesel": "no",
+            "name": "Avanti",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "phone": "+43 800 202055"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7285888,
+              46.7027224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5902849949",
+            "osm_type": "node",
+            "lat": 46.6624133,
+            "lon": 14.6266803,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "name": "Shell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6266803,
+              46.6624133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10298386852",
+            "osm_type": "node",
+            "lat": 46.6630104,
+            "lon": 14.6217435,
+            "addr:city": "Völkermarkt",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "9100",
+            "addr:street": "Umfahrungsstraße",
+            "amenity": "fuel",
+            "brand": "JET",
+            "brand:wikidata": "Q568940",
+            "contact:phone": "+43 4232 55152",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "JET",
+            "opening_hours": "Mo-Sa 05:00-23:00; Su 06:00-23:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6217435,
+              46.6630104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11646969348",
+            "osm_type": "node",
+            "lat": 46.5859152,
+            "lon": 14.7958543,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "compressed_air": "yes",
+            "name": "Eni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7958543,
+              46.5859152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12483586350",
+            "osm_type": "node",
+            "lat": 46.6812492,
+            "lon": 14.6786115,
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "fixme": "draw the driveway correctly and add the building",
+            "name": "OMV FastLane",
+            "opening_hours": "24/7",
+            "phone": "+43140440",
+            "website": "http://www.omv.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6786115,
+              46.6812492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9691297898",
+            "osm_type": "node",
+            "lat": 46.6897177,
+            "lon": 15.2488309,
+            "addr:city": "Eibiswald",
+            "addr:country": "AT",
+            "addr:housenumber": "242a",
+            "addr:place": "Eibiswald",
+            "addr:postcode": "8552",
+            "amenity": "fuel",
+            "at_bev:addr_date": "2019-04-01",
+            "brand": "SOCAR",
+            "brand:wikidata": "Q1622293",
+            "brand:wikipedia": "en:SOCAR",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Socar",
+            "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su,PH 07:00-21:00",
+            "operator": "A1 Tankstellenbetrieb GmbH",
+            "self_service": "yes",
+            "shop": "convenience"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2488309,
+              46.6897177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31239398",
+            "osm_type": "node",
+            "lat": 46.6440251,
+            "lon": 14.3150255,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "compressed_air": "yes",
+            "name": "Eni",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3150255,
+              46.6440251
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31239406",
+            "osm_type": "node",
+            "lat": 46.6533516,
+            "lon": 14.313895,
+            "amenity": "fuel",
+            "brand": "Avanti",
+            "brand:wikidata": "Q124350461",
+            "brand:wikipedia": "en:OMV",
+            "name": "Avanti",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "phone": "+43 800 202055"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.313895,
+              46.6533516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "300070405",
+            "osm_type": "node",
+            "lat": 46.6068298,
+            "lon": 14.3042299,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "248",
+            "addr:postcode": "9020",
+            "addr:street": "Südring",
+            "amenity": "fuel",
+            "name": "Unser Lagerhaus",
+            "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-21:00",
+            "operator": "“UNSER LAGERHAUS“ Warenhandelsgesellschaft m.b.H."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3042299,
+              46.6068298
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "345407292",
+            "osm_type": "node",
+            "lat": 46.62559,
+            "lon": 14.3402929,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "142",
+            "addr:postcode": "9020",
+            "addr:street": "Völkermarkter Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "brand:wikipedia": "de:Turmöl",
+            "fax": "0463 320907",
+            "name": "Turmöl",
+            "operator": "Doppler Klangenfurter TB GmbH",
+            "phone": "+43 463 31401",
+            "survey:date": "2016-11-24"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3402929,
+              46.62559
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "345407297",
+            "osm_type": "node",
+            "lat": 46.6300934,
+            "lon": 14.3562931,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:housenumber": "142",
+            "addr:postcode": "9020",
+            "addr:street": "Völkermarkter Straße",
+            "amenity": "fuel",
+            "check_date": "2025-07-06",
+            "check_date:compressed_air": "2025-07-06",
+            "compressed_air": "yes",
+            "name": "Rumpold"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3562931,
+              46.6300934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "345407302",
+            "osm_type": "node",
+            "lat": 46.6295763,
+            "lon": 14.356556,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "272",
+            "addr:postcode": "9020",
+            "addr:street": "Völkermarkter Straße",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "fuel:cng": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "OMV",
+            "operator": "OMV"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.356556,
+              46.6295763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "345407304",
+            "osm_type": "node",
+            "lat": 46.6349235,
+            "lon": 14.3706886,
+            "amenity": "fuel",
+            "brand": "JET",
+            "brand:wikidata": "Q568940",
+            "brand:wikipedia": "en:Jet (brand)",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "no",
+            "name": "Jet",
+            "operator": "JET"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3706886,
+              46.6349235
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "355906024",
+            "osm_type": "node",
+            "lat": 46.6218256,
+            "lon": 14.449359,
+            "amenity": "fuel",
+            "name": "Tankstelle Grafenstein",
+            "operator": "Raiffeisen Lagerhaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.449359,
+              46.6218256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "370148343",
+            "osm_type": "node",
+            "lat": 46.6090719,
+            "lon": 14.3304903,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "315",
+            "addr:postcode": "9020",
+            "addr:street": "Südring",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "fuel:cng": "no",
+            "name": "Turmöl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3304903,
+              46.6090719
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "417140914",
+            "osm_type": "node",
+            "lat": 46.6119675,
+            "lon": 14.3006119,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "102",
+            "addr:street": "Rosentaler Straße",
+            "amenity": "fuel",
+            "brand": "JET",
+            "brand:wikidata": "Q568940",
+            "brand:wikipedia": "en:Jet (brand)",
+            "compressed_air": "yes",
+            "name": "JET",
+            "operator": "Conoco Phillips Austria GmbH",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3006119,
+              46.6119675
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "486567247",
+            "osm_type": "node",
+            "lat": 46.6362024,
+            "lon": 14.3116779,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "61",
+            "addr:street": "St. Veiter Straße",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Eni",
+            "opening_hours": "24/7",
+            "operator": "Eni Austria",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3116779,
+              46.6362024
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "545723674",
+            "osm_type": "node",
+            "lat": 46.65308,
+            "lon": 14.3134895,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:housenumber": "203",
+            "addr:postcode": "9020",
+            "addr:street": "Sankt Veiter Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "email": "klagenfurt.stveiterstr@doppler-tankstellen.at",
+            "name": "Turmöl",
+            "not:brand:wikidata": "Q152057",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "phone": "+463/440144",
+            "source": "https://xn--turml-mua.at/finden",
+            "website": "https://xn--turml-mua.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3134895,
+              46.65308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1436654596",
+            "osm_type": "node",
+            "lat": 46.637934,
+            "lon": 14.3331076,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "155",
+            "addr:street": "Pischeldorfer Straße",
+            "amenity": "fuel",
+            "brand": "Socar",
+            "brand:wikidata": "Q1622293",
+            "brand:wikipedia": "en:SOCAR",
+            "name": "Socar",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3331076,
+              46.637934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1437768283",
+            "osm_type": "node",
+            "lat": 46.6360543,
+            "lon": 14.3123812,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "94",
+            "addr:postcode": "9020",
+            "addr:street": "St. Veiter Straße",
+            "amenity": "fuel",
+            "brand": "SOCAR",
+            "brand:wikidata": "Q1622293",
+            "check_date": "2023-09-17",
+            "name": "Socar",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3123812,
+              46.6360543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1659501303",
+            "osm_type": "node",
+            "lat": 46.6080726,
+            "lon": 14.3302176,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "51",
+            "addr:postcode": "9020",
+            "addr:street": "Stadlweg",
+            "amenity": "fuel",
+            "brand": "Hofer Diskont",
+            "brand:wikidata": "Q107803455",
+            "fuel:diesel": "yes",
+            "name": "Hofer Diskont",
+            "opening_hours": "24/7",
+            "operator": "Hofer Diskont",
+            "website": "https://www.diskonttanken.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3302176,
+              46.6080726
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4732258261",
+            "osm_type": "node",
+            "lat": 46.6379468,
+            "lon": 14.3707461,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "22",
+            "addr:postcode": "9020",
+            "addr:street": "Görtschitztalstraße",
+            "amenity": "fuel",
+            "brand": "Avanti",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "fuel:diesel": "yes",
+            "name": "Avanti",
+            "opening_hours": "24/7",
+            "operator": "OMV",
+            "phone": "+43 800 202055"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3707461,
+              46.6379468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6418788156",
+            "osm_type": "node",
+            "lat": 46.6058199,
+            "lon": 14.3089453,
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Eni",
+            "opening_hours": "Mo-Su 06:00-22:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3089453,
+              46.6058199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6777872639",
+            "osm_type": "node",
+            "lat": 46.6750789,
+            "lon": 14.4243844,
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "self_service": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4243844,
+              46.6750789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7728435198",
+            "osm_type": "node",
+            "lat": 46.631103,
+            "lon": 14.371041,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "9020",
+            "addr:street": "Thomas-Bohrer-Straße",
+            "amenity": "fuel",
+            "contact:phone": "+49 800 889 186 99",
+            "name": "tankpool24",
+            "opening_hours": "24/7",
+            "website": "https://www.tankpool24.eu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.371041,
+              46.631103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9724845717",
+            "osm_type": "node",
+            "lat": 46.6123727,
+            "lon": 14.3171015,
+            "amenity": "fuel",
+            "compressed_air": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3171015,
+              46.6123727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11658303034",
+            "osm_type": "node",
+            "lat": 46.6101761,
+            "lon": 14.3187556,
+            "access": "no",
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3187556,
+              46.6101761
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 13.345766,
+        "north": 47.033758500000005,
+        "east": 14.2994695
+      },
+      "poiCount": 15,
+      "leafCount": 15,
+      "averagePosition": [
+        13.779467773333332,
+        46.81161212
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31239210",
+            "osm_type": "node",
+            "lat": 46.9498173,
+            "lon": 13.5090074,
+            "amenity": "fuel",
+            "compressed_air": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5090074,
+              46.9498173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9049106172",
+            "osm_type": "node",
+            "lat": 46.9809371,
+            "lon": 14.2196216,
+            "amenity": "fuel",
+            "email": "mg.kerschbaumer@aon.at",
+            "name": "Kerschbaumer",
+            "opening_hours": "Tu-Fr 08:00-12:00, 13:30-17:00",
+            "operator": "Günther Kerschbaumer",
+            "phone": "+4342678102",
+            "phone:mobile": "+4367761083148",
+            "self_service": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2196216,
+              46.9809371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31238878",
+            "osm_type": "node",
+            "lat": 46.8077969,
+            "lon": 13.479717,
+            "amenity": "fuel",
+            "name": "Heratank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.479717,
+              46.8077969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31238879",
+            "osm_type": "node",
+            "lat": 46.8061746,
+            "lon": 13.4841518,
+            "addr:city": "Spittal an der Drau",
+            "addr:country": "AT",
+            "addr:housenumber": "68",
+            "addr:postcode": "9800",
+            "addr:street": "10.-Oktober-Straße",
+            "amenity": "fuel",
+            "brand": "Hofer Diskont",
+            "brand:wikidata": "Q107803455",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Diskont",
+            "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-21:00",
+            "operator": "Leitner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4841518,
+              46.8061746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "445016585",
+            "osm_type": "node",
+            "lat": 46.8006379,
+            "lon": 13.4913531,
+            "addr:city": "Spittal an der Drau",
+            "addr:housenumber": "9",
+            "addr:postcode": "9800",
+            "addr:street": "Tiroler Straße",
+            "amenity": "fuel",
+            "brand": "Eni",
+            "brand:wikidata": "Q565594",
+            "brand:wikipedia": "en:Eni",
+            "contact:phone": "+43 4762 29860",
+            "name": "Eni",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4913531,
+              46.8006379
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3142117913",
+            "osm_type": "node",
+            "lat": 46.8031366,
+            "lon": 13.4875501,
+            "amenity": "fuel",
+            "operator": "Reifen Steiner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4875501,
+              46.8031366
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5430938745",
+            "osm_type": "node",
+            "lat": 46.7878859,
+            "lon": 13.5186286,
+            "addr:city": "Spittal an der Drau",
+            "addr:country": "AT",
+            "addr:postcode": "9800",
+            "amenity": "fuel",
+            "brand": "Hofer Diskont",
+            "brand:wikidata": "Q107803455",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Hofer Diskont",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "website": "https://www.diskonttanken.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5186286,
+              46.7878859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1700749652",
+            "osm_type": "node",
+            "lat": 46.8176647,
+            "lon": 13.8600714,
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "brand:wikipedia": "de:Turmöl",
+            "name": "Turmöl",
+            "opening_hours": "24/7",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "self_service": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8600714,
+              46.8176647
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1851314511",
+            "osm_type": "node",
+            "lat": 46.814394,
+            "lon": 13.8008289,
+            "amenity": "fuel",
+            "compressed_air": "yes",
+            "country": "AT",
+            "name": "Eni",
+            "opening_hours": "24/7",
+            "operator": "Eni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8008289,
+              46.814394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1949987621",
+            "osm_type": "node",
+            "lat": 46.7991409,
+            "lon": 13.6866364,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6866364,
+              46.7991409
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1949987735",
+            "osm_type": "node",
+            "lat": 46.7993062,
+            "lon": 13.6875215,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6875215,
+              46.7993062
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1988866025",
+            "osm_type": "node",
+            "lat": 46.8509099,
+            "lon": 14.1675619,
+            "addr:city": "Weitensfeld im Gurktal",
+            "addr:country": "AT",
+            "addr:postcode": "9344",
+            "amenity": "fuel",
+            "brand": "Socar",
+            "brand:wikidata": "Q1622293",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "SOCAR",
+            "old_name": "A1 Tankstelle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1675619,
+              46.8509099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6544614137",
+            "osm_type": "node",
+            "lat": 46.7220985,
+            "lon": 14.0989128,
+            "amenity": "fuel",
+            "brand": "Avia",
+            "brand:wikidata": "Q300147",
+            "changing_table": "no",
+            "compressed_air": "yes",
+            "valves": "schrader",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0989128,
+              46.7220985
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6544614173",
+            "osm_type": "node",
+            "lat": 46.7237409,
+            "lon": 14.1234455,
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "brand:wikipedia": "de:Turmöl",
+            "changing_table": "no",
+            "check_date": "2025-04-12",
+            "check_date:compressed_air": "2025-04-12",
+            "compressed_air": "yes",
+            "name": "Turmöl",
+            "valves": "schrader",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1234455,
+              46.7237409
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6545489815",
+            "osm_type": "node",
+            "lat": 46.7105404,
+            "lon": 14.0770086,
+            "amenity": "fuel",
+            "name": "Fliegertankstelle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0770086,
+              46.7105404
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 14.2994695,
+        "north": 47.033758500000005,
+        "east": 15.253173
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        14.683263481818182,
+        46.84439332272727
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "479350196",
+            "osm_type": "node",
+            "lat": 46.8461429,
+            "lon": 14.8435767,
+            "addr:city": "Wolfsberg",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "9400",
+            "addr:street": "Grazer Straße",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "fuel:cng": "yes",
+            "name": "Turmöl",
+            "operator": "Turmöl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8435767,
+              46.8461429
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1322911003",
+            "osm_type": "node",
+            "lat": 46.745316,
+            "lon": 14.822893,
+            "addr:country": "AT",
+            "addr:housenumber": "17",
+            "addr:postcode": "9433",
+            "addr:street": "Framrach",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Fr 05:00-21:30; PH,Sa,Su 06:00-21:30",
+            "self_service": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.822893,
+              46.745316
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1704226948",
+            "osm_type": "node",
+            "lat": 46.84393,
+            "lon": 14.8396292,
+            "addr:city": "Wolfsberg",
+            "addr:housenumber": "4",
+            "addr:postcode": "9400",
+            "addr:street": "Tanglstraße",
+            "amenity": "fuel",
+            "brand": "Lagerhaus",
+            "car_wash": "yes",
+            "compressed_air": "yes",
+            "name": "Lagerhaus Lavanttal",
+            "operator": "Lagerhaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8396292,
+              46.84393
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1704227934",
+            "osm_type": "node",
+            "lat": 46.8474295,
+            "lon": 14.8441976,
+            "amenity": "fuel",
+            "name": "OMV"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8441976,
+              46.8474295
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1770239241",
+            "osm_type": "node",
+            "lat": 46.8354312,
+            "lon": 14.5386216,
+            "amenity": "fuel",
+            "compressed_air": "no",
+            "name": "MB Energy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5386216,
+              46.8354312
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2313147273",
+            "osm_type": "node",
+            "lat": 46.746301,
+            "lon": 14.5311088,
+            "amenity": "fuel",
+            "name": "BP M&M",
+            "operator": "Rabinig"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5311088,
+              46.746301
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3334250801",
+            "osm_type": "node",
+            "lat": 46.858017,
+            "lon": 14.8532376,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8532376,
+              46.858017
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10929148124",
+            "osm_type": "node",
+            "lat": 46.746814,
+            "lon": 14.5313956,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5313956,
+              46.746814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11681689380",
+            "osm_type": "node",
+            "lat": 46.716738,
+            "lon": 14.9153753,
+            "amenity": "fuel",
+            "name": "Hassler"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9153753,
+              46.716738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11100023353",
+            "osm_type": "node",
+            "lat": 46.8191945,
+            "lon": 15.2277069,
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "brand:wikidata": "Q1473279",
+            "brand:wikipedia": "de:Turmöl",
+            "name": "Turmöl Quick",
+            "opening_hours": "24/7",
+            "self_service": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2277069,
+              46.8191945
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11991601715",
+            "osm_type": "node",
+            "lat": 46.82037,
+            "lon": 15.2368691,
+            "addr:city": "Deutschlandsberg",
+            "addr:country": "AT",
+            "addr:housenumber": "122",
+            "addr:postcode": "8530",
+            "addr:street": "Frauentaler Straße",
+            "amenity": "fuel",
+            "brand": "F. Leitner",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "F. Leitner",
+            "operator": "F.Leitner Mineralöle GmbH",
+            "self_service": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2368691,
+              46.82037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31239606",
+            "osm_type": "node",
+            "lat": 46.9734939,
+            "lon": 14.393499,
+            "amenity": "fuel",
+            "brand": "Avanti",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "name": "Avanti",
+            "opening_hours": "24/7",
+            "operator": "Avanti",
+            "phone": "+43 800 202055"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.393499,
+              46.9734939
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7648104344",
+            "osm_type": "node",
+            "lat": 46.8950339,
+            "lon": 14.3377215,
+            "addr:housenumber": "1b",
+            "amenity": "fuel",
+            "brand": "Turmöl",
+            "fuel:1_40": "yes",
+            "fuel:HGV_diesel": "yes",
+            "fuel:adblue": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "operator": "Hubert Putz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3377215,
+              46.8950339
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "410715120",
+            "osm_type": "node",
+            "lat": 47.0020026,
+            "lon": 14.7522666,
+            "amenity": "fuel",
+            "name": "F. Leitner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7522666,
+              47.0020026
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6943771302",
+            "osm_type": "node",
+            "lat": 46.961842,
+            "lon": 14.795239,
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo 06:00-20:00, Di-Sa 06:00-22:00; So, Ph 06:00-20:00",
+            "operator": "OMV",
+            "phone": "+43 4350 2361"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.795239,
+              46.961842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8773851791",
+            "osm_type": "node",
+            "lat": 46.9289502,
+            "lon": 14.5473146,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5473146,
+              46.9289502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1322910488",
+            "osm_type": "node",
+            "lat": 47.0237937,
+            "lon": 15.0553686,
+            "addr:city": "Edelschrott",
+            "addr:postcode": "8583",
+            "addr:street": "Packer Straße",
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Diskont Tankstelle Edelschrott",
+            "note": "octane95 nur bis 22:00, diesel 24/7",
+            "opening_hours": "24/7",
+            "operator": "Hohl GmbH",
+            "self_service": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0553686,
+              47.0237937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2065282000",
+            "osm_type": "node",
+            "lat": 46.8653056,
+            "lon": 14.463791,
+            "addr:city": "Althofen",
+            "addr:housenumber": "3",
+            "addr:postcode": "9330",
+            "addr:street": "Krappfelder Straße",
+            "amenity": "fuel",
+            "brand": "Lagerhaus",
+            "name": "Lagerhaus Tankstelle",
+            "operator": "Unser Lagerhaus Warenhandelsges. m.b.H."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.463791,
+              46.8653056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3334249109",
+            "osm_type": "node",
+            "lat": 46.7610203,
+            "lon": 14.3662521,
+            "addr:housenumber": "78",
+            "addr:street": "Klagenfurter Straße",
+            "amenity": "fuel",
+            "brand": "Avanti",
+            "brand:wikidata": "Q124350461",
+            "brand:wikipedia": "en:OMV",
+            "name": "Avanti",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "operator": "Avanti",
+            "phone": "+43 800 202055"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3662521,
+              46.7610203
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3334249596",
+            "osm_type": "node",
+            "lat": 46.76591,
+            "lon": 14.36587,
+            "addr:city": "Sankt Veit an der Glan",
+            "addr:housenumber": "38",
+            "addr:postcode": "9300",
+            "addr:street": "Lastenstraße",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "name": "OMV",
+            "opening_hours": "Mo-Su 06:00-24:00",
+            "operator": "OMV",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.36587,
+              46.76591
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6786606082",
+            "osm_type": "node",
+            "lat": 46.8011517,
+            "lon": 14.4026079,
+            "addr:city": "St. Veit an der Glan",
+            "addr:postcode": "9300",
+            "amenity": "fuel",
+            "check_date": "2025-04-12",
+            "check_date:compressed_air": "2025-04-12",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "name": "Steindorfer Truck-Stop Tankstelle",
+            "opening_hours": "24/7",
+            "self_service": "yes",
+            "valves": "schrader",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4026079,
+              46.8011517
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7125659866",
+            "osm_type": "node",
+            "lat": 46.7724651,
+            "lon": 14.3672549,
+            "addr:city": "St. Veit an der Glan",
+            "addr:country": "AT",
+            "addr:housenumber": "68",
+            "addr:postcode": "9300",
+            "addr:street": "Friesacher Straße",
+            "amenity": "fuel",
+            "brand": "BP",
+            "brand:wikidata": "Q152057",
+            "brand:wikipedia": "en:BP",
+            "changing_table": "no",
+            "check_date": "2025-04-12",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "BP",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "valves": "schrader",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3672549,
+              46.7724651
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

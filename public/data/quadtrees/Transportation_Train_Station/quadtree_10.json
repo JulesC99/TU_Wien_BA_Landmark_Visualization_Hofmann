@@ -1,0 +1,2902 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 101,
+  "leafCount": 0,
+  "averagePosition": [
+    10.379219268316833,
+    48.66040013168317
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 37,
+      "leafCount": 37,
+      "averagePosition": [
+        10.060012059459458,
+        48.527878062162166
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4408606732",
+            "osm_type": "node",
+            "lat": 48.3716347,
+            "lon": 9.7352457,
+            "name": "Schelklingen",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TSK",
+            "uic_ref": "8005333",
+            "wheelchair": "yes",
+            "wikidata": "Q88484040"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7352457,
+              48.3716347
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "28348584",
+            "osm_type": "node",
+            "lat": 48.6836164,
+            "lon": 9.7604024,
+            "name": "Süßen",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TSD",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:08117:157",
+            "uic_ref": "8005790",
+            "wheelchair": "limited",
+            "wikidata": "Q224876",
+            "wikipedia": "de:Bahnhof Süßen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7604024,
+              48.6836164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "28348602",
+            "osm_type": "node",
+            "lat": 48.6308806,
+            "lon": 9.8216097,
+            "name": "Geislingen West",
+            "note": "\"Geislingen West\" ist die offizielle Betriebsstellenbezeichnung",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGW",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08117:160",
+            "ref:station": "2046",
+            "uic_name": "Geislingen(Steige)West",
+            "uic_ref": "8002217",
+            "wikidata": "Q108704642"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8216097,
+              48.6308806
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "90492258",
+            "osm_type": "node",
+            "lat": 48.5457504,
+            "lon": 9.8271987,
+            "name": "Oppingen",
+            "railway": "station",
+            "usage": "tourism",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8271987,
+              48.5457504
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "312466861",
+            "osm_type": "node",
+            "lat": 48.4822802,
+            "lon": 9.9768801,
+            "name": "Beimerstetten",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TBS",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08425:2460",
+            "uic_ref": "8000858",
+            "wheelchair": "no",
+            "wikidata": "Q108704699"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9768801,
+              48.4822802
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "317288659",
+            "osm_type": "node",
+            "lat": 48.6357126,
+            "lon": 9.9076474,
+            "name": "Waldhausen",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TWHS",
+            "start_date": "1906",
+            "train": "yes",
+            "uic_ref": "8007073",
+            "usage": "tourism",
+            "wheelchair": "no",
+            "wikidata": "Q129840721"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9076474,
+              48.6357126
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "322706435",
+            "osm_type": "node",
+            "lat": 48.5942005,
+            "lon": 9.9209044,
+            "name": "Stubersheim",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TSBH",
+            "start_date": "1906",
+            "uic_ref": "8007071",
+            "usage": "tourism",
+            "wheelchair": "no",
+            "wikidata": "Q129840023"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9209044,
+              48.5942005
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "322706437",
+            "osm_type": "node",
+            "lat": 48.6399251,
+            "lon": 9.9575815,
+            "name": "Gussenstadt",
+            "network": "htv Heidenheimer Tarifverbund",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGSS",
+            "start_date": "1906",
+            "train": "yes",
+            "uic_ref": "8007074",
+            "usage": "tourism",
+            "wheelchair": "no",
+            "wikidata": "Q129841006"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9575815,
+              48.6399251
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "489553166",
+            "osm_type": "node",
+            "lat": 48.3934059,
+            "lon": 10.0055604,
+            "addr:city": "Neu-Ulm",
+            "addr:housenumber": "1",
+            "addr:postcode": "89231",
+            "addr:street": "Julius-Rohm-Platz",
+            "name": "Neu-Ulm",
+            "operator": "DB Netz AG;DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNM",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:9775:1711",
+            "ref:station": "4357",
+            "toilets:wheelchair": "no",
+            "train": "yes",
+            "uic_ref": "8006730",
+            "wheelchair": "yes",
+            "wikidata": "Q801236",
+            "wikipedia": "de:Bahnhof Neu-Ulm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0055604,
+              48.3934059
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "894417736",
+            "osm_type": "node",
+            "lat": 48.4177737,
+            "lon": 9.8977002,
+            "name": "Herrlingen",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THL",
+            "railway:station_category": "6",
+            "ref:station": "2728",
+            "train": "yes",
+            "uic_ref": "8002789",
+            "wheelchair": "yes",
+            "wikidata": "Q108704795"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8977002,
+              48.4177737
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1186584021",
+            "osm_type": "node",
+            "lat": 48.5781658,
+            "lon": 9.8725574,
+            "name": "Amstetten (Württ)",
+            "operator": "Ulmer Eisenbahnfreunde e.V. Sektion Alb-Bähnle",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TAM S",
+            "ref:IFOPT": "de:08425:2559",
+            "start_date": "1901-10-20",
+            "usage": "tourism",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8725574,
+              48.5781658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1384282612",
+            "osm_type": "node",
+            "lat": 48.3994159,
+            "lon": 9.9826024,
+            "alt_name": "Ulm Hbf",
+            "internet_access": "wlan",
+            "name": "Ulm Hauptbahnhof",
+            "name:fr": "Ulm Gare Centrale",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TU",
+            "railway:station_category": "2",
+            "ref:FR:sncf:resarail": "DEQUL",
+            "ref:FR:uic8": "80291039",
+            "ref:IFOPT": "de:08421:1008",
+            "ref:station": "6323",
+            "reg_name": "Ulm Hbf",
+            "short_name": "Ulm Hbf",
+            "toilets:wheelchair": "yes",
+            "train": "yes",
+            "uic_name": "Ulm Hbf",
+            "uic_ref": "8029103",
+            "wheelchair": "limited",
+            "wikidata": "Q472937",
+            "wikipedia": "de:Ulm Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9826024,
+              48.3994159
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1385693097",
+            "osm_type": "node",
+            "lat": 48.4147495,
+            "lon": 9.9190611,
+            "name": "Blaustein",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TBLS",
+            "ref:IFOPT": "de:08425:2713",
+            "uic_ref": "8001015",
+            "wheelchair": "yes",
+            "wikidata": "Q108705023"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9190611,
+              48.4147495
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1854705285",
+            "osm_type": "node",
+            "lat": 48.4037943,
+            "lon": 9.7913032,
+            "name": "Blaubeuren",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TBL",
+            "ref:IFOPT": "de:08425:2811",
+            "ref:station": "695",
+            "uic_ref": "8001013",
+            "wheelchair": "no",
+            "wikidata": "Q17148684"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7913032,
+              48.4037943
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2539470064",
+            "osm_type": "node",
+            "lat": 48.6249136,
+            "lon": 10.0224472,
+            "name": "Gerstetten",
+            "network": "htv Heidenheimer Tarifverbund",
+            "operator": "UEF Lokalbahn Amstetten-Gerstetten e.V.",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGSN",
+            "start_date": "1906",
+            "uic_ref": "8007075",
+            "usage": "tourism",
+            "wheelchair": "no",
+            "wikidata": "Q129841181"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0224472,
+              48.6249136
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2960197347",
+            "osm_type": "node",
+            "lat": 48.5198531,
+            "lon": 9.9494251,
+            "name": "Westerstetten",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TWSH",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08425:2470",
+            "start_date": "2006",
+            "uic_ref": "8006373",
+            "wheelchair": "yes",
+            "wikidata": "Q108704687"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9494251,
+              48.5198531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3634623902",
+            "osm_type": "node",
+            "lat": 48.5783165,
+            "lon": 9.8729141,
+            "loc_name": "Bahnhof Amstetten",
+            "name": "Amstetten (Württemberg)",
+            "note": "\"Amstetten (Württ)\" ist die offizelle Bahnhofsbezeichnung",
+            "operator": "DB Station&Service AG",
+            "railway": "station",
+            "railway:ref": "TAM",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08425:2551",
+            "short_name": "Amstetten (Württ)",
+            "uic_ref": "8000577",
+            "wheelchair": "yes",
+            "wikidata": "Q800383",
+            "wikipedia": "de:Bahnhof Amstetten (Württemberg)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8729141,
+              48.5783165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549139114",
+            "osm_type": "node",
+            "lat": 48.5211319,
+            "lon": 9.7410035,
+            "name": "Merklingen – Schwäbische Alb",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TMKL",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08425:2626",
+            "ref:station": "8350",
+            "source": "estimate;knowledge",
+            "start_date": "2022-12-11",
+            "train": "yes",
+            "uic_ref": "8003983",
+            "wheelchair": "yes",
+            "wikidata": "Q22691251",
+            "wikimedia_commons": "Category:Bahnhof Merklingen",
+            "wikipedia": "de:Bahnhof Merklingen – Schwäbische Alb"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7410035,
+              48.5211319
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6554565421",
+            "osm_type": "node",
+            "lat": 48.6194087,
+            "lon": 9.8419248,
+            "name": "Geislingen (Steige)",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TG",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:08117:161",
+            "toilets:wheelchair": "no",
+            "uic_ref": "8002218",
+            "wheelchair": "yes",
+            "wikidata": "Q322769",
+            "wikipedia": "de:Bahnhof Geislingen (Steige)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8419248,
+              48.6194087
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11420198",
+            "osm_type": "node",
+            "lat": 48.4251243,
+            "lon": 10.4268158,
+            "name": "Burgau (Schwab)",
+            "operator": "Deutsche Bahn",
+            "railway": "station",
+            "railway:ref": "MBGU",
+            "railway:station_category": "5",
+            "ref:station": "979",
+            "uic_name": "MBGU",
+            "uic_ref": "8001276",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4268158,
+              48.4251243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "248824297",
+            "osm_type": "node",
+            "lat": 48.5944717,
+            "lon": 10.2584972,
+            "name": "Hermaringen",
+            "network": "Heidenheimer Tarifverbund",
+            "network:short": "HTV",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THMA",
+            "uic_ref": "8002776",
+            "wheelchair": "limited",
+            "wikidata": "Q110243308"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2584972,
+              48.5944717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "259827774",
+            "osm_type": "node",
+            "lat": 48.4933124,
+            "lon": 10.1260047,
+            "name": "Langenau (Württ)",
+            "network": "DING Donau-Iller-Nahverkehrsgesellschaft mbH",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TLL",
+            "short_name": "Langenau",
+            "uic_name": "Langenau(Württ)",
+            "uic_ref": "8003525",
+            "wheelchair": "yes",
+            "wikidata": "Q64506042"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1260047,
+              48.4933124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295173974",
+            "osm_type": "node",
+            "lat": 48.6256965,
+            "lon": 10.170146,
+            "name": "Herbrechtingen",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THC",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited",
+            "wikidata": "Q110243317"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.170146,
+              48.6256965
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295179924",
+            "osm_type": "node",
+            "lat": 48.5593044,
+            "lon": 10.2848231,
+            "addr:housenumber": "1",
+            "addr:street": "Bahnhof",
+            "description": "Barrierefreier Zugang zum Bahnsteig von Gleis 2 ist über die Bergenweiler Strasse ermöglicht.",
+            "ele": "440",
+            "name": "Sontheim-Brenz",
+            "network": "Heidenheimer Tarifverbund",
+            "network:short": "HTV",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TSON",
+            "start_date": "1876",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes",
+            "wikidata": "Q110243270"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2848231,
+              48.5593044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1323505156",
+            "osm_type": "node",
+            "lat": 48.6532126,
+            "lon": 10.1609252,
+            "loc_name": "Mergelstetten",
+            "name": "Heidenheim-Mergelstetten",
+            "network": "htv Heidenheimer Tarifverbund",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THDM",
+            "short_name": "Hdh.-Mergelstetten",
+            "uic_name": "Heidenheim-Mergelstetten",
+            "uic_ref": "8002690",
+            "wikidata": "Q110243323"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1609252,
+              48.6532126
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1360210125",
+            "osm_type": "node",
+            "lat": 48.5124141,
+            "lon": 10.1909194,
+            "name": "Rammingen (Württ)",
+            "network": "DING Donau-Iller-Nahverkehrsgesellschaft mbH",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TRM",
+            "short_name": "Rammingen",
+            "uic_name": "Rammingen(Württ)",
+            "uic_ref": "8004930",
+            "wikidata": "Q89460338"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1909194,
+              48.5124141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2407929264",
+            "osm_type": "node",
+            "lat": 48.6801958,
+            "lon": 10.1565763,
+            "alt_name": "Heidenheim (Brenz)",
+            "name": "Heidenheim",
+            "network": "Heidenheimer Tarifverbund",
+            "network:short": "HTV",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THD",
+            "ref:station": "2639",
+            "short_name": "Heidenheim a.d. Brenz",
+            "start_date": "1864",
+            "uic_name": "Heidenheim",
+            "uic_ref": "8002689",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1565763,
+              48.6801958
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2528428850",
+            "osm_type": "node",
+            "lat": 48.5323099,
+            "lon": 10.236089,
+            "name": "Niederstotzingen",
+            "network": "htv Heidenheimer Tarifverbund",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TNS",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08135:1524",
+            "ref:station": "4531",
+            "start_date": "1876",
+            "wheelchair": "yes",
+            "wikidata": "Q110243248"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.236089,
+              48.5323099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2870196094",
+            "osm_type": "node",
+            "lat": 48.5489109,
+            "lon": 10.3772399,
+            "name": "Gundelfingen (Bayern)",
+            "public_transport": "station",
+            "railway": "station",
+            "ref": "1",
+            "wheelchair": "limited",
+            "wikidata": "Q108680842"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3772399,
+              48.5489109
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3449088221",
+            "osm_type": "node",
+            "lat": 48.6199893,
+            "lon": 10.2369654,
+            "alt_name": "Giengen",
+            "name": "Giengen (Brenz)",
+            "network": "htv Heidenheimer Tarifverbund",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGB",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08135:1193",
+            "ref:station": "2118",
+            "uic_ref": "8002272",
+            "wheelchair": "yes",
+            "wikidata": "Q55612650"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2369654,
+              48.6199893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4214329090",
+            "osm_type": "node",
+            "lat": 48.4817973,
+            "lon": 10.3760903,
+            "name": "Offingen",
+            "operator": "Deutsche Bahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MOFF",
+            "ref:station": "4748",
+            "train": "yes",
+            "uic_name": "MOFF",
+            "uic_ref": "8004654",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3760903,
+              48.4817973
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4214795601",
+            "osm_type": "node",
+            "lat": 48.4604337,
+            "lon": 10.2786722,
+            "name": "Günzburg",
+            "operator": "Deutsche Bahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MGZB",
+            "railway:station_category": "3",
+            "toilets:wheelchair": "yes",
+            "train": "yes",
+            "uic_ref": "8000139",
+            "wheelchair": "yes",
+            "wikidata": "Q800859",
+            "wikipedia": "de:Bahnhof Günzburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2786722,
+              48.4604337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4563346407",
+            "osm_type": "node",
+            "lat": 48.4300905,
+            "lon": 10.1178919,
+            "name": "Nersingen",
+            "network": "DB Regio",
+            "network:wikidata": "Q18853",
+            "operator": "Deutsche Bahn",
+            "operator:wikidata": "Q9322",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNSG",
+            "train": "yes",
+            "uic_name": "MNSG",
+            "uic_ref": "8004239",
+            "wheelchair": "limited",
+            "wikidata": "Q47016576"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1178919,
+              48.4300905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4563426767",
+            "osm_type": "node",
+            "lat": 48.432969,
+            "lon": 10.0479322,
+            "name": "Thalfingen (b Ulm)",
+            "network": "DING Donau-Iller-Nahverkehrsgesellschaft mbH",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TTL",
+            "short_name": "Thalfingen",
+            "start_date": "1876",
+            "uic_name": "Thalfingen(b Ulm)",
+            "uic_ref": "8005845",
+            "wheelchair": "yes",
+            "wikidata": "Q106945904"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0479322,
+              48.432969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4695382664",
+            "osm_type": "node",
+            "lat": 48.3988852,
+            "lon": 10.4459992,
+            "name": "Jettingen",
+            "note": "Aufgrund fehlender Weichen im Stationsbereich offenbar Haltepunkt (railway=halt) statt Bahnhof (railway=station)",
+            "operator": "Deutsche Bahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MJET",
+            "railway:station_category": "6",
+            "ref:station": "3053",
+            "train": "yes",
+            "uic_name": "MJET",
+            "uic_ref": "8003123",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4459992,
+              48.3988852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8300276977",
+            "osm_type": "node",
+            "lat": 48.57442,
+            "lon": 10.4246763,
+            "name": "Lauingen",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MLIG",
+            "railway:station_category": "6",
+            "source:railway:ref": "DB Open Data",
+            "wheelchair": "no",
+            "wikidata": "Q108680816"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4246763,
+              48.57442
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9127042513",
+            "osm_type": "node",
+            "lat": 48.4530213,
+            "lon": 10.1002128,
+            "name": "Unterelchingen",
+            "network": "DING Donau-Iller-Nahverkehrsgesellschaft mbH",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TUE",
+            "uic_ref": "8005983",
+            "wheelchair": "yes",
+            "wikidata": "Q89207549",
+            "wikimedia_commons": "Category:Bahnhof Unterelchingen (aktiv)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1002128,
+              48.4530213
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        10.90775166875,
+        48.49215703125
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1058668074",
+            "osm_type": "node",
+            "lat": 48.3654907,
+            "lon": 10.8856913,
+            "addr:city": "Augsburg",
+            "addr:housenumber": "1",
+            "addr:postcode": "86150",
+            "addr:street": "Viktoriastraße",
+            "name": "Augsburg Hauptbahnhof",
+            "name:de": "Augsburg Hauptbahnhof",
+            "name:fr": "Augsbourg Gare Centrale",
+            "network": "Augsburger Verkehrs- und Tarifverbund",
+            "network:guid": "DE-BY-AVV",
+            "network:short": "AVV",
+            "network:wikidata": "Q760574",
+            "official_name": "Augsburg Hbf",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MA",
+            "railway:station_category": "2",
+            "ref:FR:sncf:resarail": "DEAGB",
+            "ref:FR:uic8": "80021402",
+            "ref:ibnr": "8000013",
+            "ref:station": "220",
+            "short_name": "Augsburg Hbf",
+            "toilets:wheelchair": "yes",
+            "train": "yes",
+            "uic_name": "Augsburg Hbf",
+            "uic_ref": "8002140",
+            "wheelchair": "limited",
+            "wikidata": "Q682505",
+            "wikipedia": "de:Augsburg Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8856913,
+              48.3654907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "897983600",
+            "osm_type": "node",
+            "lat": 48.3807299,
+            "lon": 10.8725408,
+            "check_date:wheelchair": "2022-11-17",
+            "name": "Augsburg-Oberhausen",
+            "network": "AVV",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MAOB",
+            "railway:ref:parent": "MA",
+            "railway:station_category": "4",
+            "uic_name": "Augsburg-Oberhausen",
+            "uic_ref": "8000662",
+            "wheelchair": "no",
+            "wikidata": "Q800413",
+            "wikipedia": "de:Bahnhof Augsburg-Oberhausen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8725408,
+              48.3807299
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "990242631",
+            "osm_type": "node",
+            "lat": 48.3945076,
+            "lon": 10.8340404,
+            "name": "Neusäß",
+            "operator": "DB Station&Service AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNES",
+            "railway:station_category": "5",
+            "ref:station": "4435",
+            "uic_ref": "8004318",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8340404,
+              48.3945076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "990256271",
+            "osm_type": "node",
+            "lat": 48.3860562,
+            "lon": 10.8185391,
+            "loc_name": "Bahnhof Westheim",
+            "name": "Westheim (Schwab)",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MWHS",
+            "railway:station_category": "5",
+            "ref:station": "6719",
+            "train": "yes",
+            "uic_ref": "8006378",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8185391,
+              48.3860562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1308695474",
+            "osm_type": "node",
+            "lat": 48.4231533,
+            "lon": 10.8612305,
+            "name": "Gersthofen",
+            "network": "AVV",
+            "operator": "DB Netz AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MGHF",
+            "railway:station_category": "6",
+            "uic_name": "Gersthofen",
+            "uic_ref": "8002256",
+            "wheelchair": "yes",
+            "wikidata": "Q108740161"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8612305,
+              48.4231533
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2000524600",
+            "osm_type": "node",
+            "lat": 48.5461969,
+            "lon": 10.8480575,
+            "name": "Meitingen",
+            "network": "AVV",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MMEI",
+            "railway:station_category": "5",
+            "ref:station": "4038",
+            "toilets:wheelchair": "no",
+            "uic_name": "Meitingen",
+            "uic_ref": "8003952",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8480575,
+              48.5461969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2000953799",
+            "osm_type": "node",
+            "lat": 48.4629269,
+            "lon": 10.8508778,
+            "name": "Gablingen",
+            "network": "AVV",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MGAL",
+            "railway:station_category": "5",
+            "uic_name": "Gablingen",
+            "uic_ref": "8002162",
+            "wheelchair": "no",
+            "wikidata": "Q108740181"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8508778,
+              48.4629269
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2955542877",
+            "osm_type": "node",
+            "lat": 48.6608804,
+            "lon": 10.8248467,
+            "name": "Mertingen Bahnhof",
+            "network": "AVV",
+            "note": "\"Mertingen Bahnhof\" (mit dem Wort \"Bahnhof\" im Namen) ist die offizielle Betriebsstellenbezeichnung",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MMTG",
+            "railway:station_category": "5",
+            "uic_name": "Mertingen Bahnhof",
+            "uic_ref": "8003989",
+            "wheelchair": "limited",
+            "wikidata": "Q108757138"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8248467,
+              48.6608804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4725689073",
+            "osm_type": "node",
+            "lat": 48.6438121,
+            "lon": 10.6153819,
+            "name": "Blindheim",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MBLM",
+            "railway:station_category": "7",
+            "wheelchair": "yes",
+            "wikidata": "Q99689187"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6153819,
+              48.6438121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8300276976",
+            "osm_type": "node",
+            "lat": 48.6192046,
+            "lon": 10.5670719,
+            "name": "Höchstädt (Donau)",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MHDT",
+            "railway:station_category": "6",
+            "wheelchair": "yes",
+            "wikidata": "Q108680776"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5670719,
+              48.6192046
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11062258016",
+            "osm_type": "node",
+            "lat": 48.6791939,
+            "lon": 10.6940952,
+            "name": "Tapfheim",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "MTPF",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q78359335",
+            "wikipedia": "de:Bahnhof Tapfheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6940952,
+              48.6791939
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13796591",
+            "osm_type": "node",
+            "lat": 48.5654031,
+            "lon": 11.2594688,
+            "name": "Schrobenhausen",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MSHN",
+            "ref:station": "5687",
+            "uic_ref": "8005432",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2594688,
+              48.5654031
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "246059521",
+            "osm_type": "node",
+            "lat": 48.5145629,
+            "lon": 11.1621818,
+            "name": "Radersdorf",
+            "operator": "DB Station&Service AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MRDD",
+            "wheelchair": "no",
+            "wikidata": "Q108709627"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1621818,
+              48.5145629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "850459066",
+            "osm_type": "node",
+            "lat": 48.4610898,
+            "lon": 11.1227874,
+            "name": "Aichach",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MAI",
+            "wheelchair": "limited",
+            "wikidata": "Q53710481"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1227874,
+              48.4610898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2479062144",
+            "osm_type": "node",
+            "lat": 48.3849954,
+            "lon": 11.2550326,
+            "name": "Altomünster",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MAMT",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:09174:6950",
+            "uic_ref": "8000556",
+            "wheelchair": "yes",
+            "wikidata": "Q50674049"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2550326,
+              48.3849954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4697301650",
+            "osm_type": "node",
+            "lat": 48.3863088,
+            "lon": 11.052183,
+            "description": "Dasing, Gleis 1",
+            "name": "Dasing",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MDAG",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q55609049"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.052183,
+              48.3863088
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 27,
+      "leafCount": 27,
+      "averagePosition": [
+        9.958778951851853,
+        48.832776470370376
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "28348513",
+            "osm_type": "node",
+            "lat": 48.7086079,
+            "lon": 9.5857099,
+            "name": "Uhingen",
+            "operator": "DB InfraGO AG",
+            "railway": "station",
+            "railway:ref": "TUH",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08117:152",
+            "uic_ref": "8005949",
+            "wheelchair": "no",
+            "wikidata": "Q116018939"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5857099,
+              48.7086079
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "28348570",
+            "osm_type": "node",
+            "lat": 48.6967865,
+            "lon": 9.7037748,
+            "name": "Eislingen (Fils)",
+            "operator": "DB Station&Service AG",
+            "railway": "station",
+            "railway:ref": "TEF",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:08117:155",
+            "uic_ref": "8001731",
+            "wheelchair": "yes",
+            "wikidata": "Q800718",
+            "wikipedia": "de:Bahnhof Eislingen (Fils)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7037748,
+              48.6967865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "75353374",
+            "osm_type": "node",
+            "lat": 48.8224381,
+            "lon": 9.9131756,
+            "image": "https://commons.wikimedia.org/wiki/File:Bahnhof_Böbingen_(Rems).jpg",
+            "name": "Böbingen (Rems)",
+            "network": "OstalbMobil",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TBB",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08136:6100",
+            "ref:station": "718",
+            "start_date": "1861",
+            "train": "yes",
+            "uic_ref": "8005979",
+            "wheelchair": "no",
+            "wikidata": "Q113129611",
+            "wikimedia_commons": "File:Bahnhof_Böbingen_(Rems).jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9131756,
+              48.8224381
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "75360611",
+            "osm_type": "node",
+            "lat": 48.8010804,
+            "lon": 9.7879738,
+            "ele": "319",
+            "name": "Schwäbisch Gmünd",
+            "network": "OstalbMobil",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TSG",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:08136:3077",
+            "ref:station": "5699",
+            "start_date": "1861",
+            "toilets:wheelchair": "no",
+            "uic_ref": "8000329",
+            "wheelchair": "yes",
+            "wikidata": "Q322983",
+            "wikipedia": "de:Bahnhof Schwäbisch Gmünd"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7879738,
+              48.8010804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4281208612",
+            "osm_type": "node",
+            "lat": 48.7967144,
+            "lon": 9.5956996,
+            "name": "Plüderhausen",
+            "network": "VVS",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TPL",
+            "railway:station_category": "4",
+            "ref:IFOPT": "de:08119:5761",
+            "start_date": "1861",
+            "uic_ref": "8004842",
+            "wheelchair": "no",
+            "wikidata": "Q116018222"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5956996,
+              48.7967144
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4349314485",
+            "osm_type": "node",
+            "lat": 48.7003489,
+            "lon": 9.6522617,
+            "name": "Göppingen",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGO",
+            "railway:station_category": "3",
+            "ref:IFOPT": "de:08117:154",
+            "ref:station": "2189",
+            "uic_ref": "8000127",
+            "wheelchair": "yes",
+            "wikidata": "Q472217",
+            "wikipedia": "de:Bahnhof Göppingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6522617,
+              48.7003489
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4783076713",
+            "osm_type": "node",
+            "lat": 48.8438435,
+            "lon": 9.5390597,
+            "name": "Miedelsbach-Steinenberg",
+            "network": "Verkehrs- und Tarifverbund Stuttgart",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TMST",
+            "ref:IFOPT": "de:08119:5790",
+            "train": "yes",
+            "uic_ref": "8007193"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5390597,
+              48.8438435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4819550244",
+            "osm_type": "node",
+            "lat": 48.7979305,
+            "lon": 9.6955594,
+            "name": "Lorch (Württemberg)",
+            "network": "OstalbMobil",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TLO",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08136:7005",
+            "short_name": "Lorch (Württ)",
+            "train": "yes",
+            "uic_ref": "8003752",
+            "wheelchair": "limited",
+            "wheelchair:description": "Rollstuhlrampen zu steil",
+            "wikidata": "Q801119"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6955594,
+              48.7979305
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "272798726",
+            "osm_type": "node",
+            "lat": 48.7824232,
+            "lon": 10.1078308,
+            "internet_access": "no",
+            "name": "Oberkochen",
+            "network": "OstalbMobil",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TON",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08136:5113",
+            "ref:station": "4657",
+            "start_date": "1864",
+            "uic_ref": "8004549",
+            "wheelchair": "yes",
+            "wikidata": "Q50430732"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1078308,
+              48.7824232
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286741305",
+            "osm_type": "node",
+            "lat": 48.7515446,
+            "lon": 10.3392226,
+            "name": "Neresheim",
+            "opening_hours": "Su[1] 10:00-18:00; Nov-Apr off",
+            "operator": "Härtsfeld-Museumsbahn e.V.",
+            "public_transport": "station",
+            "railway": "station",
+            "start_date": "2001",
+            "usage": "tourism",
+            "website": "https://www.hmb-ev.de",
+            "wikidata": "Q1642426",
+            "wikipedia": "de:Härtsfeldbahn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3392226,
+              48.7515446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286741418",
+            "osm_type": "node",
+            "lat": 48.731441,
+            "lon": 10.3567016,
+            "name": "Sägmühle",
+            "opening_hours": "Su[1] 10:00-18:00; Nov-Apr off",
+            "operator": "Härtsfeld-Museumsbahn e.V.",
+            "public_transport": "station",
+            "railway": "station",
+            "start_date": "2001",
+            "usage": "tourism",
+            "website": "https://www.hmb-ev.de/",
+            "wikidata": "Q1642426",
+            "wikipedia": "de:Härtsfeldbahn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3567016,
+              48.731441
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286862019",
+            "osm_type": "node",
+            "lat": 48.8688862,
+            "lon": 10.2367368,
+            "name": "Lauchheim",
+            "network": "OstalbMobil",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TLH",
+            "railway:station_category": "6",
+            "ref:station": "3574",
+            "start_date": "1863",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q116017483"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2367368,
+              48.8688862
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "295151504",
+            "osm_type": "node",
+            "lat": 48.8149883,
+            "lon": 10.1264567,
+            "name": "Unterkochen",
+            "network": "OstalbMobil",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TUK",
+            "start_date": "1864",
+            "wheelchair": "yes",
+            "wikidata": "Q110243347"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1264567,
+              48.8149883
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "569423892",
+            "osm_type": "node",
+            "lat": 48.8551734,
+            "lon": 10.3517175,
+            "name": "Bopfingen",
+            "network": "OstalbMobil",
+            "operator": "DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TBP",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08136:4204",
+            "start_date": "1863",
+            "train": "yes",
+            "wheelchair": "limited",
+            "wikidata": "Q116019475"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3517175,
+              48.8551734
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1652312085",
+            "osm_type": "node",
+            "lat": 48.7164257,
+            "lon": 10.3786867,
+            "name": "Katzenstein",
+            "operator": "Härtsfeld-Museumsbahn e.V.",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "website": "https://www.hmb-ev.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3786867,
+              48.7164257
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3158014541",
+            "osm_type": "node",
+            "lat": 48.841004,
+            "lon": 10.0965113,
+            "addr:city": "Aalen",
+            "addr:housenumber": "1",
+            "addr:postcode": "73430",
+            "addr:street": "Bahnhof",
+            "ele": "431",
+            "name": "Aalen Hauptbahnhof",
+            "network": "OstalbMobil",
+            "note": "Wird seit Fahrplanwechsel am 11.12.2016 als \"Aalen Hauptbahnhof\" bezeichnet (zuvor \"Aalen\"). Wurde bereits beim Umbau der Bahnsteige, in der 2. Jahreshälfte 2016, entsprechend neu beschildert. Einweihung am 13.12.2016 geplant.",
+            "official_name": "Aalen Hbf",
+            "old_name": "Aalen",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TA",
+            "railway:station_category": "3",
+            "ref:IFOPT": "de:08136:1000",
+            "ref:station": "4",
+            "reg_name": "Aalen Hbf",
+            "short_name": "Aalen Hbf",
+            "start_date": "18.07.1861",
+            "toilets:wheelchair": "yes",
+            "train": "yes",
+            "uic_name": "Aalen Hbf",
+            "uic_ref": "8000002",
+            "wheelchair": "yes",
+            "wikidata": "Q319241",
+            "wikipedia": "de:Aalen Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0965113,
+              48.841004
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4921963364",
+            "osm_type": "node",
+            "lat": 48.8552832,
+            "lon": 10.1204865,
+            "departures_board": "no",
+            "name": "Besucherbergwerk",
+            "public_transport": "station",
+            "railway": "station",
+            "usage": "tourism"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1204865,
+              48.8552832
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8081821402",
+            "osm_type": "node",
+            "lat": 48.7394067,
+            "lon": 10.1162752,
+            "name": "Königsbronn",
+            "network": "Heidenheimer Tarifverbund",
+            "network:short": "HTV",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TKS",
+            "start_date": "1864",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q110243343"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1162752,
+              48.7394067
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8081821405",
+            "osm_type": "node",
+            "lat": 48.7082804,
+            "lon": 10.1587716,
+            "name": "Heidenheim-Schnaitheim",
+            "network": "Heidenheimer Tarifverbund",
+            "operator": "DB Infrago AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "THDS",
+            "reg_name": "Schnaitheim",
+            "short_name": "Hdh.-Schnaitheim",
+            "start_date": "1864",
+            "uic_name": "Heidenheim-Schnaitheim",
+            "uic_ref": "8002691",
+            "wheelchair": "limited",
+            "wikidata": "Q110243333"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1587716,
+              48.7082804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "29502808",
+            "osm_type": "node",
+            "lat": 48.9754417,
+            "lon": 9.642579,
+            "fee_zone": "5",
+            "name": "Fornsbach",
+            "network": "VVS",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TFB",
+            "uic_ref": "8002026",
+            "wikidata": "Q116016815"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.642579,
+              48.9754417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "29502812",
+            "osm_type": "node",
+            "lat": 48.9874486,
+            "lon": 9.7010109,
+            "name": "Fichtenberg",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TFI",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08127:20785",
+            "ref:station": "1788",
+            "uic_ref": "8001982"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7010109,
+              48.9874486
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286529675",
+            "osm_type": "node",
+            "lat": 48.8735612,
+            "lon": 9.6303631,
+            "name": "Welzheim",
+            "operator": "Schwäbische-Wald-Bahn GmbH",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TWZ",
+            "usage": "tourism",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6303631,
+              48.8735612
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1609096660",
+            "osm_type": "node",
+            "lat": 49.0035622,
+            "lon": 9.7539329,
+            "name": "Gaildorf West",
+            "operator": "DB Station&Service AG",
+            "railway": "station",
+            "railway:ref": "TGAW",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08127:20839",
+            "uic_ref": "8002168",
+            "wheelchair": "no",
+            "wikidata": "Q800801"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7539329,
+              49.0035622
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8191799108",
+            "osm_type": "node",
+            "lat": 48.9828346,
+            "lon": 9.5774268,
+            "name": "Murrhardt",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TMT",
+            "railway:station_category": "5",
+            "ref:IFOPT": "de:08119:4916",
+            "ref:station": "4287",
+            "train": "yes",
+            "uic_ref": "8004188",
+            "wheelchair": "limited",
+            "wikidata": "Q116017662"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5774268,
+              48.9828346
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "268250061",
+            "osm_type": "node",
+            "lat": 48.9641245,
+            "lon": 10.1296234,
+            "addr:city": "Ellwangen (Jagst)",
+            "addr:housenumber": "7",
+            "addr:postcode": "73479",
+            "addr:street": "Bahnhofstraße",
+            "name": "Ellwangen",
+            "network": "OstalbMobil",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TEL",
+            "railway:station_category": "5",
+            "ref:station": "1554",
+            "reg_name": "Ellwangen (Jagst)",
+            "start_date": "1866",
+            "train": "yes",
+            "uic_name": "Ellwangen",
+            "uic_ref": "8001751",
+            "wheelchair": "yes",
+            "wikidata": "Q800720",
+            "wikipedia": "de:Bahnhof Ellwangen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1296234,
+              48.9641245
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2111540548",
+            "osm_type": "node",
+            "lat": 48.9710208,
+            "lon": 10.4612273,
+            "name": "Fremdingen",
+            "operator": "Mittelfränkische Eisenbahnbetriebsgesellschaft",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MFRD",
+            "train": "yes",
+            "wikidata": "Q114794057"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4612273,
+              48.9710208
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2682193272",
+            "osm_type": "node",
+            "lat": 48.8943642,
+            "lon": 10.1282565,
+            "name": "Goldshöfe",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "TGL",
+            "railway:station_category": "6",
+            "ref:IFOPT": "de:08136:1512",
+            "start_date": "1863",
+            "uic_ref": "8000380",
+            "wheelchair": "limited",
+            "wikidata": "Q800828",
+            "wikipedia": "de:Bahnhof Goldshöfe"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1282565,
+              48.8943642
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 21,
+      "leafCount": 21,
+      "averagePosition": [
+        11.079506738095239,
+        48.800449895238096
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4517349894",
+            "osm_type": "node",
+            "lat": 48.8504951,
+            "lon": 10.4980963,
+            "addr:city": "Nördlingen",
+            "addr:housenumber": "5",
+            "addr:postcode": "86720",
+            "addr:street": "Bürgermeister-Reiger-Straße",
+            "name": "Nördlingen",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNL",
+            "railway:station_category": "5",
+            "ref:station": "4580",
+            "train": "yes",
+            "uic_ref": "8000280",
+            "wheelchair": "yes",
+            "wikidata": "Q11798837",
+            "wikipedia": "de:Bahnhof Nördlingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4980963,
+              48.8504951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "29914588",
+            "osm_type": "node",
+            "lat": 48.8067617,
+            "lon": 10.5977869,
+            "name": "Möttingen",
+            "operator": "DB Station&Service AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "MMTN",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "no",
+            "wikidata": "Q110125741"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5977869,
+              48.8067617
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1379035216",
+            "osm_type": "node",
+            "lat": 48.7140911,
+            "lon": 10.7715611,
+            "int_name": "Donauwörth",
+            "name": "Donauwörth",
+            "network": "Augsburger Verkehrs- und Tarifverbund",
+            "network:guid": "DE-BY-AVV",
+            "network:short": "AVV",
+            "network:wikidata": "Q760574",
+            "note": "\"Donauwörth\" (und nicht \"Bahnhof Donauwörth\") ist die offizielle Betriebsstellenbezeichnung",
+            "official_name": "Donauwörth",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MDT",
+            "railway:station_category": "4",
+            "ref:station": "1265",
+            "toilets:wheelchair": "no",
+            "train": "yes",
+            "uic_name": "Donauwörth",
+            "uic_ref": "8000078",
+            "wheelchair": "yes",
+            "wheelchair:description": "Kein Aufzug vorhanden, aber nach Absprache mit der Bahnhofsaufsicht wird ein bahneigener Weg geöffnet. Keine rollstuhlgerechten Toiletten, Auskunft und Kiosk im Bahnhofsgebäude nur rückwertig per Rollrampe betretbar."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7715611,
+              48.7140911
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4216059516",
+            "osm_type": "node",
+            "lat": 48.6961974,
+            "lon": 10.9276976,
+            "name": "Rain",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MRN",
+            "railway:station_category": "6",
+            "ref:station": "5101",
+            "toilets:wheelchair": "no",
+            "uic_name": "Rain",
+            "uic_ref": "8004922",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9276976,
+              48.6961974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4216168527",
+            "osm_type": "node",
+            "lat": 48.7011486,
+            "lon": 11.0270101,
+            "name": "Burgheim",
+            "network": "INVG",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MBGH",
+            "railway:station_category": "6",
+            "uic_name": "Burgheim",
+            "uic_ref": "8001285",
+            "wheelchair": "limited",
+            "wikidata": "Q99673795"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0270101,
+              48.7011486
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9339924577",
+            "osm_type": "node",
+            "lat": 48.7320636,
+            "lon": 10.714387,
+            "name": "Wörnitzstein",
+            "operator": "DB Station&Service AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MWNS",
+            "railway:station_category": "6",
+            "wikidata": "Q110125581"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.714387,
+              48.7320636
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "14405187",
+            "osm_type": "node",
+            "lat": 48.7206641,
+            "lon": 11.3304832,
+            "name": "Weichering",
+            "network": "INVG",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MWEI",
+            "railway:station_category": "6",
+            "ref:station": "6591",
+            "uic_name": "Weichering",
+            "uic_ref": "8006256"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3304832,
+              48.7206641
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "14405188",
+            "osm_type": "node",
+            "lat": 48.7212768,
+            "lon": 11.2590305,
+            "internet_access": "no",
+            "name": "Rohrenfeld",
+            "network": "INVG",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MRFD",
+            "railway:station_category": "6",
+            "ref:station": "5321",
+            "train": "yes",
+            "uic_name": "Rohrenfeld",
+            "uic_ref": "8005149",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2590305,
+              48.7212768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "925360247",
+            "osm_type": "node",
+            "lat": 48.7735254,
+            "lon": 11.4322663,
+            "name": "Ingolstadt Nord",
+            "network": "INVG",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MIN",
+            "railway:station_category": "3",
+            "source": "survey",
+            "train": "yes",
+            "uic_name": "Ingolstadt Nord",
+            "uic_ref": "8003076",
+            "wheelchair": "yes",
+            "wikidata": "Q320520",
+            "wikipedia": "de:Bahnhof Ingolstadt Nord"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4322663,
+              48.7735254
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2098398070",
+            "osm_type": "node",
+            "lat": 48.8159068,
+            "lon": 11.3195188,
+            "name": "Eitensheim",
+            "network": "INVG",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MEI",
+            "railway:station_category": "6",
+            "ref:station": "1540",
+            "uic_name": "Eitensheim",
+            "uic_ref": "8001734"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3195188,
+              48.8159068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2098398076",
+            "osm_type": "node",
+            "lat": 48.7987477,
+            "lon": 11.3698713,
+            "name": "Gaimersheim",
+            "network": "INVG",
+            "note": "vsl. ab 12/2025 \"Barrierefreier Ausbau Bahnhof Gaimersheim, Schaffung gleichzeitiger Fahrmöglichkeit aus beiden Richtungen\"",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MGH",
+            "railway:station_category": "6",
+            "ref:station": "2000",
+            "uic_name": "Gaimersheim",
+            "uic_ref": "8002171",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3698713,
+              48.7987477
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2098398083",
+            "osm_type": "node",
+            "lat": 48.8192431,
+            "lon": 11.2754297,
+            "name": "Tauberfeld",
+            "network": "INVG",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MTA",
+            "railway:station_category": "6",
+            "ref:station": "6153",
+            "train": "yes",
+            "uic_name": "Tauberfeld",
+            "uic_ref": "8005828"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2754297,
+              48.8192431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3543804400",
+            "osm_type": "node",
+            "lat": 48.7443901,
+            "lon": 11.4374071,
+            "loc_name": "Ingolstadt Hbf",
+            "name": "Ingolstadt Hbf",
+            "name:cy": "Gorsaf Canolog Ingolstadt",
+            "name:de": "Ingolstadt Hbf",
+            "name:en": "Ingolstadt Central Station",
+            "network": "INVG",
+            "official_name": "Ingolstadt Hbf",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MIH",
+            "railway:station_category": "2",
+            "ref:station": "2993",
+            "short_name": "Ingolstadt Hbf",
+            "toilets:wheelchair": "yes",
+            "uic_name": "Ingolstadt Hbf",
+            "uic_ref": "8000183",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4374071,
+              48.7443901
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4216213850",
+            "osm_type": "node",
+            "lat": 48.7271849,
+            "lon": 11.1782375,
+            "alt_name": "Neuburg a.d. Donau",
+            "name": "Neuburg (Donau)",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNBD",
+            "ref:station": "4366",
+            "uic_name": "Neuburg (Donau)",
+            "uic_ref": "8004254",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1782375,
+              48.7271849
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4556870356",
+            "osm_type": "node",
+            "lat": 48.8698682,
+            "lon": 11.1636344,
+            "name": "Eichstätt Bahnhof",
+            "network": "VGI",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MEB",
+            "railway:station_category": "4",
+            "ref:station": "1504",
+            "train": "yes",
+            "uic_name": "Eichstätt Bahnhof",
+            "uic_ref": "8001708",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1636344,
+              48.8698682
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11197875945",
+            "osm_type": "node",
+            "lat": 48.7168039,
+            "lon": 11.1002935,
+            "name": "Unterhausen (Bay)",
+            "network": "INVG",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MUHN",
+            "railway:station_category": "6",
+            "ref:station": "6351",
+            "uic_name": "Unterhausen (Bay)",
+            "uic_ref": "8005993",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1002935,
+              48.7168039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2717199775",
+            "osm_type": "node",
+            "lat": 48.8808389,
+            "lon": 10.8188402,
+            "name": "Otting-Weilheim",
+            "network": "VGN;AVV",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MOTW",
+            "railway:station_category": "5",
+            "train": "yes",
+            "uic_name": "Otting-Weilheim",
+            "uic_ref": "8004731",
+            "wikidata": "Q78994767"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8188402,
+              48.8808389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4418226827",
+            "osm_type": "node",
+            "lat": 48.9613074,
+            "lon": 10.9082582,
+            "addr:city": "Treuchtlingen",
+            "addr:country": "DE",
+            "addr:housenumber": "61",
+            "addr:postcode": "91757",
+            "addr:street": "Bahnhofstraße",
+            "check_date:wheelchair": "2021-11-14",
+            "name": "Treuchtlingen",
+            "network": "Verkehrsverbund Großraum Nürnberg",
+            "network:short": "VGN",
+            "network:wikidata": "Q2516463",
+            "operator": "DB InfraGO AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MTL",
+            "railway:station_category": "3",
+            "ref:station": "6252",
+            "train": "yes",
+            "uic_name": "Treuchtlingen",
+            "uic_ref": "8000122",
+            "website": "https://www.bahnhof.de/treuchtlingen",
+            "wheelchair": "yes",
+            "wikidata": "Q721990",
+            "wikipedia": "de:Bahnhof Treuchtlingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9082582,
+              48.9613074
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4531810020",
+            "osm_type": "node",
+            "lat": 48.8920551,
+            "lon": 10.9936995,
+            "name": "Solnhofen",
+            "network": "VGN",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MSO",
+            "railway:station_category": "6",
+            "train": "yes",
+            "uic_name": "Solnhofen",
+            "uic_ref": "8005593",
+            "wikidata": "Q41372246"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9936995,
+              48.8920551
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13802089",
+            "osm_type": "node",
+            "lat": 48.8753722,
+            "lon": 11.1679723,
+            "alt_name": "Wasserzell (bei Eichstätt)",
+            "name": "Wasserzell (b Eichstätt)",
+            "operator": "DB InfraGO AG",
+            "operator:website": "https://dbinfrago.com",
+            "operator:wikidata": "Q122870674",
+            "operator:wikipedia": "de:DB InfraGO",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MWAS",
+            "railway:station_category": "7",
+            "ref:station": "6565",
+            "train": "yes",
+            "uic_ref": "8006224",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1679723,
+              48.8753722
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "75212086",
+            "osm_type": "node",
+            "lat": 48.9915057,
+            "lon": 11.37816,
+            "ele": "375",
+            "name": "Kinding (Altmühltal)",
+            "network": "VGN;INVG",
+            "on_demand": "no",
+            "operator": "DB InfraGO AG",
+            "operator:wikidata": "Q122870674",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MKIG",
+            "railway:station_category": "6",
+            "request_stop": "yes",
+            "start_date": "2006",
+            "train": "yes",
+            "uic_name": "Kinding (Altmühltal)",
+            "uic_ref": "8003256",
+            "wheelchair": "yes",
+            "wikidata": "Q801007",
+            "wikipedia": "de:Bahnhof Kinding (Altmühltal)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.37816,
+              48.9915057
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

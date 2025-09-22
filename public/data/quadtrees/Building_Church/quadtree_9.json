@@ -1,0 +1,63 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 11.438358999999998,
+    "north": 48.355971499999995,
+    "east": 13.345766
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    11.57710145,
+    47.96818665
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1303807135",
+        "osm_type": "node",
+        "lat": 47.849838,
+        "lon": 11.5958047,
+        "addr:city": "Dietramszell",
+        "addr:country": "DE",
+        "addr:housenumber": "3a",
+        "addr:postcode": "83623",
+        "addr:street": "Klosterplatz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Klosterkirche Mariae Himmelfahrt",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958047,
+          47.849838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3273880307",
+        "osm_type": "node",
+        "lat": 48.0865353,
+        "lon": 11.5583982,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "religion": "christian",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5583982,
+          48.0865353
+        ]
+      }
+    }
+  ],
+  "children": []
+}

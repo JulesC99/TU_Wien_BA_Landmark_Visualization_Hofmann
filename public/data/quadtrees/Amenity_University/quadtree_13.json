@@ -1,0 +1,2387 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 15.253173,
+    "north": 48.355971499999995,
+    "east": 17.16058
+  },
+  "poiCount": 85,
+  "leafCount": 0,
+  "averagePosition": [
+    16.410768190588236,
+    48.19769901529412
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 16.2068765,
+        "north": 48.02541825,
+        "east": 17.16058
+      },
+      "poiCount": 1,
+      "leafCount": 1,
+      "averagePosition": [
+        16.2466985,
+        47.8384764
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4875464044",
+            "osm_type": "node",
+            "lat": 47.8384764,
+            "lon": 16.2466985,
+            "amenity": "university",
+            "name": "Composite Lab",
+            "operator": "Fachhochschule Wiener Neustadt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2466985,
+              47.8384764
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 15.253173,
+        "north": 48.355971499999995,
+        "east": 16.2068765
+      },
+      "poiCount": 1,
+      "leafCount": 1,
+      "averagePosition": [
+        16.1296917,
+        48.0561435
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2079837195",
+            "osm_type": "node",
+            "lat": 48.0561435,
+            "lon": 16.1296917,
+            "amenity": "university",
+            "name": "Philosophisch-theologische Hochschule Benedikt XVI. Heiligenkreuz",
+            "official_name": "Philosophisch-theologische Hochschule Benedikt XVI. Heiligenkreuz",
+            "website": "https://www.hochschule-heiligenkreuz.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1296917,
+              48.0561435
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 16.2068765,
+        "north": 48.355971499999995,
+        "east": 17.16058
+      },
+      "poiCount": 83,
+      "leafCount": 0,
+      "averagePosition": [
+        16.416131397590362,
+        48.20373248674699
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 16.2068765,
+            "north": 48.190694875,
+            "east": 16.68372825
+          },
+          "poiCount": 19,
+          "leafCount": 19,
+          "averagePosition": [
+            16.37464373157895,
+            48.18321416842105
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "631853821",
+                "osm_type": "node",
+                "lat": 48.1834269,
+                "lon": 16.3289294,
+                "amenity": "university",
+                "name": "FH OÖ Seminarzentrum",
+                "source": "local_knowledge",
+                "website": "http://www.asict.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3289294,
+                  48.1834269
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3759092491",
+                "osm_type": "node",
+                "lat": 48.1877259,
+                "lon": 16.3321522,
+                "amenity": "university",
+                "check_date": "2024-08-07",
+                "name": "OEAD Vorstudienlehrgang"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3321522,
+                  48.1877259
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3762548985",
+                "osm_type": "node",
+                "lat": 48.1874652,
+                "lon": 16.3333907,
+                "amenity": "university",
+                "name": "Vienna Konservatorium",
+                "name:en": "Vienna Conservatory",
+                "name:es": "Viena Conservatorio",
+                "website": "https://www.viennaconservatory.at/",
+                "wikidata": "Q1524024",
+                "wikipedia": "de:Vienna Konservatorium"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3333907,
+                  48.1874652
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3792841034",
+                "osm_type": "node",
+                "lat": 48.1844019,
+                "lon": 16.335329,
+                "amenity": "university",
+                "check_date": "2024-06-12",
+                "name": "Richard Wagner Konservatorium"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.335329,
+                  48.1844019
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4428660289",
+                "osm_type": "node",
+                "lat": 48.1896015,
+                "lon": 16.3132575,
+                "addr:city": "Wien",
+                "addr:country": "AT",
+                "addr:housenumber": "7",
+                "addr:postcode": "1140",
+                "addr:street": "Penzinger Straße",
+                "amenity": "university",
+                "check_date": "2025-06-03",
+                "name": "Institut für Gesang und Musiktheater",
+                "operator": "Universität für Musik und darstellende Kunst Wien",
+                "operator:type": "government",
+                "phone": "+43 1 711 55 - 27 02",
+                "website": "https://www.mdw.ac.at/inst9/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3132575,
+                  48.1896015
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6883154732",
+                "osm_type": "node",
+                "lat": 48.1813708,
+                "lon": 16.3978582,
+                "addr:city": "Wien",
+                "addr:housenumber": "4",
+                "addr:postcode": "1030",
+                "addr:street": "Franz-Grill-Straße",
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "IFT (E311) - Institut für Fertigungstechnik und Photonische Technologien - TEC-Lab",
+                "note": "Anfahrt: http://www.ift.at/das-institut/standorte/tec-lab-labor-fuer-fertigungstechnik/",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "phone": "+43-1-58801 311 06",
+                "website": "https://www.ift.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3978582,
+                  48.1813708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6883204477",
+                "osm_type": "node",
+                "lat": 48.1806845,
+                "lon": 16.3970297,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "name": "IET(E302) - Institut für Energietechnik und Thermodynamik",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.iet.tuwien.ac.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3970297,
+                  48.1806845
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955759200",
+                "osm_type": "node",
+                "lat": 48.1811703,
+                "lon": 16.3972521,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "wlan",
+                "name": "Seminarraum O221-2 (OAEGC45)",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://tiss.tuwien.ac.at/events/roomSchedule.xhtml?dswid=4922&dsrid=316&roomCode=OAEGC45"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3972521,
+                  48.1811703
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955759201",
+                "osm_type": "node",
+                "lat": 48.1809568,
+                "lon": 16.3968329,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "wlan",
+                "name": "Seminarraum O221-1 (OAEGC11)",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://tiss.tuwien.ac.at/events/roomSchedule.xhtml?dswid=4922&dsrid=680&roomCode=OAEGC11"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3968329,
+                  48.1809568
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955759202",
+                "osm_type": "node",
+                "lat": 48.1810097,
+                "lon": 16.3970957,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "wlan",
+                "name": "HS O221",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://tiss.tuwien.ac.at/events/roomSchedule.xhtml?roomCode=OA01E29&initialDate=20191107&dswid=4922&dsrid=515"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3970957,
+                  48.1810097
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955759232",
+                "osm_type": "node",
+                "lat": 48.1817627,
+                "lon": 16.3970188,
+                "addr:city": "Wien",
+                "addr:housenumber": "14",
+                "addr:postcode": "1030",
+                "addr:street": "Lilienthalgasse",
+                "amenity": "university",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "Gebäude OC (ehem. Objekt 236)",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3970188,
+                  48.1817627
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955759241",
+                "osm_type": "node",
+                "lat": 48.18206,
+                "lon": 16.3970067,
+                "addr:city": "Wien",
+                "addr:postcode": "1030",
+                "addr:street": "Lilienthalgasse",
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "yes",
+                "name": "Gebäude OD (ehem. Objekt 219)",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.tuwien.at/tu-wien/campus/tu-univercity/standorte/arsenal-science-center/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3970067,
+                  48.18206
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955805974",
+                "osm_type": "node",
+                "lat": 48.18209,
+                "lon": 16.3968261,
+                "addr:city": "Wien",
+                "addr:postcode": "1030",
+                "addr:street": "Lilienthalgasse",
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "yes",
+                "name": "E222 - Institut für Wasserbau und Ingenieurhydrologie",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.tuwien.at/tu-wien/campus/tu-univercity/standorte/arsenal-science-center/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3968261,
+                  48.18209
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6955805975",
+                "osm_type": "node",
+                "lat": 48.1821877,
+                "lon": 16.3970346,
+                "addr:city": "Wien",
+                "addr:postcode": "1030",
+                "addr:street": "Lilienthalgasse",
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "internet_access": "yes",
+                "name": "E226 - Institut für Wassergüte und Ressourcenmanagement",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.tuwien.at/tu-wien/campus/tu-univercity/standorte/arsenal-science-center/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3970346,
+                  48.1821877
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6958086281",
+                "osm_type": "node",
+                "lat": 48.1812228,
+                "lon": 16.3965297,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "description": "Halle1",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "E212 Institut fürTragkonstruktion",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3965297,
+                  48.1812228
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6964890014",
+                "osm_type": "node",
+                "lat": 48.18129,
+                "lon": 16.3966827,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "description": "Halle2",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "E220-2 Institut für Geotechnik - Erdbaulabor",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.igb.tuwien.ac.at/institut/erdbaulabor/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3966827,
+                  48.18129
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6964890015",
+                "osm_type": "node",
+                "lat": 48.1817988,
+                "lon": 16.3976808,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "description": "Halle9",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "E230-2 Straßenbautechnisches Labor",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.ivws.tuwien.ac.at/labor/kontakt/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3976808,
+                  48.1817988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6964890032",
+                "osm_type": "node",
+                "lat": 48.1816701,
+                "lon": 16.3974261,
+                "amenity": "university",
+                "check_date": "2025-03-22",
+                "description": "Halle7+8, übersiedelt von Rellahalle",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "eduroam",
+                "name": "IMWS Logo Institut für Mechanik der Werkstoffe und Strukturen",
+                "operator": "TU Wien",
+                "operator:type": "government",
+                "website": "https://www.imws.tuwien.ac.at/home/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3974261,
+                  48.1816701
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10862485279",
+                "osm_type": "node",
+                "lat": 48.1891736,
+                "lon": 16.312898,
+                "addr:city": "Wien",
+                "addr:country": "AT",
+                "addr:housenumber": "9",
+                "addr:postcode": "1140",
+                "addr:street": "Penzinger Straße",
+                "amenity": "university",
+                "check_date": "2025-06-03",
+                "name": "Max-Reinhardt-Seminar",
+                "operator": "Universität für Musik und darstellende Kunst Wien",
+                "operator:type": "government",
+                "website": "https://www.maxreinhardtseminar.at/",
+                "wikidata": "Q338319",
+                "wikipedia": "de:Max Reinhardt Seminar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.312898,
+                  48.1891736
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 16.68372825,
+            "north": 48.190694875,
+            "east": 17.16058
+          },
+          "poiCount": 6,
+          "leafCount": 6,
+          "averagePosition": [
+            17.079300533333335,
+            48.14110785
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "477234200",
+                "osm_type": "node",
+                "lat": 48.1151446,
+                "lon": 16.8652977,
+                "amenity": "university",
+                "name": "Nationalpark Akademie d. Naturhistorischen Museums"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8652977,
+                  48.1151446
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "462672731",
+                "osm_type": "node",
+                "lat": 48.1424917,
+                "lon": 17.1050267,
+                "amenity": "university",
+                "name": "Kňazský seminár sv. Cyrila a Metoda",
+                "name:hu": "Szent Cirill és Metód Szeminárium",
+                "website": "http://kscm.sk/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1050267,
+                  48.1424917
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2556754551",
+                "osm_type": "node",
+                "lat": 48.1597945,
+                "lon": 17.1345081,
+                "amenity": "university",
+                "name": "Farmaceutická fakulta UK",
+                "operator": "Univerzita Komenského",
+                "short_name": "FaF UK",
+                "source": "local_knowledge",
+                "website": "https://www.fpharm.uniba.sk/",
+                "wikidata": "Q12765733"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1345081,
+                  48.1597945
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2556757217",
+                "osm_type": "node",
+                "lat": 48.1600699,
+                "lon": 17.1342906,
+                "alt_name": "Fakulta manažmentu - Univerzita Komenského v Bratislave",
+                "amenity": "university",
+                "name": "Fakulta managementu UK",
+                "name:en": "Faculty of Management - Comenius University Bratislava",
+                "operator": "Univerzita Komenského",
+                "short_name": "FM UK",
+                "website": "https://www.fm.uniba.sk/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1342906,
+                  48.1600699
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2634225565",
+                "osm_type": "node",
+                "lat": 48.1262565,
+                "lon": 17.1224633,
+                "amenity": "university",
+                "email": "info@vsemba.sk",
+                "isced:level": "5",
+                "name": "Vysoká škola ekonómie a manažmentu v Bratislave",
+                "name:en": "Bratislava University of Economics and Management",
+                "old_name": "Vysoká škola ekonómie a manažmentu verejnej správy v Bratislave",
+                "phone": "+421 905 11 11 83",
+                "website": "http://www.vsemvs.sk/",
+                "wikidata": "Q16520284"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1224633,
+                  48.1262565
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11152763204",
+                "osm_type": "node",
+                "lat": 48.1428899,
+                "lon": 17.1142168,
+                "amenity": "university",
+                "name": "Katedry kulturológie, marketingovej komunikácie, porovnávacej religionistiky, žurnalistiky",
+                "operator": "Filozofická fakulta Univerzity Komenského"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1142168,
+                  48.1428899
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.190694875,
+            "west": 16.2068765,
+            "north": 48.355971499999995,
+            "east": 16.68372825
+          },
+          "poiCount": 58,
+          "leafCount": 0,
+          "averagePosition": [
+            16.36111848103448,
+            48.21693241551724
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 48.190694875,
+                "west": 16.2068765,
+                "north": 48.2733331875,
+                "east": 16.445302375
+              },
+              "poiCount": 56,
+              "leafCount": 0,
+              "averagePosition": [
+                16.35891919642857,
+                48.21578621607143
+              ],
+              "data": [],
+              "children": [
+                {
+                  "bbox": {
+                    "south": 48.190694875,
+                    "west": 16.326089437500002,
+                    "north": 48.23201403125,
+                    "east": 16.445302375
+                  },
+                  "poiCount": 53,
+                  "leafCount": 0,
+                  "averagePosition": [
+                    16.35938554716981,
+                    48.214561203773584
+                  ],
+                  "data": [],
+                  "children": [
+                    {
+                      "bbox": {
+                        "south": 48.190694875,
+                        "west": 16.326089437500002,
+                        "north": 48.211354453125,
+                        "east": 16.38569590625
+                      },
+                      "poiCount": 16,
+                      "leafCount": 16,
+                      "averagePosition": [
+                        16.3660652,
+                        48.20435919375
+                      ],
+                      "data": [
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "425486957",
+                            "osm_type": "node",
+                            "lat": 48.2009238,
+                            "lon": 16.3698786,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "2",
+                            "addr:postcode": "1010",
+                            "addr:street": "Karlsplatz",
+                            "amenity": "university",
+                            "name": "Universität für Musik und darstellende Kunst",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3698786,
+                              48.2009238
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "574278370",
+                            "osm_type": "node",
+                            "lat": 48.2065905,
+                            "lon": 16.3494753,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "2",
+                            "addr:postcode": "1080",
+                            "addr:street": "Strozzigasse",
+                            "amenity": "university",
+                            "check_date": "2024-05-16",
+                            "name": "Zentrum für Fernstudien Österreich - Studienzentrum Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3494753,
+                              48.2065905
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "956430165",
+                            "osm_type": "node",
+                            "lat": 48.2063379,
+                            "lon": 16.3755704,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "26",
+                            "addr:postcode": "1010",
+                            "addr:street": "Singerstraße",
+                            "amenity": "university",
+                            "name": "Universität für Musik und darstellende Kunst"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3755704,
+                              48.2063379
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "957695878",
+                            "osm_type": "node",
+                            "lat": 48.2048709,
+                            "lon": 16.3722361,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "4a",
+                            "addr:postcode": "1010",
+                            "addr:street": "Johannesgasse",
+                            "amenity": "university",
+                            "name": "Musik und Kunst Privatuniversität der Stadt Wien (MUK)",
+                            "website": "https://www.konservatorium-wien.ac.at/",
+                            "wheelchair": "no",
+                            "wikidata": "Q876640"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3722361,
+                              48.2048709
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "957695880",
+                            "osm_type": "node",
+                            "lat": 48.2045465,
+                            "lon": 16.3731698,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "8",
+                            "addr:postcode": "1010",
+                            "addr:street": "Johannesgasse",
+                            "amenity": "university",
+                            "check_date": "2024-07-28",
+                            "name": "Universität für Musik und darstellende Kunst",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3731698,
+                              48.2045465
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1490046677",
+                            "osm_type": "node",
+                            "lat": 48.2017736,
+                            "lon": 16.3578114,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "3",
+                            "addr:postcode": "1070",
+                            "addr:street": "Karl-Schweighofer-Gasse",
+                            "amenity": "university",
+                            "check_date": "2025-08-10",
+                            "name": "Institutsgebäude der Akademie der bildenden Künste"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3578114,
+                              48.2017736
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "2969329546",
+                            "osm_type": "node",
+                            "lat": 48.2079424,
+                            "lon": 16.365903,
+                            "amenity": "university",
+                            "int_name": "tfm - Institute for Theatre, Film and Media Sciences",
+                            "name": "Institut für Theater-, Film- und Medienwissenschaft",
+                            "operator": "Universität Wien",
+                            "short_name": "tfm",
+                            "website": "https://tfm.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.365903,
+                              48.2079424
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "3664526435",
+                            "osm_type": "node",
+                            "lat": 48.1989256,
+                            "lon": 16.3698784,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "13",
+                            "addr:postcode": "1040",
+                            "addr:street": "Karlsplatz",
+                            "amenity": "university",
+                            "check_date": "2024-11-04",
+                            "name": "Technische Universität Wien",
+                            "name:ru": "Венский технический университет",
+                            "toilets:wheelchair": "yes",
+                            "website": "https://www.tuwien.ac.at",
+                            "wheelchair": "limited",
+                            "wheelchair:description": "Die Universität besteht aus vielen Gebäuden, wovon einige modernisiert und zugänglich, andere aber kaum erreichbar sind (siehe Webseite)."
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3698784,
+                              48.1989256
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "4409272768",
+                            "osm_type": "node",
+                            "lat": 48.1991206,
+                            "lon": 16.3669939,
+                            "amenity": "university",
+                            "check_date": "2023-12-13",
+                            "level": "1",
+                            "name": "Hörsaal FH1",
+                            "operator": "TU Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3669939,
+                              48.1991206
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "5446380146",
+                            "osm_type": "node",
+                            "lat": 48.1997863,
+                            "lon": 16.3430158,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "29",
+                            "addr:postcode": "1070",
+                            "addr:street": "Schottenfeldgasse",
+                            "amenity": "university",
+                            "department": "Institut für Soziale Ökologie",
+                            "name": "Institut für Soziale Ökologie",
+                            "operator": "Universität für Bodenkultur Wien",
+                            "operator:wikidata": "Q876520",
+                            "website": "https://boku.ac.at/wiso/sec"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3430158,
+                              48.1997863
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "5938619457",
+                            "osm_type": "node",
+                            "lat": 48.1964098,
+                            "lon": 16.3812516,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "8",
+                            "addr:postcode": "1030",
+                            "addr:street": "Rennweg",
+                            "amenity": "university",
+                            "check_date": "2024-09-03",
+                            "description": "Alter und neuer Konzertsaal, Sitzungssaal",
+                            "name": "Universität für Musik und darstellende Kunst Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3812516,
+                              48.1964098
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9974582617",
+                            "osm_type": "node",
+                            "lat": 48.208578,
+                            "lon": 16.3780363,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "13",
+                            "addr:postcode": "1010",
+                            "addr:street": "Bäckerstraße",
+                            "amenity": "university",
+                            "name": "Österreichische Akademie der Wissenschaften",
+                            "phone": "+43 1 51581-0",
+                            "website": "https://www.oeaw.ac.at",
+                            "wheelchair": "limited"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3780363,
+                              48.208578
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "10075919140",
+                            "osm_type": "node",
+                            "lat": 48.2108553,
+                            "lon": 16.3629846,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "8-10",
+                            "addr:postcode": "1010",
+                            "addr:street": "Schenkenstraße",
+                            "amenity": "university",
+                            "name": "Evangelisch-Theologische Fakultät",
+                            "operator": "Universität Wien",
+                            "operator:type": "university",
+                            "operator:wikidata": "Q165980",
+                            "website": "https://etf.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3629846,
+                              48.2108553
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "10075919141",
+                            "osm_type": "node",
+                            "lat": 48.210816,
+                            "lon": 16.3628702,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "8-10",
+                            "addr:postcode": "1010",
+                            "addr:street": "Schenkenstraße",
+                            "amenity": "university",
+                            "name": "Katholisch-Theologische Fakultät",
+                            "operator": "Universität Wien",
+                            "operator:type": "university",
+                            "operator:wikidata": "Q165980",
+                            "website": "https://ktf.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3628702,
+                              48.210816
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "10075919142",
+                            "osm_type": "node",
+                            "lat": 48.210788,
+                            "lon": 16.3627938,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "8-10",
+                            "addr:postcode": "1010",
+                            "addr:street": "Schenkenstraße",
+                            "amenity": "university",
+                            "name": "Rechtswissenschaftliche Fakultät",
+                            "operator": "Universität Wien",
+                            "operator:type": "university",
+                            "operator:wikidata": "Q165980",
+                            "website": "https://juridicum.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3627938,
+                              48.210788
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "11039322823",
+                            "osm_type": "node",
+                            "lat": 48.2014819,
+                            "lon": 16.365174,
+                            "addr:street": "Schillerplatz",
+                            "amenity": "university",
+                            "name": "Hauptgebäude der Akademie der bildenden Künste"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.365174,
+                              48.2014819
+                            ]
+                          }
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "bbox": {
+                        "south": 48.211354453125,
+                        "west": 16.326089437500002,
+                        "north": 48.23201403125,
+                        "east": 16.38569590625
+                      },
+                      "poiCount": 37,
+                      "leafCount": 37,
+                      "averagePosition": [
+                        16.35649704864865,
+                        48.218972883783785
+                      ],
+                      "data": [
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "76471793",
+                            "osm_type": "node",
+                            "lat": 48.2263343,
+                            "lon": 16.3490715,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "97",
+                            "addr:postcode": "1180",
+                            "addr:street": "Währinger Gürtel",
+                            "amenity": "university",
+                            "check_date": "2025-03-13",
+                            "internet_access": "wlan",
+                            "name": "FHWien der WKW",
+                            "name:en": "Vienna University meeting place",
+                            "website": "https://www.fh-wien.ac.at/home/",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3490715,
+                              48.2263343
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "560176375",
+                            "osm_type": "node",
+                            "lat": 48.2147378,
+                            "lon": 16.3582528,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2",
+                            "addr:postcode": "1090",
+                            "addr:street": "Rooseveltplatz",
+                            "amenity": "university",
+                            "department": "Institut für Soziologie",
+                            "name": "Institut für Soziologie",
+                            "name:en": "Department of Sociology",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 49201",
+                            "website": "https://www.soz.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3582528,
+                              48.2147378
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1547539696",
+                            "osm_type": "node",
+                            "lat": 48.220013,
+                            "lon": 16.3538417,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Sensengasse",
+                            "amenity": "university",
+                            "check_date": "2025-08-05",
+                            "name": "Institut für Internationale Entwicklung",
+                            "operator": "Universität Wien",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3538417,
+                              48.220013
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1547539700",
+                            "osm_type": "node",
+                            "lat": 48.2202654,
+                            "lon": 16.3547154,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "3a",
+                            "addr:postcode": "1090",
+                            "addr:street": "Sensengasse",
+                            "amenity": "university",
+                            "check_date": "2025-08-05",
+                            "department": "Institut für Sprachwissenschaft",
+                            "name": "Institut für Sprachwissenschaft",
+                            "operator": "Universität Wien",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3547154,
+                              48.2202654
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1547539731",
+                            "osm_type": "node",
+                            "lat": 48.2201811,
+                            "lon": 16.3543567,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "3a",
+                            "addr:postcode": "1090",
+                            "addr:street": "Sensengasse",
+                            "amenity": "university",
+                            "check_date": "2025-03-12",
+                            "name": "Institut für Bildungswissenschaft",
+                            "operator": "Universität Wien",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3543567,
+                              48.2201811
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1701300686",
+                            "osm_type": "node",
+                            "lat": 48.2223299,
+                            "lon": 16.3628772,
+                            "amenity": "university",
+                            "name": "Institut für Staatswissenschaft"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3628772,
+                              48.2223299
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "1900583640",
+                            "osm_type": "node",
+                            "lat": 48.22045,
+                            "lon": 16.3554137,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "7",
+                            "addr:postcode": "1090",
+                            "addr:street": "Sensengasse",
+                            "amenity": "university",
+                            "name": "Institut für Sprachwissenschaft",
+                            "operator": "Universität Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3554137,
+                              48.22045
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "2431089983",
+                            "osm_type": "node",
+                            "lat": 48.2192066,
+                            "lon": 16.3673771,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "1",
+                            "addr:postcode": "1090",
+                            "addr:street": "Oskar-Morgenstern-Platz",
+                            "amenity": "university",
+                            "check_date": "2024-06-04",
+                            "name": "Fakultät für Mathematik",
+                            "operator": "Universität Wien",
+                            "website": "https://mathematik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3673771,
+                              48.2192066
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "2431089984",
+                            "osm_type": "node",
+                            "lat": 48.2191251,
+                            "lon": 16.3666189,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "1",
+                            "addr:postcode": "1090",
+                            "addr:street": "Oskar-Morgenstern-Platz",
+                            "amenity": "university",
+                            "check_date": "2024-06-04",
+                            "name": "Fakultät für Wirtschaftswissenschaften",
+                            "operator": "Universität Wien",
+                            "operator:wikidata": "Q165980",
+                            "website": "https://wirtschaftswissenschaften.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3666189,
+                              48.2191251
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "2931512383",
+                            "osm_type": "node",
+                            "lat": 48.2141267,
+                            "lon": 16.3829469,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "23",
+                            "addr:postcode": "1020",
+                            "addr:street": "Praterstraße",
+                            "amenity": "university",
+                            "name": "Webster University",
+                            "website": "https://webster.ac.at/",
+                            "wikidata": "Q2553612",
+                            "wikipedia": "de:Webster Vienna Private University"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3829469,
+                              48.2141267
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "3891131757",
+                            "osm_type": "node",
+                            "lat": 48.2217238,
+                            "lon": 16.3557127,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "5",
+                            "addr:postcode": "1090",
+                            "addr:street": "Boltzmanngasse",
+                            "amenity": "university",
+                            "internet_access": "wlan",
+                            "internet_access:ssid": "eduroam",
+                            "name": "Fakultät für Physik",
+                            "opening_hours": "Mo - Fr 06:00 - 22:00; Sa 07:00 - 19:00",
+                            "operator": "Universität Wien",
+                            "operator:type": "university",
+                            "website": "https://physik.univie.ac.at/",
+                            "wheelchair": "limited"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3557127,
+                              48.2217238
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "4268482937",
+                            "osm_type": "node",
+                            "lat": 48.21619,
+                            "lon": 16.353684,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "2–4, Tür 1.13",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Zeitgeschichte",
+                            "description": "Das Institut für Zeitgeschichte forscht und lehrt zur Geschichte des 20. Jh.s mit den Schwerpunkten: Wissenschaftsgeschichte, Österreichische Zeitgeschichte als Republikgeschichte, Diktaturen, Gewalt & Genozid, Frauen- & Geschlechterforschung, Visuelle ZG",
+                            "level": "2",
+                            "name": "Institut für Zeitgeschichte",
+                            "name:en": "Department of Contemporary History",
+                            "phone": "+43 1 4277 41201",
+                            "website": "https://zeitgeschichte.univie.ac.at/",
+                            "wikidata": "Q1272555",
+                            "wikipedia": "de:Institut für Zeitgeschichte der Universität Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.353684,
+                              48.21619
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "4679012885",
+                            "osm_type": "node",
+                            "lat": 48.2228162,
+                            "lon": 16.3558565,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "9",
+                            "addr:postcode": "1090",
+                            "addr:street": "Boltzmanngasse",
+                            "amenity": "university",
+                            "description": "ESI",
+                            "email": "secr@esi.ac.at",
+                            "level": "2",
+                            "name": "Erwin-Schrödinger-Institut für Mathematische Physik",
+                            "name:en": "Erwin Schrödinger International Institute for Mathematical Physics",
+                            "name:fr": "Institut international Erwin Schrödinger pour la physique mathématique",
+                            "operator": "University of Vienna",
+                            "website": "https://www.esi.ac.at/",
+                            "wikidata": "Q1362780",
+                            "wikipedia": "de:Internationales Erwin Schrödinger Institut für Mathematik und Physik"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3558565,
+                              48.2228162
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "5394930582",
+                            "osm_type": "node",
+                            "lat": 48.219538,
+                            "lon": 16.3635307,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "4",
+                            "addr:postcode": "1090",
+                            "addr:street": "Porzellangasse",
+                            "amenity": "university",
+                            "name": "Zentrum für LehrerInnenbildung",
+                            "operator": "Universität Wien",
+                            "website": "https://lehrerinnenbildung.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3635307,
+                              48.219538
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "5997157941",
+                            "osm_type": "node",
+                            "lat": 48.2180278,
+                            "lon": 16.353233,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2, Hof 3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Slawistik",
+                            "name": "Institut für Slawistik",
+                            "name:en": "Department of Slavonic Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 428 01"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.353233,
+                              48.2180278
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "5997157942",
+                            "osm_type": "node",
+                            "lat": 48.2180619,
+                            "lon": 16.3526375,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2, Hof 3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Osteuropäische Geschichte",
+                            "name": "Institut für Osteuropäische Geschichte",
+                            "name:en": "Department of East European History",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 41101",
+                            "website": "https://iog.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3526375,
+                              48.2180619
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "6065360853",
+                            "osm_type": "node",
+                            "lat": 48.2168091,
+                            "lon": 16.3528625,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 2.8",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Ethik und Recht in der Medizin",
+                            "name": "Institut für Ethik und Recht in der Medizin",
+                            "name:en": "Department for Ethics and Law in Medicine",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 22201",
+                            "website": "https://ierm.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3528625,
+                              48.2168091
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "6065360854",
+                            "osm_type": "node",
+                            "lat": 48.2192958,
+                            "lon": 16.3565168,
+                            "addr:city": "Wien",
+                            "addr:country": "AT",
+                            "addr:housenumber": "25",
+                            "addr:postcode": "1090",
+                            "addr:street": "Währinger Straße",
+                            "amenity": "university",
+                            "department": "yes",
+                            "fixme": "Lage im Gebäude",
+                            "name": "Institut für Geschichte der Medizin",
+                            "operator": "Medizinische Universität Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3565168,
+                              48.2192958
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "6239186443",
+                            "osm_type": "node",
+                            "lat": 48.2212424,
+                            "lon": 16.355245,
+                            "amenity": "university",
+                            "check_date": "2025-05-17",
+                            "name": "Fakultät für Chemie",
+                            "operator": "Universität Wien",
+                            "website": "https://chemie.univie.ac.at/",
+                            "wheelchair": "yes"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.355245,
+                              48.2212424
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9156460407",
+                            "osm_type": "node",
+                            "lat": 48.2175168,
+                            "lon": 16.3531527,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2,  Tür 2.4",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Japanologie",
+                            "description": "Institut für Ostasienwissenschaften Abteilung Japanologie",
+                            "name": "Japanologie",
+                            "name:en": "Japanese Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43801",
+                            "website": "https://japanologie.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3531527,
+                              48.2175168
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9156460408",
+                            "osm_type": "node",
+                            "lat": 48.2176192,
+                            "lon": 16.3519386,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2, Tür 5.4",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Koreanologie",
+                            "description": "Institut für Ostasienwissenschaften Abteilung Koreanologie",
+                            "name": "Koreanologie",
+                            "name:en": "Korean Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43820",
+                            "website": "https://koreanologie.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3519386,
+                              48.2176192
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9156460409",
+                            "osm_type": "node",
+                            "lat": 48.2173165,
+                            "lon": 16.352159,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2, Tür 2.3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "contact:facebook": "http://www.facebook.com/SinologieUniWien/",
+                            "contact:twitter": "@SinoVienna",
+                            "department": "Sinologie",
+                            "description": "Institut für Ostasienwissenschaften Abteilung Sinologie",
+                            "name": "Sinologie",
+                            "name:en": "Sinology",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 438 40",
+                            "website": "https://sinologie.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.352159,
+                              48.2173165
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160245394",
+                            "osm_type": "node",
+                            "lat": 48.2181571,
+                            "lon": 16.3517818,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "contact:facebook": "http://www.facebook.com/afrikawissenschaftenwien/",
+                            "department": "Institut für Afrikawissenschaften",
+                            "name": "Institut für Afrikawissenschaften",
+                            "name:en": "Department of African Studies",
+                            "operator": "Universität Wien",
+                            "website": "https://afrika.univie.ac.at"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3517818,
+                              48.2181571
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160245395",
+                            "osm_type": "node",
+                            "lat": 48.2174273,
+                            "lon": 16.355059,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 8.3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Anglistik und Amerikanistik",
+                            "name": "Institut für Anglistik und Amerikanistik",
+                            "name:en": "Department of English and American Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 42401",
+                            "website": "https://anglistik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.355059,
+                              48.2174273
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160245396",
+                            "osm_type": "node",
+                            "lat": 48.2173986,
+                            "lon": 16.3521671,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 2.3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "contact:facebook": "https://www.facebook.com/EcoS.Univie/",
+                            "department": "East Asian Economy and Society",
+                            "name": "East Asian Economy and Society",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43840",
+                            "website": "https://ecos.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3521671,
+                              48.2173986
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160245397",
+                            "osm_type": "node",
+                            "lat": 48.217477,
+                            "lon": 16.35386,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 7.2",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "contact:facebook": "http://www.facebook.com/finnougristik/",
+                            "department": "Finno-Ugristik",
+                            "description": "Institut für Europäische und Vergleichende Sprach- und Literaturwissenschaft Finno-Ugristik",
+                            "name": "Finno-Ugristik",
+                            "name:en": "Finno-Ugrian Studies",
+                            "operator": "Universität Wien",
+                            "website": "https://finno-ugristik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.35386,
+                              48.217477
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160245398",
+                            "osm_type": "node",
+                            "lat": 48.2174738,
+                            "lon": 16.3541215,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 7.3",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Judaistik",
+                            "name": "Institut für Judaistik",
+                            "name:en": "Institute for Jewish Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43301",
+                            "website": "https://judaistik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3541215,
+                              48.2174738
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317795",
+                            "osm_type": "node",
+                            "lat": 48.2175062,
+                            "lon": 16.3558966,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "13 Hof 9",
+                            "addr:postcode": "1090",
+                            "addr:street": "Garnisongasse",
+                            "amenity": "university",
+                            "department": "Institut für Kunstgeschichte",
+                            "name": "Institut für Kunstgeschichte",
+                            "name:en": "Department of Art History",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 41401",
+                            "website": "https://kunstgeschichte.univie.ac.at"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3558966,
+                              48.2175062
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317796",
+                            "osm_type": "node",
+                            "lat": 48.2168786,
+                            "lon": 16.3556155,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 9.1",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "check_date": "2024-10-18",
+                            "department": "Institut für Musikwissenschaft",
+                            "description": "Eingang via Garnisongasse 13",
+                            "name": "Institut für Musikwissenschaft",
+                            "name:en": "Department of Musicology",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 44201",
+                            "website": "https://musikwissenschaft.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3556155,
+                              48.2168786
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317797",
+                            "osm_type": "node",
+                            "lat": 48.2171331,
+                            "lon": 16.3515022,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 4.1",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "contact:facebook": "http://www.facebook.com/orientalistik.universitatwien/",
+                            "department": "Institut für Orientalistik",
+                            "name": "Institut für Orientalistik",
+                            "name:en": "Department of Near Eastern Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43401",
+                            "website": "https://orientalistik.univie.ac.at"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3515022,
+                              48.2171331
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317798",
+                            "osm_type": "node",
+                            "lat": 48.2167869,
+                            "lon": 16.354579,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 8.1",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Romanistik",
+                            "name": "Institut für Romanistik",
+                            "name:en": "Department of Romance Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 42601",
+                            "website": "https://romanistik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.354579,
+                              48.2167869
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317799",
+                            "osm_type": "node",
+                            "lat": 48.2167894,
+                            "lon": 16.3533744,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür 2.7",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "department": "Institut für Südasien-, Tibet- und Buddhismuskunde",
+                            "name": "Institut für Südasien-, Tibet- und Buddhismuskunde",
+                            "name:en": "Department of South Asian, Tibetan and Buddhist Studies",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 43 501",
+                            "website": "https://stb.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3533744,
+                              48.2167894
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9160317800",
+                            "osm_type": "node",
+                            "lat": 48.2150899,
+                            "lon": 16.3515034,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "2-4, Tür",
+                            "addr:postcode": "1090",
+                            "addr:street": "Spitalgasse",
+                            "amenity": "university",
+                            "check_date": "2024-11-07",
+                            "department": "Institut Wiener Kreis",
+                            "name": "Institut Wiener Kreis",
+                            "name:en": "Institute Vienna Circle",
+                            "operator": "Universität Wien",
+                            "phone": "+43 1 4277 46501",
+                            "website": "https://wienerkreis.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3515034,
+                              48.2150899
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9591884496",
+                            "osm_type": "node",
+                            "lat": 48.2199945,
+                            "lon": 16.3562074,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "29",
+                            "addr:postcode": "1090",
+                            "addr:street": "Währinger Straße",
+                            "amenity": "university",
+                            "check_date": "2024-05-25",
+                            "department": "Institut für Publizistik- und Kommunikationswissenschaft",
+                            "name": "Institut für Publizistik- und Kommunikationswissenschaft",
+                            "operator": "Universität Wien",
+                            "website": "https://publizistik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3562074,
+                              48.2199945
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "9591884497",
+                            "osm_type": "node",
+                            "lat": 48.2200922,
+                            "lon": 16.356046,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "29",
+                            "addr:postcode": "1090",
+                            "addr:street": "Währinger Straße",
+                            "amenity": "university",
+                            "check_date": "2024-05-25",
+                            "faculty": "computer_science",
+                            "name": "Fakultät für Informatik",
+                            "operator": "Universität Wien",
+                            "website": "https://informatik.univie.ac.at/"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.356046,
+                              48.2200922
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "11053694209",
+                            "osm_type": "node",
+                            "lat": 48.2300052,
+                            "lon": 16.3600791,
+                            "addr:city": "Wien",
+                            "addr:housenumber": "14",
+                            "addr:postcode": "1090",
+                            "addr:street": "Althanstraße",
+                            "amenity": "university",
+                            "internet_access": "yes",
+                            "name": "Institut für Geologie der Universität Wien"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3600791,
+                              48.2300052
+                            ]
+                          }
+                        },
+                        {
+                          "type": "Feature",
+                          "properties": {
+                            "id": "13068128540",
+                            "osm_type": "node",
+                            "lat": 48.2208595,
+                            "lon": 16.3665969,
+                            "addr:housenumber": "30",
+                            "addr:street": "Grünentorgasse",
+                            "amenity": "university",
+                            "check_date": "2025-08-12",
+                            "name": "Das Mellicanhaus",
+                            "operator": "Oklahoma Christian University"
+                          },
+                          "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                              16.3665969,
+                              48.2208595
+                            ]
+                          }
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "bbox": {
+                    "south": 48.23201403125,
+                    "west": 16.326089437500002,
+                    "north": 48.2733331875,
+                    "east": 16.445302375
+                  },
+                  "poiCount": 3,
+                  "leafCount": 3,
+                  "averagePosition": [
+                    16.350680333333333,
+                    48.23742810000001
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3664315650",
+                        "osm_type": "node",
+                        "lat": 48.2391664,
+                        "lon": 16.3774409,
+                        "addr:city": "Wien",
+                        "addr:country": "AT",
+                        "addr:housenumber": "6",
+                        "addr:postcode": "1200",
+                        "addr:street": "Höchstädtplatz",
+                        "alt_name": "Technikum Wien",
+                        "amenity": "university",
+                        "blind": "yes",
+                        "blind:description:en": "Guided pathways lead to elevators and toilets.",
+                        "full_name": "Fachhochschule Technikum Wien",
+                        "name": "FH Technikum Wien",
+                        "phone": "+43 1 333 40 77-0",
+                        "ref:vatin": "ATU65565658",
+                        "toilets:wheelchair": "yes",
+                        "website": "https://www.technikum-wien.at/",
+                        "wheelchair": "yes",
+                        "wikidata": "Q971426",
+                        "wikipedia": "de:Fachhochschule Technikum Wien"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          16.3774409,
+                          48.2391664
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4885158021",
+                        "osm_type": "node",
+                        "lat": 48.2365708,
+                        "lon": 16.3375363,
+                        "addr:city": "Wien",
+                        "addr:country": "AT",
+                        "addr:housenumber": "33",
+                        "addr:postcode": "1180",
+                        "addr:street": "Gregor-Mendel-Straße",
+                        "amenity": "university",
+                        "check_date": "2024-10-05",
+                        "name": "BOKU Gregor-Mendel Haus",
+                        "toilets:wheelchair": "yes",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Eingang über den Innenhof"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          16.3375363,
+                          48.2365708
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4885161621",
+                        "osm_type": "node",
+                        "lat": 48.2365471,
+                        "lon": 16.3370638,
+                        "addr:city": "Wien",
+                        "addr:country": "AT",
+                        "addr:postcode": "1180",
+                        "addr:street": "Gregor-Mendel-Straße",
+                        "amenity": "university",
+                        "check_date": "2025-03-31",
+                        "name": "BOKU Justus v. Liebig-Haus",
+                        "toilets:wheelchair": "yes",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Eingang über Innenhof"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          16.3370638,
+                          48.2365471
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "bbox": {
+                "south": 48.190694875,
+                "west": 16.445302375,
+                "north": 48.2733331875,
+                "east": 16.68372825
+              },
+              "poiCount": 1,
+              "leafCount": 1,
+              "averagePosition": [
+                16.5094186,
+                48.223287
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5302948671",
+                    "osm_type": "node",
+                    "lat": 48.223287,
+                    "lon": 16.5094186,
+                    "amenity": "university",
+                    "contact:facebook": "https://www.facebook.com/PrivatuniSchlossSeeburg",
+                    "contact:instagram": "https://www.instagram.com/uni_seeburg/",
+                    "contact:youtube": "https://www.youtube.com/channel/UCfRY9rUeqstMLPiyVQzUX1w",
+                    "email": "infowien@uni-seeburg.at",
+                    "name": "Privatuniversität Schloss Seeburg",
+                    "phone": "+43 1 361 5900 0",
+                    "website": "https://www.uni-seeburg.at/campus-wien/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      16.5094186,
+                      48.223287
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 48.2733331875,
+                "west": 16.2068765,
+                "north": 48.355971499999995,
+                "east": 16.445302375
+              },
+              "poiCount": 1,
+              "leafCount": 1,
+              "averagePosition": [
+                16.3359783,
+                48.274765
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2687645635",
+                    "osm_type": "node",
+                    "lat": 48.274765,
+                    "lon": 16.3359783,
+                    "amenity": "university",
+                    "name": "Modul University Vienna",
+                    "wikidata": "Q872071",
+                    "wikipedia": "de:Modul University Vienna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      16.3359783,
+                      48.274765
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

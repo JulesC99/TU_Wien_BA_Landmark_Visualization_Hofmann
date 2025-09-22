@@ -1,0 +1,5122 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 11.438358999999998,
+    "north": 47.694865,
+    "east": 13.345766
+  },
+  "poiCount": 224,
+  "leafCount": 0,
+  "averagePosition": [
+    12.377536667410714,
+    47.39200024598215
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 11.438358999999998,
+        "north": 47.36431175,
+        "east": 12.392062499999998
+      },
+      "poiCount": 45,
+      "leafCount": 45,
+      "averagePosition": [
+        11.815276548888889,
+        47.240617237777776
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1293039112",
+            "osm_type": "node",
+            "lat": 47.2815875,
+            "lon": 11.5081319,
+            "addr:city": "Hall in Tirol",
+            "addr:postcode": "6060",
+            "addr:street": "Oberer Stadtplatz",
+            "amenity": "bar",
+            "name": "Dianabar",
+            "opening_hours": "Tu-Sa 10:00-23:00",
+            "operator": "Goldener Löwe GmbH",
+            "source": "website",
+            "website": "https://www.dianabar.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5081319,
+              47.2815875
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1636684686",
+            "osm_type": "node",
+            "lat": 47.2837744,
+            "lon": 11.5215644,
+            "addr:city": "Hall in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "6060",
+            "addr:street": "Faistenbergerstraße",
+            "amenity": "bar",
+            "at_bev:addr_date": "2017-10-01",
+            "name": "Cafe Sandra"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5215644,
+              47.2837744
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2153460261",
+            "osm_type": "node",
+            "lat": 47.2835058,
+            "lon": 11.5092626,
+            "amenity": "bar",
+            "check_date": "2024-02-03",
+            "level": "-1",
+            "name": "Saliera",
+            "wheelchair": "no",
+            "wifi": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5092626,
+              47.2835058
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4876668304",
+            "osm_type": "node",
+            "lat": 47.0873952,
+            "lon": 11.4605252,
+            "amenity": "bar",
+            "name": "Snow MO",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4605252,
+              47.0873952
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9162074178",
+            "osm_type": "node",
+            "lat": 47.2821181,
+            "lon": 11.5083028,
+            "addr:city": "Hall in Tirol",
+            "addr:housenumber": "1",
+            "addr:postcode": "6060",
+            "addr:street": "Schlossergasse",
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "Bar Centrale",
+            "outdoor_seating": "yes",
+            "phone": "05223/56055",
+            "website": "https://www.bar-centrale.at/",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5083028,
+              47.2821181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1370410632",
+            "osm_type": "node",
+            "lat": 47.1080727,
+            "lon": 11.6746298,
+            "amenity": "bar",
+            "check_date:opening_hours": "2022-12-03",
+            "indoor_seating": "yes",
+            "name": "Almhit",
+            "opening_hours:signed": "no",
+            "outdoor_seating": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6746298,
+              47.1080727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1449396711",
+            "osm_type": "node",
+            "lat": 47.3430026,
+            "lon": 11.7076321,
+            "amenity": "bar",
+            "name": "Cafe Ulllis",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7076321,
+              47.3430026
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1449398105",
+            "osm_type": "node",
+            "lat": 47.343783,
+            "lon": 11.7074199,
+            "amenity": "bar",
+            "check_date": "2022-04-17",
+            "contact:facebook": "https://facebook.com/st.patrick.bar.schwaz/",
+            "contact:phone": "+43 5242 21131",
+            "level": "0",
+            "name": "Café Bar Museum",
+            "opening_hours": "Tu-Th 16:00-23:00; Fr-Sa 16:00-01:00; Su,Mo,PH off",
+            "outdoor_seating": "yes",
+            "website": "https://www.st-patricks.at/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7074199,
+              47.343783
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1655065386",
+            "osm_type": "node",
+            "lat": 47.3451186,
+            "lon": 11.708293,
+            "amenity": "bar",
+            "name": "Silver City",
+            "source": "wheelmap.org",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.708293,
+              47.3451186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1809955738",
+            "osm_type": "node",
+            "lat": 47.2911479,
+            "lon": 11.8866734,
+            "addr:country": "AT",
+            "addr:postcode": "6275",
+            "addr:street": "Dorf 24",
+            "amenity": "bar",
+            "contact:phone": "+43 5283 2264",
+            "name": "Nester Bar",
+            "source": "local_knowledge",
+            "website": "https://www.nester.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8866734,
+              47.2911479
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1910350547",
+            "osm_type": "node",
+            "lat": 47.3379408,
+            "lon": 11.8571658,
+            "alt_name": "Badwandl",
+            "amenity": "bar",
+            "name": "Bawa",
+            "note": "Ristorante, Sportsbar, Bowling, Escape Rooms, Music Bar, Disco",
+            "phone": "00436765555088",
+            "website": "https://www.bawa.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8571658,
+              47.3379408
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4753305177",
+            "osm_type": "node",
+            "lat": 47.1649119,
+            "lon": 11.8620238,
+            "addr:city": "Mayrhofen",
+            "addr:country": "AT",
+            "addr:housenumber": "454",
+            "addr:postcode": "6290",
+            "addr:street": "Hauptstraße",
+            "amenity": "bar",
+            "check_date": "2025-06-16",
+            "email": "info@harakiri.cc",
+            "level": "1",
+            "name": "Harakiri bar",
+            "opening_hours": "Mo-Su 15:00+",
+            "outdoor_seating": "no",
+            "smoking": "yes",
+            "website": "https://www.harakiri.cc/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8620238,
+              47.1649119
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4972208949",
+            "osm_type": "node",
+            "lat": 47.2912817,
+            "lon": 11.5931997,
+            "addr:city": "Wattens",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6112",
+            "addr:street": "Innsbrucker Straße",
+            "amenity": "bar",
+            "name": "Tropical Vista",
+            "old_name": "Adlerpub",
+            "opening_hours": "Mo off; Tu-Su 14:00-26:00",
+            "operator": "Gensil Esteban Fermin Guillen",
+            "source": "website",
+            "website": "https://www.tropical-vista.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5931997,
+              47.2912817
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5900350685",
+            "osm_type": "node",
+            "lat": 47.344813,
+            "lon": 11.7087146,
+            "addr:city": "Schwaz",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "6130",
+            "addr:street": "Franz-Josef-Straße",
+            "amenity": "bar",
+            "cuisine": "pasta",
+            "name": "squaze",
+            "opening_hours": "Mo-Sa 10:00-23:00; PH off",
+            "phone": "+43 5242 20860",
+            "source": "website",
+            "website": "https://www.squaze.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7087146,
+              47.344813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6012561142",
+            "osm_type": "node",
+            "lat": 47.3427593,
+            "lon": 11.7073906,
+            "addr:city": "Schwaz",
+            "addr:country": "AT",
+            "addr:housenumber": "32",
+            "addr:postcode": "6130",
+            "addr:street": "Innsbrucker Straße",
+            "amenity": "bar",
+            "brand": "Admiral Sportwetten",
+            "brand:wikidata": "Q359138",
+            "name": "ADMIRAL Sportwetten",
+            "shop": "bookmaker",
+            "website": "https://admiral.at/de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7073906,
+              47.3427593
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7313185694",
+            "osm_type": "node",
+            "lat": 47.1749523,
+            "lon": 11.8270687,
+            "amenity": "bar",
+            "email": "info@pilzbar.at",
+            "name": "Skihütte Pilzbar",
+            "phone": "+43 5285 63467",
+            "website": "https://www.pilzbar.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8270687,
+              47.1749523
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7315468353",
+            "osm_type": "node",
+            "lat": 47.1752921,
+            "lon": 11.8283139,
+            "amenity": "bar",
+            "name": "Elchbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8283139,
+              47.1752921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7733731407",
+            "osm_type": "node",
+            "lat": 47.1687236,
+            "lon": 11.8008474,
+            "amenity": "bar",
+            "name": "Melcherbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8008474,
+              47.1687236
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8124130306",
+            "osm_type": "node",
+            "lat": 47.3568218,
+            "lon": 11.7024533,
+            "addr:city": "Vomp",
+            "addr:housenumber": "50",
+            "addr:postcode": "6134",
+            "addr:street": "Au",
+            "amenity": "bar",
+            "name": "Vinothek Cul!naria",
+            "website": "https://www.neururer.cc/vinothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7024533,
+              47.3568218
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8536274539",
+            "osm_type": "node",
+            "lat": 47.1558658,
+            "lon": 11.7260481,
+            "addr:city": "Tux",
+            "addr:country": "AT",
+            "addr:housenumber": "456b",
+            "addr:place": "Lanersbach",
+            "addr:postcode": "6293",
+            "amenity": "bar",
+            "building": "yes",
+            "contact:email": "info@annodazumal.at",
+            "contact:phone": "+435287877830",
+            "contact:website": "https://www.annodazumal.at/dorfbar-ratschkathl/",
+            "name": "Dorfbar Ratschkathl",
+            "opening_hours": "Mo,We-Sa 15:00-23:00; Tu 15:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7260481,
+              47.1558658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8911921331",
+            "osm_type": "node",
+            "lat": 47.1614121,
+            "lon": 11.8607189,
+            "amenity": "bar",
+            "name": "Brück'n Stadl",
+            "website": "http://brueckenstadl.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8607189,
+              47.1614121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8922790872",
+            "osm_type": "node",
+            "lat": 47.2034509,
+            "lon": 11.8667926,
+            "amenity": "bar",
+            "name": "Bar Ramba Zamba"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8667926,
+              47.2034509
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8928758615",
+            "osm_type": "node",
+            "lat": 47.1687194,
+            "lon": 11.8659494,
+            "amenity": "bar",
+            "name": "Mike's Sportsbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8659494,
+              47.1687194
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8953318361",
+            "osm_type": "node",
+            "lat": 47.3464172,
+            "lon": 11.7077941,
+            "amenity": "bar",
+            "name": "EssCoBar",
+            "opening_hours": "Tu-Th 11:00-23:00; Fr 11:00-24:00; Sa 16:00-01:00; Su,Mo off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7077941,
+              47.3464172
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9139036646",
+            "osm_type": "node",
+            "lat": 47.2840899,
+            "lon": 11.5466067,
+            "amenity": "bar",
+            "fixme": "sperrt bald auf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5466067,
+              47.2840899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10692864905",
+            "osm_type": "node",
+            "lat": 47.1356033,
+            "lon": 11.8736494,
+            "amenity": "bar",
+            "name": "SchneeBar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8736494,
+              47.1356033
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11190419275",
+            "osm_type": "node",
+            "lat": 47.2893318,
+            "lon": 11.8729337,
+            "amenity": "bar",
+            "name": "sChic Lifestyle & Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8729337,
+              47.2893318
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11475785626",
+            "osm_type": "node",
+            "lat": 47.2166961,
+            "lon": 11.9031841,
+            "addr:city": "Hainzenberg",
+            "addr:housenumber": "412",
+            "addr:postcode": "6278",
+            "addr:street": "Dörfl",
+            "amenity": "bar",
+            "name": "dasDörfl412",
+            "phone": "+43 5282 3429",
+            "website": "https://www.ferienhotel-joerglerhof.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9031841,
+              47.2166961
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11642112298",
+            "osm_type": "node",
+            "lat": 47.2892086,
+            "lon": 11.5948228,
+            "addr:city": "Wattens",
+            "addr:country": "AT",
+            "addr:housenumber": "21",
+            "addr:postcode": "6112",
+            "addr:street": "Lange Gasse",
+            "amenity": "bar",
+            "name": "Studio 4",
+            "opening_hours": "Th-Sa 20:00-05:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5948228,
+              47.2892086
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11755078427",
+            "osm_type": "node",
+            "lat": 47.3393344,
+            "lon": 11.8594193,
+            "amenity": "bar",
+            "name": "SichtBAR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8594193,
+              47.3393344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11860919107",
+            "osm_type": "node",
+            "lat": 47.3530739,
+            "lon": 11.7085043,
+            "addr:city": "Schwaz",
+            "addr:housenumber": "48",
+            "addr:postcode": "6130",
+            "addr:street": "Münchner Straße",
+            "amenity": "bar",
+            "email": "claudia.berktold@gmail.com",
+            "name": "Cafébar ARTgerecht",
+            "phone": "+43 5242 20801",
+            "website": "https://www.cafebar-artgerecht.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7085043,
+              47.3530739
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11993260140",
+            "osm_type": "node",
+            "lat": 47.2168639,
+            "lon": 11.6851147,
+            "amenity": "bar",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6851147,
+              47.2168639
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12022231781",
+            "osm_type": "node",
+            "lat": 47.1655044,
+            "lon": 11.8627915,
+            "amenity": "bar",
+            "name": "Bar Rique",
+            "website": "https://www.bar-rique.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8627915,
+              47.1655044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12195624123",
+            "osm_type": "node",
+            "lat": 47.3449825,
+            "lon": 11.7079149,
+            "addr:city": "Schwaz",
+            "addr:housenumber": "2",
+            "addr:postcode": "6130",
+            "addr:street": "Andreas-Hofer-Straße",
+            "amenity": "bar",
+            "email": "ciao@erbario.at",
+            "mobile": "+43 699 17114946",
+            "name": "Erbario Schwaz",
+            "opening_hours": "Mo-Do 09:00-00:00; Fr-Sa 09:00-02:00",
+            "website": "https://www.erbario.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7079149,
+              47.3449825
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12444009101",
+            "osm_type": "node",
+            "lat": 47.190463,
+            "lon": 11.8583029,
+            "amenity": "bar",
+            "name": "Hiatamadl Apres Ski Stadl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8583029,
+              47.190463
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12709701989",
+            "osm_type": "node",
+            "lat": 47.1556998,
+            "lon": 11.7276021,
+            "addr:city": "Tux",
+            "addr:housenumber": "415",
+            "addr:postcode": "6293",
+            "addr:street": "Lanersbach",
+            "amenity": "bar",
+            "contact:email": "info@tux-city.at",
+            "contact:facebook": "tux.city",
+            "contact:phone": "+4352878754161",
+            "contact:website": "https://www.tux-city.at",
+            "name": "City Café Bar",
+            "opening_hours": "Mo-Su 13:00-23:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7276021,
+              47.1556998
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1644072467",
+            "osm_type": "node",
+            "lat": 47.2721185,
+            "lon": 12.3402014,
+            "addr:country": "AT",
+            "addr:street": "Senningerfeld",
+            "amenity": "bar",
+            "name": "Die Schmiede"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3402014,
+              47.2721185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4371609072",
+            "osm_type": "node",
+            "lat": 47.0384476,
+            "lon": 12.1032565,
+            "addr:city": "Prettau - Predoi",
+            "addr:postcode": "39030",
+            "addr:street": "Kirchdorf",
+            "amenity": "bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1032565,
+              47.0384476
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4371609408",
+            "osm_type": "node",
+            "lat": 47.0385789,
+            "lon": 12.1032631,
+            "addr:street": "Kirchdorf - Via della Chiesa",
+            "amenity": "bar",
+            "name": "Viola's"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1032631,
+              47.0385789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8575333402",
+            "osm_type": "node",
+            "lat": 47.226374,
+            "lon": 12.0416579,
+            "addr:city": "Gerlos",
+            "addr:housenumber": "212",
+            "addr:place": "Mitterhof",
+            "addr:postcode": "6281",
+            "amenity": "bar",
+            "name": "Garage Lounge-Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0416579,
+              47.226374
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9119531196",
+            "osm_type": "node",
+            "lat": 47.2287243,
+            "lon": 12.0480537,
+            "addr:city": "Gerlos",
+            "addr:housenumber": "297",
+            "addr:postcode": "6281",
+            "addr:street": "Innertal",
+            "amenity": "bar",
+            "name": "Luigi's Turbo Bar",
+            "phone": "+43 5284 5378",
+            "website": "https://www.turbobar.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0480537,
+              47.2287243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11475762907",
+            "osm_type": "node",
+            "lat": 47.2260065,
+            "lon": 12.0397301,
+            "addr:city": "Gerlos",
+            "addr:housenumber": "205a",
+            "addr:postcode": "6281",
+            "addr:street": "Mitterhof",
+            "amenity": "bar",
+            "name": "Cin-Cin Gerlos",
+            "phone": "+43 5284 5204",
+            "website": "https://www.apreski.tv/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0397301,
+              47.2260065
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11519016844",
+            "osm_type": "node",
+            "lat": 47.2719632,
+            "lon": 12.3429294,
+            "amenity": "bar",
+            "name": "Platzhirsch",
+            "opening_hours": "14:00+"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3429294,
+              47.2719632
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12463340626",
+            "osm_type": "node",
+            "lat": 47.2743497,
+            "lon": 12.3160374,
+            "amenity": "bar",
+            "indoor_seating": "no",
+            "name": "Kurventreff",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3160374,
+              47.2743497
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12629391329",
+            "osm_type": "node",
+            "lat": 47.2274937,
+            "lon": 12.0445528,
+            "addr:city": "Gerlos",
+            "addr:housenumber": "247",
+            "addr:place": "Oberhof",
+            "addr:postcode": "6281",
+            "amenity": "bar",
+            "email": "anfangb@icloud.com",
+            "mobile": "+43 664 2143222",
+            "name": "Halli Galli Table Dance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0445528,
+              47.2274937
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 12.392062499999998,
+        "north": 47.36431175,
+        "east": 13.345766
+      },
+      "poiCount": 44,
+      "leafCount": 44,
+      "averagePosition": [
+        12.97815695909091,
+        47.238968525
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1683879094",
+            "osm_type": "node",
+            "lat": 47.2747349,
+            "lon": 12.485202,
+            "amenity": "bar",
+            "name": "outside"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.485202,
+              47.2747349
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5481855868",
+            "osm_type": "node",
+            "lat": 47.2851393,
+            "lon": 12.4914316,
+            "addr:city": "Mittersill",
+            "addr:country": "AT",
+            "addr:housenumber": "26",
+            "addr:postcode": "5730",
+            "addr:street": "Zeller Straße",
+            "amenity": "bar",
+            "at_bev:addr_date": "2017-10-01",
+            "email": "alexkr@sbg.at",
+            "name": "Outside - Alexander Krch",
+            "opening_hours": "Mo-Th 10:00-01:00, Fr,Sa 10:00-02:00",
+            "phone": "+43(0)699 11 96 2331",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4914316,
+              47.2851393
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "662256405",
+            "osm_type": "node",
+            "lat": 47.3237445,
+            "lon": 12.7969829,
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "Ginhouse",
+            "outdoor_seating": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7969829,
+              47.3237445
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "673514680",
+            "osm_type": "node",
+            "lat": 47.0476292,
+            "lon": 12.8513112,
+            "amenity": "bar",
+            "name": "Rossbach Alm",
+            "phone": "+43 664 8333179"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8513112,
+              47.0476292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1650810394",
+            "osm_type": "node",
+            "lat": 47.2281482,
+            "lon": 12.9939924,
+            "amenity": "bar",
+            "name": "Rock Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9939924,
+              47.2281482
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1708047170",
+            "osm_type": "node",
+            "lat": 47.2755336,
+            "lon": 12.7575823,
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "Baum Bar",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7575823,
+              47.2755336
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1740263928",
+            "osm_type": "node",
+            "lat": 47.2237969,
+            "lon": 12.9930872,
+            "amenity": "bar",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "name": "Maislau Alm",
+            "operator": "Familie Winkler",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9930872,
+              47.2237969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1740263955",
+            "osm_type": "node",
+            "lat": 47.224041,
+            "lon": 12.9946726,
+            "amenity": "bar",
+            "cuisine": "regional",
+            "name": "Panorama Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9946726,
+              47.224041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1740457029",
+            "osm_type": "node",
+            "lat": 47.2327453,
+            "lon": 12.9930977,
+            "amenity": "bar",
+            "name": "Hotelbar Rauriser Hof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9930977,
+              47.2327453
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1769430655",
+            "osm_type": "node",
+            "lat": 47.3259417,
+            "lon": 12.8000163,
+            "amenity": "bar",
+            "designation": "Esplanade 16",
+            "indoor_seating": "yes",
+            "name": "Beach Club",
+            "opening_hours": "Mo-Su,PH 09:00-19:00",
+            "outdoor_seating": "sidewalk",
+            "source": "http://www.facebook.com/pages/Beachclub-Zell-am-See/428398273838707"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8000163,
+              47.3259417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2069959774",
+            "osm_type": "node",
+            "lat": 47.3237892,
+            "lon": 12.798357,
+            "amenity": "bar",
+            "name": "Insider"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.798357,
+              47.3237892
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2069965886",
+            "osm_type": "node",
+            "lat": 47.3241119,
+            "lon": 12.7987553,
+            "amenity": "bar",
+            "name": "Greens"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7987553,
+              47.3241119
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2632186032",
+            "osm_type": "node",
+            "lat": 47.2721131,
+            "lon": 12.7590359,
+            "addr:city": "Kaprun",
+            "addr:country": "AT",
+            "addr:housenumber": "15b",
+            "addr:postcode": "5710",
+            "addr:street": "Wilhelm-Fazokas-Straße",
+            "amenity": "bar",
+            "at_bev:addr_date": "2024-10-01",
+            "contact:facebook": "palettikaprun",
+            "name": "Paletti"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7590359,
+              47.2721131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4688479200",
+            "osm_type": "node",
+            "lat": 47.3230131,
+            "lon": 12.797011,
+            "addr:city": "Zell am See",
+            "addr:country": "AT",
+            "addr:postcode": "5700",
+            "addr:street": "Schloßplatz",
+            "amenity": "bar",
+            "delivery": "no",
+            "name": "Castle baqr - Zum Cäsar",
+            "opening_hours": "Mo-Sa 14:00-22:00",
+            "outdoor_seating": "yes",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.797011,
+              47.3230131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4715398993",
+            "osm_type": "node",
+            "lat": 47.3237854,
+            "lon": 12.7977855,
+            "amenity": "bar",
+            "name": "Lebzelt-Keller",
+            "name:de": "Lebzelt-Keller"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7977855,
+              47.3237854
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4716825291",
+            "osm_type": "node",
+            "lat": 47.3235561,
+            "lon": 12.797066,
+            "amenity": "bar",
+            "indoor_seating": "no",
+            "name": "Steinerwirt",
+            "name:de": "Steinerwirt",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.797066,
+              47.3235561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4962167023",
+            "osm_type": "node",
+            "lat": 47.3238068,
+            "lon": 12.7954275,
+            "amenity": "bar",
+            "name": "East Orange",
+            "name:de": "East Orange",
+            "name:en": "East Orange",
+            "opening_hours": "Mo-Su 16:00-22:00+"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7954275,
+              47.3238068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5318585289",
+            "osm_type": "node",
+            "lat": 47.3571709,
+            "lon": 12.9195382,
+            "addr:country": "AT",
+            "addr:street": "Aberg",
+            "amenity": "bar",
+            "name": "Dirndlalm",
+            "operator": "Familie Lohninger"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9195382,
+              47.3571709
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5346924011",
+            "osm_type": "node",
+            "lat": 47.3025663,
+            "lon": 12.7920084,
+            "amenity": "bar",
+            "name": "Happy Alm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7920084,
+              47.3025663
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7904513621",
+            "osm_type": "node",
+            "lat": 47.3241774,
+            "lon": 12.7971188,
+            "amenity": "bar",
+            "name": "Rooftopbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7971188,
+              47.3241774
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8913898786",
+            "osm_type": "node",
+            "lat": 47.2202261,
+            "lon": 12.6986345,
+            "amenity": "bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6986345,
+              47.2202261
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12554657688",
+            "osm_type": "node",
+            "lat": 47.2242512,
+            "lon": 12.995242,
+            "amenity": "bar",
+            "name": "Ignaz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.995242,
+              47.2242512
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1360519530",
+            "osm_type": "node",
+            "lat": 47.3465848,
+            "lon": 13.2018948,
+            "addr:city": "Sankt Johann im Pongau",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "5600",
+            "addr:street": "Hans-Kappacher-Straße",
+            "amenity": "bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2018948,
+              47.3465848
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1568263255",
+            "osm_type": "node",
+            "lat": 47.3268941,
+            "lon": 13.1530751,
+            "amenity": "bar",
+            "at_bev:addr_date": "2018-10-01",
+            "contact:email": "laterndlwirt@sbg.at",
+            "contact:fax": "+43 6415 7404 4",
+            "contact:phone": "+43 6415 7404",
+            "contact:website": "https://www.laterndlwirt.at/",
+            "name": "Excalibur",
+            "operator": "Familie Wazlawik",
+            "source": "geoimage.at;Schwarzach--St. Veit-Goldegg Wirtschaftsführer"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1530751,
+              47.3268941
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2078697750",
+            "osm_type": "node",
+            "lat": 47.1130997,
+            "lon": 13.1321649,
+            "amenity": "bar",
+            "name": "Haeggbloms",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1321649,
+              47.1130997
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2078786721",
+            "osm_type": "node",
+            "lat": 47.1138565,
+            "lon": 13.1328728,
+            "amenity": "bar",
+            "name": "Silver Bullet Bar",
+            "website": "https://www.salzburgerhof.com/restaurant-bars-bad-gastein/silver-bullet-bar.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1328728,
+              47.1138565
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2080070519",
+            "osm_type": "node",
+            "lat": 47.1140687,
+            "lon": 13.1331039,
+            "amenity": "bar",
+            "name": "Flying Fox"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1331039,
+              47.1140687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2146446701",
+            "osm_type": "node",
+            "lat": 47.1328505,
+            "lon": 13.0816267,
+            "amenity": "bar",
+            "check_date": "2024-12-31",
+            "name": "Skibar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0816267,
+              47.1328505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3687101834",
+            "osm_type": "node",
+            "lat": 47.2378681,
+            "lon": 13.2011327,
+            "addr:city": "Großarl",
+            "addr:housenumber": "13",
+            "addr:postcode": "5611",
+            "addr:street": "Marktplatz",
+            "amenity": "bar",
+            "name": "Kost Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2011327,
+              47.2378681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3693783125",
+            "osm_type": "node",
+            "lat": 47.242312,
+            "lon": 13.1957194,
+            "amenity": "bar",
+            "name": "B3"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1957194,
+              47.242312
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4325397468",
+            "osm_type": "node",
+            "lat": 47.3185068,
+            "lon": 13.1383278,
+            "addr:city": "Schwarzach im Pongau",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "5620",
+            "addr:street": "Goldeggerstraße",
+            "amenity": "bar",
+            "name": "Gerardo",
+            "opening_hours": "Mo-Sa 14:00-02:00",
+            "payment:coins": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:notes": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1383278,
+              47.3185068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5416341245",
+            "osm_type": "node",
+            "lat": 47.1699711,
+            "lon": 13.098728,
+            "amenity": "bar",
+            "food": "yes",
+            "name": "Ali In Bar",
+            "opening_hours": "Mo-Su 00:00-02:00,16:00-24:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.098728,
+              47.1699711
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5645247821",
+            "osm_type": "node",
+            "lat": 47.3200546,
+            "lon": 13.1499881,
+            "addr:city": "Schwarzach im Pongau",
+            "addr:country": "AT",
+            "addr:housenumber": "41",
+            "addr:postcode": "5620",
+            "addr:street": "Salzburgerstraße",
+            "amenity": "bar",
+            "name": "D'Gruabn",
+            "opening_hours": "Tu-Th 17:00-02:00, Fr,Sa 17:00-04:00; Su,Mo off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1499881,
+              47.3200546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5646355406",
+            "osm_type": "node",
+            "lat": 47.1203321,
+            "lon": 13.1408707,
+            "addr:city": "Bad Gastein",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "5640",
+            "addr:street": "Kaiserhofstraße",
+            "alt_name": "Hapimag Resort Bad Gastein",
+            "amenity": "bar",
+            "capacity": "25",
+            "cuisine": "regional",
+            "delivery": "no",
+            "ele": "1015",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "HPGuest",
+            "name": "Kaiserhof-Bar",
+            "opening_hours": "Mo-Su 12:00-23:00",
+            "operator": "Hapimag",
+            "outdoor_seating": "yes",
+            "phone": "‭+43 6434 30020‬",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://www.hapimag.com/de/wo/oesterreich/bad-gastein-salzburger-land/angebote/gastronomie.html",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1408707,
+              47.1203321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5852120456",
+            "osm_type": "node",
+            "lat": 47.2418884,
+            "lon": 13.1952846,
+            "amenity": "bar",
+            "name": "RambazamBar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1952846,
+              47.2418884
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6090530661",
+            "osm_type": "node",
+            "lat": 47.319939,
+            "lon": 13.152308,
+            "addr:city": "Schwarzach im Pongau",
+            "addr:country": "AT",
+            "addr:housenumber": "37",
+            "addr:postcode": "5620",
+            "addr:street": "Salzburgerstraße",
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "The Bridge",
+            "opening_hours": "Tu-Sa 17:00-04:00",
+            "outdoor_seating": "yes",
+            "smoking": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.152308,
+              47.319939
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6184446942",
+            "osm_type": "node",
+            "lat": 47.1133132,
+            "lon": 13.1320296,
+            "amenity": "bar",
+            "name": "Lederhosenbar",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1320296,
+              47.1133132
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6191886665",
+            "osm_type": "node",
+            "lat": 47.1129481,
+            "lon": 13.1330824,
+            "amenity": "bar",
+            "name": "The Corner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1330824,
+              47.1129481
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6192063574",
+            "osm_type": "node",
+            "lat": 47.1160256,
+            "lon": 13.1342713,
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "MEX",
+            "opening_hours": "Tu-Sa 18:00-23:00",
+            "outdoor_seating": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1342713,
+              47.1160256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6192063575",
+            "osm_type": "node",
+            "lat": 47.1161411,
+            "lon": 13.1343631,
+            "amenity": "bar",
+            "indoor_seating": "yes",
+            "name": "Betty's Bistro",
+            "opening_hours": "Tu-Sa 18:00-22:30",
+            "outdoor_seating": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "website": "https://bettys-bar.business.site/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1343631,
+              47.1161411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6788797963",
+            "osm_type": "node",
+            "lat": 47.16803,
+            "lon": 13.0979374,
+            "addr:city": "Bad Hofgastein",
+            "addr:country": "AT",
+            "addr:housenumber": "1d",
+            "addr:postcode": "5630",
+            "addr:street": "Schlossalmplatz",
+            "amenity": "bar",
+            "name": "Weitmoserin",
+            "outdoor_seating": "yes",
+            "phone": "+43 664 3956808"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0979374,
+              47.16803
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7578604653",
+            "osm_type": "node",
+            "lat": 47.3462871,
+            "lon": 13.196779,
+            "amenity": "bar",
+            "name": "Aksu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.196779,
+              47.3462871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9534809417",
+            "osm_type": "node",
+            "lat": 47.1682909,
+            "lon": 13.0934411,
+            "amenity": "bar",
+            "name": "Das Goldberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0934411,
+              47.1682909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10726120074",
+            "osm_type": "node",
+            "lat": 47.1713306,
+            "lon": 13.1065485,
+            "amenity": "bar",
+            "check_date": "2025-06-09",
+            "indoor_seating": "yes",
+            "level": "0",
+            "name": "Treffpunkt 5630",
+            "opening_hours": "16:00+",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1065485,
+              47.1713306
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 11.438358999999998,
+        "north": 47.694865,
+        "east": 12.392062499999998
+      },
+      "poiCount": 85,
+      "leafCount": 0,
+      "averagePosition": [
+        12.13040489411765,
+        47.48766683882353
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 11.438358999999998,
+            "north": 47.529588375,
+            "east": 11.915210749999998
+          },
+          "poiCount": 12,
+          "leafCount": 12,
+          "averagePosition": [
+            11.756660091666667,
+            47.435813016666664
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "937966553",
+                "osm_type": "node",
+                "lat": 47.3919441,
+                "lon": 11.7729627,
+                "amenity": "bar",
+                "name": "Pssst",
+                "opening_hours": "Tu-Su 18:00-02:00",
+                "phone": "+43 5244 64321"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7729627,
+                  47.3919441
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "973849616",
+                "osm_type": "node",
+                "lat": 47.4374795,
+                "lon": 11.6972952,
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "outdoor_seating": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6972952,
+                  47.4374795
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1011467979",
+                "osm_type": "node",
+                "lat": 47.4300023,
+                "lon": 11.8778365,
+                "amenity": "bar",
+                "name": "Bar U-Turn",
+                "source": "geoimage.at MaxRes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8778365,
+                  47.4300023
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1012674898",
+                "osm_type": "node",
+                "lat": 47.4303853,
+                "lon": 11.8778153,
+                "amenity": "bar",
+                "name": "Bar Las Vegas"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8778153,
+                  47.4303853
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1438577455",
+                "osm_type": "node",
+                "lat": 47.4394104,
+                "lon": 11.6916718,
+                "addr:city": "Pertisau",
+                "addr:country": "AT",
+                "addr:housenumber": "5",
+                "addr:postcode": "6213",
+                "addr:street": "Golfplatzstraße",
+                "amenity": "bar",
+                "name": "Gatsby Lounge",
+                "operator": "Roland Strauss"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6916718,
+                  47.4394104
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1615556301",
+                "osm_type": "node",
+                "lat": 47.4421639,
+                "lon": 11.7037327,
+                "amenity": "bar",
+                "name": "Furisto",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7037327,
+                  47.4421639
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1616177747",
+                "osm_type": "node",
+                "lat": 47.4421516,
+                "lon": 11.6953507,
+                "amenity": "bar",
+                "name": "Laterndl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6953507,
+                  47.4421516
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3170246327",
+                "osm_type": "node",
+                "lat": 47.3924661,
+                "lon": 11.7788813,
+                "addr:city": "Jenbach",
+                "addr:country": "AT",
+                "addr:housenumber": "27",
+                "addr:postcode": "6200",
+                "addr:street": "Schalserstraße",
+                "amenity": "bar",
+                "contact:phone": "+43 660 3866653",
+                "contact:website": "https://oimrausch-bar.business.site/",
+                "name": "OimRausch",
+                "opening_hours": "Mo-We 15:00-24:00; Th-Sa 15:00-01:00; Su off"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7788813,
+                  47.3924661
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5312663632",
+                "osm_type": "node",
+                "lat": 47.513401,
+                "lon": 11.697489,
+                "amenity": "bar",
+                "name": "Schilehrer Stüberl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.697489,
+                  47.513401
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5922997949",
+                "osm_type": "node",
+                "lat": 47.430561,
+                "lon": 11.8792551,
+                "amenity": "bar",
+                "name": "Il Gusto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8792551,
+                  47.430561
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10315437063",
+                "osm_type": "node",
+                "lat": 47.4406951,
+                "lon": 11.7036079,
+                "amenity": "bar",
+                "operator": "Entners Strandbar",
+                "website": "https://www.entners.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7036079,
+                  47.4406951
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11134946938",
+                "osm_type": "node",
+                "lat": 47.4390959,
+                "lon": 11.7040229,
+                "amenity": "bar",
+                "name": "See Bar",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7040229,
+                  47.4390959
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 11.915210749999998,
+            "north": 47.529588375,
+            "east": 12.392062499999998
+          },
+          "poiCount": 57,
+          "leafCount": 0,
+          "averagePosition": [
+            12.230910659649124,
+            47.46255007368421
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 47.36431175,
+                "west": 11.915210749999998,
+                "north": 47.4469500625,
+                "east": 12.153636624999997
+              },
+              "poiCount": 2,
+              "leafCount": 2,
+              "averagePosition": [
+                11.9590493,
+                47.375587550000006
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1921669198",
+                    "osm_type": "node",
+                    "lat": 47.3740273,
+                    "lon": 11.9601008,
+                    "amenity": "bar",
+                    "name": "Alpacha",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      11.9601008,
+                      47.3740273
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8251498889",
+                    "osm_type": "node",
+                    "lat": 47.3771478,
+                    "lon": 11.9579978,
+                    "amenity": "bar",
+                    "name": "Joe´s Salettl"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      11.9579978,
+                      47.3771478
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.36431175,
+                "west": 12.153636624999997,
+                "north": 47.4469500625,
+                "east": 12.392062499999998
+              },
+              "poiCount": 20,
+              "leafCount": 20,
+              "averagePosition": [
+                12.314979865000002,
+                47.439513665
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "276647635",
+                    "osm_type": "node",
+                    "lat": 47.4460883,
+                    "lon": 12.3905055,
+                    "addr:city": "Kitzbühel",
+                    "addr:country": "AT",
+                    "addr:housenumber": "22",
+                    "addr:postcode": "6370",
+                    "addr:street": "Hinterstadt",
+                    "amenity": "bar",
+                    "name": "Jimmy's",
+                    "opening_hours": "Mo-Su 10:00-03:00",
+                    "phone": "+43 664 1302528",
+                    "source": "website",
+                    "website": "https://jimmyskitz.at/",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3905055,
+                      47.4460883
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1786338849",
+                    "osm_type": "node",
+                    "lat": 47.4277109,
+                    "lon": 12.2147652,
+                    "amenity": "bar",
+                    "email": "schirmbar@free-rider.at",
+                    "name": "Freerider Schirmbar",
+                    "phone": "+43 664 5182506",
+                    "ref": "96",
+                    "website": "http://www.free-rider.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2147652,
+                      47.4277109
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2175893928",
+                    "osm_type": "node",
+                    "lat": 47.4466746,
+                    "lon": 12.3903186,
+                    "amenity": "bar",
+                    "name": "Highways Music Bar",
+                    "opening_hours": "We-Mo 21:00-02:00"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3903186,
+                      47.4466746
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3385875946",
+                    "osm_type": "node",
+                    "lat": 47.4429425,
+                    "lon": 12.3876727,
+                    "amenity": "bar",
+                    "name": "Streifalm"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3876727,
+                      47.4429425
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3385875948",
+                    "osm_type": "node",
+                    "lat": 47.4456808,
+                    "lon": 12.3893595,
+                    "amenity": "bar",
+                    "name": "Stamperl"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3893595,
+                      47.4456808
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3452608573",
+                    "osm_type": "node",
+                    "lat": 47.4453457,
+                    "lon": 12.3163859,
+                    "amenity": "bar",
+                    "name": "Boomerang",
+                    "opening_hours": "Su-Th 16:00-24:00; Fr,Sa 16:00-02:00"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3163859,
+                      47.4453457
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3563164793",
+                    "osm_type": "node",
+                    "lat": 47.4342792,
+                    "lon": 12.2163977,
+                    "amenity": "bar",
+                    "name": "Bar Moskito"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2163977,
+                      47.4342792
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4305619894",
+                    "osm_type": "node",
+                    "lat": 47.4458522,
+                    "lon": 12.3123121,
+                    "amenity": "bar",
+                    "name": "Heidi & Peter",
+                    "opening_hours:signed": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3123121,
+                      47.4458522
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4723272566",
+                    "osm_type": "node",
+                    "lat": 47.4134218,
+                    "lon": 12.3184912,
+                    "amenity": "bar",
+                    "name": "Pisten-Bistro Rohrerstadl",
+                    "website": "http://www.rohrerstadl.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3184912,
+                      47.4134218
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4777573622",
+                    "osm_type": "node",
+                    "lat": 47.4460333,
+                    "lon": 12.3891863,
+                    "amenity": "bar",
+                    "name": "The Londoner",
+                    "website": "http://londoner.at",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3891863,
+                      47.4460333
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5222987263",
+                    "osm_type": "node",
+                    "lat": 47.4389234,
+                    "lon": 12.3197288,
+                    "addr:city": "Kirchberg in Tirol",
+                    "addr:country": "AT",
+                    "addr:housenumber": "45",
+                    "addr:postcode": "6365",
+                    "addr:street": "Aschauer Straße",
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "Almrauschbar",
+                    "opening_hours": "Mo-Su 16:00-24:00",
+                    "opening_hours:signed": "no",
+                    "outdoor_seating": "yes",
+                    "phone": "+43535728420",
+                    "website": "https://www.almrauschbar.com/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3197288,
+                      47.4389234
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6323731059",
+                    "osm_type": "node",
+                    "lat": 47.4463991,
+                    "lon": 12.3136939,
+                    "amenity": "bar",
+                    "contact:facebook": "bar.dreieck",
+                    "indoor_seating": "yes",
+                    "name": "Bar Dreieck",
+                    "opening_hours": "Mo-Su 13:00-21:00",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3136939,
+                      47.4463991
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6467123788",
+                    "osm_type": "node",
+                    "lat": 47.4331749,
+                    "lon": 12.215699,
+                    "amenity": "bar",
+                    "name": "Franz"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.215699,
+                      47.4331749
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8486268079",
+                    "osm_type": "node",
+                    "lat": 47.4463805,
+                    "lon": 12.3905062,
+                    "amenity": "bar",
+                    "name": "Leo Hillinger Wineshop & Bar",
+                    "shop": "wine"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3905062,
+                      47.4463805
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8852133053",
+                    "osm_type": "node",
+                    "lat": 47.4435749,
+                    "lon": 12.3888567,
+                    "amenity": "bar",
+                    "name": "Hahnenkamm Pavillon"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3888567,
+                      47.4435749
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9491450548",
+                    "osm_type": "node",
+                    "lat": 47.4306367,
+                    "lon": 12.2125992,
+                    "amenity": "bar",
+                    "cuisine": "pizza",
+                    "indoor_seating": "yes",
+                    "live_music": "yes",
+                    "name": "Il Vagabondo",
+                    "outdoor_seating": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2125992,
+                      47.4306367
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10045045113",
+                    "osm_type": "node",
+                    "lat": 47.4322565,
+                    "lon": 12.2146503,
+                    "addr:city": "Westendorf",
+                    "addr:housenumber": "1",
+                    "addr:postcode": "6363",
+                    "addr:street": "Dorfstraße",
+                    "amenity": "bar",
+                    "name": "Gastgarten Wine & More by Miha",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2146503,
+                      47.4322565
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10045096861",
+                    "osm_type": "node",
+                    "lat": 47.4321299,
+                    "lon": 12.2144481,
+                    "addr:city": "Westendorf",
+                    "addr:housenumber": "3",
+                    "addr:postcode": "6363",
+                    "addr:street": "Dorfplatz",
+                    "amenity": "bar",
+                    "name": "Wine & More by Miha",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2144481,
+                      47.4321299
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11423375667",
+                    "osm_type": "node",
+                    "lat": 47.4461714,
+                    "lon": 12.3902886,
+                    "amenity": "bar",
+                    "name": "Take Five"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3902886,
+                      47.4461714
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11932514470",
+                    "osm_type": "node",
+                    "lat": 47.4465967,
+                    "lon": 12.3137318,
+                    "amenity": "bar",
+                    "name": "Vis-a-Vis"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3137318,
+                      47.4465967
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.4469500625,
+                "west": 11.915210749999998,
+                "north": 47.529588375,
+                "east": 12.153636624999997
+              },
+              "poiCount": 13,
+              "leafCount": 13,
+              "averagePosition": [
+                12.05862869230769,
+                47.48634220769231
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3269247503",
+                    "osm_type": "node",
+                    "lat": 47.468763,
+                    "lon": 11.9852314,
+                    "amenity": "bar",
+                    "name": "SZeNe Pub",
+                    "website": "https://www.szene-pub.at/de",
+                    "wheelchair": "limited"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      11.9852314,
+                      47.468763
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1438935311",
+                    "osm_type": "node",
+                    "lat": 47.4937633,
+                    "lon": 12.0797694,
+                    "amenity": "bar",
+                    "name": "Volxgarten",
+                    "old_name": "Contrast;Tennisstüberl",
+                    "opening_hours": "closed",
+                    "wheelchair": "limited"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0797694,
+                      47.4937633
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1837128380",
+                    "osm_type": "node",
+                    "lat": 47.490505,
+                    "lon": 12.0618402,
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "Fly",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0618402,
+                      47.490505
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1841494389",
+                    "osm_type": "node",
+                    "lat": 47.487138,
+                    "lon": 12.0643748,
+                    "amenity": "bar",
+                    "contact:website": "http://www.city-pub.at",
+                    "name": "City-Pub",
+                    "opening_hours": "Mo-Th 07:30-01:00, Fr-Sa 07:30-02:00; Su,PH off"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0643748,
+                      47.487138
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2761123396",
+                    "osm_type": "node",
+                    "lat": 47.4869695,
+                    "lon": 12.0629772,
+                    "addr:city": "Wörgl",
+                    "addr:country": "AT",
+                    "addr:housenumber": "8a",
+                    "addr:postcode": "6300",
+                    "addr:street": "Bahnhofstraße",
+                    "amenity": "bar",
+                    "name": "Onyx",
+                    "opening_hours": "Mo-Th 18:00-04:00, Fr-Sa 18:00-04:30, Su 16:00-01:00",
+                    "wifi": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0629772,
+                      47.4869695
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2761763824",
+                    "osm_type": "node",
+                    "lat": 47.4886021,
+                    "lon": 12.0636584,
+                    "amenity": "bar",
+                    "level": "3",
+                    "name": "Shakerz"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0636584,
+                      47.4886021
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3232313272",
+                    "osm_type": "node",
+                    "lat": 47.4813635,
+                    "lon": 12.0557669,
+                    "amenity": "bar",
+                    "level": "-1",
+                    "name": "Paparazzi Bar"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0557669,
+                      47.4813635
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4712403442",
+                    "osm_type": "node",
+                    "lat": 47.4872751,
+                    "lon": 12.0641575,
+                    "alt_name": "1710",
+                    "amenity": "bar",
+                    "name": "17:10",
+                    "opening_hours": "17:10+",
+                    "website": "https://www.bar-siebzehnzehn.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0641575,
+                      47.4872751
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4728594827",
+                    "osm_type": "node",
+                    "lat": 47.4887371,
+                    "lon": 12.0606561,
+                    "addr:city": "Wörgl",
+                    "addr:country": "AT",
+                    "addr:housenumber": "19",
+                    "addr:postcode": "6300",
+                    "addr:street": "KR Martin Pichler-Straße",
+                    "amenity": "bar",
+                    "contact:facebook": "https://www.facebook.com/shishachillout52",
+                    "description": "Shisha lounge",
+                    "name": "Chillout",
+                    "opening_hours": "13:00-24:00",
+                    "outdoor_seating": "yes",
+                    "smoking": "dedicated"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0606561,
+                      47.4887371
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5518793027",
+                    "osm_type": "node",
+                    "lat": 47.4882963,
+                    "lon": 12.0644538,
+                    "amenity": "bar",
+                    "name": "Cafe Nuovo & Diamond Cocktail Bar"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0644538,
+                      47.4882963
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6301809478",
+                    "osm_type": "node",
+                    "lat": 47.4866212,
+                    "lon": 12.0651119,
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "Schilling",
+                    "opening_hours": "Mo-Sa 08:00-24:00; PH 09:00-24:00",
+                    "operator": "WEISSBACHER Gastrobetriebe KG",
+                    "outdoor_seating": "yes",
+                    "phone": "+43 5332 93559",
+                    "start_date": "2018-06-01",
+                    "website": "https://www.schilling.tirol/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0651119,
+                      47.4866212
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10732151570",
+                    "osm_type": "node",
+                    "lat": 47.4885493,
+                    "lon": 12.063571,
+                    "amenity": "bar",
+                    "name": "Shakerz Wörgl"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.063571,
+                      47.4885493
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11906511092",
+                    "osm_type": "node",
+                    "lat": 47.4858653,
+                    "lon": 12.0706044,
+                    "addr:city": "Wörgl",
+                    "addr:housenumber": "23",
+                    "addr:postcode": "6300",
+                    "addr:street": "Brixentaler Straße",
+                    "amenity": "bar",
+                    "currency:XBT": "yes",
+                    "name": "ZONE Kultur.Leben.Wörgl",
+                    "payment:cash": "only",
+                    "payment:lightning": "yes",
+                    "payment:lightning_contactless": "no",
+                    "payment:onchain": "no",
+                    "survey:date": "2024-05-15",
+                    "website": "https://www.zone-woergl.com/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.0706044,
+                      47.4858653
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.4469500625,
+                "west": 12.153636624999997,
+                "north": 47.529588375,
+                "east": 12.392062499999998
+              },
+              "poiCount": 22,
+              "leafCount": 22,
+              "averagePosition": [
+                12.28100175909091,
+                47.47733895909091
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1546613924",
+                    "osm_type": "node",
+                    "lat": 47.5226808,
+                    "lon": 12.2952443,
+                    "addr:city": "Ellmau",
+                    "addr:country": "AT",
+                    "addr:postcode": "6352",
+                    "amenity": "bar",
+                    "contact:website": "http://www.kaiserbad.com/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2952443,
+                      47.5226808
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1682281088",
+                    "osm_type": "node",
+                    "lat": 47.4685472,
+                    "lon": 12.2511811,
+                    "amenity": "bar",
+                    "name": "Biwak",
+                    "phone": "+436642009518",
+                    "ref": "5"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2511811,
+                      47.4685472
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1937923864",
+                    "osm_type": "node",
+                    "lat": 47.4512103,
+                    "lon": 12.3379101,
+                    "amenity": "bar",
+                    "name": "Klausenfalle"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3379101,
+                      47.4512103
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2177252638",
+                    "osm_type": "node",
+                    "lat": 47.516302,
+                    "lon": 12.2538752,
+                    "amenity": "bar",
+                    "name": "Stallbar",
+                    "opening_hours": "12:30+",
+                    "phone": "+43 650 2499192",
+                    "ref": "44",
+                    "website": "http://www.stallbar.npage.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2538752,
+                      47.516302
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2177337397",
+                    "osm_type": "node",
+                    "lat": 47.5073453,
+                    "lon": 12.2941303,
+                    "addr:city": "Ellmau",
+                    "addr:country": "AT",
+                    "addr:housenumber": "7a",
+                    "addr:postcode": "6352",
+                    "addr:street": "Weißachgraben",
+                    "amenity": "bar",
+                    "name": "Top Bar",
+                    "phone": "+43 664 3944358"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2941303,
+                      47.5073453
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2691431509",
+                    "osm_type": "node",
+                    "lat": 47.456658,
+                    "lon": 12.1862008,
+                    "amenity": "bar",
+                    "internet_access": "wlan",
+                    "name": "Schneebar Tenner Stadl",
+                    "opening_hours": "winter",
+                    "ref": "29"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.1862008,
+                      47.456658
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3248438261",
+                    "osm_type": "node",
+                    "lat": 47.4485742,
+                    "lon": 12.1590461,
+                    "amenity": "bar",
+                    "name": "Ambiente"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.1590461,
+                      47.4485742
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3383468864",
+                    "osm_type": "node",
+                    "lat": 47.4916505,
+                    "lon": 12.2421647,
+                    "addr:city": "Söll",
+                    "addr:country": "AT",
+                    "addr:housenumber": "34c",
+                    "addr:postcode": "6306",
+                    "addr:street": "Bromberg",
+                    "amenity": "bar",
+                    "contact:email": "platzhirsch@duregger.tirol",
+                    "contact:facebook": "https://www.facebook.com/sunseitdirndln",
+                    "contact:phone": "+43 664 1012611",
+                    "name": "Platzhirsch",
+                    "ref": "43"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2421647,
+                      47.4916505
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3891373752",
+                    "osm_type": "node",
+                    "lat": 47.5200237,
+                    "lon": 12.2498715,
+                    "addr:city": "Scheffau am Wilden Kaiser",
+                    "addr:country": "AT",
+                    "addr:housenumber": "2",
+                    "addr:postcode": "6351",
+                    "addr:street": "Schwarzach",
+                    "amenity": "bar",
+                    "email": "info@sternbar.at",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Sternbar",
+                    "phone": "+43 676 5330226",
+                    "ref": "40",
+                    "source": "http://www.sternbar.com/",
+                    "source:date": "2017-07-01",
+                    "website": "http://www.sternbar.com/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2498715,
+                      47.5200237
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4271114191",
+                    "osm_type": "node",
+                    "lat": 47.4494578,
+                    "lon": 12.2560641,
+                    "amenity": "bar",
+                    "name": "Brix Bar"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2560641,
+                      47.4494578
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4271126191",
+                    "osm_type": "node",
+                    "lat": 47.4501746,
+                    "lon": 12.2512735,
+                    "addr:city": "Brixen im Thale",
+                    "addr:housenumber": "89",
+                    "addr:postcode": "6364",
+                    "addr:street": "Dorfstr.",
+                    "amenity": "bar",
+                    "brewery": "yes;herzoglich_bayerisches_brauhaus_tegernsee;various;arcobräu_mooser_liesl",
+                    "name": "Tupferl Bar Bistro",
+                    "opening_hours": "Di"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2512735,
+                      47.4501746
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4271218191",
+                    "osm_type": "node",
+                    "lat": 47.4504102,
+                    "lon": 12.262277,
+                    "amenity": "bar",
+                    "name": "Shorty's Ranch",
+                    "phone": "+43 664 3420437"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.262277,
+                      47.4504102
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4305631590",
+                    "osm_type": "node",
+                    "lat": 47.4474088,
+                    "lon": 12.3137485,
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "Jederzeit",
+                    "opening_hours": "Mo-Sa 17:00-24:00+; Su 19:00-24:00+",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3137485,
+                      47.4474088
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4693340323",
+                    "osm_type": "node",
+                    "lat": 47.4605347,
+                    "lon": 12.2449696,
+                    "addr:city": "Brixen im Thale",
+                    "addr:country": "AT",
+                    "addr:housenumber": "55",
+                    "addr:postcode": "6364",
+                    "addr:street": "Oberer Sonnberg",
+                    "amenity": "bar",
+                    "internet_access": "wlan",
+                    "name": "Glühbirnstadl",
+                    "phone": "+43 5334 8228",
+                    "ref": "6",
+                    "source": "www.skiwelt.at",
+                    "website": "www.ottenhof.at"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2449696,
+                      47.4605347
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5422640339",
+                    "osm_type": "node",
+                    "lat": 47.5128291,
+                    "lon": 12.3182018,
+                    "amenity": "bar",
+                    "name": "Koasa Hütt'n"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3182018,
+                      47.5128291
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5777724670",
+                    "osm_type": "node",
+                    "lat": 47.5138233,
+                    "lon": 12.3055943,
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "d‘schupf",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3055943,
+                      47.5138233
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6180307494",
+                    "osm_type": "node",
+                    "lat": 47.5289125,
+                    "lon": 12.2494961,
+                    "addr:city": "Scheffau am Wilden Kaiser",
+                    "addr:country": "AT",
+                    "addr:housenumber": "54",
+                    "addr:postcode": "6351",
+                    "addr:street": "Dorf",
+                    "amenity": "bar",
+                    "check_date:opening_hours": "2021-08-08",
+                    "name": "Jägerwirt's Schuster Bar",
+                    "opening_hours": "Tu-Sa 17:00-01:00",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2494961,
+                      47.5289125
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6322967576",
+                    "osm_type": "node",
+                    "lat": 47.4475845,
+                    "lon": 12.3150936,
+                    "amenity": "bar",
+                    "check_date:opening_hours": "2022-08-30",
+                    "indoor_seating": "yes",
+                    "name": "Kuhstall",
+                    "outdoor_seating": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3150936,
+                      47.4475845
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8853084506",
+                    "osm_type": "node",
+                    "lat": 47.4486967,
+                    "lon": 12.3901438,
+                    "amenity": "bar",
+                    "check_date": "2024-11-10",
+                    "indoor_seating": "yes",
+                    "name": "El Dorado",
+                    "opening_hours": "22:00-03:00",
+                    "outdoor_seating": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3901438,
+                      47.4486967
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9199244899",
+                    "osm_type": "node",
+                    "lat": 47.4488004,
+                    "lon": 12.3917003,
+                    "amenity": "bar",
+                    "check_date": "2024-12-09",
+                    "name": "Woodys Stadelbar"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3917003,
+                      47.4488004
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9499908217",
+                    "osm_type": "node",
+                    "lat": 47.5125994,
+                    "lon": 12.2981032,
+                    "amenity": "bar",
+                    "name": "Paddy's Shebeen"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.2981032,
+                      47.5125994
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9670178616",
+                    "osm_type": "node",
+                    "lat": 47.4472331,
+                    "lon": 12.3157488,
+                    "amenity": "bar",
+                    "indoor_seating": "yes",
+                    "name": "Tony's Sportbar",
+                    "opening_hours": "Tu-Fr 17:00-24:00; Sa,Su 15:00-20:00",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      12.3157488,
+                      47.4472331
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 11.438358999999998,
+            "north": 47.694865,
+            "east": 11.915210749999998
+          },
+          "poiCount": 4,
+          "leafCount": 4,
+          "averagePosition": [
+            11.735639599999999,
+            47.6799464
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6951907185",
+                "osm_type": "node",
+                "lat": 47.692561,
+                "lon": 11.770318,
+                "amenity": "bar",
+                "check_date": "2023-12-10",
+                "name": "Robert's Tagesbar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.770318,
+                  47.692561
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7619995660",
+                "osm_type": "node",
+                "lat": 47.6555289,
+                "lon": 11.8327374,
+                "amenity": "bar",
+                "opening_hours": "skiing season"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8327374,
+                  47.6555289
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10283104920",
+                "osm_type": "node",
+                "lat": 47.6893739,
+                "lon": 11.7656157,
+                "addr:city": "Rottach-Egern",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "83700",
+                "addr:street": "Kißlingerstraße",
+                "amenity": "bar",
+                "name": "Moschner's Bar",
+                "opening_hours": "Fr-Sa 21:30-03:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7656157,
+                  47.6893739
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11891711741",
+                "osm_type": "node",
+                "lat": 47.6823218,
+                "lon": 11.5738873,
+                "amenity": "bar",
+                "name": "Evis Eckerl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5738873,
+                  47.6823218
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 11.915210749999998,
+            "north": 47.694865,
+            "east": 12.392062499999998
+          },
+          "poiCount": 12,
+          "leafCount": 12,
+          "averagePosition": [
+            12.158335741666667,
+            47.59473210833334
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "387735012",
+                "osm_type": "node",
+                "lat": 47.6722472,
+                "lon": 12.0387796,
+                "amenity": "bar",
+                "name": "Schirmbar Geierwally"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0387796,
+                  47.6722472
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "619175585",
+                "osm_type": "node",
+                "lat": 47.6274562,
+                "lon": 12.1902053,
+                "amenity": "bar",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1902053,
+                  47.6274562
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1371016803",
+                "osm_type": "node",
+                "lat": 47.5827909,
+                "lon": 12.1692415,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "12",
+                "addr:postcode": "6330",
+                "addr:street": "Unterer Stadtplatz",
+                "amenity": "bar",
+                "check_date": "2024-12-14",
+                "email": "daniel@winzerei.com",
+                "indoor_seating": "yes",
+                "name": "Winzerei",
+                "opening_hours": "Tu-Su 16:00-24:00; PH off",
+                "operator": "Daniel Lebmeier",
+                "outdoor_seating": "yes",
+                "phone": "+43 676 33 52 232",
+                "source:date": "2017-07-05",
+                "website": "https://www.winzerei.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1692415,
+                  47.5827909
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1376516711",
+                "osm_type": "node",
+                "lat": 47.5769693,
+                "lon": 12.1663389,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "13",
+                "addr:postcode": "6330",
+                "addr:street": "Weissachstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/Gasthaus-Adler-884142451649268",
+                "contact:phone": "+43 676 5758675",
+                "name": "Gasthaus Adler"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1663389,
+                  47.5769693
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1960617790",
+                "osm_type": "node",
+                "lat": 47.5878138,
+                "lon": 12.1639418,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "17",
+                "addr:postcode": "6330",
+                "addr:street": "Münchner Straße",
+                "amenity": "bar",
+                "name": "Q-West",
+                "opening_hours": "Fr-Sa 21:00-06:00",
+                "phone": "+43 5372 62502",
+                "website": "https://www.q-west.info/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1639418,
+                  47.5878138
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2153533983",
+                "osm_type": "node",
+                "lat": 47.5839006,
+                "lon": 12.1686996,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "20-22",
+                "addr:postcode": "6330",
+                "addr:street": "Marktgasse",
+                "amenity": "bar",
+                "check_date": "2024-06-28",
+                "contact:email": "info@pure-lounge.at",
+                "contact:mobile": "+43 650 6482564",
+                "contact:website": "http://www.pure-lounge.at/",
+                "indoor_seating": "yes",
+                "name": "Pure",
+                "opening_hours": "Su,Tu-Th 16:00-24:00; Fr 16:00-03:00, Sa 16:00-04:00",
+                "outdoor_seating": "yes",
+                "smoking": "yes",
+                "source": "http://www.pure-lounge.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1686996,
+                  47.5839006
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2247720310",
+                "osm_type": "node",
+                "lat": 47.5853852,
+                "lon": 12.1702971,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "9",
+                "addr:postcode": "6330",
+                "addr:street": "Hofgasse",
+                "amenity": "bar",
+                "contact:email": "info@kufa.at",
+                "contact:mobile": "+43 660 6853030",
+                "contact:website": "http://www.kufa.at/",
+                "name": "KuFa - Kulturfabrik Kufstein",
+                "opening_hours": "Th 19:00-01:00, Fr-Sa 19:00-02:00, Su 19:00-01:00",
+                "operator": "Markus Gwiggner",
+                "source": "knowledge"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1702971,
+                  47.5853852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2952717566",
+                "osm_type": "node",
+                "lat": 47.5860292,
+                "lon": 12.1632371,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "11",
+                "addr:postcode": "6330",
+                "addr:street": "Zeller Straße",
+                "amenity": "bar",
+                "contact:email": "bar@westside-kufstein.at",
+                "contact:facebook": "https://www.facebook.com/WestsideKufstein",
+                "contact:mobile": "+43 660 6591199",
+                "contact:website": "http://www.westside-kufstein.at/",
+                "name": "Westside Bar",
+                "opening_hours": "Tu-Th 18:00-01:00, Fr 18:00-03:00, Sa 14:00-03:00, Su 14:00-01:00",
+                "source": "http://www.westside-kufstein.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1632371,
+                  47.5860292
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2962684539",
+                "osm_type": "node",
+                "lat": 47.5821248,
+                "lon": 12.1683161,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "5",
+                "addr:postcode": "6330",
+                "addr:street": "Römerhofgasse",
+                "amenity": "bar",
+                "check_date:opening_hours": "2024-04-07",
+                "loc_name": "Gin Bar",
+                "name": "Stollen 1930",
+                "opening_hours": "Mo-Su 18:00-02:00",
+                "phone": "+43 5372 62138",
+                "source": "http://www.auracher-loechl.at/",
+                "website": "http://www.auracher-loechl.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1683161,
+                  47.5821248
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4195914592",
+                "osm_type": "node",
+                "lat": 47.5835146,
+                "lon": 12.1704155,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "6330",
+                "addr:street": "Marktgasse",
+                "amenity": "bar",
+                "name": "Vitus & Urban",
+                "opening_hours": "Mo-Su 07:00-10:30, Tu-Sa 16:00-24:00",
+                "phone": "+43 5372 61414",
+                "website": "http://www.vitusundurban.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1704155,
+                  47.5835146
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9947898517",
+                "osm_type": "node",
+                "lat": 47.582048,
+                "lon": 12.168183,
+                "amenity": "bar",
+                "name": "Panorama 1830 - Skybar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.168183,
+                  47.582048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12409002237",
+                "osm_type": "node",
+                "lat": 47.5865055,
+                "lon": 12.1623734,
+                "addr:city": "Kufstein",
+                "addr:country": "AT",
+                "addr:housenumber": "20",
+                "addr:postcode": "6330",
+                "addr:street": "Schubertstraße",
+                "amenity": "bar",
+                "name": "Kaktus Bar",
+                "opening_hours": "Mo-Sa 16:00-02:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1623734,
+                  47.5865055
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 12.392062499999998,
+        "north": 47.694865,
+        "east": 13.345766
+      },
+      "poiCount": 50,
+      "leafCount": 50,
+      "averagePosition": [
+        12.775148932,
+        47.50027966
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10250963871",
+            "osm_type": "node",
+            "lat": 47.3661404,
+            "lon": 12.7314709,
+            "addr:city": "Viehhofen",
+            "addr:housenumber": "260",
+            "addr:postcode": "5752",
+            "addr:street": "Glemmerstraße",
+            "amenity": "bar",
+            "email": "restaurant@dorfstadl-viehhofen.at",
+            "microbrewery": "no",
+            "name": "Dorfstadl's Apres Ski Bar",
+            "opening_hours": "Mo-Su 15:00 - 22:00",
+            "operator": "Restaurant Dorfstadl",
+            "outdoor_seating": "yes",
+            "phone": "06542 68016",
+            "website": "https://dorfstadl-viehhofen.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7314709,
+              47.3661404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1631569127",
+            "osm_type": "node",
+            "lat": 47.5231178,
+            "lon": 12.4293401,
+            "addr:city": "St. Johann in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "11",
+            "addr:postcode": "6380",
+            "addr:street": "Dechant-Wieshoferstraße",
+            "amenity": "bar",
+            "check_date": "2023-08-23",
+            "name": "Kochbar",
+            "opening_hours": "Tu-Su 09:30-23:00",
+            "source": "Lokalerhebung 2012-2019"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4293401,
+              47.5231178
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2611063227",
+            "osm_type": "node",
+            "lat": 47.6757408,
+            "lon": 12.4765587,
+            "amenity": "bar",
+            "name": "Schirmbar",
+            "opening_hours": "Nur im Winter geöffnet",
+            "phone": "+49 8640 1243",
+            "website": "https://www.reitimwinklthiele.de/index.php?cat=10_Schirmbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4765587,
+              47.6757408
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2618628434",
+            "osm_type": "node",
+            "lat": 47.6769029,
+            "lon": 12.4722379,
+            "addr:city": "Reit im Winkl",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "83242",
+            "addr:street": "Schwimmbadstraße",
+            "amenity": "bar",
+            "name": "Rock Café",
+            "opening_hours": "We-Su 14:00-22:00",
+            "phone": "+49 8640 798811",
+            "smoking": "no",
+            "url": "https://www.reitimwinkl.de/rock-cafe-reit-im-winkl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4722379,
+              47.6769029
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3764372323",
+            "osm_type": "node",
+            "lat": 47.5220828,
+            "lon": 12.4279477,
+            "addr:city": "St. Johann in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "6380",
+            "addr:street": "Hauptplatz",
+            "amenity": "bar",
+            "name": "Bierwirt",
+            "opening_hours": "Mo,We-Sa 18:00-02:00",
+            "operator": "Gasthof Bären",
+            "smoking": "separated",
+            "source": "Lokalerhebung 2012-2019"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4279477,
+              47.5220828
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4456210861",
+            "osm_type": "node",
+            "lat": 47.5148039,
+            "lon": 12.4482867,
+            "addr:city": "St. Johann in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "6b",
+            "addr:postcode": "6380",
+            "addr:street": "Winkl-Schattseite",
+            "amenity": "bar",
+            "email": "info@rockbar.tirol",
+            "lunch": "yes/Mo-Fr 12:00-14:00",
+            "name": "ROCKBAR",
+            "source": "Lokalerhebung 2012-2019",
+            "website": "https://www.rockbar.tirol/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4482867,
+              47.5148039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4914554462",
+            "osm_type": "node",
+            "lat": 47.5220305,
+            "lon": 12.4264066,
+            "addr:city": "St. Johann in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "6380",
+            "addr:street": "Kaiserstraße",
+            "amenity": "bar",
+            "name": "Feier.Abend",
+            "opening_hours": "Mo-Th 16:00-23:00; Fr,Sa 10:00-23:00",
+            "outdoor_seating": "yes",
+            "source": "Lokalerhebung 2012-2019",
+            "toilets": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4264066,
+              47.5220305
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4984730844",
+            "osm_type": "node",
+            "lat": 47.5216913,
+            "lon": 12.4278235,
+            "addr:city": "St. Johann in Tirol",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6380",
+            "addr:street": "Speckbacherstraße",
+            "amenity": "bar",
+            "check_date": "2023-08-23",
+            "name": "Die Post-Bar",
+            "opening_hours": "Mo-Sa 00:00-02:00,17:00-24:00",
+            "phone": "+435352636430",
+            "source": "Lokalerhebung 2012-2019",
+            "website": "https://www.dashotelpost.at/die_post_bar/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4278235,
+              47.5216913
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8856559127",
+            "osm_type": "node",
+            "lat": 47.4963121,
+            "lon": 12.3957096,
+            "amenity": "bar",
+            "name": "s'Liftradl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3957096,
+              47.4963121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8883001249",
+            "osm_type": "node",
+            "lat": 47.5221367,
+            "lon": 12.4274029,
+            "amenity": "bar",
+            "name": "Michis Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4274029,
+              47.5221367
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8887532340",
+            "osm_type": "node",
+            "lat": 47.6701025,
+            "lon": 12.4062203,
+            "amenity": "bar",
+            "name": "Phippi´s"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4062203,
+              47.6701025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9400285561",
+            "osm_type": "node",
+            "lat": 47.6779753,
+            "lon": 12.4704172,
+            "amenity": "bar",
+            "name": "Leonardo's Bar",
+            "operator": "Hotel Unterwirt",
+            "outdoor_seating": "yes",
+            "website": "https://www.unterwirt.de/kulinarik/bar-lounge-reit-winkl.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4704172,
+              47.6779753
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "797216946",
+            "osm_type": "node",
+            "lat": 47.5863214,
+            "lon": 12.6924313,
+            "amenity": "bar",
+            "name": "Cafe Bar Mitten Drin",
+            "opening_hours": "Mo-Su 10:00-22:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6924313,
+              47.5863214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1703157037",
+            "osm_type": "node",
+            "lat": 47.4267808,
+            "lon": 12.8486793,
+            "addr:city": "Saalfelden am Steinernen Meer",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "5760",
+            "addr:street": "Mittergasse",
+            "amenity": "bar",
+            "name": "Die Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8486793,
+              47.4267808
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1703157041",
+            "osm_type": "node",
+            "lat": 47.4268398,
+            "lon": 12.8488066,
+            "addr:housenumber": "9",
+            "addr:street": "Lofererstraße",
+            "amenity": "bar",
+            "name": "Holifuk",
+            "outdoor_seating": "yes",
+            "phone": "+43 6582 20221",
+            "website": "https://www.holifuk.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8488066,
+              47.4268398
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1706974271",
+            "osm_type": "node",
+            "lat": 47.4276629,
+            "lon": 12.8483551,
+            "addr:city": "Saalfelden am Steinernen Meer",
+            "addr:country": "AT",
+            "addr:housenumber": "44",
+            "addr:postcode": "5760",
+            "addr:street": "Lofererstraße",
+            "amenity": "bar",
+            "name": "Kap Verde",
+            "website": "https://www.kap-verde.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8483551,
+              47.4276629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1711843016",
+            "osm_type": "node",
+            "lat": 47.4292735,
+            "lon": 12.8442309,
+            "addr:city": "Saalfelden am Steinernen Meer",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "5760",
+            "addr:street": "Am Postplatz",
+            "amenity": "bar",
+            "name": "Café Nexus",
+            "website": "https://kunsthausnexus.com/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8442309,
+              47.4292735
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1805159906",
+            "osm_type": "node",
+            "lat": 47.588162,
+            "lon": 12.6917193,
+            "addr:country": "AT",
+            "addr:housenumber": "176",
+            "addr:postcode": "5090",
+            "addr:street": "Nr.",
+            "amenity": "bar",
+            "check_date": "2023-12-04",
+            "name": "BoBo’s Cafe & Bar",
+            "source": "Sturm Skischule & Handels KG",
+            "website": "http://www.sturm-ski.com/de/cafe-bar.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6917193,
+              47.588162
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2092353137",
+            "osm_type": "node",
+            "lat": 47.6317985,
+            "lon": 13.001234,
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "83471",
+            "addr:street": "Maximilianstraße",
+            "amenity": "bar",
+            "check_date": "2023-05-27",
+            "name": "Rauchkuchl",
+            "website": "https://www.edelweiss-berchtesgaden.com/de/edelweiss/tanzbar-rauchkuchl/237-278.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.001234,
+              47.6317985
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2124915641",
+            "osm_type": "node",
+            "lat": 47.628608,
+            "lon": 13.0006072,
+            "addr:city": "Berchtesgaden",
+            "addr:country": "DE",
+            "addr:housenumber": "15 1/2",
+            "addr:postcode": "83471",
+            "addr:street": "Maximilianstraße",
+            "amenity": "bar",
+            "contact:facebook": "https://www.facebook.com/soundcafe.berchtesgaden",
+            "contact:phone": "+49 8652 4811",
+            "contact:website": "http://www.soundcafe.info",
+            "level": "-1",
+            "name": "Soundcafe",
+            "opening_hours": "Mo-Su 20:00+",
+            "outdoor_seating": "yes",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0006072,
+              47.628608
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2889088633",
+            "osm_type": "node",
+            "lat": 47.3777404,
+            "lon": 12.5958633,
+            "amenity": "bar",
+            "name": "Bar Pfiff"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5958633,
+              47.3777404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3206277523",
+            "osm_type": "node",
+            "lat": 47.4768214,
+            "lon": 12.5443851,
+            "addr:city": "Fieberbrunn",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6391",
+            "addr:street": "Dorfplatz",
+            "amenity": "bar",
+            "name": "Bar/Cafe Castello",
+            "opening_hours": "Mo-Sa 10:00-02:00",
+            "smoking": "yes",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5443851,
+              47.4768214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3825207100",
+            "osm_type": "node",
+            "lat": 47.4759647,
+            "lon": 12.5448311,
+            "amenity": "bar",
+            "email": "gs.gastro.gmbh@gmail.com",
+            "name": "D&D Tenne",
+            "website": "https://www.dundd.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5448311,
+              47.4759647
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4316189294",
+            "osm_type": "node",
+            "lat": 47.3911583,
+            "lon": 12.6359921,
+            "addr:city": "Saalbach",
+            "addr:country": "AT",
+            "addr:housenumber": "27",
+            "addr:postcode": "5753",
+            "addr:street": "Dorfplatz",
+            "amenity": "bar",
+            "description": "Der wohl legedärste Club in Saalbach. Direkt im Keller des Saalbacher Hof. Hier wird am Nachmittag zu Après Ski Hits gerockt und am Abend zu internationalen Hits. Highlight sind die Performances der Skandinavischen Live Bands.",
+            "name": "Après Ski & Nighclub Castello",
+            "opening_hours": "16:00-19:00,22:00-02:30 \"nur im Winter\"",
+            "phone": "+43 6541 7111",
+            "smoking": "separated",
+            "website": "https://www.facebook.com/CastelloSaalbach/?fref=ts",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6359921,
+              47.3911583
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4379139795",
+            "osm_type": "node",
+            "lat": 47.3911655,
+            "lon": 12.6363389,
+            "amenity": "bar",
+            "name": "Post Bar",
+            "wheelchair": "no",
+            "wheelchair:description": "Stufen am Eingang"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6363389,
+              47.3911655
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4379139796",
+            "osm_type": "node",
+            "lat": 47.3915756,
+            "lon": 12.637365,
+            "amenity": "bar",
+            "name": "Off Piste Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.637365,
+              47.3915756
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4716547195",
+            "osm_type": "node",
+            "lat": 47.4058629,
+            "lon": 12.6516045,
+            "amenity": "bar",
+            "name": "Herzl Bar",
+            "name:de": "Herzl Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6516045,
+              47.4058629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4716718090",
+            "osm_type": "node",
+            "lat": 47.3946965,
+            "lon": 12.6415442,
+            "amenity": "bar",
+            "name": "Turmfalke",
+            "name:de": "Turmfalke"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6415442,
+              47.3946965
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4971722064",
+            "osm_type": "node",
+            "lat": 47.4264365,
+            "lon": 12.8494289,
+            "addr:city": "Saalfelden am Steinernen Meer",
+            "addr:country": "AT",
+            "addr:housenumber": "18",
+            "addr:postcode": "5760",
+            "addr:street": "Lofererstraße",
+            "amenity": "bar",
+            "name": "Milwaukee",
+            "outdoor_seating": "no",
+            "website": "http://www.milwaukee.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8494289,
+              47.4264365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5311787471",
+            "osm_type": "node",
+            "lat": 47.4046928,
+            "lon": 12.902255,
+            "addr:city": "Maria Alm am Steinernen Meer",
+            "addr:country": "AT",
+            "addr:housenumber": "27",
+            "addr:postcode": "5761",
+            "addr:street": "Hochkönigstraße",
+            "amenity": "bar",
+            "brewery": "yes;various",
+            "contact:facebook": "denglalm",
+            "email": "urlaub@hochkoenigin.com",
+            "level": "-1,_0,",
+            "min_age": "0",
+            "name": "Dengl Alm",
+            "opening_hours": "Mo-Sa 16:00-03:00",
+            "operator": "Familie Hörl",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:notes": "yes",
+            "phone": "+43 6584 7447",
+            "reservation": "not necessary",
+            "restaurant": "yes",
+            "website": "https://www.hochkoenigin.com/de/kulinarik/dengl-alm/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.902255,
+              47.4046928
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5323564422",
+            "osm_type": "node",
+            "lat": 47.6103915,
+            "lon": 12.6517407,
+            "amenity": "bar",
+            "name": "Kuhbar",
+            "website": "https://www.kuhbar-lofer.at/de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6517407,
+              47.6103915
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5407564721",
+            "osm_type": "node",
+            "lat": 47.3918072,
+            "lon": 12.6384779,
+            "amenity": "bar",
+            "name": "bauers schi-alm",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6384779,
+              47.3918072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6216666137",
+            "osm_type": "node",
+            "lat": 47.3765561,
+            "lon": 12.5889195,
+            "amenity": "bar",
+            "name": "Hexenhäuserl",
+            "opening_hours": "15:00-02:00",
+            "website": "https://hex.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5889195,
+              47.3765561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9461241049",
+            "osm_type": "node",
+            "lat": 47.4348277,
+            "lon": 12.7342706,
+            "addr:city": "Leogang",
+            "addr:country": "AT",
+            "addr:housenumber": "128a",
+            "addr:place": "Rain",
+            "addr:postcode": "5771",
+            "amenity": "bar",
+            "craft": "distillery",
+            "email": "info@stockis-destillerie.at",
+            "name": "Tom's Brennkessel by Stocki's",
+            "opening_hours": "Tu 18:00-22:00; We-Su 14:00-22:00; Mo off",
+            "phone": "+43 6583 8395",
+            "website": "https://www.stockis-destillerie.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7342706,
+              47.4348277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10606185669",
+            "osm_type": "node",
+            "lat": 47.427093,
+            "lon": 12.8476502,
+            "addr:city": "Saalfelden am Steinernen Meer",
+            "addr:housenumber": "11",
+            "addr:postcode": "5760",
+            "addr:street": "Mittergasse",
+            "amenity": "bar",
+            "cuisine": "greek;italian",
+            "name": "Eleonas",
+            "opening_hours": "Tu-Sa 11:00-22:00",
+            "outdoor_seating": "yes",
+            "website": "https://eleonas.bio/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8476502,
+              47.427093
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11284589839",
+            "osm_type": "node",
+            "lat": 47.4758036,
+            "lon": 12.5446996,
+            "addr:city": "Fieberbrunn",
+            "addr:housenumber": "24",
+            "addr:postcode": "6391",
+            "addr:street": "Dorfstraße",
+            "amenity": "bar",
+            "name": "Rusty Joe's Pub"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5446996,
+              47.4758036
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12144369281",
+            "osm_type": "node",
+            "lat": 47.4046443,
+            "lon": 12.9027316,
+            "addr:city": "Maria Alm am Steinernen Meer",
+            "addr:housenumber": "27",
+            "addr:postcode": "5761",
+            "addr:street": "Hochkönigstraße",
+            "amenity": "bar",
+            "brewery": "yes;various",
+            "contact:facebook": "https://www.instagram.com/highqueenbar.mariaalm/",
+            "ele": "802",
+            "email": "urlaub@hochkoenigin.com",
+            "internet_access": "wlan",
+            "level": "0",
+            "min_age": "0",
+            "name": "HIGH QUEEN BAR",
+            "opening_hours": "Mo-Su 14:00-01:00",
+            "operator": "Familie Hörl",
+            "outdoor_seating": "yes",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+43 6584 7447",
+            "smoking": "outside",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9027316,
+              47.4046443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12650207196",
+            "osm_type": "node",
+            "lat": 47.3917543,
+            "lon": 12.6391217,
+            "amenity": "bar",
+            "check_date": "2025-03-10",
+            "name": "Burgi's",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6391217,
+              47.3917543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "431577696",
+            "osm_type": "node",
+            "lat": 47.4625253,
+            "lon": 13.2976232,
+            "amenity": "bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2976232,
+              47.4625253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1097823401",
+            "osm_type": "node",
+            "lat": 47.6801094,
+            "lon": 13.1111133,
+            "amenity": "bar",
+            "name": "Plauscherl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1111133,
+              47.6801094
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1712333110",
+            "osm_type": "node",
+            "lat": 47.4154589,
+            "lon": 13.2178915,
+            "amenity": "bar",
+            "name": "LOZIS"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2178915,
+              47.4154589
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2131185491",
+            "osm_type": "node",
+            "lat": 47.458487,
+            "lon": 13.274968,
+            "amenity": "bar",
+            "name": "Liftstüberl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.274968,
+              47.458487
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2250085201",
+            "osm_type": "node",
+            "lat": 47.5973012,
+            "lon": 13.1679775,
+            "amenity": "bar",
+            "name": "Döllerers Genusswelten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1679775,
+              47.5973012
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3121984924",
+            "osm_type": "node",
+            "lat": 47.4176045,
+            "lon": 13.2185637,
+            "amenity": "bar",
+            "name": "Admiral",
+            "opening_hours": "Mo-Su 09:00-24:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2185637,
+              47.4176045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3320632032",
+            "osm_type": "node",
+            "lat": 47.6850704,
+            "lon": 13.1013941,
+            "amenity": "bar",
+            "name": "Herbert's Treffpunkt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1013941,
+              47.6850704
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3698211710",
+            "osm_type": "node",
+            "lat": 47.4612044,
+            "lon": 13.2564049,
+            "amenity": "bar",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Stoaalm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2564049,
+              47.4612044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4719880801",
+            "osm_type": "node",
+            "lat": 47.6295368,
+            "lon": 13.152339,
+            "amenity": "bar",
+            "name": "Bierautomat"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.152339,
+              47.6295368
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8857745403",
+            "osm_type": "node",
+            "lat": 47.625747,
+            "lon": 13.1438702,
+            "addr:city": "Kuchl",
+            "addr:housenumber": "60",
+            "addr:postcode": "5431",
+            "addr:street": "Markt",
+            "amenity": "bar",
+            "name": "Leichtsinn",
+            "opening_hours": "We-Sa 16:00-02:00",
+            "website": "http://www.leichtsinn-bar.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1438702,
+              47.625747
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8875534508",
+            "osm_type": "node",
+            "lat": 47.4159047,
+            "lon": 13.2177389,
+            "amenity": "bar",
+            "name": "Lenus Lounge Bar Cafe"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2177389,
+              47.4159047
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11964009439",
+            "osm_type": "node",
+            "lat": 47.6815572,
+            "lon": 13.0944566,
+            "addr:city": "Hallein",
+            "addr:country": "AT",
+            "addr:housenumber": "10",
+            "addr:postcode": "5400",
+            "addr:street": "Florianiplatz",
+            "amenity": "bar",
+            "contact:email": "kabinett.hallein@gmail.com",
+            "contact:facebook": "https://www.facebook.com/kabinett.hallein/",
+            "contact:phone": "+43 6245 70816",
+            "name": "Kabinett",
+            "opening_hours": "Mo-Sa 10:00-23:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0944566,
+              47.6815572
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

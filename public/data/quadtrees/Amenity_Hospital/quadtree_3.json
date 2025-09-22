@@ -1,0 +1,82 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 11.438358999999998,
+    "north": 47.694865,
+    "east": 13.345766
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    12.831885266666667,
+    47.518446866666665
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2235168614",
+        "osm_type": "node",
+        "lat": 47.2742309,
+        "lon": 12.7637302,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Ambulatorium Optimed Sportmedizin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7637302,
+          47.2742309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1937740463",
+        "osm_type": "node",
+        "lat": 47.629768,
+        "lon": 13.000686,
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "83471",
+        "addr:street": "Franziskanerplatz",
+        "amenity": "hospital",
+        "contact:phone": "+49 8652 2925",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "MVZ",
+        "official_name": "MVZ Berchtesgaden GmbH",
+        "opening_hours": "Mo,Th 08:30-12:30,16:30-18:00; Tu,We,Fr 08:30-12:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000686,
+          47.629768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2959253012",
+        "osm_type": "node",
+        "lat": 47.6513417,
+        "lon": 12.7312396,
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7312396,
+          47.6513417
+        ]
+      }
+    }
+  ],
+  "children": []
+}

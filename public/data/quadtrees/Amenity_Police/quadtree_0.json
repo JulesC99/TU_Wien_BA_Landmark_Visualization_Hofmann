@@ -1,0 +1,1361 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 56,
+  "leafCount": 0,
+  "averagePosition": [
+    10.675955707142858,
+    46.67103429464286
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 9.530952,
+        "north": 46.70320525,
+        "east": 10.484655499999999
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        10.022949030769231,
+        46.524256730769224
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "344522055",
+            "osm_type": "node",
+            "lat": 46.5331542,
+            "lon": 9.8690999,
+            "addr:city": "Samedan",
+            "addr:housenumber": "1",
+            "addr:postcode": "7503",
+            "addr:street": "Bügl da la Nina",
+            "amenity": "police",
+            "name": "Polizia Chantunela Samedan",
+            "phone": "+41 81 257 64 50"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8690999,
+              46.5331542
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1315120071",
+            "osm_type": "node",
+            "lat": 46.4568024,
+            "lon": 9.7915595,
+            "addr:city": "Silvaplana",
+            "addr:housename": "Pulizia chantunela",
+            "addr:housenumber": "20",
+            "addr:postcode": "7513",
+            "addr:street": "Via vers Chardens",
+            "amenity": "police",
+            "name": "Pulizia chantunela",
+            "name:de": "Kantonspolizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7915595,
+              46.4568024
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1651603769",
+            "osm_type": "node",
+            "lat": 46.4978838,
+            "lon": 9.8377721,
+            "addr:city": "St. Moritz",
+            "addr:housenumber": "7",
+            "addr:postcode": "7500",
+            "addr:street": "Via Quadrellas",
+            "amenity": "police",
+            "opening_hours": "Mo-Su 07:30 - 18:30",
+            "source": "https://www.gemeinde-stmoritz.ch/dienstleistungen/gemeindepolizei/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8377721,
+              46.4978838
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4665829339",
+            "osm_type": "node",
+            "lat": 46.6628119,
+            "lon": 9.5772372,
+            "addr:city": "Tiefencastel",
+            "addr:country": "CH",
+            "addr:housenumber": "25",
+            "addr:postcode": "7450",
+            "addr:street": "Stradung",
+            "amenity": "police",
+            "name": "Polizia Cantunala Grischun",
+            "phone": "+41 81 659 02 50"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5772372,
+              46.6628119
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5533540729",
+            "osm_type": "node",
+            "lat": 46.4940818,
+            "lon": 9.8368429,
+            "addr:city": "St. Moritz",
+            "addr:housenumber": "35",
+            "addr:postcode": "7500",
+            "addr:street": "Via Grevas",
+            "amenity": "police",
+            "phone": "+41 81 257 76 80",
+            "website": "https://www.gr.ch/DE/institutionen/verwaltung/djsg/kapo/ueberuns/organisation/regionenpolizei/regionengiadina/Seiten/PolizeipostenStMoritz.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8368429,
+              46.4940818
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9537450404",
+            "osm_type": "node",
+            "lat": 46.4308556,
+            "lon": 9.7655754,
+            "amenity": "police",
+            "name": "Polizia Cümünela",
+            "source": "bing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7655754,
+              46.4308556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13142238983",
+            "osm_type": "node",
+            "lat": 46.5305842,
+            "lon": 9.8728881,
+            "amenity": "police",
+            "name": "PSP Oberengadin-Bergell",
+            "phone": "+41 81 257 76 80",
+            "website": "https://www.gr.ch/DE/institutionen/verwaltung/djsg/kapo/ueberuns/standort/Seiten/PSP_Samedan.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8728881,
+              46.5305842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "466140411",
+            "osm_type": "node",
+            "lat": 46.4629637,
+            "lon": 10.3648959,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3648959,
+              46.4629637
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "602656400",
+            "osm_type": "node",
+            "lat": 46.600774,
+            "lon": 10.4205123,
+            "amenity": "police",
+            "check_date": "2024-03-07"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4205123,
+              46.600774
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4240913670",
+            "osm_type": "node",
+            "lat": 46.4678091,
+            "lon": 10.3758449,
+            "amenity": "police",
+            "name": "Polizia Locale",
+            "operator": "Polizia Locale"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3758449,
+              46.4678091
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4476424442",
+            "osm_type": "node",
+            "lat": 46.5240492,
+            "lon": 10.1276666,
+            "amenity": "police",
+            "name": "Polizia Locale",
+            "operator": "Polizia Locale",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1276666,
+              46.5240492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9934025977",
+            "osm_type": "node",
+            "lat": 46.4543468,
+            "lon": 10.3656763,
+            "amenity": "police",
+            "name": "Guardie Ecologiche Alta Valtellina",
+            "operator": "Guardie Ecologiche"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3656763,
+              46.4543468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12212376806",
+            "osm_type": "node",
+            "lat": 46.6992208,
+            "lon": 10.0927663,
+            "amenity": "police",
+            "email": "ppzernez@kapo.gr.ch",
+            "name": "Post da polizia Zernez",
+            "name:de": "Polizeiposten Zernez",
+            "name:rm": "Post da polizia Zernez",
+            "network": "Center da polizia Engiadina Bassa",
+            "network:de": "Polizeistützpunkt Engiadina Bassa",
+            "network:rm": "Center da polizia Engiadina Bassa",
+            "opening_hours": "Mo-Fr 06:30-12:00,14:00-18:00; PH closed",
+            "operator": "Polizia chantunala",
+            "operator:de": "Kantonspolizei Graubünden",
+            "operator:rm": "Polizia chantunala",
+            "phone": "+41 81 257 66 90",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0927663,
+              46.6992208
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 10.484655499999999,
+        "north": 46.70320525,
+        "east": 11.438358999999998
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        11.21543810909091,
+        46.564025977272735
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "382989155",
+            "osm_type": "node",
+            "lat": 46.4592888,
+            "lon": 11.264137,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "official_name:de": "Legion Kommando Carabinieri \"Trentino Alto Adige\" Station von Eppan",
+            "official_name:it": "Legione Carabinieri \"Trentino Alto Adige\" stazione di Appiano",
+            "opening_hours": "Mo-Su,PH 08:30-13:00,13:30-16:00",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.264137,
+              46.4592888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "393900062",
+            "osm_type": "node",
+            "lat": 46.4858098,
+            "lon": 11.3361332,
+            "amenity": "police",
+            "name": "Polizia Municipale - Stadtpolizei",
+            "name:de": "Stadtpolizei",
+            "name:it": "Polizia Municipale",
+            "operator": "Polizia Municipale",
+            "operator:wikidata": "Q1431981"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3361332,
+              46.4858098
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "418716501",
+            "osm_type": "node",
+            "lat": 46.6901185,
+            "lon": 11.1548111,
+            "addr:city": "Tirol - Tirolo",
+            "addr:housenumber": "17",
+            "addr:postcode": "39019",
+            "addr:street": "Hauptstraße - Via Principale",
+            "amenity": "police",
+            "check_date": "2025-07-08",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852",
+            "phone": "+39 0473 923321"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1548111,
+              46.6901185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "595710413",
+            "osm_type": "node",
+            "lat": 46.4049392,
+            "lon": 11.3206144,
+            "amenity": "police",
+            "check_date": "2025-02-15",
+            "name": "Carabinieri Bronzolo",
+            "operator": "Arma dei Carabinieri",
+            "operator:short": "Carabinieri",
+            "operator:wikidata": "Q54852",
+            "operator:wikipedia": "en:Carabinieri"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3206144,
+              46.4049392
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "648855554",
+            "osm_type": "node",
+            "lat": 46.562628,
+            "lon": 11.1709786,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1709786,
+              46.562628
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "670866841",
+            "osm_type": "node",
+            "lat": 46.4132801,
+            "lon": 11.2441521,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2441521,
+              46.4132801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "728460612",
+            "osm_type": "node",
+            "lat": 46.4953114,
+            "lon": 11.3374514,
+            "amenity": "police",
+            "name": "Scuola Polizia - Polizeischule"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3374514,
+              46.4953114
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2457538127",
+            "osm_type": "node",
+            "lat": 46.6722812,
+            "lon": 11.1587151,
+            "amenity": "police",
+            "name": "Polizia di Stato",
+            "operator": "Polizia di Stato",
+            "operator:wikidata": "Q897817",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1587151,
+              46.6722812
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2476840126",
+            "osm_type": "node",
+            "lat": 46.4245872,
+            "lon": 11.3376259,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3376259,
+              46.4245872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2486720795",
+            "osm_type": "node",
+            "lat": 46.4529446,
+            "lon": 11.2684031,
+            "amenity": "police",
+            "check_date": "2024-07-18",
+            "name": "Gemeindepolizei - Polizia municipale",
+            "name:de": "Gemeindepolizei",
+            "name:it": "Polizia municipale",
+            "operator": "Polizia Municipale",
+            "operator:wikidata": "Q1431981"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2684031,
+              46.4529446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2763420960",
+            "osm_type": "node",
+            "lat": 46.6478659,
+            "lon": 11.2181291,
+            "amenity": "police",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2181291,
+              46.6478659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4053179998",
+            "osm_type": "node",
+            "lat": 46.5290638,
+            "lon": 11.248644,
+            "addr:city": "Terlan - Terlano",
+            "addr:housenumber": "1",
+            "addr:postcode": "39018",
+            "addr:street": "Niederthorstraße - via Niederthor",
+            "amenity": "police",
+            "name": "Polizia Locale Terlano",
+            "name:de": "Ortspolizei Terlan",
+            "name:en": "Local Police of Terlan",
+            "operator": "Polizia Locale",
+            "operator:wikidata": "Q61634147",
+            "phone": "+39 0471 257131",
+            "website": "https://www.gemeinde.terlan.bz.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.248644,
+              46.5290638
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4370766108",
+            "osm_type": "node",
+            "lat": 46.6846369,
+            "lon": 11.0731592,
+            "amenity": "police",
+            "contact:phone": "+39 0473 966 200",
+            "name": "Ortspolizei",
+            "source": "http://www.partschins.com/de/ortsinfo/gut-zu-wissen-a-z.html",
+            "source:date": "2016-08-28"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0731592,
+              46.6846369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4370777295",
+            "osm_type": "node",
+            "lat": 46.6691841,
+            "lon": 11.0675939,
+            "amenity": "police",
+            "contact:phone": "+39 0473 967123",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852",
+            "source": "http://www.partschins.com/de/ortsinfo/gut-zu-wissen-a-z.html",
+            "source:date": "2016-08-28"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0675939,
+              46.6691841
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4600317767",
+            "osm_type": "node",
+            "lat": 46.6719153,
+            "lon": 11.1615164,
+            "addr:city": "Meran - Merano",
+            "addr:housenumber": "192",
+            "addr:postcode": "39012",
+            "addr:street": "Laubengasse - Via Portici",
+            "amenity": "police",
+            "name": "Ortspolizei Meran - Polizia Locale Merano",
+            "name:de": "Ortspolizei Meran",
+            "name:it": "Polizia Locale Merano",
+            "operator": "Polizia Locale",
+            "operator:wikidata": "Q61634147",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1615164,
+              46.6719153
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5029757252",
+            "osm_type": "node",
+            "lat": 46.6385704,
+            "lon": 11.1510734,
+            "addr:city": "Tscherms - Cermes",
+            "amenity": "police",
+            "contact:phone": "+39 0473 561421",
+            "name": "Carabinieri Tscherms - Cermes",
+            "name:de": "Carabinieri Tscherms",
+            "name:it": "Carabinieri Cermes",
+            "operator": "Arma dei Carabinieri",
+            "operator:short": "Carabinieri",
+            "operator:wikidata": "Q54852",
+            "source": "Unterkunftsverzeichnis Marling 2023, S. 39",
+            "source:date": "2022-12-08"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1510734,
+              46.6385704
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5058028453",
+            "osm_type": "node",
+            "lat": 46.6880754,
+            "lon": 11.1893748,
+            "addr:city": "Schenna - Scena",
+            "addr:city:de": "Schenna",
+            "addr:city:it": "Scena",
+            "addr:housenumber": "3b",
+            "addr:postcode": "39017",
+            "addr:street": "Verdinser Straße - Via Verdins",
+            "addr:street:de": "Verdinser Straße",
+            "addr:street:it": "Via Verdins",
+            "amenity": "police",
+            "contact:phone": "+39 0473 945 626",
+            "name": "Carabinieri Scena - Schenna",
+            "name:de": "Carabinieri Schenna",
+            "name:it": "Carabinieri Scena",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1893748,
+              46.6880754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7254795245",
+            "osm_type": "node",
+            "lat": 46.6777588,
+            "lon": 11.1525567,
+            "amenity": "police",
+            "check_date": "2024-05-03",
+            "name": "Guardia di Finanza",
+            "operator": "Guardia di Finanza",
+            "operator:wikidata": "Q1552861"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1525567,
+              46.6777588
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9301263850",
+            "osm_type": "node",
+            "lat": 46.6161992,
+            "lon": 11.1451505,
+            "addr:city": "Lana",
+            "addr:housenumber": "5",
+            "addr:postcode": "39011",
+            "addr:street": "Maria-Hilf-Straße - Via Madonna del Suffragio",
+            "amenity": "police",
+            "email": "ortspolizei@gemeinde.lana.bz.it",
+            "name": "Ortspolizei - Lana - Polizia Locale",
+            "opening_hours": "Mo-Fr 08:30-12:00",
+            "operator": "Polizia Locale",
+            "operator:wikidata": "Q61634147",
+            "operator:wikipedia": "it:Polizia locale (Italia)",
+            "phone": "+39 0473 567710",
+            "website": "https://www.gemeinde.lana.bz.it/de/Ortspolizei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1451505,
+              46.6161992
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9592980605",
+            "osm_type": "node",
+            "lat": 46.6160819,
+            "lon": 11.1453109,
+            "addr:city": "Lana",
+            "addr:housenumber": "5",
+            "addr:postcode": "39011",
+            "addr:street": "Maria-Hilf-Straße - Via Madonna del Suffragio",
+            "amenity": "police",
+            "email": "stbz531280@carabinieri.it",
+            "name": "Carabinieri Lana",
+            "operator": "Arma dei Carabinieri",
+            "operator:short": "Carabinieri",
+            "operator:wikidata": "Q54852",
+            "operator:wikipedia": "it:Arma dei Carabinieri",
+            "phone": "+39 473 561365"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1453109,
+              46.6160819
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10304767627",
+            "osm_type": "node",
+            "lat": 46.4133253,
+            "lon": 11.2440188,
+            "amenity": "police",
+            "name:de": "Forststation Kaltern",
+            "name:it": "Stazione forestale di Caldaro",
+            "operator": "Arma dei Carabinieri",
+            "operator:short": "Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2440188,
+              46.4133253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10695426881",
+            "osm_type": "node",
+            "lat": 46.4947057,
+            "lon": 11.3500888,
+            "amenity": "police",
+            "name": "Questura",
+            "operator": "Polizia di Stato",
+            "operator:wikidata": "Q897817"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3500888,
+              46.4947057
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 9.530952,
+        "north": 47.033758500000005,
+        "east": 10.484655499999999
+      },
+      "poiCount": 10,
+      "leafCount": 10,
+      "averagePosition": [
+        9.925335950000001,
+        46.878130170000006
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "345352103",
+            "osm_type": "node",
+            "lat": 46.7201779,
+            "lon": 9.5590284,
+            "addr:city": "Lenzerheide/Lai",
+            "addr:housenumber": "2",
+            "addr:postcode": "7078",
+            "addr:street": "Voa Principala",
+            "amenity": "police",
+            "name": "Kantonspolizei Graubünden",
+            "phone": "+41 81 385 15 50"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5590284,
+              46.7201779
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2136177803",
+            "osm_type": "node",
+            "lat": 46.872193,
+            "lon": 9.8806413,
+            "addr:city": "Klosters",
+            "addr:housenumber": "142a",
+            "addr:postcode": "7250",
+            "addr:street": "Landstrasse",
+            "amenity": "police",
+            "designation": "Kantonspolizei Graubünden",
+            "name": "Kantonspolizei Graubünden",
+            "source": "https://www.gr.ch/DE/institutionen/verwaltung/djsg/kapo/ueberuns/organisation/regionenpolizei/regionmittelbuenden/Seiten/PolizeipostenKlosters.aspx",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8806413,
+              46.872193
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4538120993",
+            "osm_type": "node",
+            "lat": 46.7908673,
+            "lon": 9.8200704,
+            "addr:city": "Davos",
+            "addr:housenumber": "2b",
+            "addr:postcode": "7270",
+            "addr:street": "Talstrasse",
+            "amenity": "police",
+            "check_date": "2024-05-17",
+            "name": "Polizeiposten und Kripostützpunkt Davos",
+            "operator": "Kantonspolizei Graubünden",
+            "phone": "+41 81 257 63 50"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8200704,
+              46.7908673
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6433232986",
+            "osm_type": "node",
+            "lat": 46.7775248,
+            "lon": 9.6750503,
+            "amenity": "police",
+            "name": "Gemeindepolizei Arosa"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6750503,
+              46.7775248
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6269770573",
+            "osm_type": "node",
+            "lat": 46.7955321,
+            "lon": 10.2959564,
+            "amenity": "police",
+            "name": "Polizia chantunala dal Grischun",
+            "network": "Center da polizia Engiadina Bassa",
+            "network:de": "Polizeistützpunkt Engiadina Bassa",
+            "network:rm": "Center da polizia Engiadina Bassa",
+            "opening_hours": "Mo-Fr 07:30-12:00,14:00-18:00; PH closed",
+            "operator": "Polizia chantunala",
+            "operator:de": "Kantonspolizei Graubünden",
+            "operator:rm": "Polizia chantunala",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2959564,
+              46.7955321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "960136329",
+            "osm_type": "node",
+            "lat": 46.9920451,
+            "lon": 10.0223302,
+            "addr:city": "Gaschurn",
+            "addr:country": "AT",
+            "addr:housenumber": "197",
+            "addr:postcode": "6793",
+            "addr:street": "Zollhäuser",
+            "amenity": "police",
+            "contact:email": "pi-v-gaschurn@polizei.gv.at",
+            "contact:phone": "+43 59 133 8103-100",
+            "fixme": "exact position",
+            "name": "Polizeiinspektion Gaschurn",
+            "website": "https://www.polizei.gv.at/vbg/lpd/dst/dienststellen.aspx?org=4756694C6C6A45337669593D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0223302,
+              46.9920451
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6867847263",
+            "osm_type": "node",
+            "lat": 46.9668792,
+            "lon": 9.5554704,
+            "amenity": "police",
+            "name": "Kantonspolizei Graubünden",
+            "operator": "Kantonspolizei Graubünden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5554704,
+              46.9668792
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10102831646",
+            "osm_type": "node",
+            "lat": 46.9695019,
+            "lon": 9.6874673,
+            "addr:city": "Schiers",
+            "addr:housenumber": "42a",
+            "addr:postcode": "7220",
+            "addr:street": "Dorfstrasse",
+            "amenity": "police",
+            "name": "Polizeiposten Schiers",
+            "phone": "+41 81 257 78 80"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6874673,
+              46.9695019
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "611254711",
+            "osm_type": "node",
+            "lat": 47.0115237,
+            "lon": 10.2927761,
+            "addr:city": "Ischgl",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "6561",
+            "addr:street": "Zollhof",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "name": "PI Ischgl",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2927761,
+              47.0115237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5359545045",
+            "osm_type": "node",
+            "lat": 46.8850567,
+            "lon": 10.4645687,
+            "amenity": "police",
+            "name": "Zollamt Martina"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4645687,
+              46.8850567
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 10.484655499999999,
+        "north": 47.033758500000005,
+        "east": 11.438358999999998
+      },
+      "poiCount": 11,
+      "leafCount": 11,
+      "averagePosition": [
+        11.051107663636364,
+        46.87024634545455
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1497180519",
+            "osm_type": "node",
+            "lat": 46.8488369,
+            "lon": 10.5055037,
+            "addr:city": "Nauders",
+            "addr:country": "AT",
+            "addr:housenumber": "182",
+            "addr:postcode": "6543",
+            "addr:street": "Reschenstraße",
+            "amenity": "police",
+            "name": "LKW-Kontrollstelle",
+            "source": "GeoImage.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5055037,
+              46.8488369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4313826509",
+            "osm_type": "node",
+            "lat": 46.8318348,
+            "lon": 10.5131531,
+            "amenity": "police",
+            "operator": "Arma dei Carabinieri",
+            "operator:short": "Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5131531,
+              46.8318348
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3334352993",
+            "osm_type": "node",
+            "lat": 46.8913334,
+            "lon": 10.5015491,
+            "addr:city": "Nauders",
+            "addr:country": "AT",
+            "addr:housenumber": "66",
+            "addr:postcode": "6543",
+            "addr:street": "Nauders",
+            "amenity": "police",
+            "name": "Polizeiinspektion Nauders"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5015491,
+              46.8913334
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2424057953",
+            "osm_type": "node",
+            "lat": 46.955134,
+            "lon": 11.011824,
+            "addr:city": "Sölden",
+            "addr:country": "AT",
+            "addr:housenumber": "151",
+            "addr:postcode": "6450",
+            "addr:street": "Dorfstraße",
+            "amenity": "police",
+            "entrance": "yes",
+            "name": "Polizeiinspektion Sölden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.011824,
+              46.955134
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2376520486",
+            "osm_type": "node",
+            "lat": 46.8961534,
+            "lon": 11.4345469,
+            "addr:city": "Sterzing - Vipiteno",
+            "addr:housenumber": "22",
+            "addr:postcode": "39049",
+            "addr:street": "Brenner-Staatsstraße",
+            "amenity": "police",
+            "email": "stbz531810@carabinieri.it",
+            "name": "Carabinieristation Sterzing - Stazione Carabinieri di Vipiteno",
+            "name:de": "Carabinieristation Sterzing",
+            "opening_hours": "24/7",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852",
+            "phone": "+39 0472 726331"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4345469,
+              46.8961534
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2755935506",
+            "osm_type": "node",
+            "lat": 46.8828237,
+            "lon": 11.3776883,
+            "addr:city": "Ratschings - Racines",
+            "addr:city:de": "Ratschings",
+            "addr:city:it": "Racines",
+            "addr:hamlet": "Außerratschings - Racines di Fuori",
+            "addr:hamlet:de": "Außerratschings",
+            "addr:hamlet:it": "Racines di Fuori",
+            "addr:housenumber": "35",
+            "addr:postcode": "39040",
+            "addr:street": "Stange - Stanghe",
+            "addr:street:de": "Stange",
+            "addr:street:it": "Stanghe",
+            "amenity": "police",
+            "check_date": "2025-07-21",
+            "name": "Carabinieri",
+            "operator": "Arma dei Carabinieri",
+            "operator:wikidata": "Q54852"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3776883,
+              46.8828237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4400828102",
+            "osm_type": "node",
+            "lat": 46.8908611,
+            "lon": 11.4264854,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4264854,
+              46.8908611
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8761796418",
+            "osm_type": "node",
+            "lat": 46.8993935,
+            "lon": 11.4317441,
+            "addr:postcode": "39049",
+            "amenity": "police",
+            "check_date": "2024-07-21",
+            "name": "Stadtpolizei Sterzing - Polizia Municipale di Vipiteno",
+            "name:de": "Stadtpolizei Sterzing",
+            "name:it": "Polizia Municipale di Vipiteno",
+            "operator": "Polizia Municipale",
+            "operator:wikidata": "Q1431981",
+            "phone": "+39 0472 723770"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4317441,
+              46.8993935
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11826819486",
+            "osm_type": "node",
+            "lat": 46.8981658,
+            "lon": 11.4274668,
+            "addr:street": "12",
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4274668,
+              46.8981658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1602745695",
+            "osm_type": "node",
+            "lat": 46.8707315,
+            "lon": 11.0273151,
+            "addr:city": "Obergurgl",
+            "addr:country": "AT",
+            "addr:housenumber": "118",
+            "addr:postcode": "6456",
+            "addr:street": "Gurglerstraße",
+            "amenity": "police",
+            "name": "Polizeiinspektion Obergurgl",
+            "source": "http://www.polizei.gv.at/tirol/lpd/dst/dienststellen.aspx?org=6763397A306153764A6A6F3D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0273151,
+              46.8707315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2483728311",
+            "osm_type": "node",
+            "lat": 46.7074417,
+            "lon": 10.9049078,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9049078,
+              46.7074417
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

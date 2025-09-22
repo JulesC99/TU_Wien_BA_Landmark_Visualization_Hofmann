@@ -1,0 +1,5543 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 11.438358999999998,
+    "north": 49.017078,
+    "east": 13.345766
+  },
+  "poiCount": 218,
+  "leafCount": 0,
+  "averagePosition": [
+    12.384825398165136,
+    48.70676833440368
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 11.438358999999998,
+        "north": 48.68652475,
+        "east": 12.392062499999998
+      },
+      "poiCount": 54,
+      "leafCount": 0,
+      "averagePosition": [
+        11.8394996,
+        48.48065953518518
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 11.438358999999998,
+            "north": 48.521248125,
+            "east": 11.915210749999998
+          },
+          "poiCount": 24,
+          "leafCount": 24,
+          "averagePosition": [
+            11.635968520833332,
+            48.40996340416667
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1459930821",
+                "osm_type": "node",
+                "lat": 48.3612822,
+                "lon": 11.4452032,
+                "description": "Vierkirchen-Esterhofen, Gleis 1",
+                "level": "1",
+                "name": "Vierkirchen-Esterhofen",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "30.1",
+                "railway:ref": "MESH",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Vierkirchen-Esterhofen",
+                "uic_ref": "8001922",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4452032,
+                  48.3612822
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3732245431",
+                "osm_type": "node",
+                "lat": 48.3612929,
+                "lon": 11.4451413,
+                "name": "Vierkirchen-Esterhofen",
+                "network": "MVV",
+                "note": "Aufgrund fehlender Weichen im Stationsbereich offenbar Haltepunkt (railway=halt) statt Bahnhof (railway=station)",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MESH",
+                "railway:station_category": "5",
+                "ref:IFOPT": "de:09174:6830",
+                "train": "yes",
+                "uic_name": "Vierkirchen-Esterhofen",
+                "uic_ref": "8001922",
+                "wikidata": "Q58814830",
+                "wikipedia": "en:Vierkirchen-Esterhofen station"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4451413,
+                  48.3612929
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342540",
+                "osm_type": "node",
+                "lat": 48.3623491,
+                "lon": 11.7060105,
+                "description": "Pulling (bei Freising), Gleis 2, S1 Ri.Ostbahnhof",
+                "name": "Pulling (bei Freising)",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MPU",
+                "ref": "2",
+                "train": "yes",
+                "uic_ref": "8004900"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7060105,
+                  48.3623491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1452862993",
+                "osm_type": "node",
+                "lat": 48.3644595,
+                "lon": 11.7083115,
+                "description": "Pulling (bei Freising), Gleis 1, S1 Ri.Freising",
+                "name": "Pulling (bei Freising)",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MPU",
+                "ref": "1",
+                "train": "yes",
+                "uic_ref": "8004900"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7083115,
+                  48.3644595
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2499425075",
+                "osm_type": "node",
+                "lat": 48.3633523,
+                "lon": 11.7071116,
+                "name": "Pulling (bei Freising)",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MPU",
+                "railway:station_category": "5",
+                "ref:IFOPT": "de:09178:2670",
+                "train": "yes",
+                "uic_ref": "8004900",
+                "wikidata": "Q50319854"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7071116,
+                  48.3633523
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13878903",
+                "osm_type": "node",
+                "lat": 48.4142508,
+                "lon": 11.4713439,
+                "description": "Gleis 1",
+                "local_ref": "1",
+                "name": "Petershausen (Oberbay)",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "36.4",
+                "railway:ref": "MPE",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Petershausen (Oberbay)",
+                "uic_ref": "8004775"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4713439,
+                  48.4142508
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "472591563",
+                "osm_type": "node",
+                "lat": 48.4136911,
+                "lon": 11.4701052,
+                "description": "Gleis 5",
+                "local_ref": "5",
+                "name": "Petershausen (Oberbay)",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "36.2",
+                "railway:ref": "MPE",
+                "ref": "5",
+                "train": "yes",
+                "uic_name": "Petershausen (Oberbay)",
+                "uic_ref": "8004775"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4701052,
+                  48.4136911
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "472591626",
+                "osm_type": "node",
+                "lat": 48.413623,
+                "lon": 11.470235,
+                "description": "Gleis 4",
+                "local_ref": "4",
+                "name": "Petershausen (Oberbay)",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "36.4",
+                "railway:ref": "MPE",
+                "ref": "4",
+                "train": "yes",
+                "uic_name": "Petershausen (Oberbay)",
+                "uic_ref": "8004775"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.470235,
+                  48.413623
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1450406623",
+                "osm_type": "node",
+                "lat": 48.4429423,
+                "lon": 11.487625,
+                "name": "Paindorf",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MPD",
+                "railway:station_category": "6",
+                "ref:IFOPT": "de:09186:9019",
+                "ref:station": "4851",
+                "uic_name": "Paindorf",
+                "uic_ref": "8004747"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.487625,
+                  48.4429423
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2118701308",
+                "osm_type": "node",
+                "lat": 48.4137254,
+                "lon": 11.4700555,
+                "description": "Gleis 6",
+                "local_ref": "6",
+                "name": "Petershausen (Oberbay)",
+                "network": "MVV",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "36.2",
+                "railway:ref": "MPE",
+                "ref": "6",
+                "train": "yes",
+                "uic_name": "Petershausen (Oberbay)",
+                "uic_ref": "8004775"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4700555,
+                  48.4137254
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2119794520",
+                "osm_type": "node",
+                "lat": 48.4434607,
+                "lon": 11.4883515,
+                "local_ref": "1",
+                "name": "Paindorf",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "40.2",
+                "railway:ref": "MPD",
+                "train": "yes",
+                "uic_name": "Paindorf",
+                "uic_ref": "8004747"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4883515,
+                  48.4434607
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2209712444",
+                "osm_type": "node",
+                "lat": 48.4712548,
+                "lon": 11.5102605,
+                "local_ref": "4",
+                "name": "Reichertshausen (Ilm)",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "43.8",
+                "railway:ref": "MRS",
+                "train": "yes",
+                "uic_name": "Reichertshausen (Ilm)",
+                "uic_ref": "8005008"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5102605,
+                  48.4712548
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5156647322",
+                "osm_type": "node",
+                "lat": 48.4419491,
+                "lon": 11.4862775,
+                "local_ref": "2",
+                "name": "Paindorf",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "40.2",
+                "railway:ref": "MPD",
+                "train": "yes",
+                "uic_name": "Paindorf",
+                "uic_ref": "8004747"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4862775,
+                  48.4419491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7124675789",
+                "osm_type": "node",
+                "lat": 48.4708678,
+                "lon": 11.5100227,
+                "local_ref": "1",
+                "name": "Reichertshausen (Ilm)",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "43.8",
+                "railway:ref": "MRS",
+                "train": "yes",
+                "uic_name": "Reichertshausen (Ilm)",
+                "uic_ref": "8005008"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5100227,
+                  48.4708678
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342537",
+                "osm_type": "node",
+                "lat": 48.439117,
+                "lon": 11.8538794,
+                "description": "Langenbach, Gleis 2",
+                "local_ref": "2",
+                "name": "Langenbach (Oberbay)",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8538794,
+                  48.439117
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342582",
+                "osm_type": "node",
+                "lat": 48.3950825,
+                "lon": 11.7444249,
+                "description": "Freising, Gleis 2",
+                "name": "Freising",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MFR",
+                "ref": "2",
+                "train": "yes",
+                "uic_ref": "8002078",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7444249,
+                  48.3950825
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "32217767",
+                "osm_type": "node",
+                "lat": 48.4103739,
+                "lon": 11.8000118,
+                "description": "Marzling, Gleis 2",
+                "local_ref": "2",
+                "name": "Marzling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MMZG",
+                "train": "yes",
+                "uic_name": "8003905",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8000118,
+                  48.4103739
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "461820236",
+                "osm_type": "node",
+                "lat": 48.395053,
+                "lon": 11.7444695,
+                "description": "Freising, Gleis 3",
+                "name": "Freising",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MFR",
+                "ref": "3",
+                "train": "yes",
+                "uic_ref": "8002078",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7444695,
+                  48.395053
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "461820237",
+                "osm_type": "node",
+                "lat": 48.3949884,
+                "lon": 11.7445808,
+                "description": "Freising, Gleis 4",
+                "name": "Freising",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MFR",
+                "ref": "4",
+                "train": "yes",
+                "uic_ref": "8002078",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7445808,
+                  48.3949884
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1509630983",
+                "osm_type": "node",
+                "lat": 48.395148,
+                "lon": 11.7443176,
+                "description": "Freising, Gleis 1",
+                "name": "Freising",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MFR",
+                "ref": "1",
+                "train": "yes",
+                "uic_ref": "8002078",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7443176,
+                  48.395148
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3616940483",
+                "osm_type": "node",
+                "lat": 48.4390986,
+                "lon": 11.8539452,
+                "description": "Langenbach, Gleis 1",
+                "local_ref": "1",
+                "name": "Langenbach (Oberbay)",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8539452,
+                  48.4390986
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3718549066",
+                "osm_type": "node",
+                "lat": 48.411057,
+                "lon": 11.8014892,
+                "description": "Marzling, Gleis 1",
+                "name": "Marzling",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8014892,
+                  48.411057
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6707800839",
+                "osm_type": "node",
+                "lat": 48.4103443,
+                "lon": 11.8000428,
+                "description": "Marzling, Gleis 1",
+                "local_ref": "1",
+                "name": "Marzling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "MMZG",
+                "train": "yes",
+                "uic_name": "8003905",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8000428,
+                  48.4103443
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6707800840",
+                "osm_type": "node",
+                "lat": 48.410358,
+                "lon": 11.8000284,
+                "description": "Der ursprüngliche Bahnhof ist ca. 450 m weiter westlich.",
+                "name": "Marzling",
+                "network": "Münchner Verkehrs- und Tarifverbund",
+                "network:guid": "DE-BY-MVV",
+                "network:short": "MVV",
+                "network:wikidata": "Q259000",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MMZG",
+                "railway:station_category": "6",
+                "start_date": "2007",
+                "train": "yes",
+                "uic_ref": "8003905",
+                "wheelchair": "yes",
+                "wikidata": "Q117291774"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8000284,
+                  48.410358
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 11.915210749999998,
+            "north": 48.521248125,
+            "east": 12.392062499999998
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            12.09779295,
+            48.480135110000006
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342535",
+                "osm_type": "node",
+                "lat": 48.5160421,
+                "lon": 11.9979481,
+                "local_ref": "1",
+                "name": "Bruckberg",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9979481,
+                  48.5160421
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342536",
+                "osm_type": "node",
+                "lat": 48.4704574,
+                "lon": 11.9306315,
+                "description": "Moosburg, Gleis 2",
+                "local_ref": "2",
+                "name": "Moosburg",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9306315,
+                  48.4704574
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "503914640",
+                "osm_type": "node",
+                "lat": 48.516027,
+                "lon": 11.997967,
+                "name": "Bruckberg",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MBR",
+                "railway:station_category": "6",
+                "train": "yes",
+                "uic_ref": "8001203",
+                "wheelchair": "yes",
+                "wikidata": "Q116024910"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.997967,
+                  48.516027
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3718656700",
+                "osm_type": "node",
+                "lat": 48.4704493,
+                "lon": 11.9307046,
+                "description": "Moosburg, Gleis 1",
+                "local_ref": "1",
+                "name": "Moosburg",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9307046,
+                  48.4704493
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4731940410",
+                "osm_type": "node",
+                "lat": 48.5160107,
+                "lon": 11.997981,
+                "local_ref": "2",
+                "name": "Bruckberg",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.997981,
+                  48.5160107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12444388235",
+                "osm_type": "node",
+                "lat": 48.4704659,
+                "lon": 11.9304402,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9304402,
+                  48.4704659
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3478800910",
+                "osm_type": "node",
+                "lat": 48.447172,
+                "lon": 12.3474945,
+                "description": "Vilsbiburg, Gleis 1",
+                "name": "Vilsbiburg",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3474945,
+                  48.447172
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3478800914",
+                "osm_type": "node",
+                "lat": 48.4471902,
+                "lon": 12.3474016,
+                "description": "Vilsbiburg, Gleis 2",
+                "name": "Vilsbiburg",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3474016,
+                  48.4471902
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4379136389",
+                "osm_type": "node",
+                "lat": 48.4736082,
+                "lon": 12.2490034,
+                "description": "Geisenhausen, Gleis 2",
+                "name": "Geisenhausen",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2490034,
+                  48.4736082
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5662090569",
+                "osm_type": "node",
+                "lat": 48.4739283,
+                "lon": 12.2483576,
+                "description": "Geisenhausen, Gleis 1",
+                "name": "Geisenhausen",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2483576,
+                  48.4739283
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 11.438358999999998,
+            "north": 48.68652475,
+            "east": 11.915210749999998
+          },
+          "poiCount": 6,
+          "leafCount": 6,
+          "averagePosition": [
+            11.5150967,
+            48.60103204999999
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6752589549",
+                "osm_type": "node",
+                "lat": 48.6742469,
+                "lon": 11.4602744,
+                "local_ref": "1",
+                "name": "Baar-Ebenhausen",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "72.9",
+                "railway:ref": "MBAE",
+                "train": "yes",
+                "uic_name": "Baar-Ebenhausen",
+                "uic_ref": "8000678"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4602744,
+                  48.6742469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6752589550",
+                "osm_type": "node",
+                "lat": 48.6742477,
+                "lon": 11.460041,
+                "local_ref": "4",
+                "name": "Baar-Ebenhausen",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "72.9",
+                "railway:ref": "MBAE",
+                "train": "yes",
+                "uic_name": "Baar-Ebenhausen",
+                "uic_ref": "8000678"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.460041,
+                  48.6742477
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7124635073",
+                "osm_type": "node",
+                "lat": 48.5218852,
+                "lon": 11.5116563,
+                "bus": "no",
+                "local_ref": "1",
+                "name": "Pfaffenhofen (Ilm)",
+                "network": "INVG",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "49.7",
+                "railway:ref": "MPF",
+                "train": "yes",
+                "uic_name": "Pfaffenhofen (Ilm)",
+                "uic_ref": "8004781"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5116563,
+                  48.5218852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7124675788",
+                "osm_type": "node",
+                "lat": 48.5219323,
+                "lon": 11.5119012,
+                "local_ref": "4",
+                "name": "Pfaffenhofen (Ilm)",
+                "network": "INVG",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "49.7",
+                "railway:ref": "NPF",
+                "train": "yes",
+                "uic_name": "Pfaffenhofen (Ilm)",
+                "uic_ref": "8004781"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5119012,
+                  48.5219323
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7124675786",
+                "osm_type": "node",
+                "lat": 48.6062486,
+                "lon": 11.573196,
+                "bus": "no",
+                "local_ref": "4",
+                "name": "Rohrbach (Ilm)",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "60.2",
+                "railway:ref": "MRBI",
+                "train": "yes",
+                "uic_name": "Rohrbach (Ilm)",
+                "uic_ref": "8000256"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.573196,
+                  48.6062486
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7124675787",
+                "osm_type": "node",
+                "lat": 48.6076316,
+                "lon": 11.5735113,
+                "bus": "no",
+                "local_ref": "1",
+                "name": "Rohrbach (Ilm)",
+                "network": "INVG",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "60.2",
+                "railway:ref": "MRBI",
+                "train": "yes",
+                "uic_name": "Rohrbach (Ilm)",
+                "uic_ref": "8000256"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5735113,
+                  48.6076316
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 11.915210749999998,
+            "north": 48.68652475,
+            "east": 12.392062499999998
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            12.142944585714286,
+            48.55063927142857
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14342534",
+                "osm_type": "node",
+                "lat": 48.5261681,
+                "lon": 12.0336042,
+                "description": "Gündlkofen, Gleis 1",
+                "local_ref": "1",
+                "name": "Gündlkofen",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0336042,
+                  48.5261681
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "197183379",
+                "osm_type": "node",
+                "lat": 48.6241762,
+                "lon": 12.3327877,
+                "local_ref": "2",
+                "name": "Wörth (Isar)",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "17.4",
+                "railway:ref": "MWTI",
+                "train": "yes",
+                "uic_name": "Wörth (Isar)",
+                "uic_ref": "80264457",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3327877,
+                  48.6241762
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "458243901",
+                "osm_type": "node",
+                "lat": 48.5261233,
+                "lon": 12.0335722,
+                "description": "Gündlkofen, Gleis 1",
+                "local_ref": "2",
+                "name": "Gündlkofen",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0335722,
+                  48.5261233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1862807218",
+                "osm_type": "node",
+                "lat": 48.5243244,
+                "lon": 12.1404601,
+                "name": "Landshut (Bay) Süd",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MLAS",
+                "railway:station_category": "SOB",
+                "uic_name": "Landshut(Bay)Süd",
+                "uic_ref": "8003514",
+                "wikidata": "Q55000745",
+                "wikipedia": "de:Bahnhof Landshut (Bay) Süd"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1404601,
+                  48.5243244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073966",
+                "osm_type": "node",
+                "lat": 48.5478641,
+                "lon": 12.1361463,
+                "local_ref": "8",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "8",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1361463,
+                  48.5478641
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073967",
+                "osm_type": "node",
+                "lat": 48.5477575,
+                "lon": 12.1362137,
+                "local_ref": "7",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "7",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1362137,
+                  48.5477575
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073968",
+                "osm_type": "node",
+                "lat": 48.5477186,
+                "lon": 12.1362335,
+                "local_ref": "6",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "6",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1362335,
+                  48.5477186
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073969",
+                "osm_type": "node",
+                "lat": 48.5476269,
+                "lon": 12.1362883,
+                "local_ref": "5",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "5",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1362883,
+                  48.5476269
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073970",
+                "osm_type": "node",
+                "lat": 48.5475873,
+                "lon": 12.1363142,
+                "local_ref": "4",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1363142,
+                  48.5475873
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073971",
+                "osm_type": "node",
+                "lat": 48.5475021,
+                "lon": 12.1363669,
+                "local_ref": "3",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1363669,
+                  48.5475021
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713073972",
+                "osm_type": "node",
+                "lat": 48.5474259,
+                "lon": 12.1364274,
+                "local_ref": "1",
+                "name": "Landshut (Bay) Hbf",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1364274,
+                  48.5474259
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4713159324",
+                "osm_type": "node",
+                "lat": 48.5242881,
+                "lon": 12.1404298,
+                "local_ref": "1",
+                "name": "Landshut (Bay) Süd",
+                "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1404298,
+                  48.5242881
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6691853793",
+                "osm_type": "node",
+                "lat": 48.526151,
+                "lon": 12.0336033,
+                "name": "Gündlkofen",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MGKF",
+                "railway:station_category": "6",
+                "train": "yes",
+                "uic_ref": "8002457",
+                "wheelchair": "yes",
+                "wikidata": "Q116017229"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0336033,
+                  48.526151
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9400483735",
+                "osm_type": "node",
+                "lat": 48.6242363,
+                "lon": 12.3327766,
+                "local_ref": "3",
+                "name": "Wörth (Isar)",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "17.4",
+                "railway:ref": "MWTI",
+                "train": "yes",
+                "uic_name": "Wörth (Isar)",
+                "uic_ref": "80264457"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3327766,
+                  48.6242363
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 12.392062499999998,
+        "north": 48.68652475,
+        "east": 13.345766
+      },
+      "poiCount": 38,
+      "leafCount": 38,
+      "averagePosition": [
+        12.897643331578948,
+        48.45968917105263
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1316110538",
+            "osm_type": "node",
+            "lat": 48.3612713,
+            "lon": 12.5029881,
+            "local_ref": "2",
+            "name": "Neumarkt St Veit",
+            "operator": "DB RegioNetz Infrastruktur GmbH Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5029881,
+              48.3612713
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4069759543",
+            "osm_type": "node",
+            "lat": 48.361329,
+            "lon": 12.5028842,
+            "local_ref": "3",
+            "name": "Neumarkt St Veit",
+            "operator": "DB RegioNetz Infrastruktur GmbH Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5028842,
+              48.361329
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5662090554",
+            "osm_type": "node",
+            "lat": 48.3612428,
+            "lon": 12.5030321,
+            "local_ref": "1",
+            "name": "Neumarkt St Veit",
+            "operator": "DB RegioNetz Infrastruktur GmbH Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5030321,
+              48.3612428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "14334686",
+            "osm_type": "node",
+            "lat": 48.6416041,
+            "lon": 12.4853919,
+            "local_ref": "3",
+            "name": "Dingolfing",
+            "operator": "DB InfraGO AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:position": "29.1",
+            "railway:ref": "MDIF",
+            "ref": "3",
+            "train": "yes",
+            "uic_name": "Dingolfing",
+            "uic_ref": "80264424",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4853919,
+              48.6416041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "40213253",
+            "osm_type": "node",
+            "lat": 48.4174038,
+            "lon": 12.3982295,
+            "name": "Aich (Niederbayern)",
+            "official_name": "Aich (Niederbay)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MAIC",
+            "railway:station_category": "SOB",
+            "uic_name": "Aich(Niederbay)",
+            "uic_ref": "8000451"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3982295,
+              48.4174038
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1492805150",
+            "osm_type": "node",
+            "lat": 48.6415415,
+            "lon": 12.4853936,
+            "local_ref": "2",
+            "name": "Dingolfing",
+            "operator": "DB InfraGO AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:position": "29.1",
+            "railway:ref": "MDIF",
+            "ref": "2",
+            "train": "yes",
+            "uic_name": "Dingolfing",
+            "uic_ref": "80264424",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4853936,
+              48.6415415
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4211574950",
+            "osm_type": "node",
+            "lat": 48.3956865,
+            "lon": 12.4460488,
+            "name": "Egglkofen",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4460488,
+              48.3956865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4211574951",
+            "osm_type": "node",
+            "lat": 48.3957314,
+            "lon": 12.4460722,
+            "description": "Egglkofen, Gleis 1",
+            "name": "Egglkofen",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4460722,
+              48.3957314
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5662090544",
+            "osm_type": "node",
+            "lat": 48.4174069,
+            "lon": 12.3981241,
+            "name": "Aich (Niederbayern)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3981241,
+              48.4174069
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "449099458",
+            "osm_type": "node",
+            "lat": 48.4165885,
+            "lon": 12.8185384,
+            "name": "Hebertsfelden",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MHEF",
+            "railway:station_category": "SOB",
+            "uic_ref": "8002671"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8185384,
+              48.4165885
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2559690147",
+            "osm_type": "node",
+            "lat": 48.4061331,
+            "lon": 12.7676928,
+            "description": "Eggenfelden Mitte, Gleis 1",
+            "name": "Eggenfelden Mitte",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7676928,
+              48.4061331
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3452029336",
+            "osm_type": "node",
+            "lat": 48.4291678,
+            "lon": 12.9380197,
+            "local_ref": "3",
+            "name": "Pfarrkirchen",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9380197,
+              48.4291678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3452029338",
+            "osm_type": "node",
+            "lat": 48.4292237,
+            "lon": 12.9380096,
+            "local_ref": "2",
+            "name": "Pfarrkirchen",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9380096,
+              48.4292237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3631401547",
+            "osm_type": "node",
+            "lat": 48.4038733,
+            "lon": 12.7487611,
+            "description": "Eggenfelden, Gleis 1",
+            "name": "Eggenfelden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7487611,
+              48.4038733
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3631401548",
+            "osm_type": "node",
+            "lat": 48.4039556,
+            "lon": 12.7489615,
+            "description": "Eggenfelden, Gleis 2",
+            "name": "Eggenfelden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7489615,
+              48.4039556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4408025067",
+            "osm_type": "node",
+            "lat": 48.4166452,
+            "lon": 12.8188309,
+            "name": "Hebertsfelden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8188309,
+              48.4166452
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4557140914",
+            "osm_type": "node",
+            "lat": 48.4061084,
+            "lon": 12.7676901,
+            "name": "Eggenfelden Mitte",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MEFM",
+            "railway:station_category": "SOB",
+            "uic_ref": "8001676"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7676901,
+              48.4061084
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4711650509",
+            "osm_type": "node",
+            "lat": 48.6829714,
+            "lon": 12.69535,
+            "local_ref": "3",
+            "name": "Landau (Isar)",
+            "operator": "DB InfraGO AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:position": "45.3",
+            "railway:ref": "MLDI",
+            "train": "yes",
+            "uic_name": "Landau (Isar)",
+            "uic_ref": "80165456",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.69535,
+              48.6829714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4711650510",
+            "osm_type": "node",
+            "lat": 48.6828864,
+            "lon": 12.6953967,
+            "local_ref": "2",
+            "name": "Landau (Isar)",
+            "operator": "DB InfraGO AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:position": "45.3",
+            "railway:ref": "MLDI",
+            "train": "yes",
+            "uic_name": "Landau (Isar)",
+            "uic_ref": "80165456",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6953967,
+              48.6828864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575189",
+            "osm_type": "node",
+            "lat": 48.3940142,
+            "lon": 12.608181,
+            "name": "Massing",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.608181,
+              48.3940142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575190",
+            "osm_type": "node",
+            "lat": 48.3939473,
+            "lon": 12.6081836,
+            "name": "Massing",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6081836,
+              48.3939473
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575192",
+            "osm_type": "node",
+            "lat": 48.4347933,
+            "lon": 13.0219095,
+            "name": "Anzenkirchen",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0219095,
+              48.4347933
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "86039461",
+            "osm_type": "node",
+            "lat": 48.4079953,
+            "lon": 13.1874076,
+            "local_ref": "2",
+            "name": "Karpfham",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1874076,
+              48.4079953
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "370829110",
+            "osm_type": "node",
+            "lat": 48.4336142,
+            "lon": 13.3351386,
+            "name": "Ruhstorf",
+            "note": "\"Ruhstorf\" ist die offizielle Betriebsstellenbezeichnung; aufgrund fehlender Weichen offenbar Haltepunkt (railway=halt) statt Bahnhof (railway=station)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MRUS",
+            "railway:station_category": "SOB",
+            "train": "yes",
+            "uic_ref": "8005223",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3351386,
+              48.4336142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3543827173",
+            "osm_type": "node",
+            "lat": 48.4142786,
+            "lon": 13.1346861,
+            "name": "Bayerbach",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1346861,
+              48.4142786
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3543827174",
+            "osm_type": "node",
+            "lat": 48.4143022,
+            "lon": 13.1347195,
+            "name": "Bayerbach",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MBYB",
+            "railway:station_category": "SOB",
+            "train": "yes",
+            "uic_ref": "8000828"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1347195,
+              48.4143022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4367536117",
+            "osm_type": "node",
+            "lat": 48.5131523,
+            "lon": 13.3339596,
+            "description": "Fürstenzell, Gleis 3",
+            "local_ref": "3",
+            "name": "Fürstenzell",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3339596,
+              48.5131523
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4367536118",
+            "osm_type": "node",
+            "lat": 48.5131638,
+            "lon": 13.3338791,
+            "description": "Fürstenzell, Gleis 2",
+            "local_ref": "2",
+            "name": "Fürstenzell",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3338791,
+              48.5131638
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4533848482",
+            "osm_type": "node",
+            "lat": 48.4079355,
+            "lon": 13.187399,
+            "name": "Karpfham",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.187399,
+              48.4079355
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4738066629",
+            "osm_type": "node",
+            "lat": 48.4079676,
+            "lon": 13.1874038,
+            "name": "Karpfham",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:ref": "MKH",
+            "railway:station_category": "SOB",
+            "uic_ref": "8003191"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1874038,
+              48.4079676
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4739582725",
+            "osm_type": "node",
+            "lat": 48.6295211,
+            "lon": 13.1909559,
+            "name": "Vilshofen (Niederbay)",
+            "operator": "DB Netz AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:pzb": "yes",
+            "railway:ref": "NVI",
+            "ref": "3",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1909559,
+              48.6295211
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575193",
+            "osm_type": "node",
+            "lat": 48.4328678,
+            "lon": 13.0741547,
+            "name": "Bad Birnbach",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0741547,
+              48.4328678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575194",
+            "osm_type": "node",
+            "lat": 48.4061702,
+            "lon": 13.313377,
+            "name": "Pocking",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.313377,
+              48.4061702
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575195",
+            "osm_type": "node",
+            "lat": 48.4061003,
+            "lon": 13.3133976,
+            "name": "Pocking",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3133976,
+              48.4061003
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575196",
+            "osm_type": "node",
+            "lat": 48.4336201,
+            "lon": 13.3352081,
+            "name": "Ruhstorf",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3352081,
+              48.4336201
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5225575197",
+            "osm_type": "node",
+            "lat": 48.4946972,
+            "lon": 13.3231654,
+            "name": "Bad Höhenstadt",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3231654,
+              48.4946972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9220421720",
+            "osm_type": "node",
+            "lat": 48.6296191,
+            "lon": 13.1909532,
+            "name": "Vilshofen (Niederbay)",
+            "operator": "DB Netz AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:pzb": "yes",
+            "railway:ref": "NVI",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1909532,
+              48.6296191
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9400483737",
+            "osm_type": "node",
+            "lat": 48.6296577,
+            "lon": 13.190952,
+            "name": "Vilshofen (Niederbay)",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.190952,
+              48.6296577
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 11.438358999999998,
+        "north": 49.017078,
+        "east": 12.392062499999998
+      },
+      "poiCount": 64,
+      "leafCount": 0,
+      "averagePosition": [
+        12.079667010937499,
+        48.8732887125
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 11.438358999999998,
+            "north": 48.851801374999994,
+            "east": 11.915210749999998
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            11.69614266,
+            48.77021252
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015271",
+                "osm_type": "node",
+                "lat": 48.7333875,
+                "lon": 11.5738322,
+                "description": "Ernsgaden, Gleis",
+                "name": "Ernsgaden",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "train": "yes",
+                "uic_ref": "8001853"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5738322,
+                  48.7333875
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015272",
+                "osm_type": "node",
+                "lat": 48.7394262,
+                "lon": 11.6091382,
+                "name": "Vohburg-Rockolding",
+                "network": "VGI",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "tactile_paving": "no",
+                "train": "yes",
+                "uic_ref": "8006101"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6091382,
+                  48.7394262
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015273",
+                "osm_type": "node",
+                "lat": 48.75867,
+                "lon": 11.6885486,
+                "name": "Münchsmünster",
+                "network": "INVG",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "tactile_paving": "no",
+                "train": "yes",
+                "uic_ref": "8004165"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6885486,
+                  48.75867
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015274",
+                "osm_type": "node",
+                "lat": 48.8000881,
+                "lon": 11.76303,
+                "name": "Neustadt (Donau)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "tactile_paving": "yes",
+                "train": "yes",
+                "uic_ref": "8004326"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.76303,
+                  48.8000881
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015276",
+                "osm_type": "node",
+                "lat": 48.8194532,
+                "lon": 11.8465535,
+                "name": "Abensberg",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8465535,
+                  48.8194532
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "447818501",
+                "osm_type": "node",
+                "lat": 48.8193966,
+                "lon": 11.8465727,
+                "name": "Abensberg",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.8465727,
+                  48.8193966
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "450775899",
+                "osm_type": "node",
+                "lat": 48.7394958,
+                "lon": 11.60912,
+                "name": "Vohburg-Rockolding",
+                "network": "VGI",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "tactile_paving": "no",
+                "train": "yes",
+                "uic_ref": "8006101"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.60912,
+                  48.7394958
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4556888596",
+                "osm_type": "node",
+                "lat": 48.7587399,
+                "lon": 11.6885041,
+                "name": "Münchsmünster",
+                "network": "INVG",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "tactile_paving": "no",
+                "train": "yes",
+                "uic_ref": "8004165"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.6885041,
+                  48.7587399
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9983646294",
+                "osm_type": "node",
+                "lat": 48.7332922,
+                "lon": 11.5731512,
+                "name": "Ernsgaden",
+                "network": "INVG",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MERG",
+                "railway:station_category": "6",
+                "ref:station": "1660",
+                "uic_ref": "8001853"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.5731512,
+                  48.7332922
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12508965604",
+                "osm_type": "node",
+                "lat": 48.8001757,
+                "lon": 11.7629761,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.7629761,
+                  48.8001757
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 11.915210749999998,
+            "north": 48.851801374999994,
+            "east": 12.392062499999998
+          },
+          "poiCount": 21,
+          "leafCount": 21,
+          "averagePosition": [
+            12.220956557142856,
+            48.77918493333333
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707384",
+                "osm_type": "node",
+                "lat": 48.7555492,
+                "lon": 12.2181812,
+                "name": "Oberlindhart",
+                "on_demand": "yes",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "rail": "yes",
+                "railway": "halt",
+                "railway:ref": "MOLH",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Oberlindhart",
+                "uic_ref": "8004554",
+                "wikidata": "Q113260389"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2181812,
+                  48.7555492
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707386",
+                "osm_type": "node",
+                "lat": 48.7682035,
+                "lon": 12.257116,
+                "name": "Mallersdorf",
+                "on_demand": "yes",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MMD",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Mallersdorf",
+                "uic_ref": "8003830",
+                "wikidata": "Q116017607"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.257116,
+                  48.7682035
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707387",
+                "osm_type": "node",
+                "lat": 48.7967714,
+                "lon": 12.3151056,
+                "name": "Laberweinting",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MLBW",
+                "railway:station_category": "7",
+                "train": "yes",
+                "uic_name": "Laberweinting",
+                "uic_ref": "8003488",
+                "wheelchair": "yes",
+                "wikidata": "Q116017465"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3151056,
+                  48.7967714
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707388",
+                "osm_type": "node",
+                "lat": 48.8112131,
+                "lon": 12.3605384,
+                "name": "Sallach",
+                "on_demand": "yes",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MSAL",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Sallach",
+                "uic_ref": "8005259",
+                "wikidata": "Q116018667"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3605384,
+                  48.8112131
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "206092363",
+                "osm_type": "node",
+                "lat": 48.6939482,
+                "lon": 12.2018203,
+                "name": "Ergoldsbach",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2018203,
+                  48.6939482
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "320025455",
+                "osm_type": "node",
+                "lat": 48.8318007,
+                "lon": 12.142765,
+                "name": "Schierling",
+                "operator": "Rail Bavaria Logisitik",
+                "operator:short": "RBL",
+                "operator:wikidata": "Q132181747",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "3.30",
+                "railway:ref": "MSLG",
+                "uic_name": "Schierling"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.142765,
+                  48.8318007
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "457014107",
+                "osm_type": "node",
+                "lat": 48.8368509,
+                "lon": 12.1828186,
+                "description": "Eggmühl, Gleis 2",
+                "local_ref": "2",
+                "name": "Eggmühl",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1828186,
+                  48.8368509
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "457330504",
+                "osm_type": "node",
+                "lat": 48.7298562,
+                "lon": 12.190401,
+                "name": "Neufahrn (Niederbayern)",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.190401,
+                  48.7298562
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2328307332",
+                "osm_type": "node",
+                "lat": 48.8372627,
+                "lon": 12.1837428,
+                "description": "Eggmühl, Gleis 3",
+                "name": "Eggmühl",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1837428,
+                  48.8372627
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4353949931",
+                "osm_type": "node",
+                "lat": 48.6944206,
+                "lon": 12.2018956,
+                "name": "Ergoldsbach",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2018956,
+                  48.6944206
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4643796127",
+                "osm_type": "node",
+                "lat": 48.7298549,
+                "lon": 12.1903393,
+                "name": "Neufahrn (Niederbayern)",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1903393,
+                  48.7298549
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4711356831",
+                "osm_type": "node",
+                "lat": 48.7967983,
+                "lon": 12.315087,
+                "local_ref": "1",
+                "name": "Laberweinting",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "12.2",
+                "railway:ref": "MLBW",
+                "train": "yes",
+                "uic_name": "Laberweinting",
+                "uic_ref": "8003488",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.315087,
+                  48.7967983
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5529390968",
+                "osm_type": "node",
+                "lat": 48.7298625,
+                "lon": 12.1905422,
+                "name": "Neufahrn (Niederbayern)",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1905422,
+                  48.7298625
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658971420",
+                "osm_type": "node",
+                "lat": 48.7555331,
+                "lon": 12.2181983,
+                "name": "Oberlindhart",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "3.7",
+                "railway:ref": "MOLH",
+                "train": "yes",
+                "uic_name": "Oberlindhart",
+                "uic_ref": "8004554"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2181983,
+                  48.7555331
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972024",
+                "osm_type": "node",
+                "lat": 48.7624724,
+                "lon": 12.2378708,
+                "local_ref": "2",
+                "name": "Niederlindhart",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "5.3",
+                "railway:ref": "MNLH",
+                "train": "yes",
+                "uic_name": "Niederlindhart",
+                "uic_ref": "8004391"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2378708,
+                  48.7624724
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972025",
+                "osm_type": "node",
+                "lat": 48.7625194,
+                "lon": 12.2378388,
+                "local_ref": "1",
+                "name": "Niederlindhart",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "5.3",
+                "railway:ref": "MNLH",
+                "train": "yes",
+                "uic_name": "Niederlindhart",
+                "uic_ref": "8004391"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2378388,
+                  48.7625194
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972026",
+                "osm_type": "node",
+                "lat": 48.7681369,
+                "lon": 12.2570366,
+                "local_ref": "1",
+                "name": "Mallersdorf",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "6.9",
+                "railway:ref": "MMD",
+                "train": "yes",
+                "uic_name": "Mallersdorf",
+                "uic_ref": "8003830"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2570366,
+                  48.7681369
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972028",
+                "osm_type": "node",
+                "lat": 48.8113645,
+                "lon": 12.3608974,
+                "name": "Sallach",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "15.9",
+                "railway:ref": "MSAL",
+                "train": "yes",
+                "uic_name": "Sallach",
+                "uic_ref": "8005259"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3608974,
+                  48.8113645
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12436962790",
+                "osm_type": "node",
+                "lat": 48.8365404,
+                "lon": 12.1821455,
+                "operator": "Rail Bavaria Logisitik",
+                "operator:short": "RBL",
+                "operator:wikidata": "Q132181747",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1821455,
+                  48.8365404
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12617528272",
+                "osm_type": "node",
+                "lat": 48.8319087,
+                "lon": 12.1412377,
+                "operator": "Rail Bavaria Logisitik",
+                "operator:short": "RBL",
+                "operator:wikidata": "Q132181747",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1412377,
+                  48.8319087
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12632563251",
+                "osm_type": "node",
+                "lat": 48.822016,
+                "lon": 12.0545096,
+                "operator": "Rail Bavaria Logisitik",
+                "operator:short": "RBL",
+                "operator:wikidata": "Q132181747",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0545096,
+                  48.822016
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 11.915210749999998,
+            "north": 49.017078,
+            "east": 12.392062499999998
+          },
+          "poiCount": 33,
+          "leafCount": 33,
+          "averagePosition": [
+            12.105974981818182,
+            48.96440814545454
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015277",
+                "osm_type": "node",
+                "lat": 48.9023729,
+                "lon": 11.9340437,
+                "local_ref": "2",
+                "name": "Saal (Donau)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "24.7",
+                "railway:ref": "NSL",
+                "tactile_paving": "no",
+                "train": "yes",
+                "uic_name": "Saal (Donau)",
+                "uic_ref": "8005238",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9340437,
+                  48.9023729
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015279",
+                "osm_type": "node",
+                "lat": 48.9317295,
+                "lon": 12.0140394,
+                "name": "Poikam",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "station",
+                "rail": "yes",
+                "railway": "halt",
+                "railway:ref": "NPOI",
+                "ref:station": "4980",
+                "train": "yes",
+                "uic_ref": "8004853"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0140394,
+                  48.9317295
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015280",
+                "osm_type": "node",
+                "lat": 48.9448452,
+                "lon": 12.0037762,
+                "name": "Gundelshausen",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0037762,
+                  48.9448452
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "447885391",
+                "osm_type": "node",
+                "lat": 48.9023222,
+                "lon": 11.9337981,
+                "local_ref": "1",
+                "name": "Saal (Donau)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "24.7",
+                "railway:ref": "NSL",
+                "train": "yes",
+                "uic_name": "Saal (Donau)",
+                "uic_ref": "8005238"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9337981,
+                  48.9023222
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4688757426",
+                "osm_type": "node",
+                "lat": 48.9448798,
+                "lon": 12.0036785,
+                "name": "Gundelshausen",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NGU",
+                "railway:station_category": "6",
+                "ref:station": "2415",
+                "train": "yes",
+                "uic_ref": "8002468"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0036785,
+                  48.9448798
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12486328856",
+                "osm_type": "node",
+                "lat": 48.9225659,
+                "lon": 11.9933941,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9933941,
+                  48.9225659
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12486328857",
+                "osm_type": "node",
+                "lat": 48.9226257,
+                "lon": 11.9933756,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.9933756,
+                  48.9226257
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015282",
+                "osm_type": "node",
+                "lat": 48.9908323,
+                "lon": 12.0376579,
+                "name": "Sinzing",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0376579,
+                  48.9908323
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14015283",
+                "osm_type": "node",
+                "lat": 49.0124416,
+                "lon": 12.0491826,
+                "name": "Regensburg-Prüfening",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0491826,
+                  49.0124416
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "34005319",
+                "osm_type": "node",
+                "lat": 48.9679081,
+                "lon": 12.169365,
+                "name": "Obertraubling",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.169365,
+                  48.9679081
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "34005321",
+                "osm_type": "node",
+                "lat": 48.8843988,
+                "lon": 12.3561958,
+                "local_ref": "1",
+                "name": "Sünching",
+                "network": "Regensburger Verkehrsverbund",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3561958,
+                  48.8843988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "34005626",
+                "osm_type": "node",
+                "lat": 49.0116935,
+                "lon": 12.0486701,
+                "name": "Regensburg-Prüfening",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:pzb": "yes",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0486701,
+                  49.0116935
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707424",
+                "osm_type": "node",
+                "lat": 48.8964838,
+                "lon": 12.2147306,
+                "description": "Hagelstadt, Gleis 1",
+                "name": "Hagelstadt",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2147306,
+                  48.8964838
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707426",
+                "osm_type": "node",
+                "lat": 48.9321949,
+                "lon": 12.2083618,
+                "name": "Köfering",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2083618,
+                  48.9321949
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "322643611",
+                "osm_type": "node",
+                "lat": 49.0120027,
+                "lon": 12.0998987,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0998987,
+                  49.0120027
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "470381924",
+                "osm_type": "node",
+                "lat": 49.0115436,
+                "lon": 12.0968984,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "109",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0968984,
+                  49.0115436
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "470381940",
+                "osm_type": "node",
+                "lat": 49.0115665,
+                "lon": 12.1010885,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "108",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1010885,
+                  49.0115665
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "527358898",
+                "osm_type": "node",
+                "lat": 49.0114981,
+                "lon": 12.0999377,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "9",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0999377,
+                  49.0114981
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "527358900",
+                "osm_type": "node",
+                "lat": 49.0116156,
+                "lon": 12.0999044,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "8",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0999044,
+                  49.0116156
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "534753717",
+                "osm_type": "node",
+                "lat": 49.0118712,
+                "lon": 12.0998979,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0998979,
+                  49.0118712
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "534775466",
+                "osm_type": "node",
+                "lat": 49.0117511,
+                "lon": 12.0999077,
+                "name": "Regensburg Hauptbahnhof",
+                "name:ar": "محطة ريغنسبورغ المركزية",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "5",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0999077,
+                  49.0117511
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1019187250",
+                "osm_type": "node",
+                "lat": 48.9904341,
+                "lon": 12.1466915,
+                "name": "Regensburg-Burgweinting",
+                "network": "RVV",
+                "official_name": "Regensburg-Burgweinting Hp",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NBWH",
+                "train": "yes",
+                "uic_ref": "80852343",
+                "wikidata": "Q108180520"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1466915,
+                  48.9904341
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1019187269",
+                "osm_type": "node",
+                "lat": 48.9896104,
+                "lon": 12.1474349,
+                "name": "Regensburg - Burgweinting",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1474349,
+                  48.9896104
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2951149891",
+                "osm_type": "node",
+                "lat": 49.0124154,
+                "lon": 12.0492667,
+                "name": "Regensburg-Prüfening",
+                "network": "RVV",
+                "note": "Dies ist der Haltepunkt Prüfening, die Bahnsteige an der Nürnberger-Strecke sind hingehen Bahnhofsteil von Regensburg Hbf",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NRPH",
+                "toilets:wheelchair": "no",
+                "train": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0492667,
+                  49.0124154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4404027811",
+                "osm_type": "node",
+                "lat": 48.8961643,
+                "lon": 12.2148397,
+                "description": "Hagelstadt, Gleis 2",
+                "name": "Hagelstadt",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2148397,
+                  48.8961643
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4443956675",
+                "osm_type": "node",
+                "lat": 48.9326892,
+                "lon": 12.2080511,
+                "name": "Köfering",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2080511,
+                  48.9326892
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4486502569",
+                "osm_type": "node",
+                "lat": 48.9912523,
+                "lon": 12.1459472,
+                "name": "Regensburg-Burgweinting",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1459472,
+                  48.9912523
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4531827403",
+                "osm_type": "node",
+                "lat": 48.9907978,
+                "lon": 12.0377334,
+                "name": "Sinzing",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "operator:website": "https://dbinfrago.com",
+                "operator:wikidata": "Q122870674",
+                "operator:wikipedia": "de:DB InfraGO",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NSIH",
+                "ref:station": "5872",
+                "start_date": "2005-12-11",
+                "train": "yes",
+                "uic_ref": "80850438",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.0377334,
+                  48.9907978
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4688867298",
+                "osm_type": "node",
+                "lat": 48.896057,
+                "lon": 12.2148128,
+                "name": "Hagelstadt",
+                "network": "Regensburger Verkehrsverbund",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NHA",
+                "railway:station_category": "6",
+                "train": "yes",
+                "uic_ref": "8002506",
+                "wikidata": "Q108179502"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.2148128,
+                  48.896057
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6176471791",
+                "osm_type": "node",
+                "lat": 48.9685546,
+                "lon": 12.1685722,
+                "name": "Obertraubling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1685722,
+                  48.9685546
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12465317287",
+                "osm_type": "node",
+                "lat": 48.8846161,
+                "lon": 12.3558797,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3558797,
+                  48.8846161
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12509303278",
+                "osm_type": "node",
+                "lat": 49.0116396,
+                "lon": 12.048675,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.048675,
+                  49.0116396
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12703915553",
+                "osm_type": "node",
+                "lat": 49.012095,
+                "lon": 12.1014675,
+                "name": "Regensburg Hauptbahnhof",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "101",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.1014675,
+                  49.012095
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 12.392062499999998,
+        "north": 49.017078,
+        "east": 13.345766
+      },
+      "poiCount": 62,
+      "leafCount": 0,
+      "averagePosition": [
+        12.860481017741936,
+        48.88324541774194
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 12.392062499999998,
+            "north": 48.851801374999994,
+            "east": 12.86891425
+          },
+          "poiCount": 13,
+          "leafCount": 13,
+          "averagePosition": [
+            12.750733438461538,
+            48.788521853846156
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4504504455",
+                "osm_type": "node",
+                "lat": 48.8223935,
+                "lon": 12.3923705,
+                "local_ref": "3",
+                "name": "Geiselhöring",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "18.6",
+                "railway:ref": "MGLG",
+                "train": "yes",
+                "uic_name": "Geiselhöring",
+                "uic_ref": "8002209"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3923705,
+                  48.8223935
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972029",
+                "osm_type": "node",
+                "lat": 48.8224516,
+                "lon": 12.3923199,
+                "local_ref": "2",
+                "name": "Geiselhöring",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "18.6",
+                "railway:ref": "MGLG",
+                "train": "yes",
+                "uic_name": "Geiselhöring",
+                "uic_ref": "8002209"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.3923199,
+                  48.8224516
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14334688",
+                "osm_type": "node",
+                "lat": 48.7795422,
+                "lon": 12.8643256,
+                "local_ref": "3",
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "NPL",
+                "ref": "3",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q801322"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8643256,
+                  48.7795422
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4697156247",
+                "osm_type": "node",
+                "lat": 48.8338987,
+                "lon": 12.7199196,
+                "name": "Straßkirchen",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.7199196,
+                  48.8338987
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4697156248",
+                "osm_type": "node",
+                "lat": 48.8336118,
+                "lon": 12.7206225,
+                "name": "Straßkirchen",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.7206225,
+                  48.8336118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4698923602",
+                "osm_type": "node",
+                "lat": 48.7406554,
+                "lon": 12.7434291,
+                "local_ref": "3",
+                "name": "Wallersdorf",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "52.9",
+                "railway:ref": "NWLD",
+                "train": "yes",
+                "uic_name": "Wallersdorf",
+                "uic_ref": "80264192",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.7434291,
+                  48.7406554
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4698923603",
+                "osm_type": "node",
+                "lat": 48.7405993,
+                "lon": 12.7434856,
+                "local_ref": "2",
+                "name": "Wallersdorf",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "52.9",
+                "railway:ref": "NWLD",
+                "train": "yes",
+                "uic_name": "Wallersdorf",
+                "uic_ref": "80264192",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.7434856,
+                  48.7405993
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8587268336",
+                "osm_type": "node",
+                "lat": 48.7797209,
+                "lon": 12.8636102,
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "6",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8636102,
+                  48.7797209
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9400397684",
+                "osm_type": "node",
+                "lat": 48.7793924,
+                "lon": 12.8636057,
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8636057,
+                  48.7793924
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9400483736",
+                "osm_type": "node",
+                "lat": 48.7794363,
+                "lon": 12.8636079,
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8636079,
+                  48.7794363
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11236984530",
+                "osm_type": "node",
+                "lat": 48.7796826,
+                "lon": 12.8643235,
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "5",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8643235,
+                  48.7796826
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12355474502",
+                "osm_type": "node",
+                "lat": 48.7798174,
+                "lon": 12.8635914,
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "8",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8635914,
+                  48.7798174
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12355474503",
+                "osm_type": "node",
+                "lat": 48.779582,
+                "lon": 12.8643232,
+                "name": "Plattling",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8643232,
+                  48.779582
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 12.86891425,
+            "north": 48.851801374999994,
+            "east": 13.345766
+          },
+          "poiCount": 8,
+          "leafCount": 8,
+          "averagePosition": [
+            12.9628945125,
+            48.7755270875
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "14334689",
+                "osm_type": "node",
+                "lat": 48.6955502,
+                "lon": 13.0184046,
+                "local_ref": "1",
+                "name": "Osterhofen (Niederbay)",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.0184046,
+                  48.6955502
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370014783",
+                "osm_type": "node",
+                "lat": 48.8394424,
+                "lon": 12.949842,
+                "local_ref": "2",
+                "name": "Deggendorf Hbf",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "72.4",
+                "railway:ref": "NDG",
+                "ref": "2",
+                "train": "yes",
+                "uic_name": "Deggendorf Hbf",
+                "uic_ref": "8001397",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.949842,
+                  48.8394424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "794955604",
+                "osm_type": "node",
+                "lat": 48.7995264,
+                "lon": 12.8992188,
+                "name": "Pankofen",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "66.5",
+                "railway:ref": "NPK",
+                "train": "yes",
+                "uic_name": "Pankofen",
+                "uic_ref": "8004749"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8992188,
+                  48.7995264
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1167943042",
+                "osm_type": "node",
+                "lat": 48.6955793,
+                "lon": 13.0184219,
+                "local_ref": "2",
+                "name": "Osterhofen (Niederbay)",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.0184219,
+                  48.6955793
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1316137592",
+                "osm_type": "node",
+                "lat": 48.839432,
+                "lon": 12.9498967,
+                "local_ref": "1",
+                "name": "Deggendorf Hbf",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "72.4",
+                "railway:ref": "NDG",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Deggendorf Hbf",
+                "uic_ref": "1",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9498967,
+                  48.839432
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1316137616",
+                "osm_type": "node",
+                "lat": 48.8394722,
+                "lon": 12.9497163,
+                "local_ref": "3",
+                "name": "Deggendorf Hbf",
+                "operator": "DB Netz AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "72.4",
+                "railway:ref": "NDG",
+                "ref": "3",
+                "train": "yes",
+                "uic_name": "Deggendorf Hbf",
+                "uic_ref": "8001397",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9497163,
+                  48.8394722
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6695733763",
+                "osm_type": "node",
+                "lat": 48.695665,
+                "lon": 13.018473,
+                "local_ref": "3",
+                "name": "Osterhofen (Niederbay)",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.018473,
+                  48.695665
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10830599849",
+                "osm_type": "node",
+                "lat": 48.7995492,
+                "lon": 12.8991828,
+                "name": "Pankofen",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NPK",
+                "railway:station_category": "6",
+                "train": "yes",
+                "uic_name": "Pankofen",
+                "uic_ref": "8004749",
+                "wikidata": "Q116018208"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.8991828,
+                  48.7995492
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 12.392062499999998,
+            "north": 49.017078,
+            "east": 12.86891425
+          },
+          "poiCount": 19,
+          "leafCount": 19,
+          "averagePosition": [
+            12.574414784210527,
+            48.881768863157895
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35707390",
+                "osm_type": "node",
+                "lat": 48.8573427,
+                "lon": 12.4372215,
+                "name": "Perkam",
+                "on_demand": "yes",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "MPRM",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Perkam",
+                "uic_ref": "8004770",
+                "wikidata": "Q116018213"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.4372215,
+                  48.8573427
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972030",
+                "osm_type": "node",
+                "lat": 48.8573683,
+                "lon": 12.4372106,
+                "name": "Perkam",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "23.7",
+                "railway:ref": "MPRM",
+                "train": "yes",
+                "uic_name": "Perkam",
+                "uic_ref": "8004770"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.4372106,
+                  48.8573683
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4722037844",
+                "osm_type": "node",
+                "lat": 48.8746564,
+                "lon": 12.442691,
+                "local_ref": "3",
+                "name": "Radldorf (Niederbay)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "26.2",
+                "railway:ref": "NRA",
+                "train": "yes",
+                "uic_name": "Radldorf (Niederbay)",
+                "uic_ref": "8004917"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.442691,
+                  48.8746564
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4722038383",
+                "osm_type": "node",
+                "lat": 48.874741,
+                "lon": 12.4427136,
+                "local_ref": "2",
+                "name": "Radldorf (Niederbay)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "NRA",
+                "train": "yes",
+                "uic_name": "Radldorf (Niederbay)",
+                "uic_ref": "8004917"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.4427136,
+                  48.874741
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972064",
+                "osm_type": "node",
+                "lat": 48.8747897,
+                "lon": 12.4427046,
+                "local_ref": "1",
+                "name": "Radldorf (Niederbay)",
+                "network": "RVV",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:ref": "NRA",
+                "train": "yes",
+                "uic_name": "Radldorf (Niederbay)",
+                "uic_ref": "8004917"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.4427046,
+                  48.8747897
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35709064",
+                "osm_type": "node",
+                "lat": 48.8971231,
+                "lon": 12.6726219,
+                "name": "Sand (Niederbayern)",
+                "official_name": "Sand (Niederbay)",
+                "on_demand": "yes",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NSND",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Sand(Niederbay)",
+                "uic_ref": "8005279",
+                "wikidata": "Q116155648"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6726219,
+                  48.8971231
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35709068",
+                "osm_type": "node",
+                "lat": 48.8765025,
+                "lon": 12.5926187,
+                "name": "Straubing Ost",
+                "on_demand": "yes",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NSTT",
+                "railway:station_category": "7",
+                "request_stop": "yes",
+                "train": "yes",
+                "uic_name": "Straubing-Ost",
+                "uic_ref": "8006745",
+                "wikidata": "Q113260657"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5926187,
+                  48.8765025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1799797999",
+                "osm_type": "node",
+                "lat": 48.9107259,
+                "lon": 12.6865526,
+                "name": "Bogen",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NBO",
+                "railway:station_category": "6",
+                "toilets:wheelchair": "yes",
+                "train": "yes",
+                "uic_ref": "8001069",
+                "wheelchair": "yes",
+                "wikidata": "Q113258667"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6865526,
+                  48.9107259
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4430726955",
+                "osm_type": "node",
+                "lat": 48.884894,
+                "lon": 12.6372292,
+                "description": "Ittling",
+                "name": "Ittling",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wikidata": "Q116155630"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6372292,
+                  48.884894
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4695335996",
+                "osm_type": "node",
+                "lat": 48.8848756,
+                "lon": 12.63723,
+                "name": "Ittling",
+                "operator": "DB Netz AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NIL",
+                "railway:station_category": "7",
+                "train": "yes",
+                "uic_ref": "8003100",
+                "wikidata": "Q116155630"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.63723,
+                  48.8848756
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4697265778",
+                "osm_type": "node",
+                "lat": 48.8764837,
+                "lon": 12.5926251,
+                "name": "Straubing Ost",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5926251,
+                  48.8764837
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4727380144",
+                "osm_type": "node",
+                "lat": 48.9106631,
+                "lon": 12.6863438,
+                "name": "Bogen",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "tactile_paving": "yes",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6863438,
+                  48.9106631
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972077",
+                "osm_type": "node",
+                "lat": 48.8768112,
+                "lon": 12.5742339,
+                "local_ref": "5",
+                "name": "Straubing",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5742339,
+                  48.8768112
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972078",
+                "osm_type": "node",
+                "lat": 48.8769102,
+                "lon": 12.5742556,
+                "local_ref": "4",
+                "name": "Straubing",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5742556,
+                  48.8769102
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972079",
+                "osm_type": "node",
+                "lat": 48.8769512,
+                "lon": 12.5742733,
+                "local_ref": "3",
+                "name": "Straubing",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5742733,
+                  48.8769512
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972080",
+                "osm_type": "node",
+                "lat": 48.8770438,
+                "lon": 12.5742877,
+                "local_ref": "2",
+                "name": "Straubing",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5742877,
+                  48.8770438
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972081",
+                "osm_type": "node",
+                "lat": 48.8770849,
+                "lon": 12.5742925,
+                "local_ref": "1",
+                "name": "Straubing",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.5742925,
+                  48.8770849
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5658972083",
+                "osm_type": "node",
+                "lat": 48.8971354,
+                "lon": 12.6726077,
+                "name": "Sand (Niederbayern)",
+                "operator": "DB Station&Service AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref:IFOPT": "de:09278:80794:1:1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6726077,
+                  48.8971354
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11061976096",
+                "osm_type": "node",
+                "lat": 48.8915057,
+                "lon": 12.6621676,
+                "name": "Straubing Hafen",
+                "note": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Neue-Station-Straubing-Hafen-feierlich-eingeweiht-12972720#",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "halt",
+                "railway:ref": "NSH",
+                "start_date": "2024-06-09",
+                "wikidata": "Q120802158"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.6621676,
+                  48.8915057
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 12.86891425,
+            "north": 49.017078,
+            "east": 13.345766
+          },
+          "poiCount": 22,
+          "leafCount": 22,
+          "averagePosition": [
+            13.13514779090909,
+            48.97966394090909
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "38903193",
+                "osm_type": "node",
+                "lat": 48.9585686,
+                "lon": 12.9838995,
+                "description": "Gotteszell, Gleis 2",
+                "name": "Gotteszell",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9838995,
+                  48.9585686
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "528615554",
+                "osm_type": "node",
+                "lat": 48.958598,
+                "lon": 12.9838026,
+                "description": "Gotteszell, Gleis 1",
+                "name": "Gotteszell",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9838026,
+                  48.958598
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "534082258",
+                "osm_type": "node",
+                "lat": 48.8898422,
+                "lon": 12.9732876,
+                "name": "Grafling-Arzting",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9732876,
+                  48.8898422
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2367304995",
+                "osm_type": "node",
+                "lat": 49.0130266,
+                "lon": 12.9935911,
+                "name": "Patersdorf",
+                "operator": "Die Länderbahn GmbH DLB",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NPAD",
+                "train": "yes",
+                "wikidata": "Q118799826"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9935911,
+                  49.0130266
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2367305003",
+                "osm_type": "node",
+                "lat": 48.9896925,
+                "lon": 12.9913869,
+                "name": "Ruhmannsfelden",
+                "operator": "Die Länderbahn GmbH DLB",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NRUF",
+                "train": "yes",
+                "wikidata": "Q118746724"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9913869,
+                  48.9896925
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8898730220",
+                "osm_type": "node",
+                "lat": 48.8897379,
+                "lon": 12.9732705,
+                "name": "Grafling-Arzting",
+                "operator": "DB Netz AG;DB Station&Service AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NGFA",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q116019580"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9732705,
+                  48.8897379
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11025336365",
+                "osm_type": "node",
+                "lat": 48.9896893,
+                "lon": 12.9913693,
+                "name": "Ruhmannsfelden",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9913693,
+                  48.9896893
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11025345814",
+                "osm_type": "node",
+                "lat": 49.0130235,
+                "lon": 12.9936065,
+                "name": "Patersdorf",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  12.9936065,
+                  49.0130235
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "38903189",
+                "osm_type": "node",
+                "lat": 48.944802,
+                "lon": 13.3360524,
+                "description": "Klingenbrunn",
+                "name": "Klingenbrunn",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "railway:ref": "NKNB",
+                "train": "yes",
+                "uic_ref": "8003338",
+                "website": "https://www.bahnhof.de/bahnhof-de/Klingenbrunn.html?hl=Klingenbrunn",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.3360524,
+                  48.944802
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292158478",
+                "osm_type": "node",
+                "lat": 49.0157443,
+                "lon": 13.1817956,
+                "addr:city": "Langdorf",
+                "addr:housenumber": "2",
+                "addr:postcode": "94264",
+                "addr:street": "Waldbahnstraße",
+                "name": "Außenried",
+                "operator": "DB InfraGO AG",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NAUR",
+                "ref:station": "231",
+                "train": "yes",
+                "wikidata": "Q116016909"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.1817956,
+                  49.0157443
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "479727555",
+                "osm_type": "node",
+                "lat": 49.0065685,
+                "lon": 13.2770485,
+                "name": "Zwieselau",
+                "public_transport": "station",
+                "rail": "yes",
+                "railway": "halt",
+                "railway:ref": "NZWU",
+                "train": "yes",
+                "uic_ref": "8006685",
+                "wikidata": "Q116019233"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.2770485,
+                  49.0065685
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "528651675",
+                "osm_type": "node",
+                "lat": 48.9685674,
+                "lon": 13.1363909,
+                "name": "Regen",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NREG",
+                "train": "yes",
+                "wikidata": "Q116018262"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.1363909,
+                  48.9685674
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1177216506",
+                "osm_type": "node",
+                "lat": 49.0088708,
+                "lon": 13.2466713,
+                "name": "Lichtenthal",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NLH",
+                "train": "yes",
+                "uic_ref": "8003676",
+                "wikidata": "Q116017567"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.2466713,
+                  49.0088708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1316189095",
+                "osm_type": "node",
+                "lat": 48.9976181,
+                "lon": 13.1863298,
+                "image": "http://commons.wikimedia.org/wiki/File%3ABahnhof_Bettmanns%C3%A4ge.JPG",
+                "name": "Bettmannsäge",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "NBMS",
+                "train": "yes",
+                "uic_ref": "8000928",
+                "wikidata": "Q116018746"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.1863298,
+                  48.9976181
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1695208514",
+                "osm_type": "node",
+                "lat": 48.9691187,
+                "lon": 13.0531061,
+                "name": "Triefenried",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "railway:ref": "NTRI",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.0531061,
+                  48.9691187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3451673703",
+                "osm_type": "node",
+                "lat": 48.944744,
+                "lon": 13.3360514,
+                "name": "Klingenbrunn",
+                "public_transport": "station",
+                "rail": "yes",
+                "railway": "halt",
+                "railway:ref": "NKNB",
+                "railway:station_category": "7",
+                "train": "yes",
+                "uic_ref": "8003338",
+                "wikidata": "Q116017434"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.3360514,
+                  48.944744
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4698831308",
+                "osm_type": "node",
+                "lat": 48.9691567,
+                "lon": 13.0532015,
+                "name": "Triefenried",
+                "public_transport": "stop_position",
+                "rail": "yes",
+                "railway": "stop",
+                "railway:ref": "NTRI",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.0532015,
+                  48.9691567
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8587293594",
+                "osm_type": "node",
+                "lat": 49.0087783,
+                "lon": 13.246533,
+                "name": "Lichtenthal",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.246533,
+                  49.0087783
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10860473628",
+                "osm_type": "node",
+                "lat": 49.0158744,
+                "lon": 13.1815135,
+                "name": "Außenried",
+                "operator": "DB InfraGO AG",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.1815135,
+                  49.0158744
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10917744432",
+                "osm_type": "node",
+                "lat": 48.9874934,
+                "lon": 13.2999985,
+                "name": "Frauenau",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.2999985,
+                  48.9874934
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11010017270",
+                "osm_type": "node",
+                "lat": 49.0065341,
+                "lon": 13.2771563,
+                "name": "Zwieselau",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.2771563,
+                  49.0065341
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11532113388",
+                "osm_type": "node",
+                "lat": 49.0065574,
+                "lon": 13.2771886,
+                "name": "Zwieselau",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.2771886,
+                  49.0065574
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

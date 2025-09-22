@@ -1,0 +1,61 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    13.943371500000001,
+    46.61023285
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9881578348",
+        "osm_type": "node",
+        "lat": 46.5975191,
+        "lon": 13.829461,
+        "addr:city": "Villach",
+        "addr:country": "AT",
+        "addr:housenumber": "55",
+        "addr:postcode": "9500",
+        "addr:street": "Warmbader Allee",
+        "internet_access": "wlan",
+        "name": "Motel55",
+        "tourism": "motel",
+        "website": "https://www.motel55.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.829461,
+          46.5975191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13109284060",
+        "osm_type": "node",
+        "lat": 46.6229466,
+        "lon": 14.057282,
+        "name": "Appartments Wurzer",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.057282,
+          46.6229466
+        ]
+      }
+    }
+  ],
+  "children": []
+}

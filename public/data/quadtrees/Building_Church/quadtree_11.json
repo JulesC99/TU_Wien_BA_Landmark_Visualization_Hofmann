@@ -1,0 +1,60 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 11.438358999999998,
+    "north": 49.017078,
+    "east": 13.345766
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    11.602133049999999,
+    48.5226026
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11399728440",
+        "osm_type": "node",
+        "lat": 48.5372712,
+        "lon": 11.5157495,
+        "building": "church",
+        "name": "Freie-Christen-Gemeinde",
+        "office": "religion",
+        "website": "https://www.fcg-pfaffenhofen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5157495,
+          48.5372712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "282556561",
+        "osm_type": "node",
+        "lat": 48.507934,
+        "lon": 11.6885166,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "St. Jakobus der Ältere",
+        "religion": "christian",
+        "wheelchair": "yes",
+        "wikidata": "Q64939864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6885166,
+          48.507934
+        ]
+      }
+    }
+  ],
+  "children": []
+}

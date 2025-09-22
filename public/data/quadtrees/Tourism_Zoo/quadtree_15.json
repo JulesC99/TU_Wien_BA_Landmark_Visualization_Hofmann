@@ -1,0 +1,85 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    16.500418533333335,
+    48.5734246
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6528786903",
+        "osm_type": "node",
+        "lat": 48.3689132,
+        "lon": 16.5286321,
+        "animal": "deer;emu;goat;turkey;chicken;sheep;llama",
+        "attraction": "animal",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5286321,
+          48.3689132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9889662978",
+        "osm_type": "node",
+        "lat": 48.5447936,
+        "lon": 16.3481531,
+        "addr:city": "Ernstbrunn",
+        "addr:place": "Dörfles",
+        "addr:postcode": "2115",
+        "charge": "9.80 EUR",
+        "email": "info@wildpark-ernstbrunn.at",
+        "fee": "yes",
+        "name": "Wildpark Ernstbrunn",
+        "opening_hours": "Mar 23- Nov 02 Mo-Su,PH 09:00-17:00,  Nov 03-Mar 22 Sa-Su 10:00-16:00",
+        "operator": "Wildpark Reuss GmbH&CO.KG",
+        "phone": "+43 2576 2785",
+        "tourism": "zoo",
+        "website": "https://www.wildpark-ernstbrunn.at/",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3481531,
+          48.5447936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3668600162",
+        "osm_type": "node",
+        "lat": 48.806567,
+        "lon": 16.6244704,
+        "name": "Minizoo",
+        "source": "survey",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6244704,
+          48.806567
+        ]
+      }
+    }
+  ],
+  "children": []
+}

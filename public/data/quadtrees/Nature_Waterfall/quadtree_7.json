@@ -1,0 +1,57 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    15.71970635,
+    47.191205999999994
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2794935775",
+        "osm_type": "node",
+        "lat": 47.2104929,
+        "lon": 15.8276572,
+        "name": "Abfallsammelzentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8276572,
+          47.2104929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4206878538",
+        "osm_type": "node",
+        "lat": 47.1719191,
+        "lon": 15.6117555,
+        "addr:city": "Mitterdorf an der Raab",
+        "addr:housenumber": "5c",
+        "addr:place": "Mitterdorf an der Raab",
+        "addr:postcode": "8181",
+        "amenity": "recycling",
+        "name": "Abfallsammelzentrum",
+        "recycling_type": "centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6117555,
+          47.1719191
+        ]
+      }
+    }
+  ],
+  "children": []
+}

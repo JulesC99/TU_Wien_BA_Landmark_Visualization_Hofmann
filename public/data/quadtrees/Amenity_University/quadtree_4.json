@@ -1,0 +1,123 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 4,
+  "leafCount": 4,
+  "averagePosition": [
+    14.20209565,
+    46.6193726
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11888501941",
+        "osm_type": "node",
+        "lat": 46.6113497,
+        "lon": 13.88367,
+        "addr:city": "Villach",
+        "addr:housenumber": "4",
+        "addr:postcode": "9500",
+        "addr:street": "Europastraße",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "level": "4",
+        "name": "FH Kärnten Campus Villach",
+        "operator": "FH Kärnten",
+        "operator:type": "private",
+        "website": "https://www.fh-kaernten.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.88367,
+          46.6113497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "528189988",
+        "osm_type": "node",
+        "lat": 46.6213167,
+        "lon": 14.3136682,
+        "amenity": "university",
+        "name": "Konservatorium",
+        "wheelchair": "yes",
+        "wikidata": "Q1795424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3136682,
+          46.6213167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1746568559",
+        "osm_type": "node",
+        "lat": 46.6264458,
+        "lon": 14.2999244,
+        "addr:city": "Klagenfurt am Wörthersee",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "9020",
+        "addr:street": "Sterneckstraße",
+        "alt_name": "IFF",
+        "amenity": "university",
+        "check": "yes",
+        "check_date": "2024-04-14",
+        "name": "Fakultät für Interdisziplinäre Forschung und Fortbildung",
+        "name:en": "Faculty for Interdisciplinary Research and Continuing Education",
+        "website": "https://www.aau.at/iff/",
+        "wheelchair": "yes",
+        "wikidata": "Q1393822",
+        "wikipedia": "de:Fakultät für Interdisziplinäre Forschung und Fortbildung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2999244,
+          46.6264458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9660370573",
+        "osm_type": "node",
+        "lat": 46.6183782,
+        "lon": 14.31112,
+        "addr:city": "Klagenfurt am Wörthersee",
+        "addr:housenumber": "4",
+        "addr:postcode": "9020",
+        "addr:street": "Kempfstraße",
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "Digital Age Research Center (D!ARC)",
+        "operator": "University of Klagenfurt",
+        "operator:type": "public",
+        "source": "https://www.aau.at/en/digital-age-research-center/",
+        "website": "https://www.aau.at/en/digital-age-research-center/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31112,
+          46.6183782
+        ]
+      }
+    }
+  ],
+  "children": []
+}

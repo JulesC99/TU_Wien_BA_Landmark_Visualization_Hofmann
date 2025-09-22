@@ -1,0 +1,59 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 11.438358999999998,
+    "north": 47.694865,
+    "east": 13.345766
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    12.51681245,
+    47.26474725
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1313208400",
+        "osm_type": "node",
+        "lat": 47.2597906,
+        "lon": 12.2800214,
+        "name": "Gasthaus Stockenbaum",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2800214,
+          47.2597906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5483206581",
+        "osm_type": "node",
+        "lat": 47.2697039,
+        "lon": 12.7536035,
+        "addr:city": "Kaprun",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "5710",
+        "addr:street": "Schulstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "name": "Mara Haus Kaprun Edition",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7536035,
+          47.2697039
+        ]
+      }
+    }
+  ],
+  "children": []
+}

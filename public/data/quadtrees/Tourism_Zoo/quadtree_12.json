@@ -1,0 +1,83 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 13.345766,
+    "north": 48.355971499999995,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    13.940412533333335,
+    48.008964
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "941781172",
+        "osm_type": "node",
+        "lat": 47.8421613,
+        "lon": 13.7332132,
+        "name": "Streichelzoo Hochsteinalm",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7332132,
+          47.8421613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "281224500",
+        "osm_type": "node",
+        "lat": 48.194292,
+        "lon": 13.9555456,
+        "addr:city": "Krenglbach",
+        "addr:country": "AT",
+        "addr:housenumber": "73",
+        "addr:postcode": "4631",
+        "addr:street": "Krenglbacher Straße",
+        "name": "Zoo Schmiding",
+        "phone": "+43 7249 46272",
+        "tourism": "zoo",
+        "url": "http://www.zooschmiding.at",
+        "wheelchair": "limited",
+        "wikidata": "Q220084",
+        "wikipedia": "de:Zoo Schmiding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9555456,
+          48.194292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11278242082",
+        "osm_type": "node",
+        "lat": 47.9904387,
+        "lon": 14.1324788,
+        "fee": "no",
+        "name": "Streichelzoo Feichthub",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1324788,
+          47.9904387
+        ]
+      }
+    }
+  ],
+  "children": []
+}

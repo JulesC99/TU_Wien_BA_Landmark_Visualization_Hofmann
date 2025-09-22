@@ -1,0 +1,80 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    9.882017266666667,
+    46.9666169
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7393596617",
+        "osm_type": "node",
+        "lat": 46.9023786,
+        "lon": 9.8645457,
+        "name": "Geissler Tierpark",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8645457,
+          46.9023786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10670134905",
+        "osm_type": "node",
+        "lat": 47.0129337,
+        "lon": 9.5450682,
+        "name": "Heidi's Animals",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5450682,
+          47.0129337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1372750759",
+        "osm_type": "node",
+        "lat": 46.9845384,
+        "lon": 10.2364379,
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "99",
+        "addr:postcode": "6562",
+        "addr:street": "Silvrettastraße",
+        "at_bev:addr_date": "2023-04-15",
+        "fee": "no",
+        "name": "Wildpark Ischgl",
+        "tourism": "zoo",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2364379,
+          46.9845384
+        ]
+      }
+    }
+  ],
+  "children": []
+}

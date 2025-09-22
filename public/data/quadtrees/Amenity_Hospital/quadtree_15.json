@@ -1,0 +1,86 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    15.986466233333333,
+    48.807741266666675
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5996501695",
+        "osm_type": "node",
+        "lat": 48.8126079,
+        "lon": 15.2852107,
+        "addr:city": "Waidhofen an der Thaya",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "3830",
+        "addr:street": "Moritz Schadekgasse",
+        "amenity": "hospital",
+        "at_bev:addr_date": "2018-04-02",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry;child_psychiatry",
+        "name": "Landesklinikum Waidhofen/Thaya",
+        "note": "Hauptgebäude",
+        "operator": "NÖ Landesgesundheitsagentur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2852107,
+          48.8126079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7250194767",
+        "osm_type": "node",
+        "lat": 48.5994152,
+        "lon": 15.5480317,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gesundheitszentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5480317,
+          48.5994152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4687284589",
+        "osm_type": "node",
+        "lat": 49.0112007,
+        "lon": 17.1261563,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "Dětská Nemocnice",
+        "name:cs": "Dětská Nemocnice",
+        "name:en": "Child Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1261563,
+          49.0112007
+        ]
+      }
+    }
+  ],
+  "children": []
+}

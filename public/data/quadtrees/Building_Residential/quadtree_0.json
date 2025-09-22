@@ -1,0 +1,64 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    11.21710955,
+    46.85750965
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8736571924",
+        "osm_type": "node",
+        "lat": 46.9010455,
+        "lon": 11.1865217,
+        "building": "residential",
+        "name": "Frauenhaus",
+        "name:de": "Frauenhaus",
+        "razed": "yes",
+        "razed:building": "residential"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1865217,
+          46.9010455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2755992120",
+        "osm_type": "node",
+        "lat": 46.8139738,
+        "lon": 11.2476974,
+        "addr:city": "St. Leonhard in Passeier - San Leonardo in Passiria",
+        "addr:city:de": "St. Leonhard in Passeier",
+        "addr:city:it": "San Leonardo in Passiria",
+        "addr:housenumber": "18",
+        "addr:postcode": "39015",
+        "addr:street": "Schlossweg - Via Castello",
+        "addr:street:de": "Schlossweg",
+        "addr:street:it": "Via Castello",
+        "building": "residential",
+        "name": "Mairhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2476974,
+          46.8139738
+        ]
+      }
+    }
+  ],
+  "children": []
+}

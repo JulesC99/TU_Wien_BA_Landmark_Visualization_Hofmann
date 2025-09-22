@@ -1,0 +1,6018 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 264,
+  "leafCount": 0,
+  "averagePosition": [
+    10.502064148106061,
+    48.04227745833334
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 9.530952,
+        "north": 48.02541825,
+        "east": 10.484655499999999
+      },
+      "poiCount": 60,
+      "leafCount": 0,
+      "averagePosition": [
+        9.858757169999999,
+        47.84721017166667
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.694865,
+            "west": 9.530952,
+            "north": 47.860141625,
+            "east": 10.007803749999999
+          },
+          "poiCount": 27,
+          "leafCount": 27,
+          "averagePosition": [
+            9.682062381481481,
+            47.7825398
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "53924610",
+                "osm_type": "node",
+                "lat": 47.7856681,
+                "lon": 9.6201331,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "22",
+                "addr:postcode": "88212",
+                "addr:street": "Spohnstraße",
+                "amenity": "school",
+                "description": "Das Albert-Einstein-Gymnasium teilt sich das Gebaüde mit dem SPohn-Gymnasium, Sekretariat des Albert-Einstein-Gymnasiums ist im 2. Stock",
+                "fixme": "Das AEG und das Spohn befinden sich im selben Gebäude.\nEs ist unklar wie der ideale Weg wäre diesen Sachverhalt in OSM zu beschreiben",
+                "name": "Albert-Einstein-Gymnasium",
+                "phone": "+49 751 82342",
+                "website": "https://www.aegrv.de/",
+                "wheelchair": "no",
+                "wikidata": "Q23787482"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6201331,
+                  47.7856681
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "251447985",
+                "osm_type": "node",
+                "lat": 47.7081217,
+                "lon": 9.7492096,
+                "amenity": "school",
+                "contact:email": "info@schulzentrum-amtzell.de",
+                "contact:fax": "+49 7520 9562-23",
+                "contact:phone": "+49 7520 9562-0",
+                "name": "Ländliches Schulzentrum Amtzell Gemeinschaftsschule",
+                "website": "https://www.schulzentrum-amtzell.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7492096,
+                  47.7081217
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "358161501",
+                "osm_type": "node",
+                "lat": 47.7842415,
+                "lon": 9.5883971,
+                "amenity": "school",
+                "contact:email": "hoer-sprachzentrum@zieglersche.de",
+                "name": "Hör- und Sprachzentrum",
+                "phone": "+49 751 7902-0"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5883971,
+                  47.7842415
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "427781257",
+                "osm_type": "node",
+                "lat": 47.7227701,
+                "lon": 9.9660789,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9660789,
+                  47.7227701
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "648840635",
+                "osm_type": "node",
+                "lat": 47.7741411,
+                "lon": 9.6160415,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "3",
+                "addr:postcode": "88212",
+                "addr:street": "St. Christina",
+                "amenity": "school",
+                "contact:phone": "+49 751 3555 967-0",
+                "contact:website": "http://www.schule-st-christina.de/",
+                "lastcheck": "2017-02-06",
+                "name": "Grundschule St. Christina",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6160415,
+                  47.7741411
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "694947105",
+                "osm_type": "node",
+                "lat": 47.8348028,
+                "lon": 9.8749202,
+                "amenity": "school",
+                "name": "Grundschule Immenried"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8749202,
+                  47.8348028
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "747195137",
+                "osm_type": "node",
+                "lat": 47.7854193,
+                "lon": 9.6202963,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "22",
+                "addr:postcode": "88212",
+                "addr:street": "Spohnstraße",
+                "amenity": "school",
+                "description": "Das Spohn-Gymnasium teilt sich das Gebäude mit dem Albert-Einstein-Gymnasium. Sekretariat des Spohngymnasiums im 1.Stock Humanitstisches Gymnasium",
+                "fax": "+49 751 82111",
+                "name": "Spohn-Gymnasium",
+                "phone": "+49 751 82130",
+                "website": "https://www.spohngymnasium.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q2311893",
+                "wikipedia": "de:Spohn-Gymnasium Ravensburg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6202963,
+                  47.7854193
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "940243224",
+                "osm_type": "node",
+                "lat": 47.788242,
+                "lon": 9.8860139,
+                "addr:city": "Kißlegg",
+                "addr:housenumber": "1",
+                "addr:postcode": "88353",
+                "addr:street": "Franz-Speth-Straße",
+                "amenity": "school",
+                "contact:email": "ghwrs@kisslegg.schule.bwl.de",
+                "contact:fax": "+49 7563 909253",
+                "contact:phone": "+49 7563 1008",
+                "contact:website": "https://www.gwrs-kisslegg.de/",
+                "name": "Grundschule Kißlegg",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8860139,
+                  47.788242
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1309367103",
+                "osm_type": "node",
+                "lat": 47.7569435,
+                "lon": 9.9184315,
+                "addr:city": "Kißlegg",
+                "addr:housenumber": "6",
+                "addr:postcode": "88353",
+                "addr:street": "Merazhofer Straße",
+                "amenity": "school",
+                "name": "Grundschule Waltershofen",
+                "phone": "+49 7563 8536"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9184315,
+                  47.7569435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1473059052",
+                "osm_type": "node",
+                "lat": 47.7827048,
+                "lon": 9.6123417,
+                "amenity": "school",
+                "name": "Yoga Vidya Ravensburg",
+                "sport": "yoga",
+                "website": "https://www.yv-rv.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6123417,
+                  47.7827048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1605898939",
+                "osm_type": "node",
+                "lat": 47.8108828,
+                "lon": 9.6437219,
+                "amenity": "school",
+                "contact:email": "vhs@weingarten-online.de",
+                "contact:fax": "+49 751 56035-40",
+                "contact:phone": "+49 751 560353-10",
+                "contact:website": "https://vhs-weingarten.de",
+                "name": "VHS Weingarten",
+                "opening_hours": "Mo 09:00-11:45; Tu-Fr 08:30-11:45; Th 14:00-16:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6437219,
+                  47.8108828
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2311470765",
+                "osm_type": "node",
+                "lat": 47.7866256,
+                "lon": 9.61064,
+                "amenity": "school",
+                "check_date": "2024-04-21",
+                "craft": "welder",
+                "name": "A. Fronte",
+                "note": "Schweißerschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.61064,
+                  47.7866256
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2800194979",
+                "osm_type": "node",
+                "lat": 47.7999954,
+                "lon": 9.6992421,
+                "addr:city": "Schlier",
+                "addr:housenumber": "10",
+                "addr:postcode": "88281",
+                "addr:street": "Friedhofstraße",
+                "amenity": "school",
+                "name": "Grundschule Unterankenreute",
+                "operator": "gemeinde Schlier"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6992421,
+                  47.7999954
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4691858291",
+                "osm_type": "node",
+                "lat": 47.7989061,
+                "lon": 9.6216917,
+                "addr:city": "Weingarten",
+                "addr:housenumber": "5",
+                "addr:postcode": "88250",
+                "addr:street": "Hähnlehofstraße",
+                "amenity": "school",
+                "name": "Gesundheits Akademie Bodensee Oberschwaben",
+                "phone": "+49 751 87-33 12",
+                "website": "https://www.ga-gesundheitsakademie.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6216917,
+                  47.7989061
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4999592226",
+                "osm_type": "node",
+                "lat": 47.7968598,
+                "lon": 9.6310883,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "77",
+                "addr:postcode": "88212",
+                "addr:street": "St.-Martinus-Straße",
+                "alt_name": "Edith-Stein-Schule Ravensburg & Aulendorf",
+                "amenity": "school",
+                "level": "1",
+                "name": "Edith-Stein-Schule",
+                "operator": "Landkreis Ravensburg",
+                "phone": "+49 751 368-201",
+                "website": "https://www.ess-rv.de/",
+                "wikidata": "Q29793959"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6310883,
+                  47.7968598
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5043048559",
+                "osm_type": "node",
+                "lat": 47.7970246,
+                "lon": 9.6304323,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "77",
+                "addr:postcode": "88212",
+                "addr:street": "St.-Martinus-Straße",
+                "alt_name": "Humpis-Schule Ravensburg",
+                "amenity": "school",
+                "level": "1",
+                "name": "Humpis-Schule",
+                "operator": "Landkreis Ravensburg",
+                "phone": "+49 751 368 300",
+                "website": "https://www.humpis-schule.de/",
+                "wikidata": "Q26972729"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6304323,
+                  47.7970246
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5927037387",
+                "osm_type": "node",
+                "lat": 47.7987691,
+                "lon": 9.6269367,
+                "addr:city": "Weingarten",
+                "addr:housenumber": "15",
+                "addr:postcode": "88250",
+                "addr:street": "Sauterleutestraße",
+                "amenity": "school",
+                "name": "Sauterleuteschule",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6269367,
+                  47.7987691
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6528596285",
+                "osm_type": "node",
+                "lat": 47.7855442,
+                "lon": 9.6146688,
+                "amenity": "school",
+                "name": "Institut für Soziale Berufe",
+                "opening_hours": "Mo-Fr 07:00-17:00",
+                "toilets:wheelchair": "no",
+                "website": "https://ifsb-rav.de",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6146688,
+                  47.7855442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8887127042",
+                "osm_type": "node",
+                "lat": 47.8434218,
+                "lon": 9.6648708,
+                "amenity": "school",
+                "contact:fax": "+49 7502 9419-12",
+                "contact:phone": "+49 7502 9419-0",
+                "contact:website": "https://www.stiftung-st-franziskus.de/standorte/baindt/",
+                "name": "Haus Maria",
+                "school": "blind"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6648708,
+                  47.8434218
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8906418386",
+                "osm_type": "node",
+                "lat": 47.7511162,
+                "lon": 9.5690878,
+                "addr:city": "Ravensburg",
+                "addr:housenumber": "5",
+                "addr:postcode": "88213",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "contact:phone": "+49 751 61617",
+                "contact:website": "https://www.oberzell-grundschule.de",
+                "isced:level": "1",
+                "name": "Grundschule Oberzell"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5690878,
+                  47.7511162
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8906703661",
+                "osm_type": "node",
+                "lat": 47.784716,
+                "lon": 9.6163751,
+                "amenity": "school",
+                "check_date": "2025-04-01",
+                "contact:email": "sekretariat.rv@kbw-gruppe.de",
+                "contact:fax": "+49 751 560159-19",
+                "contact:phone": "+49 751 560159-20",
+                "contact:website": "https://ravensburg.kbw-gruppe.de",
+                "isced:level": "2;3",
+                "name": "Kolping Bildungszentrum Ravensburg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6163751,
+                  47.784716
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8907316586",
+                "osm_type": "node",
+                "lat": 47.7226103,
+                "lon": 9.5960426,
+                "amenity": "school",
+                "contact:mail": "manfred.kohler@stiftung-liebenau.de",
+                "contact:phone": "+49 7542 10-2510",
+                "name": "Don-Bosco-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5960426,
+                  47.7226103
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8912929141",
+                "osm_type": "node",
+                "lat": 47.7185683,
+                "lon": 9.5967078,
+                "amenity": "school",
+                "check_date": "2024-04-25",
+                "contact:fax": "+49 7542 979236",
+                "contact:mail": "ems@schule-meckenbeuren.de",
+                "contact:phone": "+49 7542 4962",
+                "contact:website": "https://www.gsliebenau.de",
+                "isced:level": "1",
+                "name": "Eduard-Mörike-Grundschule Liebenau",
+                "short_name": "EMS"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5967078,
+                  47.7185683
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8912973352",
+                "osm_type": "node",
+                "lat": 47.710358,
+                "lon": 9.6927215,
+                "amenity": "school",
+                "contact:mail": "info@bz-bodnegg.de",
+                "contact:phone": "+49 7520 9207-0",
+                "contact:website": "https://www.bz-bodnegg.de/",
+                "isced:level": "1;2",
+                "name": "Bildungszentrum Bodnegg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6927215,
+                  47.710358
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8913089946",
+                "osm_type": "node",
+                "lat": 47.8091412,
+                "lon": 9.6490136,
+                "amenity": "school",
+                "contact:fax": "+49 751 56192420",
+                "contact:mail": "sekretariat@schule-am-martinsberg.info",
+                "contact:phone": "+49 751 56192410",
+                "contact:website": "https://schule-am-martinsberg.info",
+                "isced:level": "1",
+                "name": "Schule am Martinsberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6490136,
+                  47.8091412
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8913236870",
+                "osm_type": "node",
+                "lat": 47.8429691,
+                "lon": 9.6638623,
+                "amenity": "school",
+                "contact:fax": "+49 7502 9419-4412",
+                "contact:mail": "blindenschule.baindt@stiftung-st-franziskus.de",
+                "contact:phone": "+49 7502 9419-0",
+                "contact:website": "https://www.stiftung-st-franziskus.de/standorte/baindt/internat-und-tagesgruppen-sbbz-sehen-mit-internat-baindt/",
+                "name": "SBBZ mit Internat, Förderschwerpunkt Sehen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6638623,
+                  47.8429691
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8913290208",
+                "osm_type": "node",
+                "lat": 47.8480112,
+                "lon": 9.8367172,
+                "amenity": "school",
+                "contact:fax": "+49 7527 954068",
+                "contact:mail": "Poststelle@gs-eintuernen.schule.bwl.de",
+                "contact:phone": "+49 7527 6359",
+                "contact:website": "https://www.bad-wurzach.de/buerger-wirtschaft/kinderjugend/schulen/grundschule-eintuernen.html",
+                "isced:level": "1",
+                "name": "Grundschule Eintürnen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8367172,
+                  47.8480112
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.694865,
+            "west": 10.007803749999999,
+            "north": 47.860141625,
+            "east": 10.484655499999999
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            10.208744588888887,
+            47.742040933333335
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8913678174",
+                "osm_type": "node",
+                "lat": 47.7427252,
+                "lon": 10.0119098,
+                "amenity": "school",
+                "contact:email": "poststelle@04139804.schule.bwl.de",
+                "contact:fax": "+49 7567 913219",
+                "contact:phone": "+49 7567 868",
+                "isced:level": "1",
+                "name": "Grundschule Neutrauchburg - Ast. Beuren"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0119098,
+                  47.7427252
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8913831770",
+                "osm_type": "node",
+                "lat": 47.8243831,
+                "lon": 10.0285502,
+                "amenity": "school",
+                "contact:email": "Schule.SBBZ@stiftung-st-anna.de",
+                "contact:fax": "+49 7561 824-140",
+                "contact:phone": "+49 7561 824-150",
+                "contact:website": "https://www.stiftung-st-anna.de",
+                "description": "sonderpädagogisches Bildungs- und Beratungszentrum emotional-soziale Entwicklung",
+                "name": "Schule St. Anna"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0285502,
+                  47.8243831
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1216154474",
+                "osm_type": "node",
+                "lat": 47.7255526,
+                "lon": 10.0792679,
+                "amenity": "school",
+                "name": "Grundschule Rohrdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0792679,
+                  47.7255526
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2769293910",
+                "osm_type": "node",
+                "lat": 47.7191664,
+                "lon": 10.3165116,
+                "addr:city": "Kempten (Allgäu)",
+                "addr:country": "DE",
+                "addr:housenumber": "43",
+                "addr:postcode": "87435",
+                "addr:street": "Kotterner Straße",
+                "amenity": "school",
+                "check_date": "2025-03-13",
+                "name": "Technikerschule Allgäu",
+                "phone": "+49 831 25385115",
+                "website": "https://www.tsa-kempten.de",
+                "wikidata": "Q72564250"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3165116,
+                  47.7191664
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3676759986",
+                "osm_type": "node",
+                "lat": 47.7604186,
+                "lon": 10.0736387,
+                "amenity": "school",
+                "name": "Grundschule Friesenhofen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0736387,
+                  47.7604186
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5159673346",
+                "osm_type": "node",
+                "lat": 47.7231856,
+                "lon": 10.3042875,
+                "amenity": "school",
+                "check_date": "2024-05-01",
+                "name": "Montessori Kempten",
+                "operator": "Augsburger Gesellschaft für Lehmbau, Bildung und Arbeit e.V."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3042875,
+                  47.7231856
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9667545926",
+                "osm_type": "node",
+                "lat": 47.7174666,
+                "lon": 10.3174424,
+                "amenity": "school",
+                "check_date": "2025-03-13",
+                "name": "Berufliches Schulzentrum Kempten",
+                "website": "http://www.bs-kempten.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3174424,
+                  47.7174666
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9880659172",
+                "osm_type": "node",
+                "lat": 47.7673078,
+                "lon": 10.4000642,
+                "amenity": "school",
+                "name": "Grundschule Wildpoldsried",
+                "website": "https://www.wildpoldsried.de/index.shtml?Schule",
+                "wikimedia_commons": "File:20250603 xl 1147-Grundschule Wildpoldsried, Wildpoldsrieder Energiewanderweg (81582).jpg|thumb"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4000642,
+                  47.7673078
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12143984655",
+                "osm_type": "node",
+                "lat": 47.6981625,
+                "lon": 10.347029,
+                "amenity": "school",
+                "name": "Grund- und Mittelschule Durach"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.347029,
+                  47.6981625
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.860141625,
+            "west": 9.530952,
+            "north": 48.02541825,
+            "east": 10.007803749999999
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            9.72641174,
+            47.945084980000004
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1250387465",
+                "osm_type": "node",
+                "lat": 47.8996424,
+                "lon": 9.7055199,
+                "amenity": "school",
+                "name": "DurlesbachSchule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7055199,
+                  47.8996424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1289303235",
+                "osm_type": "node",
+                "lat": 48.0054233,
+                "lon": 9.6532691,
+                "addr:city": "Bad Schussenried",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "88427",
+                "addr:street": "Friedrich-Jahn-Straße",
+                "amenity": "school",
+                "name": "Jakob-Emele-Realschule",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6532691,
+                  48.0054233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1937866130",
+                "osm_type": "node",
+                "lat": 47.9166003,
+                "lon": 9.7539398,
+                "amenity": "school",
+                "name": "Realschule Bad Waldsee"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7539398,
+                  47.9166003
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1937866570",
+                "osm_type": "node",
+                "lat": 47.9155278,
+                "lon": 9.7522931,
+                "amenity": "school",
+                "name": "Gymnasium",
+                "website": "https://www.gymibw.de",
+                "wikidata": "Q18333468"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7522931,
+                  47.9155278
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1937867229",
+                "osm_type": "node",
+                "lat": 47.9165158,
+                "lon": 9.7557883,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7557883,
+                  47.9165158
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1937877069",
+                "osm_type": "node",
+                "lat": 47.9268207,
+                "lon": 9.7437527,
+                "amenity": "school",
+                "name": "Ernährungsberatung"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7437527,
+                  47.9268207
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1944845455",
+                "osm_type": "node",
+                "lat": 47.9218974,
+                "lon": 9.7523826,
+                "amenity": "school"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7523826,
+                  47.9218974
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2180035669",
+                "osm_type": "node",
+                "lat": 47.9502001,
+                "lon": 9.6385594,
+                "addr:city": "Aulendorf",
+                "addr:housenumber": "21",
+                "addr:postcode": "88326",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "grades": "1-4",
+                "isced:level": "1",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6385594,
+                  47.9502001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3258330593",
+                "osm_type": "node",
+                "lat": 48.0055485,
+                "lon": 9.6526359,
+                "addr:city": "Bad Schussenried",
+                "addr:housename": "Caspar-Mohr-Progymnasium",
+                "addr:housenumber": "2",
+                "addr:postcode": "88427",
+                "addr:street": "Friedrich-Jahn-Straße",
+                "amenity": "school",
+                "check_date": "2025-02-02",
+                "ele": "584",
+                "name": "Caspar-Mohr-Progymnasium",
+                "phone": "+49 7583 9401 90",
+                "website": "https://www.pg-bs.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6526359,
+                  48.0055485
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6832787817",
+                "osm_type": "node",
+                "lat": 47.9180042,
+                "lon": 9.7544487,
+                "amenity": "school",
+                "email": "bauernschule@lbv-bw.de",
+                "fax": "+49 7524 4003 33",
+                "name": "Schwäbische Bauernschule Bad Waldsee",
+                "operator": "Verein zur Förderung der Schwäbischen Bauernschule Bad Waldsee e.V.",
+                "phone": "+49 7524 4003 0",
+                "website": "https://www.schwaebische-bauernschule.de/schule/index.php"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7544487,
+                  47.9180042
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6937553661",
+                "osm_type": "node",
+                "lat": 47.9163983,
+                "lon": 9.7548177,
+                "amenity": "school",
+                "name": "Döchtbühlschule Grund-, Haupt-, Werkrealschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7548177,
+                  47.9163983
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7474155936",
+                "osm_type": "node",
+                "lat": 47.9502311,
+                "lon": 9.8678282,
+                "addr:city": "Bad Wurzach",
+                "addr:housenumber": "19",
+                "addr:postcode": "88410",
+                "addr:street": "Fichtenstraße",
+                "addr:suburb": "Unterschwarzach",
+                "amenity": "school",
+                "name": "Grund- und Hauptschule Unterschwarzach",
+                "source": "Datenübernahme von Gebäude"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8678282,
+                  47.9502311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8767387834",
+                "osm_type": "node",
+                "lat": 48.0052154,
+                "lon": 9.6524441,
+                "addr:city": "Bad Schussenried",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "88427",
+                "addr:street": "Friedrich-Jahn-Straße",
+                "amenity": "school",
+                "name": "Drümmelbergschule Bad Schussenried",
+                "source": "Datenübernahme von Gebäude"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6524441,
+                  48.0052154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10090674820",
+                "osm_type": "node",
+                "lat": 48.0075267,
+                "lon": 9.6593812,
+                "addr:street": "Klosterhof",
+                "amenity": "school",
+                "name": "Akademie Südwest"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6593812,
+                  48.0075267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12111601313",
+                "osm_type": "node",
+                "lat": 47.9207227,
+                "lon": 9.7991154,
+                "addr:city": "Bad Waldsee",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "88339",
+                "addr:street": "Rathausstraße",
+                "addr:suburb": "Haisterkirch",
+                "amenity": "school",
+                "name": "Grundschule Haisterkirch"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7991154,
+                  47.9207227
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.860141625,
+            "west": 10.007803749999999,
+            "north": 48.02541825,
+            "east": 10.484655499999999
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            10.259429833333334,
+            47.983265844444446
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "459806374",
+                "osm_type": "node",
+                "lat": 47.9677186,
+                "lon": 10.2125892,
+                "amenity": "school",
+                "name": "Grund- und Teilhauptschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2125892,
+                  47.9677186
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "477530275",
+                "osm_type": "node",
+                "lat": 48.0057292,
+                "lon": 10.2665133,
+                "amenity": "school",
+                "contact:email": "schule-memmingerberg@t-online.de",
+                "contact:phone": "+49 08393 397",
+                "contact:website": "https://www.schule-memmingerberg.com/",
+                "isced:level": "1",
+                "name": "Grundschule Ungerhausen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2665133,
+                  48.0057292
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "736921062",
+                "osm_type": "node",
+                "lat": 48.0028226,
+                "lon": 10.2196995,
+                "addr:housenumber": "1",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "name": "Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2196995,
+                  48.0028226
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1351440039",
+                "osm_type": "node",
+                "lat": 48.0155005,
+                "lon": 10.3012642,
+                "amenity": "school",
+                "check_date": "2024-09-05",
+                "name": "Grundschule Westerheim",
+                "website": "http://cms.schule-westerheim.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3012642,
+                  48.0155005
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1408321961",
+                "osm_type": "node",
+                "lat": 47.9512865,
+                "lon": 10.1711974,
+                "amenity": "school",
+                "check_date": "2025-04-02",
+                "name": "Grundschule Dickenreishausen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1711974,
+                  47.9512865
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8151973386",
+                "osm_type": "node",
+                "lat": 48.0098514,
+                "lon": 10.350425,
+                "amenity": "school",
+                "name": "Grundschule Sontheim"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.350425,
+                  48.0098514
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8185014816",
+                "osm_type": "node",
+                "lat": 47.9468555,
+                "lon": 10.2972713,
+                "amenity": "school",
+                "email": "schulleitung@gym-rs-ottobeuren.de",
+                "fax": "+49 8332 922420",
+                "isced:level": "2;3",
+                "name": "Rupert-Ness-Gymnasium und Realschule",
+                "operator": "Zweckverband Gymnasium und Realschule Ottobeuren",
+                "phone": "+49 8332 922410",
+                "website": "http://www.gym-rs-ottobeuren.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2972713,
+                  47.9468555
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8185022117",
+                "osm_type": "node",
+                "lat": 47.9466812,
+                "lon": 10.2961796,
+                "amenity": "school",
+                "email": "info@mittelschule-ottobeuren.de",
+                "isced:level": "2",
+                "name": "Mittelschule Ottobeuren",
+                "operator": "Verwaltungsgemeinschaft Ottobeuren",
+                "phone": "+49 8332 922450",
+                "website": "https://mittelschule-ottobeuren.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2961796,
+                  47.9466812
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8259283195",
+                "osm_type": "node",
+                "lat": 48.0029471,
+                "lon": 10.219729,
+                "addr:city": "Trunkelsberg",
+                "addr:housenumber": "1",
+                "addr:postcode": "87779",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "description": "Grundschule 1. und 2. Klasse, Außenstelle der Grund- und Mittelschule Trunkelsberg",
+                "email": "schule-memmingerberg@t-online.de",
+                "isced:level": "1",
+                "name": "Grundschule Trunkelsberg",
+                "phone": "+49 8331 89913",
+                "website": "https://www.schule-memmingerberg.com"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.219729,
+                  48.0029471
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 10.484655499999999,
+        "north": 48.02541825,
+        "east": 11.438358999999998
+      },
+      "poiCount": 64,
+      "leafCount": 0,
+      "averagePosition": [
+        10.878189831250001,
+        47.870525607812496
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.694865,
+            "west": 10.484655499999999,
+            "north": 47.860141625,
+            "east": 10.961507249999999
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            10.762053828571428,
+            47.79751272857143
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1558283818",
+                "osm_type": "node",
+                "lat": 47.7783895,
+                "lon": 10.6149108,
+                "amenity": "school",
+                "name": "Musikschule bell'arte",
+                "phone": "+498342897983"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6149108,
+                  47.7783895
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1868434053",
+                "osm_type": "node",
+                "lat": 47.7777758,
+                "lon": 10.6199086,
+                "amenity": "school",
+                "name": "VHS Marktoberdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6199086,
+                  47.7777758
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4910703158",
+                "osm_type": "node",
+                "lat": 47.8222464,
+                "lon": 10.8687803,
+                "amenity": "school",
+                "name": "Sonderpädagogisches Förderzentrum Altenstadt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8687803,
+                  47.8222464
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4910703159",
+                "osm_type": "node",
+                "lat": 47.8223778,
+                "lon": 10.8694106,
+                "amenity": "school",
+                "email": "schule@altenstadt-obb.bayern",
+                "fax": "+49 (0) 88 61 - 93441",
+                "name": "Grundschule Altenstadt",
+                "phone": "+49 (0) 88 61 - 4207",
+                "website": "https://www.grundschule-altenstadt-obb.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8694106,
+                  47.8223778
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6153116350",
+                "osm_type": "node",
+                "lat": 47.8094032,
+                "lon": 10.8920234,
+                "amenity": "school",
+                "email": "mittelschule@schongau.de",
+                "name": "Pfaffenwinkel Realschule Schongau",
+                "phone": "+49 8861 85 84",
+                "website": "https://www.mittelschule-schongau.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8920234,
+                  47.8094032
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6153116352",
+                "osm_type": "node",
+                "lat": 47.8087827,
+                "lon": 10.8939689,
+                "amenity": "school",
+                "name": "Welfen-Gymnasium",
+                "url": "http://www.welfen-gymnasium.de/",
+                "wheelchair": "limited",
+                "wikidata": "Q2557508"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8939689,
+                  47.8087827
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6153116353",
+                "osm_type": "node",
+                "lat": 47.8093467,
+                "lon": 10.893367,
+                "amenity": "school",
+                "name": "Mittelschule Schongau",
+                "url": "http://www.pfaffenwinkel-realschule.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.893367,
+                  47.8093467
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6383770957",
+                "osm_type": "node",
+                "lat": 47.7683991,
+                "lon": 10.5947554,
+                "amenity": "school",
+                "name": "Grundschule Thalhofen",
+                "phone": "+49 (0)8342 2214"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5947554,
+                  47.7683991
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6528047371",
+                "osm_type": "node",
+                "lat": 47.8103362,
+                "lon": 10.8934568,
+                "amenity": "school",
+                "healthcare": "hospital",
+                "name": "Staufer Grundschule Schongau"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8934568,
+                  47.8103362
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8646935917",
+                "osm_type": "node",
+                "lat": 47.7755263,
+                "lon": 10.8144383,
+                "amenity": "school",
+                "check_date": "2024-08-14",
+                "name": "Grundschule Burggen",
+                "website": "https://www.grundschuleburggen.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8144383,
+                  47.7755263
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10239841051",
+                "osm_type": "node",
+                "lat": 47.7369682,
+                "lon": 10.6903088,
+                "amenity": "school",
+                "name": "Volksschule Stötten a. Auerberg",
+                "phone": "+498349286",
+                "website": "https://www.vs-stoetten.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6903088,
+                  47.7369682
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11381037564",
+                "osm_type": "node",
+                "lat": 47.8159247,
+                "lon": 10.5891622,
+                "amenity": "school",
+                "email": "grundschule@aitrang.de",
+                "fax": "+49 8343 923527",
+                "name": "Grundschule Ruderatshofen",
+                "phone": "+49 8343 332",
+                "website": "https://www.gs-aitrang-ruderatshofen.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5891622,
+                  47.8159247
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11750055193",
+                "osm_type": "node",
+                "lat": 47.818731,
+                "lon": 10.5372271,
+                "amenity": "school",
+                "email": "grundschule@aitrang.de",
+                "fax": "+49 8343 929123",
+                "isced:level": "1",
+                "name": "Grundschule Aitrang-Ruderatshofen",
+                "phone": "+49 8343 321",
+                "website": "https://www.gs-aitrang-ruderatshofen.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5372271,
+                  47.818731
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11818279667",
+                "osm_type": "node",
+                "lat": 47.8109706,
+                "lon": 10.8970354,
+                "addr:city": "Schongau",
+                "addr:country": "DE",
+                "addr:housenumber": "7",
+                "addr:postcode": "86956",
+                "addr:street": "Marienplatz",
+                "amenity": "school",
+                "grades": "1-99",
+                "name": "Musikschule Pfaffenwinkel e.V.",
+                "operator": "Musikschule Pfaffenwinkel e.V.",
+                "operator:type": "verein",
+                "website": "https://www.musikschule-pfaffenwinkel.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8970354,
+                  47.8109706
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.694865,
+            "west": 10.961507249999999,
+            "north": 47.860141625,
+            "east": 11.438358999999998
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            11.181171736363636,
+            47.79141347272727
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "773271230",
+                "osm_type": "node",
+                "lat": 47.734614,
+                "lon": 10.9656714,
+                "amenity": "school",
+                "ele": "767.0"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9656714,
+                  47.734614
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3890846263",
+                "osm_type": "node",
+                "lat": 47.7362575,
+                "lon": 10.9655379,
+                "amenity": "school",
+                "check_date": "2024-09-10",
+                "name": "Grundschule Rottenbuch"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9655379,
+                  47.7362575
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "435133229",
+                "osm_type": "node",
+                "lat": 47.747686,
+                "lon": 11.3765273,
+                "addr:city": "Penzberg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "82377",
+                "addr:street": "Südstraße",
+                "amenity": "school",
+                "name": "Bürgermeister-Prandl-Grundschule Penzberg",
+                "operator:type": "public",
+                "website": "https://www.grundschulepenzberg.de",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3765273,
+                  47.747686
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "783166544",
+                "osm_type": "node",
+                "lat": 47.8014447,
+                "lon": 11.078673,
+                "amenity": "school"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.078673,
+                  47.8014447
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1951385494",
+                "osm_type": "node",
+                "lat": 47.8566585,
+                "lon": 11.4062011,
+                "amenity": "school",
+                "check_date": "2025-08-10",
+                "name": "Grundschule Eurasburg",
+                "source": "local knowledge"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4062011,
+                  47.8566585
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4302724888",
+                "osm_type": "node",
+                "lat": 47.7856549,
+                "lon": 11.0637154,
+                "amenity": "school",
+                "barrier": "entrance",
+                "name": "Josef-Zerhoch-Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0637154,
+                  47.7856549
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4302725001",
+                "osm_type": "node",
+                "lat": 47.7864508,
+                "lon": 11.0639768,
+                "addr:city": "Peißenberg",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "82380",
+                "addr:street": "Pestalozzistraße",
+                "amenity": "school",
+                "barrier": "entrance",
+                "check_date": "2025-01-01",
+                "name": "Josef-Zerhoch-Mittelschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0639768,
+                  47.7864508
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5801178456",
+                "osm_type": "node",
+                "lat": 47.8413359,
+                "lon": 11.142026,
+                "addr:city": "Weilheim in Oberbayern",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "82362",
+                "addr:street": "Münchener Straße",
+                "amenity": "school",
+                "email": "info@Bildungskolleg-Oberbayern.de",
+                "name": "Bildungskolleg GmbH",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.142026,
+                  47.8413359
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6976521856",
+                "osm_type": "node",
+                "lat": 47.8399661,
+                "lon": 11.1428674,
+                "addr:city": "Weilheim in Oberbayern",
+                "addr:housenumber": "13",
+                "addr:postcode": "82362",
+                "addr:street": "Eisenkramergasse",
+                "amenity": "school",
+                "name": "VHS Seminarraum I",
+                "phone": "+49 881 9278338",
+                "website": "https://www.vhs-weilheim.de/ueber-uns/raumuebersicht/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1428674,
+                  47.8399661
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7328261511",
+                "osm_type": "node",
+                "lat": 47.8275287,
+                "lon": 11.4115652,
+                "amenity": "school",
+                "name": "Grundschule Eurasburg-Beuerberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4115652,
+                  47.8275287
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7575488357",
+                "osm_type": "node",
+                "lat": 47.7479511,
+                "lon": 11.3761276,
+                "addr:city": "Penzberg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "82377",
+                "addr:street": "Südstraße",
+                "amenity": "school",
+                "name": "Bürgermeister-Prandl-Mittelschule Penzberg",
+                "operator:type": "public",
+                "website": "https://www.mittelschule-penzberg.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3761276,
+                  47.7479511
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.860141625,
+            "west": 10.484655499999999,
+            "north": 48.02541825,
+            "east": 10.961507249999999
+          },
+          "poiCount": 26,
+          "leafCount": 26,
+          "averagePosition": [
+            10.628989350000001,
+            47.91012697307693
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9613540925",
+                "osm_type": "node",
+                "lat": 47.8720409,
+                "lon": 10.6447986,
+                "amenity": "school",
+                "email": "info@gshirschzell.de",
+                "fax": "+49 8341 954367",
+                "isced:level": "1",
+                "name": "Grundschule Kaufbeuren-Hirschzell",
+                "phone": "+49 8341 2084",
+                "website": "https://www.gshirschzell.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6447986,
+                  47.8720409
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11840756727",
+                "osm_type": "node",
+                "lat": 47.8713843,
+                "lon": 10.6071988,
+                "amenity": "school",
+                "name": "Grund und Teilhauptschule Oberbeuren",
+                "toilets:wheelchair": "no",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6071988,
+                  47.8713843
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "253066298",
+                "osm_type": "node",
+                "lat": 47.944682,
+                "lon": 10.5429955,
+                "amenity": "school",
+                "created_by": "JOSM",
+                "name": "Grundschule Baisweil",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5429955,
+                  47.944682
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "306198806",
+                "osm_type": "node",
+                "lat": 48.0057386,
+                "lon": 10.6078873,
+                "amenity": "school",
+                "check_date": "2025-08-07",
+                "name": "Staatliche Berufsschule Mindelheim, Außenstelle Bad Wörishofen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6078873,
+                  48.0057386
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "369431502",
+                "osm_type": "node",
+                "lat": 48.0059354,
+                "lon": 10.6078669,
+                "amenity": "school",
+                "check_date": "2025-08-07",
+                "name": "Berufliche Schulen Bad Wörishofen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6078669,
+                  48.0059354
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2378989694",
+                "osm_type": "node",
+                "lat": 47.9306499,
+                "lon": 10.7059789,
+                "amenity": "school",
+                "name": "Grundschule Gmde. Westendorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7059789,
+                  47.9306499
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8728453332",
+                "osm_type": "node",
+                "lat": 47.8771672,
+                "lon": 10.6243704,
+                "amenity": "school",
+                "name": "Josef-Landes-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6243704,
+                  47.8771672
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8903918642",
+                "osm_type": "node",
+                "lat": 48.0052972,
+                "lon": 10.6077791,
+                "amenity": "school",
+                "check_date": "2025-08-07",
+                "name": "Sebastian-Kneipp-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6077791,
+                  48.0052972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9586056124",
+                "osm_type": "node",
+                "lat": 47.8819766,
+                "lon": 10.6326998,
+                "amenity": "school",
+                "name": "Beethoven Grund- und Mittelschule",
+                "opening_hours": "Tu, Th, Fr 07:45-17:00",
+                "phone": "+49 (0)8341 13367"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6326998,
+                  47.8819766
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9719877933",
+                "osm_type": "node",
+                "lat": 47.8749424,
+                "lon": 10.6346269,
+                "amenity": "school",
+                "name": "FOS / BOS Kaufbeuren",
+                "phone": "+49 (0)83419083380",
+                "website": "https://www.fosbos-kf.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6346269,
+                  47.8749424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9719877934",
+                "osm_type": "node",
+                "lat": 47.8744998,
+                "lon": 10.6337442,
+                "amenity": "school",
+                "name": "Staatliche Berufsschule Kaufbeuren",
+                "phone": "+49 (0)83419093150",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6337442,
+                  47.8744998
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9886644462",
+                "osm_type": "node",
+                "lat": 47.8826598,
+                "lon": 10.6254072,
+                "amenity": "school",
+                "name": "Wirtschaftsschule Frenzel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6254072,
+                  47.8826598
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9886655070",
+                "osm_type": "node",
+                "lat": 47.8833349,
+                "lon": 10.6256515,
+                "amenity": "school",
+                "name": "Jakob-Brucker-Gymnasium"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6256515,
+                  47.8833349
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9886655071",
+                "osm_type": "node",
+                "lat": 47.885436,
+                "lon": 10.6262826,
+                "amenity": "school",
+                "name": "Jörg-Lederer-Mittelschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6262826,
+                  47.885436
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9923930614",
+                "osm_type": "node",
+                "lat": 47.9168751,
+                "lon": 10.634321,
+                "amenity": "school",
+                "name": "Gustav-Leutelt Grund- und Mittelschule",
+                "phone": "+49 (0)8341 961190",
+                "website": "https://www.gustav-leutelt-schule.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.634321,
+                  47.9168751
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9931250813",
+                "osm_type": "node",
+                "lat": 47.8930463,
+                "lon": 10.6243581,
+                "amenity": "school",
+                "name": "Sophie-La-Roche-Realschule",
+                "wikidata": "Q110972324",
+                "wikipedia": "de:Sophie-La-Roche-Realschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6243581,
+                  47.8930463
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9931295832",
+                "osm_type": "node",
+                "lat": 47.8941244,
+                "lon": 10.6265185,
+                "amenity": "school",
+                "name": "Konradin-Volksschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6265185,
+                  47.8941244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9933311413",
+                "osm_type": "node",
+                "lat": 47.8917874,
+                "lon": 10.6169443,
+                "amenity": "school",
+                "name": "Frühförderstelle"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6169443,
+                  47.8917874
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9933311415",
+                "osm_type": "node",
+                "lat": 47.8905586,
+                "lon": 10.6167361,
+                "amenity": "school",
+                "name": "Ludwig-Reinhard-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6167361,
+                  47.8905586
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9963570850",
+                "osm_type": "node",
+                "lat": 47.9092263,
+                "lon": 10.6313914,
+                "amenity": "school",
+                "name": "Adalbert-Stifter-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6313914,
+                  47.9092263
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10097183164",
+                "osm_type": "node",
+                "lat": 47.8817936,
+                "lon": 10.6113496,
+                "amenity": "school",
+                "name": "Marien-Gymnasium",
+                "wikidata": "Q18628987"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6113496,
+                  47.8817936
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10097183165",
+                "osm_type": "node",
+                "lat": 47.8821025,
+                "lon": 10.6114594,
+                "amenity": "school",
+                "name": "Marien-Realschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6114594,
+                  47.8821025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10123215125",
+                "osm_type": "node",
+                "lat": 47.9674862,
+                "lon": 10.7032616,
+                "amenity": "school",
+                "name": "Grundschule",
+                "school": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7032616,
+                  47.9674862
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11741836743",
+                "osm_type": "node",
+                "lat": 47.9284806,
+                "lon": 10.6113169,
+                "amenity": "school",
+                "name": "Grundschule Pforzen",
+                "website": "https://www.pforzen.de/einrichtungen/grundschule-pforzen/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6113169,
+                  47.9284806
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11783335518",
+                "osm_type": "node",
+                "lat": 47.9209044,
+                "lon": 10.6688039,
+                "addr:city": "Germaringen",
+                "addr:housenumber": "1",
+                "addr:postcode": "87656",
+                "addr:street": "Sportpark",
+                "amenity": "school",
+                "name": "Mittelschule Germaringen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6688039,
+                  47.9209044
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11786446591",
+                "osm_type": "node",
+                "lat": 47.8911709,
+                "lon": 10.6699746,
+                "amenity": "school",
+                "email": "schule@mauerstetten.de",
+                "name": "Hörmann-Grundschule",
+                "opening_hours": "Mo-We 07:30-11:30; Fr 07:30-12:00",
+                "website": "https://www.grundschule-mauerstetten.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6699746,
+                  47.8911709
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.860141625,
+            "west": 10.961507249999999,
+            "north": 48.02541825,
+            "east": 11.438358999999998
+          },
+          "poiCount": 13,
+          "leafCount": 13,
+          "averagePosition": [
+            11.24529103076923,
+            47.936893169230764
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "269185116",
+                "osm_type": "node",
+                "lat": 47.8716286,
+                "lon": 11.1617147,
+                "amenity": "school",
+                "check_date": "2024-11-17",
+                "name": "Grundschule Wielenbach"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1617147,
+                  47.8716286
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7034074110",
+                "osm_type": "node",
+                "lat": 47.8644502,
+                "lon": 11.2947274,
+                "amenity": "school",
+                "contact:email": "grundschule@schule.bernried.de",
+                "contact:fax": "+49 8158 7893",
+                "contact:phone": "+49 8158 3868",
+                "contact:website": "https://www.grundschule-bernried.de/",
+                "name": "Grundschule Bernried"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2947274,
+                  47.8644502
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "303752659",
+                "osm_type": "node",
+                "lat": 47.910183,
+                "lon": 11.2791365,
+                "amenity": "school",
+                "name": "Grundschule Tutzing"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2791365,
+                  47.910183
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "303752660",
+                "osm_type": "node",
+                "lat": 47.9105398,
+                "lon": 11.2789317,
+                "amenity": "school",
+                "name": "Mittelschule Tutzing"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2789317,
+                  47.9105398
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "577348509",
+                "osm_type": "node",
+                "lat": 47.9645108,
+                "lon": 11.3037091,
+                "amenity": "school",
+                "name": "Grundschule Pöcking",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3037091,
+                  47.9645108
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "780292969",
+                "osm_type": "node",
+                "lat": 47.9066952,
+                "lon": 11.1778093,
+                "addr:housenumber": "7",
+                "addr:street": "Kirchstraße",
+                "amenity": "school",
+                "name": "Grundschule",
+                "phone": "+49-8808-399",
+                "website": "https://grundschule-paehl.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1778093,
+                  47.9066952
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1118723442",
+                "osm_type": "node",
+                "lat": 47.9733458,
+                "lon": 11.1522979,
+                "addr:city": "Herrsching am Ammersee",
+                "addr:country": "DE",
+                "addr:housenumber": "45",
+                "addr:postcode": "82211",
+                "addr:street": "Wartaweil",
+                "amenity": "school",
+                "contact:email": "info@wartaweil.de",
+                "contact:phone": "08152 / 9398-0",
+                "name": "Schullandheim Bildungsstätte Begegnungsstätte Wartaweil",
+                "operator": "Wartaweil gemeinnützige GmbH",
+                "toilets:wheelchair": "yes",
+                "tourism": "hostel",
+                "website": "https://www.wartaweil.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1522979,
+                  47.9733458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1385337597",
+                "osm_type": "node",
+                "lat": 47.9542114,
+                "lon": 11.3440443,
+                "addr:housenumber": "45",
+                "addr:street": "Assenbucher Straße",
+                "amenity": "school",
+                "name": "VHS München Haus Buchenried",
+                "website": "https://www.mvhs.de/ueber-uns/standorte/haus-buchenried"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3440443,
+                  47.9542114
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2413991714",
+                "osm_type": "node",
+                "lat": 47.9467343,
+                "lon": 11.3808258,
+                "addr:city": "Berg",
+                "addr:country": "DE",
+                "addr:housenumber": "19;21;23",
+                "addr:postcode": "82335",
+                "addr:street": "Biberkorstraße",
+                "amenity": "school",
+                "name": "Montessorischule Biberkor"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3808258,
+                  47.9467343
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2536456579",
+                "osm_type": "node",
+                "lat": 47.9074104,
+                "lon": 11.2798755,
+                "addr:city": "Tutzing",
+                "addr:country": "DE",
+                "addr:housenumber": "20",
+                "addr:postcode": "82327",
+                "addr:street": "Hauptstraße",
+                "amenity": "school",
+                "check_date": "2024-08-19",
+                "name": "Gymnasium Tutzing",
+                "website": "https://www.gym-tutzing.de/",
+                "wikidata": "Q131164826"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2798755,
+                  47.9074104
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3294377319",
+                "osm_type": "node",
+                "lat": 48.0076269,
+                "lon": 11.0963967,
+                "amenity": "school",
+                "name": "BVS Bildungszentrum Holzhausen",
+                "toilets:wheelchair": "yes",
+                "website": "https://bvs.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0963967,
+                  48.0076269
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4577493220",
+                "osm_type": "node",
+                "lat": 47.9988879,
+                "lon": 11.335499,
+                "addr:city": "Starnberg",
+                "addr:country": "DE",
+                "addr:housenumber": "28",
+                "addr:postcode": "82319",
+                "addr:street": "Von-der-Tann-Straße",
+                "amenity": "school",
+                "name": "Staatliches Berufliches Zentrum Starnberg",
+                "website": "https://www.bs-starnberg.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.335499,
+                  47.9988879
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10207085551",
+                "osm_type": "node",
+                "lat": 47.9633869,
+                "lon": 11.1038155,
+                "amenity": "school",
+                "name": "Ammersee-Gymnasium",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1038155,
+                  47.9633869
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 9.530952,
+        "north": 48.355971499999995,
+        "east": 10.484655499999999
+      },
+      "poiCount": 58,
+      "leafCount": 0,
+      "averagePosition": [
+        9.940171020689656,
+        48.224734787931034
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 9.530952,
+            "north": 48.190694875,
+            "east": 10.007803749999999
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            9.765968790909092,
+            48.10112962727272
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "307077747",
+                "osm_type": "node",
+                "lat": 48.1747322,
+                "lon": 9.7984313,
+                "addr:city": "Schemmerhofen",
+                "addr:country": "DE",
+                "addr:housenumber": "10/12",
+                "addr:postcode": "88433",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "description": "Die Gemeinschafts- und Grundschule in Schemmerhofen.",
+                "email": "info@muehlbachschule.net",
+                "fax": "+49 7356 9377 226",
+                "isced:level": "1;2",
+                "name": "Mühlbachschule",
+                "phone": "+49 7356 9377 220",
+                "website": "https://mühlbachschule.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7984313,
+                  48.1747322
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "358384819",
+                "osm_type": "node",
+                "lat": 48.1152031,
+                "lon": 9.5319915,
+                "addr:city": "Dürmentingen",
+                "addr:housenumber": "15",
+                "addr:postcode": "88525",
+                "addr:street": "Riedlinger Straße",
+                "amenity": "school",
+                "name": "Grundschule",
+                "operator": "Gemeinde Dürmentingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5319915,
+                  48.1152031
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "638993195",
+                "osm_type": "node",
+                "lat": 48.071025,
+                "lon": 9.8025587,
+                "amenity": "school",
+                "check_date": "2024-04-12",
+                "name": "Grundschule Rissegg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8025587,
+                  48.071025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "838541960",
+                "osm_type": "node",
+                "lat": 48.1359095,
+                "lon": 9.69627,
+                "amenity": "school",
+                "name": "Grundschule",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.69627,
+                  48.1359095
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "951316092",
+                "osm_type": "node",
+                "lat": 48.1072948,
+                "lon": 9.9494401,
+                "amenity": "school",
+                "name": "Grund- und Hauptschule Reinstetten",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9494401,
+                  48.1072948
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1177129837",
+                "osm_type": "node",
+                "lat": 48.0614491,
+                "lon": 9.8289126,
+                "amenity": "school",
+                "check_date": "2024-10-21",
+                "name": "Umlachtalschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8289126,
+                  48.0614491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1382862630",
+                "osm_type": "node",
+                "lat": 48.1847692,
+                "lon": 9.6942809,
+                "amenity": "school",
+                "name": "Christoph von Schmied Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6942809,
+                  48.1847692
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5417216621",
+                "osm_type": "node",
+                "lat": 48.0646362,
+                "lon": 9.9510195,
+                "amenity": "school",
+                "check_date": "2025-04-11",
+                "name": "Landesakademie der musizierenden Jugend in Baden-Württemberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9510195,
+                  48.0646362
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5607521311",
+                "osm_type": "node",
+                "lat": 48.0663978,
+                "lon": 9.6115943,
+                "amenity": "school",
+                "grades": "5-10",
+                "name": "Progygmnasium",
+                "website": "http://progymnasiumbadbuchau.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6115943,
+                  48.0663978
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9372303793",
+                "osm_type": "node",
+                "lat": 48.0666025,
+                "lon": 9.6115108,
+                "amenity": "school",
+                "grades": "5-10",
+                "name": "Progymnasium",
+                "website": "http://progymnasiumbadbuchau.de/",
+                "wikidata": "Q17591212"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6115108,
+                  48.0666025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10025783269",
+                "osm_type": "node",
+                "lat": 48.0644065,
+                "lon": 9.949647,
+                "amenity": "school",
+                "name": "Josef-Gabler-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.949647,
+                  48.0644065
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 10.007803749999999,
+            "north": 48.190694875,
+            "east": 10.484655499999999
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            10.129647757142859,
+            48.09689194285714
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "490833326",
+                "osm_type": "node",
+                "lat": 48.1221829,
+                "lon": 10.1259076,
+                "amenity": "school",
+                "contact:email": "info@gskellmuenz.de",
+                "contact:phone": "+49 8337 9460",
+                "contact:website": "https://www.gskellmuenz.de/",
+                "name": "Bürgermeister-Aumann-Grundschule Kellmünz",
+                "url": "https://www.gskellmuenz.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1259076,
+                  48.1221829
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "723144618",
+                "osm_type": "node",
+                "lat": 48.0379772,
+                "lon": 10.0818945,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0818945,
+                  48.0379772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1103348163",
+                "osm_type": "node",
+                "lat": 48.0947192,
+                "lon": 10.0692593,
+                "amenity": "school",
+                "check_date": "2025-05-18",
+                "name": "Realschule Erolzheim",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0692593,
+                  48.0947192
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2424165882",
+                "osm_type": "node",
+                "lat": 48.0733207,
+                "lon": 10.1285941,
+                "addr:city": "Kirchdorf an der Iller",
+                "addr:housenumber": "49-51",
+                "addr:postcode": "88457",
+                "addr:street": "Hauptstraße",
+                "amenity": "school",
+                "contact:email": "michael-von-jung-schule@t-online.de",
+                "contact:fax": "+49 7354 932727",
+                "contact:phone": "+49 7354 93270",
+                "contact:website": "https://www.mvjs.de",
+                "isced:level": "1;2",
+                "name": "Michael-von-Jung-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1285941,
+                  48.0733207
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2459513010",
+                "osm_type": "node",
+                "lat": 48.1453492,
+                "lon": 10.1683756,
+                "addr:city": "Osterberg",
+                "addr:housenumber": "28",
+                "addr:postcode": "89296",
+                "addr:street": "Hauptstraße",
+                "amenity": "school",
+                "contact:email": "info@gsosterberg.de",
+                "contact:phone": "+49 8333 1840",
+                "contact:website": "https://www.gsaltenstadt.de",
+                "isced:level": "1",
+                "name": "Grundschule Osterberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1683756,
+                  48.1453492
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3431721193",
+                "osm_type": "node",
+                "lat": 48.0644913,
+                "lon": 10.0730918,
+                "amenity": "school",
+                "name": "Illertalschule",
+                "operator": "Gemeinde Berkheim"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0730918,
+                  48.0644913
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7598100786",
+                "osm_type": "node",
+                "lat": 48.1402031,
+                "lon": 10.2604114,
+                "addr:city": "Babenhausen",
+                "addr:housenumber": "9",
+                "addr:postcode": "87727",
+                "addr:street": "Pestalozzistraße",
+                "amenity": "school",
+                "email": "jugend-babenhausen@kjr-unterallgaeu.de",
+                "fixme": "Position überprüfen",
+                "name": "Offene Ganztagesschule der Mittel- und Realschule",
+                "phone": "+49 8333 92348 15",
+                "website": "https://www.mittelschule-babenhausen.de/index.php/schule/offene-ganztagesschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2604114,
+                  48.1402031
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.190694875,
+            "west": 9.530952,
+            "north": 48.355971499999995,
+            "east": 10.007803749999999
+          },
+          "poiCount": 23,
+          "leafCount": 23,
+          "averagePosition": [
+            9.842953704347826,
+            48.286008360869566
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "345673513",
+                "osm_type": "node",
+                "lat": 48.3028036,
+                "lon": 9.9025804,
+                "amenity": "school",
+                "atm": "yes",
+                "name": "Grundschule Dellmensingen",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9025804,
+                  48.3028036
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "418791856",
+                "osm_type": "node",
+                "lat": 48.217491,
+                "lon": 9.8281364,
+                "amenity": "school",
+                "check_date": "2024-10-06",
+                "name": "Bischof-Ulrich-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8281364,
+                  48.217491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "456835496",
+                "osm_type": "node",
+                "lat": 48.2286611,
+                "lon": 9.8276711,
+                "amenity": "school",
+                "name": "Grundschule Untersulmetingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8276711,
+                  48.2286611
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "473612142",
+                "osm_type": "node",
+                "lat": 48.3491973,
+                "lon": 9.9770907,
+                "amenity": "school",
+                "name": "Regenbogen-Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9770907,
+                  48.3491973
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1096321060",
+                "osm_type": "node",
+                "lat": 48.2997436,
+                "lon": 9.9885119,
+                "amenity": "school",
+                "level": "0",
+                "name": "Grundschule Staig"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9885119,
+                  48.2997436
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1301078846",
+                "osm_type": "node",
+                "lat": 48.2906342,
+                "lon": 9.8560073,
+                "amenity": "school",
+                "name": "Grundschule Ersingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8560073,
+                  48.2906342
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1410504577",
+                "osm_type": "node",
+                "lat": 48.2614585,
+                "lon": 9.8972018,
+                "amenity": "school",
+                "name": "Grund- und Hauptschule mit Werkrealschule Achstetten"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8972018,
+                  48.2614585
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1597809451",
+                "osm_type": "node",
+                "lat": 48.3137455,
+                "lon": 9.8551254,
+                "addr:housenumber": "7",
+                "addr:street": "Lindengasse",
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8551254,
+                  48.3137455
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1625732380",
+                "osm_type": "node",
+                "lat": 48.2821062,
+                "lon": 9.7249352,
+                "amenity": "school",
+                "check_date": "2025-05-01",
+                "name": "Kaufmännische Schule",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7249352,
+                  48.2821062
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1637907444",
+                "osm_type": "node",
+                "lat": 48.2896051,
+                "lon": 9.7087151,
+                "amenity": "school",
+                "name": "Realschule Ehingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7087151,
+                  48.2896051
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1641514598",
+                "osm_type": "node",
+                "lat": 48.3532526,
+                "lon": 9.9756493,
+                "amenity": "school",
+                "name": "Albert-Einstein-Gymnasium",
+                "wheelchair": "yes",
+                "wikidata": "Q2637437"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9756493,
+                  48.3532526
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1641514606",
+                "osm_type": "node",
+                "lat": 48.3538604,
+                "lon": 9.9756385,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "9",
+                "addr:postcode": "89079",
+                "addr:street": "Buchauer Straße",
+                "addr:suburb": "Wiblingen",
+                "amenity": "school",
+                "contact:email": "einstein-rs@ulm.de",
+                "contact:fax": "+49 731 161-1656",
+                "contact:phone": "+49 731 161-3602",
+                "contact:website": "https://www.einstein-rs.de/",
+                "isced:level": "2",
+                "name": "Albert-Einstein-Realschule",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9756385,
+                  48.3538604
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2659275418",
+                "osm_type": "node",
+                "lat": 48.3301841,
+                "lon": 9.8924814,
+                "amenity": "school",
+                "name": "Schillerschule Grund- und Werkealschule",
+                "website": "https://www.schillerschule-erbach.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8924814,
+                  48.3301841
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2901835986",
+                "osm_type": "node",
+                "lat": 48.2668551,
+                "lon": 9.7846789,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7846789,
+                  48.2668551
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3316622738",
+                "osm_type": "node",
+                "lat": 48.2801033,
+                "lon": 9.9032082,
+                "amenity": "school",
+                "name": "Grundschule Stetten"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9032082,
+                  48.2801033
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3665704859",
+                "osm_type": "node",
+                "lat": 48.3331515,
+                "lon": 9.603921,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.603921,
+                  48.3331515
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3765426253",
+                "osm_type": "node",
+                "lat": 48.2617064,
+                "lon": 9.7380525,
+                "amenity": "school",
+                "name": "Grundschule Berg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7380525,
+                  48.2617064
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3772965224",
+                "osm_type": "node",
+                "lat": 48.2317464,
+                "lon": 9.736319,
+                "amenity": "school",
+                "name": "Werkrealschule Kirchbierlingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.736319,
+                  48.2317464
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3802546846",
+                "osm_type": "node",
+                "lat": 48.2807848,
+                "lon": 9.7277399,
+                "amenity": "school",
+                "email": "jungenschule@franz-von-sales-rs.de",
+                "fax": "+49 7391 77083 198",
+                "isced:level": "2",
+                "name": "Franz-von-Sales-Jungenrealschule",
+                "operator": "Stiftung Katholische Freie Schule der Diözese Rottenburg-Stuttgart",
+                "phone": "+49 7391 77083 100",
+                "website": "https://www.franz-von-sales-rs.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7277399,
+                  48.2807848
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3808545173",
+                "osm_type": "node",
+                "lat": 48.2107842,
+                "lon": 9.9633776,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9633776,
+                  48.2107842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3883289680",
+                "osm_type": "node",
+                "lat": 48.2279859,
+                "lon": 9.8852688,
+                "addr:city": "Laupheim",
+                "addr:country": "DE",
+                "addr:housenumber": "10",
+                "addr:postcode": "88471",
+                "addr:street": "Lange Straße",
+                "amenity": "school",
+                "name": "KaWi Sprachenschule",
+                "source": "Datenübernahme von Gebäude",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8852688,
+                  48.2279859
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7326491725",
+                "osm_type": "node",
+                "lat": 48.3389201,
+                "lon": 10.0075792,
+                "addr:city": "Illerkirchberg",
+                "addr:housenumber": "2",
+                "addr:postcode": "89171",
+                "addr:street": "Kirchweg",
+                "amenity": "school",
+                "check_date": "2024-10-06",
+                "name": "Kernzeit Unterkirchberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0075792,
+                  48.3389201
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12125491743",
+                "osm_type": "node",
+                "lat": 48.2734114,
+                "lon": 9.6280456,
+                "addr:city": "Ehingen (Donau)",
+                "addr:country": "DE",
+                "addr:housenumber": "3/1",
+                "addr:postcode": "89584",
+                "addr:street": "Rappengasse",
+                "addr:suburb": "Kirchen",
+                "amenity": "school",
+                "contact:email": "luuz05@gmx.de",
+                "contact:phone": "+49 7393 919285",
+                "contact:website": "http://hundeschule-dankenriedle.de/",
+                "name": "Hundeschule",
+                "operator": "Freddy Potz"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6280456,
+                  48.2734114
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.190694875,
+            "west": 10.007803749999999,
+            "north": 48.355971499999995,
+            "east": 10.484655499999999
+          },
+          "poiCount": 17,
+          "leafCount": 17,
+          "averagePosition": [
+            10.106399588235295,
+            48.27445622941177
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4040993535",
+                "osm_type": "node",
+                "lat": 48.2162237,
+                "lon": 10.0128047,
+                "amenity": "school",
+                "name": "Grundschule Sießen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0128047,
+                  48.2162237
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7333057558",
+                "osm_type": "node",
+                "lat": 48.320996,
+                "lon": 10.0240513,
+                "addr:city": "Illerkirchberg",
+                "addr:housenumber": "6",
+                "addr:postcode": "89171",
+                "addr:street": "Schloßstraße",
+                "amenity": "school",
+                "check_date": "2025-06-13",
+                "name": "Kernzeitbetreuung Oberkirchberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0240513,
+                  48.320996
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8480141722",
+                "osm_type": "node",
+                "lat": 48.3390487,
+                "lon": 10.0082399,
+                "addr:housenumber": "3",
+                "addr:street": "Kirchweg",
+                "amenity": "school",
+                "name": "Schulhaus Illerkirchberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0082399,
+                  48.3390487
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "308316196",
+                "osm_type": "node",
+                "lat": 48.3127315,
+                "lon": 10.1583209,
+                "amenity": "school",
+                "name": "Grundschule Nord",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1583209,
+                  48.3127315
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "412383275",
+                "osm_type": "node",
+                "lat": 48.2745026,
+                "lon": 10.2278609,
+                "amenity": "school",
+                "name": "Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2278609,
+                  48.2745026
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "428677209",
+                "osm_type": "node",
+                "lat": 48.2300456,
+                "lon": 10.1798468,
+                "amenity": "school",
+                "name": "Grundschule und Mittelschule Buch"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1798468,
+                  48.2300456
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "560120786",
+                "osm_type": "node",
+                "lat": 48.255953,
+                "lon": 10.0912187,
+                "amenity": "school",
+                "name": "Lindenschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0912187,
+                  48.255953
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "623931198",
+                "osm_type": "node",
+                "lat": 48.3131969,
+                "lon": 10.1580471,
+                "amenity": "school",
+                "name": "Montessori-Schule",
+                "website": "https://www.msswh.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1580471,
+                  48.3131969
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "766072624",
+                "osm_type": "node",
+                "lat": 48.3197853,
+                "lon": 10.0707471,
+                "amenity": "school",
+                "check_date": "2024-11-01",
+                "name": "Rektor-Meinrad-Meyer-Grundschule",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0707471,
+                  48.3197853
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "971085179",
+                "osm_type": "node",
+                "lat": 48.2644701,
+                "lon": 10.4420297,
+                "amenity": "school",
+                "name": "Dominikus Ringeisen Förderschulen",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4420297,
+                  48.2644701
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2665066874",
+                "osm_type": "node",
+                "lat": 48.2431485,
+                "lon": 10.055073,
+                "amenity": "school",
+                "email": "info@foerderschule-dietenheim.de",
+                "fax": "+49 7347 919364",
+                "name": "Förderschule Dietenheim Regglisweiler",
+                "phone": "+49 7347 919363",
+                "website": "https://foerderschule-dietenheim.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.055073,
+                  48.2431485
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3314323378",
+                "osm_type": "node",
+                "lat": 48.3230894,
+                "lon": 10.0353559,
+                "amenity": "school",
+                "name": "Grundschule Ay",
+                "website": "http://www.grundschule-ay.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0353559,
+                  48.3230894
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4972077785",
+                "osm_type": "node",
+                "lat": 48.2133679,
+                "lon": 10.0686262,
+                "amenity": "school",
+                "name": "Grundschule Dietenheim"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0686262,
+                  48.2133679
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4975263585",
+                "osm_type": "node",
+                "lat": 48.2431075,
+                "lon": 10.054904,
+                "amenity": "school",
+                "name": "Grundschule Regglisweiler"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.054904,
+                  48.2431075
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5761727916",
+                "osm_type": "node",
+                "lat": 48.324946,
+                "lon": 10.0525351,
+                "addr:city": "Senden",
+                "addr:country": "DE",
+                "addr:housenumber": "5",
+                "addr:postcode": "89250",
+                "addr:street": "Sankt-Jodok-Weg",
+                "amenity": "school",
+                "name": "Interdisziplinäre Frühförderung",
+                "operator": "Lebenshilfe Donau-Iller e.V.",
+                "website": "https://www.lebenshilfe-donau-iller.de/index.php?id=135&L=1%27"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0525351,
+                  48.324946
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9206484617",
+                "osm_type": "node",
+                "lat": 48.2697439,
+                "lon": 10.0548077,
+                "amenity": "school",
+                "name": "Grundschule Illerrieden"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0548077,
+                  48.2697439
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11640895545",
+                "osm_type": "node",
+                "lat": 48.2013993,
+                "lon": 10.114324,
+                "amenity": "school",
+                "name": "Grundschule am Sonnenhang"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.114324,
+                  48.2013993
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 10.484655499999999,
+        "north": 48.355971499999995,
+        "east": 11.438358999999998
+      },
+      "poiCount": 82,
+      "leafCount": 0,
+      "averagePosition": [
+        11.076651664634147,
+        48.1900046597561
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 10.484655499999999,
+            "north": 48.190694875,
+            "east": 10.961507249999999
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            10.795340439999999,
+            48.070408773333334
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1805854359",
+                "osm_type": "node",
+                "lat": 48.0458439,
+                "lon": 10.4868631,
+                "amenity": "school",
+                "name": "Kolping-Bildungswerk"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4868631,
+                  48.0458439
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "266831064",
+                "osm_type": "node",
+                "lat": 48.1051606,
+                "lon": 10.6510753,
+                "amenity": "school",
+                "name": "Albert-Schweitzer-Grund- und Mittelschule",
+                "url": "http://www.schule-ettringen.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6510753,
+                  48.1051606
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "267028511",
+                "osm_type": "node",
+                "lat": 48.1810472,
+                "lon": 10.7595387,
+                "addr:city": "Schwabmünchen",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86830",
+                "addr:street": "Sparkassenplatz",
+                "amenity": "school",
+                "name": "BRK-Berufsfachschule",
+                "operator": "Kreissparkasse Augsburg",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7595387,
+                  48.1810472
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "274750590",
+                "osm_type": "node",
+                "lat": 48.0516285,
+                "lon": 10.8614997,
+                "amenity": "school",
+                "email": "direktorat@dzg-landsberg.de",
+                "grades": "5-13",
+                "isced:level": "2;3",
+                "name": "Dominikus-Zimmermann-Gymnasium",
+                "operator": "Landkreis Landsberg am Lech",
+                "operator:type": "public",
+                "phone": "+49 8191 92700",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.dzg-landsberg.de",
+                "wheelchair": "yes",
+                "wikidata": "Q1238034",
+                "wikipedia": "de:Dominikus-Zimmermann-Gymnasium"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8614997,
+                  48.0516285
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "274750593",
+                "osm_type": "node",
+                "lat": 48.0521251,
+                "lon": 10.8615353,
+                "amenity": "school",
+                "email": "verwaltung@jwr-landsberg.de",
+                "grades": "5-10",
+                "isced:level": "2",
+                "name": "Johann-Winklhofer-Realschule",
+                "operator": "Landkreis Landsberg am Lech",
+                "operator:type": "public",
+                "phone": "+49 8191 92640",
+                "website": "https://www.jwr-landsberg.de",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8615353,
+                  48.0521251
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "291457791",
+                "osm_type": "node",
+                "lat": 48.0362335,
+                "lon": 10.7070181,
+                "amenity": "school",
+                "name": "Meinrad-Spieß-Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7070181,
+                  48.0362335
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1157355666",
+                "osm_type": "node",
+                "lat": 48.0499393,
+                "lon": 10.877958,
+                "amenity": "school",
+                "isced:level": "1",
+                "name": "Grundschule am Spitalplatz",
+                "operator": "Stadt Landsberg am Lech",
+                "operator:type": "public",
+                "phone": "+49 8191 128539",
+                "website": "https://www.spitalplatzschule.de",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.877958,
+                  48.0499393
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1367673082",
+                "osm_type": "node",
+                "lat": 48.1766917,
+                "lon": 10.7583939,
+                "addr:city": "Schwabmünchen",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "86830",
+                "addr:street": "Feyerabendstraße",
+                "amenity": "school",
+                "check_date": "2024-03-16",
+                "name": "Landwirtschaftsschule Schwabmünchen – Abteilung Hauswirtschaft"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7583939,
+                  48.1766917
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1546095314",
+                "osm_type": "node",
+                "lat": 48.0577868,
+                "lon": 10.8660741,
+                "amenity": "school",
+                "check_date": "2025-09-01",
+                "fax": "+49 8191 308223",
+                "name": "landsberg music school",
+                "phone": "+49 8191 308222",
+                "training": "music",
+                "website": "https://www.landsbergmusicschool.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8660741,
+                  48.0577868
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1836813276",
+                "osm_type": "node",
+                "lat": 48.0378114,
+                "lon": 10.8791876,
+                "amenity": "school",
+                "name": "Grünes Klassenzimmer der Landsberger Grundschulen",
+                "website": "https://www.spitalplatzschule.de/angebote/gr%C3%BCnes-klassenzimmer/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8791876,
+                  48.0378114
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1964895411",
+                "osm_type": "node",
+                "lat": 48.0490442,
+                "lon": 10.8791601,
+                "amenity": "school",
+                "email": "info@atelier-roland-schamberger.de",
+                "name": "Freie Malschule Landsberg",
+                "opening_hours": "Tu,Th 09:30-12:30,15:00-19:30; We 15:00-18:00; Fr 14:00-18:30",
+                "operator": "Roland Schamberger",
+                "phone": "+49 8191 42616",
+                "website": "https://atelier-roland-schamberger.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8791601,
+                  48.0490442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2479334363",
+                "osm_type": "node",
+                "lat": 48.0283068,
+                "lon": 10.7257662,
+                "addr:city": "Buchloe",
+                "addr:country": "DE",
+                "addr:housenumber": "8",
+                "addr:postcode": "86807",
+                "addr:street": "Kerschensteinerstraße",
+                "amenity": "school",
+                "name": "Gymnasium Buchloe"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7257662,
+                  48.0283068
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4693772238",
+                "osm_type": "node",
+                "lat": 48.0887291,
+                "lon": 10.8511522,
+                "amenity": "school",
+                "name": "Tai-Chi-Schule Lina Hörl",
+                "operator": "Lina Hörl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8511522,
+                  48.0887291
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5410489998",
+                "osm_type": "node",
+                "lat": 48.0506239,
+                "lon": 10.8808503,
+                "amenity": "school",
+                "email": "poststelle@agrarbildungszentrum-landsberg.de",
+                "fax": "+49 8191 3358-150",
+                "name": "Studienheim - Technikerschule für Agrarwirtschaft",
+                "phone": "+49 8191 3358-112",
+                "website": "https://www.technikerschule-landsberg.bayern.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8808503,
+                  48.0506239
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8916661883",
+                "osm_type": "node",
+                "lat": 48.0451596,
+                "lon": 10.884034,
+                "amenity": "school",
+                "email": "sekretariat@foerderzentrum-landsberg.de",
+                "isced:level": "1;2",
+                "name": "Schule am Luisenhof",
+                "phone": "+49 8191 657109-0",
+                "website": "https://sfz-landsberg.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.884034,
+                  48.0451596
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.02541825,
+            "west": 10.961507249999999,
+            "north": 48.190694875,
+            "east": 11.438358999999998
+          },
+          "poiCount": 37,
+          "leafCount": 37,
+          "averagePosition": [
+            11.271300232432433,
+            48.141633686486486
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "602467646",
+                "osm_type": "node",
+                "lat": 48.1512869,
+                "lon": 10.9750325,
+                "amenity": "school",
+                "name": "Grundschule Walleshausen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9750325,
+                  48.1512869
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "207230074",
+                "osm_type": "node",
+                "lat": 48.1785758,
+                "lon": 11.3616774,
+                "addr:city": "Puchheim",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "82178",
+                "addr:street": "Gerner Platz",
+                "amenity": "school",
+                "name": "Grundschule am Gerner Platz",
+                "website": "https://grundschule-gernerplatz.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3616774,
+                  48.1785758
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "207231287",
+                "osm_type": "node",
+                "lat": 48.1791463,
+                "lon": 11.3614999,
+                "addr:city": "Puchheim",
+                "addr:country": "DE",
+                "addr:housenumber": "26",
+                "addr:postcode": "82178",
+                "addr:street": "Lagerstraße",
+                "amenity": "school",
+                "name": "Mittelschule Puchheim",
+                "phone": "+49 89 803318",
+                "toilets:wheelchair": "no",
+                "website": "http://www.hs-puchheim.de/",
+                "wheelchair": "no",
+                "wheelchair:description": "da keine Behindertentoilette vorhanden, für lange Schultage nicht geeignet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3614999,
+                  48.1791463
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "280037898",
+                "osm_type": "node",
+                "lat": 48.0361678,
+                "lon": 11.2136806,
+                "amenity": "school",
+                "check_date": "2025-07-31",
+                "name": "Grundschule am Pilsensee",
+                "website": "https://gs-am-pilsensee.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2136806,
+                  48.0361678
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "358171049",
+                "osm_type": "node",
+                "lat": 48.181301,
+                "lon": 11.3574259,
+                "addr:city": "Puchheim",
+                "addr:country": "DE",
+                "addr:housenumber": "9",
+                "addr:postcode": "82178",
+                "addr:street": "Bürgermeister-Ertl-Straße",
+                "amenity": "school",
+                "name": "Realschule Puchheim",
+                "phone": "+49 89 800060",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.rs-puchheim.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q17295752"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3574259,
+                  48.181301
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "389990888",
+                "osm_type": "node",
+                "lat": 48.1735949,
+                "lon": 11.2577402,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "15",
+                "addr:postcode": "82256",
+                "addr:street": "Bahnhofstraße",
+                "amenity": "school",
+                "name": "Ferdinand-von-Miller Realschule",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.realschule-ffb.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2577402,
+                  48.1735949
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "389990889",
+                "osm_type": "node",
+                "lat": 48.173388,
+                "lon": 11.2680841,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "69",
+                "addr:postcode": "82256",
+                "addr:street": "Münchner Straße",
+                "amenity": "school",
+                "check_date": "2025-08-21",
+                "name": "Graf-Rasso-Gymnasium Fürstenfeldbruck",
+                "website": "https://home.graf-rasso-gymnasium.de/home/",
+                "wheelchair": "limited",
+                "wikidata": "Q1541368"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2680841,
+                  48.173388
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "389990890",
+                "osm_type": "node",
+                "lat": 48.1735311,
+                "lon": 11.2669152,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "67",
+                "addr:postcode": "82256",
+                "addr:street": "Münchner Straße",
+                "amenity": "school",
+                "check_date": "2024-12-09",
+                "name": "Staatliche Fachoberschule und Berufsoberschule Fürstenfeldbruck",
+                "website": "https://www.fosbos-ffb.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2669152,
+                  48.1735311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "427603220",
+                "osm_type": "node",
+                "lat": 48.1746995,
+                "lon": 11.2577207,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "82256",
+                "addr:street": "Hans-Sachs-Straße",
+                "amenity": "school",
+                "check_date": "2024-09-23",
+                "name": "Berufsschule Fürstenfeldbruck",
+                "website": "https://www.bs-ffb.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2577207,
+                  48.1746995
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "442881844",
+                "osm_type": "node",
+                "lat": 48.1697726,
+                "lon": 11.2329302,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "12",
+                "addr:postcode": "82256",
+                "addr:street": "Abt-Anselm-Straße",
+                "amenity": "school",
+                "name": "Mittelschule Fürstenfeldbruck West",
+                "operator": "Große Kreisstadt Fürstenfeldbruck",
+                "website": "https://www.ms-ffb-west.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2329302,
+                  48.1697726
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "442881845",
+                "osm_type": "node",
+                "lat": 48.1699274,
+                "lon": 11.2319209,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "82256",
+                "addr:street": "Richard-Higgins-Straße",
+                "amenity": "school",
+                "name": "Richard-Higgins-Grundschule",
+                "operator": "Große Kreisstadt Fürstenfeldbruck",
+                "website": "https://www.rh-gs.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2319209,
+                  48.1699274
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "469414965",
+                "osm_type": "node",
+                "lat": 48.0383761,
+                "lon": 11.193968,
+                "amenity": "school",
+                "check_date": "2025-05-29",
+                "name": "Grundschule am Pilsensee",
+                "website": "https://gs-am-pilsensee.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.193968,
+                  48.0383761
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "822789064",
+                "osm_type": "node",
+                "lat": 48.0299102,
+                "lon": 11.0917104,
+                "amenity": "school",
+                "name": "Jugendübernachtungsheim",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0917104,
+                  48.0299102
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "948795422",
+                "osm_type": "node",
+                "lat": 48.0549707,
+                "lon": 11.0974257,
+                "amenity": "school",
+                "email": "landheim@landheim-ammersee.de",
+                "fax": "+49 8192 7993",
+                "name": "Landheim Ammersee",
+                "name:de": "Landheim Ammersee",
+                "name:zh": "顺道府寄宿制高级文理中学",
+                "operator": "Stiftung Landschulheim Schondorf am Ammersee",
+                "phone": "+49 8192 8090",
+                "website": "https://www.landheim-ammersee.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q1772682",
+                "wikipedia": "de:Landheim Schondorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0974257,
+                  48.0549707
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1112444508",
+                "osm_type": "node",
+                "lat": 48.1552825,
+                "lon": 11.0753571,
+                "addr:city": "Moorenweis",
+                "addr:housenumber": "6",
+                "addr:postcode": "82272",
+                "addr:street": "Ammerseestraße",
+                "amenity": "school",
+                "name": "Grundschule Moorenweis",
+                "website": "https://grundschule-moorenweis.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0753571,
+                  48.1552825
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1240279012",
+                "osm_type": "node",
+                "lat": 48.072732,
+                "lon": 11.1454098,
+                "amenity": "school",
+                "name": "Grundschule Inning",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1454098,
+                  48.072732
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1610739434",
+                "osm_type": "node",
+                "lat": 48.1526534,
+                "lon": 11.3412638,
+                "amenity": "school",
+                "name": "Laurenzer Grundschule Puchheim-Ort"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3412638,
+                  48.1526534
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1988388445",
+                "osm_type": "node",
+                "lat": 48.0778108,
+                "lon": 11.150754,
+                "amenity": "school",
+                "check_date": "2024-09-08",
+                "description": "Sekundarschule",
+                "isced:level": "2;3",
+                "name": "Montessori Schule",
+                "operator": "Förderverein Montessori Ammersee e.V."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.150754,
+                  48.0778108
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2195713607",
+                "osm_type": "node",
+                "lat": 48.1901878,
+                "lon": 11.3793896,
+                "addr:city": "Gröbenzell",
+                "addr:country": "DE",
+                "addr:housenumber": "15",
+                "addr:postcode": "82194",
+                "addr:street": "Breslauer Straße",
+                "amenity": "school",
+                "email": "Info@triveni-zentrum.de",
+                "name": "Triveni Zentrum für Yoga und Gesundheit",
+                "phone": "+49 (0)8142 4104076",
+                "website": "https://www.triveni-zentrum.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3793896,
+                  48.1901878
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3201187868",
+                "osm_type": "node",
+                "lat": 48.1637074,
+                "lon": 11.4343665,
+                "addr:city": "München",
+                "addr:country": "DE",
+                "addr:housenumber": "109",
+                "addr:postcode": "81245",
+                "addr:street": "Bergsonstraße",
+                "amenity": "school",
+                "language:de": "yes",
+                "name": "Städtische Berufsschule für elektrische Anlagen- und Gebäudetechnik",
+                "operator": "Landeshauptstadt München",
+                "school:gender": "mixed",
+                "website": "https://bs-eagt.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4343665,
+                  48.1637074
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3201191552",
+                "osm_type": "node",
+                "lat": 48.1631128,
+                "lon": 11.4355984,
+                "addr:city": "München",
+                "addr:country": "DE",
+                "addr:housenumber": "109",
+                "addr:postcode": "81245",
+                "addr:street": "Bergsonstraße",
+                "amenity": "school",
+                "grades": "10-13",
+                "internet_access": "wlan",
+                "name": "Staatliche Fachoberschule München-West",
+                "operator": "Landeshauptstadt München",
+                "operator:type": "public",
+                "pedagogy": "mainstream",
+                "school:gender": "mixed",
+                "website": "https://fos-west.de",
+                "wikidata": "Q123571193",
+                "wikipedia": "de:Staatliche Fachoberschule München-West"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4355984,
+                  48.1631128
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3201193997",
+                "osm_type": "node",
+                "lat": 48.163311,
+                "lon": 11.4351877,
+                "addr:city": "München",
+                "addr:country": "DE",
+                "addr:housenumber": "109",
+                "addr:postcode": "81245",
+                "addr:street": "Bergsonstraße",
+                "amenity": "school",
+                "internet_access": "wlan",
+                "name": "Technikerschule München - Städtische Fachschule für Maschinenbau-, Mechatronik-, Metallbau-, Informatik- und Elektrotechnik",
+                "operator": "Landeshauptstadt München",
+                "school:gender": "mixed",
+                "website": "https://www.technikerschule-muenchen.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4351877,
+                  48.163311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3201193998",
+                "osm_type": "node",
+                "lat": 48.1635092,
+                "lon": 11.4347771,
+                "addr:city": "München",
+                "addr:country": "DE",
+                "addr:housenumber": "109",
+                "addr:postcode": "81245",
+                "addr:street": "Bergsonstraße",
+                "amenity": "school",
+                "name": "Städtische Berufsschule für Industrieelektronik",
+                "operator": "Landeshauptstadt München",
+                "website": "https://bsindus.musin.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4347771,
+                  48.1635092
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3273238723",
+                "osm_type": "node",
+                "lat": 48.1860815,
+                "lon": 11.0846593,
+                "amenity": "school"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0846593,
+                  48.1860815
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4513952491",
+                "osm_type": "node",
+                "lat": 48.1043798,
+                "lon": 11.4245526,
+                "amenity": "school",
+                "name": "Grundschule Planegg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4245526,
+                  48.1043798
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4611429989",
+                "osm_type": "node",
+                "lat": 48.1820085,
+                "lon": 11.3568514,
+                "addr:city": "Puchheim",
+                "addr:country": "DE",
+                "addr:housenumber": "11",
+                "addr:postcode": "82178",
+                "addr:street": "Bürgermeister-Ertl-Straße",
+                "amenity": "school",
+                "name": "Gymnasium Puchheim",
+                "phone": "+49 89 8902500",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.gymnasium-puchheim.de/",
+                "wheelchair": "yes",
+                "wheelchair:description": "Schlüssel für Aufzug erforderlich"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3568514,
+                  48.1820085
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4774997529",
+                "osm_type": "node",
+                "lat": 48.1765926,
+                "lon": 11.2520282,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:housenumber": "41",
+                "addr:postcode": "82256",
+                "addr:street": "Schöngeisinger Straße",
+                "amenity": "school",
+                "email": "info@skischule-mueller.de",
+                "fax": "+49 8141 346962",
+                "name": "Ski und Snowboardschule Müller",
+                "operator": "Müller Richard",
+                "phone": "+49 8141 346960",
+                "website": "https://www.skischulemueller.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2520282,
+                  48.1765926
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5310611255",
+                "osm_type": "node",
+                "lat": 48.1773607,
+                "lon": 11.2528148,
+                "addr:city": "Fürstenfeldbruck",
+                "addr:housenumber": "1",
+                "addr:postcode": "82256",
+                "addr:street": "Viehmarktstraße",
+                "amenity": "school",
+                "check_date": "2025-03-08",
+                "email": "info@deutsche-baristaschule.de",
+                "name": "GBS Kaffeeschule",
+                "operator": "GBS Gastro GmbH",
+                "operator:type": "private",
+                "phone": "+49 8141 889 3015",
+                "school": "barista",
+                "website": "https://www.deutsche-baristaschule.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2528148,
+                  48.1773607
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7306059791",
+                "osm_type": "node",
+                "lat": 48.1854527,
+                "lon": 11.2573224,
+                "amenity": "school",
+                "email": "johanna.lohner@stiftung-kinderhilfe.de",
+                "name": "Cäcilien-Schule",
+                "operator": "Stiftung Kinderhilfe",
+                "phone": "+49 8141 4050200",
+                "website": "https://www.stiftung-kinderhilfe.de/einrichtungen/caecilien-schule/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2573224,
+                  48.1854527
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7397487779",
+                "osm_type": "node",
+                "lat": 48.1165806,
+                "lon": 11.0346615,
+                "amenity": "school",
+                "name": "Grundschule Geltendorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0346615,
+                  48.1165806
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7455243296",
+                "osm_type": "node",
+                "lat": 48.1814721,
+                "lon": 11.3566957,
+                "amenity": "school",
+                "name": "Realschule Puchheim"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3566957,
+                  48.1814721
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7699399329",
+                "osm_type": "node",
+                "lat": 48.1867599,
+                "lon": 11.2202811,
+                "amenity": "school",
+                "email": "poststelle@aelf-ff.bayern.de",
+                "name": "Landwirtschaftsschule Fürstenfeldbruck",
+                "operator": "Amt für Ernährung, Landwirtschaft und Forsten Fürstenfeldbruck (AELF)",
+                "phone": "+49 8141 3223-0",
+                "website": "https://www.aelf-ff.bayern.de/bildung/landwirtschaft/036321/index.php"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2202811,
+                  48.1867599
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8411301911",
+                "osm_type": "node",
+                "lat": 48.12518,
+                "lon": 11.4335885,
+                "addr:city": "Gräfelfing",
+                "addr:housenumber": "1",
+                "addr:postcode": "82166",
+                "addr:street": "Adalbert-Stifter-Platz",
+                "amenity": "school",
+                "name": "Volksschule Lochham",
+                "website": "https://www.gms-lochham.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4335885,
+                  48.12518
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8915775675",
+                "osm_type": "node",
+                "lat": 48.0778003,
+                "lon": 11.1502299,
+                "amenity": "school",
+                "check_date": "2024-09-08",
+                "description": "Grundschule",
+                "isced:level": "1",
+                "name": "Montessori Grundschule",
+                "operator": "Förderverein Montessori Ammersee e.V."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1502299,
+                  48.0778003
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8918591317",
+                "osm_type": "node",
+                "lat": 48.0635647,
+                "lon": 11.3738801,
+                "amenity": "school",
+                "email": "schulleitung@maedchenheim-gauting.de",
+                "fax": "+49 89 89324959",
+                "name": "Agnes-Neuhaus-Schule",
+                "operator": "Caritasverband der Erzdiözese München und Freising e.V.",
+                "phone": "+49 89 89324943",
+                "website": "https://www.caritas-nah-am-naechsten.de/agnes-neuhaus-schulen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3738801,
+                  48.0635647
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9175910890",
+                "osm_type": "node",
+                "lat": 48.1495031,
+                "lon": 11.4355123,
+                "amenity": "school",
+                "name": "BildungsLokal Neuaubing-Westkreuz",
+                "opening_hours": "Mo,Th 13:00-17:00; Tu,Fr 09:00-13:00; We off",
+                "phone": "+49 89 233 29255",
+                "website": "https://stadt.muenchen.de/service/info/bildungslokal-neuaubing-westkreuz/10322251/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4355123,
+                  48.1495031
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12889373953",
+                "osm_type": "node",
+                "lat": 48.1407547,
+                "lon": 11.4051951,
+                "addr:city": "München",
+                "addr:housenumber": "5",
+                "addr:postcode": "81249",
+                "addr:street": "Hildegard-Hamm-Brücher-Straße",
+                "amenity": "school",
+                "name": "Gymnasium Freiham",
+                "operator": "Stadt München",
+                "operator:type": "public",
+                "website": "https://www.gymnasium-freiham.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4051951,
+                  48.1407547
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.190694875,
+            "west": 10.484655499999999,
+            "north": 48.355971499999995,
+            "east": 10.961507249999999
+          },
+          "poiCount": 20,
+          "leafCount": 20,
+          "averagePosition": [
+            10.809450015,
+            48.32515229
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "271120289",
+                "osm_type": "node",
+                "lat": 48.2679579,
+                "lon": 10.821477,
+                "amenity": "school",
+                "name": "Realschule Bobingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.821477,
+                  48.2679579
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "271120339",
+                "osm_type": "node",
+                "lat": 48.2674671,
+                "lon": 10.8205409,
+                "amenity": "school",
+                "name": "Grundschule an der Singold"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8205409,
+                  48.2674671
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "282218838",
+                "osm_type": "node",
+                "lat": 48.326442,
+                "lon": 10.7329527,
+                "amenity": "school",
+                "name": "Grundschule Gessertshausen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7329527,
+                  48.326442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "291059498",
+                "osm_type": "node",
+                "lat": 48.3168842,
+                "lon": 10.6494537,
+                "addr:city": "Ustersbach",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "86514",
+                "addr:street": "Schulweg",
+                "amenity": "school",
+                "name": "Helen-Keller-Schule",
+                "note": "Außenklasse(n) des Helen-Keller-Förderzentrums befinden sich ebenfalls in der Grundschule.",
+                "phone": "+49 8236 9581906",
+                "website": "https://hks-dinkelscherben.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6494537,
+                  48.3168842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "295202163",
+                "osm_type": "node",
+                "lat": 48.3167537,
+                "lon": 10.6758006,
+                "amenity": "school",
+                "fixme": "ist hier tatsächlich auch eine Schule oder ist es ein doppelter Eintrag des Kinderheims?",
+                "name": "Kinderheim St. Josef"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6758006,
+                  48.3167537
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "537982905",
+                "osm_type": "node",
+                "lat": 48.2874837,
+                "lon": 10.6522341,
+                "amenity": "school",
+                "name": "Grund und Mittelschule Fischach",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6522341,
+                  48.2874837
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "902659584",
+                "osm_type": "node",
+                "lat": 48.3474197,
+                "lon": 10.902553,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "66",
+                "addr:postcode": "86161",
+                "addr:street": "Haunstetter Straße",
+                "amenity": "school",
+                "check_date": "2024-03-15",
+                "name": "Gewerbliche Berufsschule 7 - Bebo-Wager-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.902553,
+                  48.3474197
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "902659585",
+                "osm_type": "node",
+                "lat": 48.3477323,
+                "lon": 10.9025191,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "66",
+                "addr:postcode": "86161",
+                "addr:street": "Haunstetter Straße",
+                "amenity": "school",
+                "check_date": "2024-03-15",
+                "name": "Kaufmännische Berufsschule 5"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9025191,
+                  48.3477323
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "902659586",
+                "osm_type": "node",
+                "lat": 48.3481914,
+                "lon": 10.9024386,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "66",
+                "addr:postcode": "86161",
+                "addr:street": "Haunstetter Straße",
+                "amenity": "school",
+                "check_date": "2024-03-15",
+                "name": "Gewerbliche Berufsschule 2 - Bebo-Wager-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9024386,
+                  48.3481914
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "902659587",
+                "osm_type": "node",
+                "lat": 48.3485181,
+                "lon": 10.9024174,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "66",
+                "addr:postcode": "86161",
+                "addr:street": "Haunstetter Straße",
+                "amenity": "school",
+                "check_date": "2024-03-15",
+                "name": "Gewerbliche Berufsschule 1 - Bebo-Wager-Schule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9024174,
+                  48.3485181
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1051237047",
+                "osm_type": "node",
+                "lat": 48.3421767,
+                "lon": 10.5802986,
+                "amenity": "school",
+                "check_date": "2024-12-27",
+                "name": "Montessori Schule",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5802986,
+                  48.3421767
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1122119811",
+                "osm_type": "node",
+                "lat": 48.3423326,
+                "lon": 10.8747699,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86199",
+                "addr:street": "Allgäuer Straße",
+                "amenity": "school",
+                "name": "Berufsfachschule für Altenpflege",
+                "operator": "Berufsbildungszentrum Augsburg - BBZ",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8747699,
+                  48.3423326
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1122119961",
+                "osm_type": "node",
+                "lat": 48.3423849,
+                "lon": 10.8747828,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86199",
+                "addr:street": "Allgäuer Straße",
+                "amenity": "school",
+                "name": "Berufsfachschule für pharmazeutisch technische Assistenten",
+                "operator": "Berufsbildungszentrum Augsburg - BBZ"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8747828,
+                  48.3423849
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1122119981",
+                "osm_type": "node",
+                "lat": 48.3428081,
+                "lon": 10.8749123,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86199",
+                "addr:street": "Allgäuer Straße",
+                "amenity": "school",
+                "name": "Berufsvorbereitende Bildungsmaßnahmen",
+                "operator": "Berufsbildungszentrum Augsburg - BBZ"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8749123,
+                  48.3428081
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1574566674",
+                "osm_type": "node",
+                "lat": 48.3380693,
+                "lon": 10.900705,
+                "addr:housenumber": "101",
+                "addr:postcode": "86159",
+                "addr:street": "Alter Postweg",
+                "amenity": "school",
+                "check_date": "2024-06-05",
+                "name": "Technikerschule Augsburg",
+                "operator": "Lehmbau"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.900705,
+                  48.3380693
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4078032425",
+                "osm_type": "node",
+                "lat": 48.2939052,
+                "lon": 10.532357,
+                "amenity": "school",
+                "name": "Hyazinth-Wäckerle-Grundschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.532357,
+                  48.2939052
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10130723269",
+                "osm_type": "node",
+                "lat": 48.3279377,
+                "lon": 10.8879784,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "4a",
+                "addr:postcode": "86159",
+                "addr:street": "Karl-Drais-Straße",
+                "amenity": "school",
+                "contact:email": "akd.augsburg@tuvsud.com",
+                "contact:phone": "+49 821 5904-257",
+                "contact:website": "https://www.tuvsud.com/de-de/store/akademie/standorte/augsburg",
+                "name": "TÜV Süd Akademie",
+                "operator": "Technischer Überwachungsverein Süd (TÜV)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8879784,
+                  48.3279377
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10248934765",
+                "osm_type": "node",
+                "lat": 48.3302833,
+                "lon": 10.8996961,
+                "amenity": "school",
+                "name": "Berufsfachschule"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8996961,
+                  48.3302833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10248934766",
+                "osm_type": "node",
+                "lat": 48.3302833,
+                "lon": 10.9003913,
+                "amenity": "school",
+                "name": "Fachakademie"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9003913,
+                  48.3302833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12185683713",
+                "osm_type": "node",
+                "lat": 48.3380146,
+                "lon": 10.9007218,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "101",
+                "addr:postcode": "86159",
+                "addr:street": "Alter Postweg",
+                "amenity": "school",
+                "name": "Berufsbildungszentrum der Lehmbaugruppe",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9007218,
+                  48.3380146
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.190694875,
+            "west": 10.961507249999999,
+            "north": 48.355971499999995,
+            "east": 11.438358999999998
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            11.3128221,
+            48.27807583
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "248905055",
+                "osm_type": "node",
+                "lat": 48.3496175,
+                "lon": 11.4222995,
+                "amenity": "school",
+                "created_by": "Potlatch 0.7b",
+                "name": "Akademie Schönbrunn",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4222995,
+                  48.3496175
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "263502955",
+                "osm_type": "node",
+                "lat": 48.339752,
+                "lon": 11.2976398,
+                "amenity": "school",
+                "name": "Katholische Landvolkshochschule Petersberg",
+                "website": "https://www.der-petersberg.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2976398,
+                  48.339752
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "369706145",
+                "osm_type": "node",
+                "lat": 48.2419239,
+                "lon": 11.1879441,
+                "amenity": "school",
+                "check_date": "2024-06-26",
+                "created_by": "Potlatch 0.10f",
+                "name": "Grundschule Aufkirchen",
+                "wikidata": "Q54453810"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1879441,
+                  48.2419239
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "412788024",
+                "osm_type": "node",
+                "lat": 48.3322772,
+                "lon": 11.3033698,
+                "amenity": "school",
+                "name": "VHS Erdweg",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3033698,
+                  48.3322772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "444906528",
+                "osm_type": "node",
+                "lat": 48.2568058,
+                "lon": 11.099633,
+                "amenity": "school",
+                "name": "Grundschule Mittelstetten",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.099633,
+                  48.2568058
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7328153728",
+                "osm_type": "node",
+                "lat": 48.2454989,
+                "lon": 11.4382098,
+                "amenity": "school",
+                "email": "sekretariat@ms-dachau-sued.de",
+                "fax": "+49 8131 7544920",
+                "name": "Mittelschule Dachau-Süd",
+                "phone": "+49 8131 754920",
+                "website": "https://mittelschuledachausued.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4382098,
+                  48.2454989
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7328153729",
+                "osm_type": "node",
+                "lat": 48.2465728,
+                "lon": 11.4381659,
+                "addr:city": "Dachau",
+                "addr:housenumber": "1",
+                "addr:postcode": "85221",
+                "addr:street": "Eduard-Ziegler-Straße",
+                "amenity": "school",
+                "name": "Grundschule Dachau-Süd",
+                "website": "https://dachausuedgs.jimdofree.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4381659,
+                  48.2465728
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7746422231",
+                "osm_type": "node",
+                "lat": 48.2441464,
+                "lon": 11.1474833,
+                "addr:city": "Oberschweinbach",
+                "addr:housenumber": "11",
+                "addr:postcode": "82294",
+                "addr:street": "Schulstraße",
+                "amenity": "school",
+                "name": "Montessori-Schule Günzlhofen",
+                "phone": "+49 8145 468",
+                "website": "https://www.montessori-ffb.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1474833,
+                  48.2441464
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8845958211",
+                "osm_type": "node",
+                "lat": 48.2580697,
+                "lon": 11.3661033,
+                "amenity": "school",
+                "name": "vhs Bergkirchen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3661033,
+                  48.2580697
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10678496265",
+                "osm_type": "node",
+                "lat": 48.2660941,
+                "lon": 11.4273725,
+                "amenity": "school",
+                "name": "Berufsfachschule für Krankenpflege",
+                "operator": "Helios Gesellschaft für berufliche Bildung mbH",
+                "phone": "+49 8131 76560"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4273725,
+                  48.2660941
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

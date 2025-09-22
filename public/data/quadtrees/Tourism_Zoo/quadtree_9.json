@@ -1,0 +1,81 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 11.438358999999998,
+    "north": 48.355971499999995,
+    "east": 13.345766
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    12.370128166666667,
+    47.860091000000004
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7820274749",
+        "osm_type": "node",
+        "lat": 47.7912862,
+        "lon": 12.3310817,
+        "name": "Esel",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3310817,
+          47.7912862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1407088112",
+        "osm_type": "node",
+        "lat": 47.8592441,
+        "lon": 12.9667817,
+        "name": "Lehrbienenstock",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9667817,
+          47.8592441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "380892045",
+        "osm_type": "node",
+        "lat": 47.9297427,
+        "lon": 11.8125211,
+        "addr:city": "Aying",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:place": "Blindham",
+        "addr:postcode": "85653",
+        "name": "BergTierPark Blindham",
+        "opening_hours": "Mar Su[-1] - Oct Su[-1] - 1 day Mo-Su 9:00-19:00, Oct Su[-1] - Mar Su[-1] - 1 day Mo-Su 10:00-18:00",
+        "tourism": "zoo",
+        "website": "https://www.bergtierpark.de/",
+        "wheelchair": "limited",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8125211,
+          47.9297427
+        ]
+      }
+    }
+  ],
+  "children": []
+}

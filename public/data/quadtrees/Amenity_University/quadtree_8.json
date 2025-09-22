@@ -1,0 +1,109 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 4,
+  "leafCount": 4,
+  "averagePosition": [
+    10.29028795,
+    47.8907533
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "289563581",
+        "osm_type": "node",
+        "lat": 47.7797534,
+        "lon": 9.6136558,
+        "addr:city": "Ravensburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "88212",
+        "addr:street": "Marienplatz",
+        "amenity": "university",
+        "branch": "Campus Ravensburg",
+        "name": "DHBW Ravensburg",
+        "phone": "+49 751 18999 2700",
+        "short_name": "DHBW",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.ravensburg.dhbw.de/",
+        "wheelchair": "yes",
+        "wikidata": "Q1262617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6136558,
+          47.7797534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11641171757",
+        "osm_type": "node",
+        "lat": 47.8105116,
+        "lon": 9.6481506,
+        "addr:city": "Weingarten",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "88250",
+        "addr:street": "Doggenriedstraße",
+        "amenity": "university",
+        "description": "House of Makers and Engineers",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "H.O.M.E. Weingarten",
+        "website": "https://home.rwu.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6481506,
+          47.8105116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6378024411",
+        "osm_type": "node",
+        "lat": 47.8851325,
+        "lon": 10.6032631,
+        "amenity": "university",
+        "name": "FH Herrsching Fachbereich Finanzwesen Zweigstelle Kaufbeuren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6032631,
+          47.8851325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13041619223",
+        "osm_type": "node",
+        "lat": 48.0876157,
+        "lon": 11.2960823,
+        "amenity": "university",
+        "name": "Aerospace Flight Test Center - Geb. 507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2960823,
+          48.0876157
+        ]
+      }
+    }
+  ],
+  "children": []
+}

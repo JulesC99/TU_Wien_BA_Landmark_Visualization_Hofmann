@@ -1,0 +1,5673 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 232,
+  "leafCount": 0,
+  "averagePosition": [
+    10.394712685775861,
+    48.602201684913794
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 9.530952,
+        "north": 48.68652475,
+        "east": 10.484655499999999
+      },
+      "poiCount": 68,
+      "leafCount": 0,
+      "averagePosition": [
+        10.030143558823529,
+        48.46396475735293
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 9.530952,
+            "north": 48.521248125,
+            "east": 10.007803749999999
+          },
+          "poiCount": 43,
+          "leafCount": 43,
+          "averagePosition": [
+            9.9845251,
+            48.40125834186046
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "661191122",
+                "osm_type": "node",
+                "lat": 48.3960615,
+                "lon": 9.9955262,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "Stitzbar",
+                "smoking": "isolated",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9955262,
+                  48.3960615
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "661191123",
+                "osm_type": "node",
+                "lat": 48.3962833,
+                "lon": 9.992267,
+                "amenity": "bar",
+                "name": "Dolce",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.992267,
+                  48.3962833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "661191124",
+                "osm_type": "node",
+                "lat": 48.3968165,
+                "lon": 9.9922099,
+                "addr:city": "Ulm",
+                "addr:housenumber": "50",
+                "addr:postcode": "89073",
+                "addr:street": "Theodor-Pfizer-Platz",
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "email": "maxi@stadtkind-ulm.de",
+                "name": "Stadtkind",
+                "opening_hours": "We-Su 18:00-01:00",
+                "phone": "+49 731 1439630",
+                "smoking": "no",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9922099,
+                  48.3968165
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "670013288",
+                "osm_type": "node",
+                "lat": 48.3975824,
+                "lon": 9.9862243,
+                "amenity": "bar",
+                "cocktails": "yes",
+                "name": "Blaupause",
+                "wheelchair": "limited",
+                "wheelchair:description": "keine Rollstuhltoilette"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9862243,
+                  48.3975824
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "702264766",
+                "osm_type": "node",
+                "lat": 48.3974561,
+                "lon": 9.9960282,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "Muditã",
+                "old_name": "Lounge im Gindele (bis 2017), Jedermann (bis 2018), Woods (2018)",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9960282,
+                  48.3974561
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "702296191",
+                "osm_type": "node",
+                "lat": 48.3987417,
+                "lon": 9.9869924,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "5",
+                "addr:postcode": "89073",
+                "addr:street": "Wengengasse",
+                "amenity": "bar",
+                "check_date": "2023-11-17",
+                "indoor_seating": "yes",
+                "name": "Reischmann's",
+                "old_name": "Cafebar W (bis 2018)",
+                "outdoor_seating": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9869924,
+                  48.3987417
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "702296192",
+                "osm_type": "node",
+                "lat": 48.3978442,
+                "lon": 9.9870862,
+                "amenity": "bar",
+                "name": "Sahara Lounge",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9870862,
+                  48.3978442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "702297406",
+                "osm_type": "node",
+                "lat": 48.4021842,
+                "lon": 9.995764,
+                "amenity": "bar",
+                "check_date": "2024-04-20",
+                "name": "Olgabar",
+                "opening_hours": "Mo-Th 20:00-03:00, Fr,Sa 20:00-05:00",
+                "smoking": "yes",
+                "toilets:wheelchair": "no",
+                "website": "http://www.olga-ulm.de/",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.995764,
+                  48.4021842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "763451226",
+                "osm_type": "node",
+                "lat": 48.398226,
+                "lon": 10.0047671,
+                "amenity": "bar",
+                "name": "Rio Rita Bar",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0047671,
+                  48.398226
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "785935059",
+                "osm_type": "node",
+                "lat": 48.3974812,
+                "lon": 9.9940866,
+                "amenity": "bar",
+                "check_date": "2024-03-29",
+                "name": "Billbar",
+                "opening_hours": "We-Su,PH 10:00-18:00",
+                "website": "https://www.billbar.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9940866,
+                  48.3974812
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "790305629",
+                "osm_type": "node",
+                "lat": 48.4213245,
+                "lon": 10.0054263,
+                "amenity": "bar",
+                "name": "Siedepunkt",
+                "opening_hours": "17:00-1:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0054263,
+                  48.4213245
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "802769949",
+                "osm_type": "node",
+                "lat": 48.3964687,
+                "lon": 9.9852889,
+                "addr:housenumber": "1",
+                "addr:street": "Zinglerstraße",
+                "amenity": "bar",
+                "check_date": "2025-05-07",
+                "diet:vegan": "yes",
+                "diet:vegetarian": "yes",
+                "level": "1",
+                "name": "Hemperium",
+                "opening_hours": "Tu-Th 17:00-02:00; Fr,Sa 17:00-04:00",
+                "payment:cash": "yes",
+                "payment:debit_cards": "yes",
+                "website": "http://www.hemperium.de",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9852889,
+                  48.3964687
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "802769955",
+                "osm_type": "node",
+                "lat": 48.3968238,
+                "lon": 9.9856856,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "Ella"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9856856,
+                  48.3968238
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1377399136",
+                "osm_type": "node",
+                "lat": 48.396525,
+                "lon": 9.9935231,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "M Lounge",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9935231,
+                  48.396525
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1377399137",
+                "osm_type": "node",
+                "lat": 48.3965268,
+                "lon": 9.993576,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "17",
+                "addr:postcode": "89073",
+                "addr:street": "Marktplatz",
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "heaven & hell",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.993576,
+                  48.3965268
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1379397467",
+                "osm_type": "node",
+                "lat": 48.394229,
+                "lon": 9.982519,
+                "addr:city": "Ulm",
+                "addr:housenumber": "42",
+                "addr:postcode": "89077",
+                "addr:street": "Zinglerstraße",
+                "amenity": "bar",
+                "description": "Eine Bar mit der Gelegenheit Brettspiele zu spielen. Auch Essen ist möglich.",
+                "name": "Zum Waschbären",
+                "opening_hours": "Mo-Th 16:00-24:00; Fr 16:00-03:00; Sa 10:00-03:00; Su 10:00-24:00",
+                "outdoor_seating": "no",
+                "phone": "+49171 8377 335",
+                "theme": "board_game",
+                "website": "https://zum-waschbaeren.com",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.982519,
+                  48.394229
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1438099407",
+                "osm_type": "node",
+                "lat": 48.3969823,
+                "lon": 9.9950834,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "Tortuga Lounge",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9950834,
+                  48.3969823
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1496666596",
+                "osm_type": "node",
+                "lat": 48.4010199,
+                "lon": 9.9970748,
+                "amenity": "bar",
+                "check_date": "2024-04-15",
+                "name": "Rosi",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9970748,
+                  48.4010199
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1531669183",
+                "osm_type": "node",
+                "lat": 48.3904889,
+                "lon": 10.0020418,
+                "addr:city": "Neu-Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "43",
+                "addr:postcode": "89231",
+                "addr:street": "Turmstraße",
+                "amenity": "bar",
+                "name": "Cocktailbar Hamilton"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0020418,
+                  48.3904889
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1573135455",
+                "osm_type": "node",
+                "lat": 48.4042083,
+                "lon": 9.9940552,
+                "amenity": "bar",
+                "name": "Zeitblomstüble",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9940552,
+                  48.4042083
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1785295124",
+                "osm_type": "node",
+                "lat": 48.401254,
+                "lon": 9.997063,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "52",
+                "addr:postcode": "89073",
+                "addr:street": "Frauenstraße",
+                "amenity": "bar",
+                "check_date": "2024-04-15",
+                "name": "Buddha Lounge",
+                "opening_hours": "Mo-Fr 20:00-04:00, Sa,Su 20:00-05:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.997063,
+                  48.401254
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1839122184",
+                "osm_type": "node",
+                "lat": 48.3946799,
+                "lon": 9.9567581,
+                "amenity": "bar",
+                "check_date": "2023-08-21",
+                "name": "Esperanza",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9567581,
+                  48.3946799
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1925340797",
+                "osm_type": "node",
+                "lat": 48.4027469,
+                "lon": 9.9873989,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "21",
+                "addr:postcode": "89073",
+                "addr:street": "Zeitblomstraße",
+                "amenity": "bar",
+                "email": "mail@rosebottel.de",
+                "name": "Rosebottel",
+                "old_name": "Hutzelmännle",
+                "opening_hours": "Fr,Sa 20:00+",
+                "phone": "+49 731 / 80269425",
+                "website": "https://www.rosebottel.de/",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9873989,
+                  48.4027469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2155970866",
+                "osm_type": "node",
+                "lat": 48.3959295,
+                "lon": 9.974208,
+                "addr:city": "Ulm",
+                "addr:housenumber": "76",
+                "addr:postcode": "89077",
+                "addr:street": "Söflinger Straße",
+                "amenity": "bar",
+                "brewery": "yes;Gold_Ochsen",
+                "internet_access": "wlan",
+                "min_age": "18",
+                "name": "Zum Krettaweber",
+                "opening_hours": "Mo-Th 14:00-02:00, Fr-Su 10:00-02:00",
+                "outdoor_seating": "yes",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "phone": "+49 731 30201",
+                "smoking": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.974208,
+                  48.3959295
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2359413106",
+                "osm_type": "node",
+                "lat": 48.4058718,
+                "lon": 9.9933499,
+                "amenity": "bar",
+                "name": "Playhouse",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9933499,
+                  48.4058718
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2361234516",
+                "osm_type": "node",
+                "lat": 48.405809,
+                "lon": 9.9942704,
+                "amenity": "bar",
+                "name": "Spielcasino Montecarlo"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9942704,
+                  48.405809
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3012823104",
+                "osm_type": "node",
+                "lat": 48.3967505,
+                "lon": 9.9899302,
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "19",
+                "addr:postcode": "89073",
+                "addr:street": "Schwörhausgasse",
+                "amenity": "bar",
+                "cuisine": "regional",
+                "email": "info@zur-zill.de",
+                "name": "Zur Zill",
+                "opening_hours": "Su-Th 10:00-20:00; Fr 10:00-04:00, Sa 09:00-04:00",
+                "phone": "+49 731 / 1517787",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.zur-zill.de/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9899302,
+                  48.3967505
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3287543778",
+                "osm_type": "node",
+                "lat": 48.3976103,
+                "lon": 9.9863218,
+                "amenity": "bar",
+                "check_date": "2024-01-03",
+                "name": "Sassy Sisha-Bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9863218,
+                  48.3976103
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3287744561",
+                "osm_type": "node",
+                "lat": 48.4194261,
+                "lon": 9.8987939,
+                "amenity": "bar",
+                "name": "Pool Billard"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8987939,
+                  48.4194261
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3297063728",
+                "osm_type": "node",
+                "lat": 48.4025266,
+                "lon": 9.9986571,
+                "addr:city": "Ulm",
+                "addr:housenumber": "144",
+                "addr:postcode": "89073",
+                "addr:street": "Olgastraße",
+                "amenity": "bar",
+                "check_date": "2023-09-07",
+                "description": "Shisha-Bar",
+                "name": "heart",
+                "old_name": "Pufferbar",
+                "smoking": "isolated",
+                "wheelchair": "no",
+                "wifi": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9986571,
+                  48.4025266
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3799107168",
+                "osm_type": "node",
+                "lat": 48.3986927,
+                "lon": 9.9952847,
+                "addr:city": "Ulm",
+                "addr:housenumber": "5",
+                "addr:postcode": "89073",
+                "addr:street": "Karpfengasse",
+                "amenity": "bar",
+                "name": "Die Bar",
+                "opening_hours": "Tu-Sa 18:00-",
+                "phone": "+49 171 3865453",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.diebar-ulm.de/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9952847,
+                  48.3986927
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4044700251",
+                "osm_type": "node",
+                "lat": 48.3987041,
+                "lon": 9.9961014,
+                "addr:city": "Ulm",
+                "addr:housenumber": "17",
+                "addr:postcode": "89073",
+                "addr:street": "Frauenstraße",
+                "amenity": "bar",
+                "check_date": "2025-01-05",
+                "description": "Beer Pong Pub",
+                "email": "info@mitchs-beerpongpub.de",
+                "name": "Mitch's Pub Ulm",
+                "phone": "+49 0176 411 605 26",
+                "website": "https://mitchs-beerpongpub.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9961014,
+                  48.3987041
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4457062430",
+                "osm_type": "node",
+                "lat": 48.3994531,
+                "lon": 9.9964311,
+                "amenity": "bar",
+                "check_date": "2024-05-11",
+                "name": "Shibar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9964311,
+                  48.3994531
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4866220144",
+                "osm_type": "node",
+                "lat": 48.4073256,
+                "lon": 9.7880238,
+                "amenity": "bar",
+                "name": "Anni's Bierstüble"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7880238,
+                  48.4073256
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4867591490",
+                "osm_type": "node",
+                "lat": 48.4592746,
+                "lon": 9.9542616,
+                "addr:city": "Dornstadt",
+                "addr:housenumber": "15",
+                "addr:postcode": "89160",
+                "addr:street": "Dieselstraße",
+                "amenity": "bar",
+                "name": "Club Meduza",
+                "opening_hours": "Sa 23:00-05:00",
+                "smoking": "isolated"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9542616,
+                  48.4592746
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5190403954",
+                "osm_type": "node",
+                "lat": 48.3961333,
+                "lon": 9.9960673,
+                "air_conditioning": "no",
+                "amenity": "bar",
+                "contact:email": "mail@stiege-ulm.de",
+                "contact:website": "http://www.stiege-ulm.de/",
+                "indoor_seating": "yes",
+                "name": "Stiege",
+                "opening_hours": "May-Sep Mo-Su,PH 18:00+ \"bei schönem Wetter\"; Oct-Dec,Jan-Apr off",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9960673,
+                  48.3961333
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5897303056",
+                "osm_type": "node",
+                "lat": 48.4029107,
+                "lon": 9.9993116,
+                "amenity": "bar",
+                "check_date": "2023-11-14",
+                "contact:website": "https://www.instagram.com/dieapotheke.ulm/",
+                "name": "Die Apotheke",
+                "opening_hours": "We 19:00-24:00; Th 19:00-01:00; Fr-Sa 19:00-02:00",
+                "operator": "Judith Garcia Beier und Melli Henner"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9993116,
+                  48.4029107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296710413",
+                "osm_type": "node",
+                "lat": 48.4010579,
+                "lon": 9.991199,
+                "addr:city": "Ulm",
+                "addr:housenumber": "26",
+                "addr:postcode": "89073",
+                "addr:street": "Platzgasse",
+                "amenity": "bar",
+                "name": "Kontrast Tagesbar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.991199,
+                  48.4010579
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11299646992",
+                "osm_type": "node",
+                "lat": 48.3964175,
+                "lon": 9.9926811,
+                "amenity": "bar",
+                "check_date": "2023-10-30",
+                "name": "Vorglüh Bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9926811,
+                  48.3964175
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11769310309",
+                "osm_type": "node",
+                "lat": 48.3990352,
+                "lon": 9.9892982,
+                "addr:city": "Ulm",
+                "addr:housenumber": "12/1",
+                "addr:postcode": "89073",
+                "addr:street": "Hirschstraße",
+                "amenity": "bar",
+                "brewery": "various",
+                "email": "gardenbar@cocomo.one",
+                "image": "https://cocomo.one/wp-content/uploads/2023/10/GardenBar_Cut-1536x555.jpg",
+                "level": "0",
+                "name": "Garden Bar",
+                "opening_hours": "Fr-Sa 18:00-00:00",
+                "operator": "Theatro GmbH & Co. KG",
+                "outdoor_seating": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "phone": "+4973179033241",
+                "smoking": "outside",
+                "website": "https://cocomo.one/ulm/gardenbar/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9892982,
+                  48.3990352
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11929044247",
+                "osm_type": "node",
+                "lat": 48.398939,
+                "lon": 9.9907534,
+                "amenity": "bar",
+                "contact:website": "https://www.motel-one.com/de/essen-trinken/rooftop-one-bars/",
+                "level": "5",
+                "name": "Cloud One Bar",
+                "opening_hours": "Mo-Fr 06:00-13:00, 17:00-01:00, Sa 07:00-14:00, 17:00-01:00, Su 07:00-14:00, 18:00-0:00",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9907534,
+                  48.398939
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12854890847",
+                "osm_type": "node",
+                "lat": 48.4054409,
+                "lon": 10.0018566,
+                "amenity": "bar",
+                "check_date": "2025-05-20",
+                "name": "MoBar",
+                "opening_hours": "Mo 20:30-23:30",
+                "operator": "students",
+                "smoking": "outside",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0018566,
+                  48.4054409
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12895261511",
+                "osm_type": "node",
+                "lat": 48.3948452,
+                "lon": 10.0013322,
+                "amenity": "bar",
+                "name": "Three Monkeys Bar",
+                "opening_hours": "Sa 19:30-03:00",
+                "operator": "Di Natale GmbH",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0013322,
+                  48.3948452
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 10.007803749999999,
+            "north": 48.521248125,
+            "east": 10.484655499999999
+          },
+          "poiCount": 8,
+          "leafCount": 8,
+          "averagePosition": [
+            10.3063359625,
+            48.426583375
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2249343589",
+                "osm_type": "node",
+                "lat": 48.3659208,
+                "lon": 10.3002941,
+                "amenity": "bar",
+                "name": "Jugendzentrum MON AMI"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3002941,
+                  48.3659208
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2267121874",
+                "osm_type": "node",
+                "lat": 48.3705241,
+                "lon": 10.3052305,
+                "amenity": "bar",
+                "name": "Havanna"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3052305,
+                  48.3705241
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "811813697",
+                "osm_type": "node",
+                "lat": 48.3783454,
+                "lon": 10.3133276,
+                "addr:city": "Ichenhausen",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "89335",
+                "addr:street": "Wettenhauser Weg",
+                "amenity": "bar",
+                "name": "Discothek W3",
+                "phone": "+49 8223 2031",
+                "website": "http://www.disco-w3.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3133276,
+                  48.3783454
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2063465610",
+                "osm_type": "node",
+                "lat": 48.4554247,
+                "lon": 10.2782765,
+                "addr:city": "Günzburg",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "89312",
+                "addr:street": "Hofgasse",
+                "amenity": "bar",
+                "name": "On The Rocks",
+                "opening_hours": "Tu-Th,Su 18:00-23:00, Fr,Sa 18:00-02:00; Mo off",
+                "phone": "+49 8221 204880",
+                "toilets:wheelchair": "no",
+                "website": "http://www.rocks-online.de/",
+                "wheelchair": "limited",
+                "wheelchair:description": "Kleine Stufe am Eingang, keine behindertengerechte Toilette"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2782765,
+                  48.4554247
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3336478211",
+                "osm_type": "node",
+                "lat": 48.5185998,
+                "lon": 10.1226661,
+                "addr:city": "Nerenstetten",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "89129",
+                "addr:street": "Im unteren Weiler",
+                "addr:suburb": "Wettingen",
+                "amenity": "bar",
+                "name": "Lonetal Brennerei",
+                "opening_hours": "Mo 17:00-22:00",
+                "smoking": "outside",
+                "website": "http://www.streuobsternte.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1226661,
+                  48.5185998
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10760856197",
+                "osm_type": "node",
+                "lat": 48.4559843,
+                "lon": 10.2779254,
+                "addr:city": "Günzburg",
+                "addr:country": "DE",
+                "addr:housenumber": "6",
+                "addr:postcode": "89312",
+                "addr:street": "Marktplatz",
+                "amenity": "bar",
+                "description": "Cocktailbar",
+                "name": "Flâneur",
+                "opening_hours": "We,Th,Su 19:00-23:00, Fr,Sa 18:00-03:00",
+                "website": "https://www.flaneur.bar/#klassisch"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2779254,
+                  48.4559843
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11099627518",
+                "osm_type": "node",
+                "lat": 48.4319258,
+                "lon": 10.4048171,
+                "addr:city": "Burgau",
+                "addr:country": "DE",
+                "addr:housenumber": "16",
+                "addr:postcode": "89331",
+                "addr:street": "Käppelestraße",
+                "amenity": "bar",
+                "email": "bar@cocktailbarnaund.de",
+                "name": "Na Und",
+                "opening_hours": "Mo-Th 08:30-02:00, Fr-Sa 08:30-03:00, Su 08:30-24:00",
+                "phone": "+49 8222 410878",
+                "website": "www.cocktailbarnaund.de/%C3%BCber-uns/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4048171,
+                  48.4319258
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11958123739",
+                "osm_type": "node",
+                "lat": 48.4359421,
+                "lon": 10.4481504,
+                "amenity": "bar",
+                "name": "Bude Haldenwang"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4481504,
+                  48.4359421
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 9.530952,
+            "north": 48.68652475,
+            "east": 10.007803749999999
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            9.734156099999998,
+            48.633442085714286
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "514455980",
+                "osm_type": "node",
+                "lat": 48.6275795,
+                "lon": 9.8259264,
+                "amenity": "bar",
+                "name": "Filou Bar",
+                "smoking": "separated",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8259264,
+                  48.6275795
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2997593602",
+                "osm_type": "node",
+                "lat": 48.6148893,
+                "lon": 9.843672,
+                "addr:city": "Geislingen an der Steige",
+                "addr:housenumber": "11",
+                "addr:postcode": "73312",
+                "addr:street": "Schloßgasse",
+                "amenity": "bar",
+                "name": "Le Clochard",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.843672,
+                  48.6148893
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3699572782",
+                "osm_type": "node",
+                "lat": 48.6528096,
+                "lon": 9.784426,
+                "addr:city": "Gingen an der Fils",
+                "addr:housenumber": "7",
+                "addr:postcode": "73333",
+                "addr:street": "Lessingstraße",
+                "amenity": "bar",
+                "name": "Clubhaus TB Gingen",
+                "website": "http://www.tb-gingen.de/index.php/clubhaus"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.784426,
+                  48.6528096
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5076669626",
+                "osm_type": "node",
+                "lat": 48.6389902,
+                "lon": 9.616059,
+                "amenity": "bar",
+                "name": "Bistro Monopol"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.616059,
+                  48.6389902
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5745806943",
+                "osm_type": "node",
+                "lat": 48.685396,
+                "lon": 9.7347356,
+                "addr:city": "Salach",
+                "addr:country": "DE",
+                "addr:housenumber": "22",
+                "addr:postcode": "73084",
+                "addr:street": "Hauffstraße",
+                "amenity": "bar",
+                "name": "Havanna",
+                "opening_hours": "Mo-Tu 18:00-03:00; Fr-Sa 18:00-05:00; Su 18:00-03:00",
+                "phone": "+49 7162 460936",
+                "website": "https://www.havanna-salach.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7347356,
+                  48.685396
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8997248034",
+                "osm_type": "node",
+                "lat": 48.6144088,
+                "lon": 9.5396948,
+                "addr:city": "Weilheim an der Teck",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "73235",
+                "addr:street": "Schulstraße",
+                "amenity": "bar",
+                "name": "Sidecar Stüble"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5396948,
+                  48.6144088
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9120284153",
+                "osm_type": "node",
+                "lat": 48.6000212,
+                "lon": 9.7945789,
+                "addr:city": "Bad Überkingen",
+                "addr:housenumber": "2",
+                "addr:postcode": "73337",
+                "addr:street": "Amtswiese",
+                "amenity": "bar",
+                "name": "Kolbinis",
+                "opening_hours": "Tu-Th 19:00-22:00; Fr-Sa 19:00-0:00",
+                "phone": "+4973314578581"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7945789,
+                  48.6000212
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 10.007803749999999,
+            "north": 48.68652475,
+            "east": 10.484655499999999
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            10.212540229999998,
+            48.64487332
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1757642559",
+                "osm_type": "node",
+                "lat": 48.6722184,
+                "lon": 10.1406,
+                "amenity": "bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1406,
+                  48.6722184
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2767400942",
+                "osm_type": "node",
+                "lat": 48.6833272,
+                "lon": 10.1543295,
+                "addr:housename": "ehem. Zollamt",
+                "addr:housenumber": "40",
+                "addr:postcode": "89518",
+                "addr:street": "Karlstraße",
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "name": "Bistro im Zollamt",
+                "website": "http://www.zollamt-heidenheim.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1543295,
+                  48.6833272
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3863435735",
+                "osm_type": "node",
+                "lat": 48.6206358,
+                "lon": 10.2476884,
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/aquariumnachtclub/?locale=de_DE",
+                "name": "Nachtclub Aquarium",
+                "phone": "+49 7322 956920"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2476884,
+                  48.6206358
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4756329640",
+                "osm_type": "node",
+                "lat": 48.6199033,
+                "lon": 10.2423661,
+                "amenity": "bar",
+                "name": "Pelczer Stuben"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2423661,
+                  48.6199033
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4794972518",
+                "osm_type": "node",
+                "lat": 48.6223976,
+                "lon": 10.2420691,
+                "amenity": "bar",
+                "check_date:opening_hours": "2024-07-18",
+                "name": "Löwenplay",
+                "opening_hours": "Mo-Su,PH 15:00-03:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2420691,
+                  48.6223976
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4808600184",
+                "osm_type": "node",
+                "lat": 48.6786999,
+                "lon": 10.1065241,
+                "alt_name": "Dollhaus",
+                "amenity": "bar",
+                "name": "Dollhouse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1065241,
+                  48.6786999
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7196078848",
+                "osm_type": "node",
+                "lat": 48.6795093,
+                "lon": 10.15045,
+                "amenity": "bar",
+                "check_date": "2023-11-20",
+                "name": "Pharao Shisha-Bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.15045,
+                  48.6795093
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8626938129",
+                "osm_type": "node",
+                "lat": 48.6203393,
+                "lon": 10.2420156,
+                "amenity": "bar",
+                "check_date:opening_hours": "2024-07-17",
+                "name": "Centro italiano",
+                "opening_hours": "Fr 18:00+; Su 10:00-13:00,15:00-20:00; Sa 10:00-13:00,16:00+",
+                "opening_hours:signed": "no",
+                "smoking": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2420156,
+                  48.6203393
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9587300123",
+                "osm_type": "node",
+                "lat": 48.6759178,
+                "lon": 10.1511648,
+                "addr:city": "Heidenheim an der Brenz",
+                "addr:housenumber": "29",
+                "addr:postcode": "89522",
+                "addr:street": "Hintere Gasse",
+                "amenity": "bar",
+                "email": "info@cello-bar.com",
+                "name": "Cello",
+                "note": "Ehemals \"Amadeus\". Laut Heidenheimer Zeitung vom 18.03.2022 seit 11.März 2022 als Cocktail und Weinbar \"Cello\" wiedereröffnet.",
+                "opening_hours": "We-Sa 16:30+",
+                "operator": "Joachim Klutz",
+                "phone": "+49 157 50105030",
+                "start_date": "2022-03-11",
+                "website": "https://www.cello-bar.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1511648,
+                  48.6759178
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11865866255",
+                "osm_type": "node",
+                "lat": 48.5757846,
+                "lon": 10.4481947,
+                "amenity": "bar",
+                "name": "Cabana"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4481947,
+                  48.5757846
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 10.484655499999999,
+        "north": 48.68652475,
+        "east": 11.438358999999998
+      },
+      "poiCount": 58,
+      "leafCount": 0,
+      "averagePosition": [
+        10.910470381034482,
+        48.41555343275862
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 10.484655499999999,
+            "north": 48.521248125,
+            "east": 10.961507249999999
+          },
+          "poiCount": 44,
+          "leafCount": 44,
+          "averagePosition": [
+            10.879991870454544,
+            48.37795713181818
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "412443110",
+                "osm_type": "node",
+                "lat": 48.362811,
+                "lon": 10.9034481,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "16",
+                "addr:postcode": "86150",
+                "addr:street": "Am Brunnenlech",
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "name": "Brunnenbar",
+                "opening_hours": "We,Th 18:00-23:00, Fr,Sa 17:00-02:00, Su 17:00-20:00",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9034481,
+                  48.362811
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "541079975",
+                "osm_type": "node",
+                "lat": 48.3708087,
+                "lon": 10.8929625,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "23",
+                "addr:postcode": "86152",
+                "addr:street": "Ludwigstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/beimweissenlamm",
+                "contact:phone": "+49 821 3196729",
+                "contact:website": "https://lamm-klub.net/",
+                "indoor_seating": "yes",
+                "internet_access": "wlan",
+                "name": "Beim Weissen Lamm",
+                "opening_hours": "Mo-Th 12:00-01:00; Fr, Sa 12:00-04:00; Su 12:00-00:00",
+                "operator": "Beim weissen Lamm GmbH",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "sport": "table_soccer",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8929625,
+                  48.3708087
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "622354279",
+                "osm_type": "node",
+                "lat": 48.3684193,
+                "lon": 10.8993629,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "6",
+                "addr:postcode": "86150",
+                "addr:street": "Elias-Holl-Platz",
+                "amenity": "bar",
+                "check_date": "2025-09-04",
+                "check_date:currency:XBT": "2025-09-04",
+                "contact:email": "briefbox@laboqueria.de",
+                "currency:XBT": "yes",
+                "indoor_seating": "yes",
+                "name": "La Boqueria",
+                "opening_hours": "We-Th 18:00-22:00; Fr-Sa 12:00-22:00",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+49 821 79 67 31 50",
+                "website": "https://www.laboqueria.de",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8993629,
+                  48.3684193
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "660669976",
+                "osm_type": "node",
+                "lat": 48.3636589,
+                "lon": 10.8995918,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86150",
+                "addr:street": "Kapuzinergasse",
+                "amenity": "bar",
+                "brewery": "Unterbaarer",
+                "check_date": "2025-06-16",
+                "level": "-1",
+                "name": "Crazy Bar",
+                "opening_hours": "Th 21:00-04:00, Fr,Sa 21:00-05:00",
+                "phone": "+49 821 50 84 42 33",
+                "website": "https://crazy-bar.de",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8995918,
+                  48.3636589
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "687951431",
+                "osm_type": "node",
+                "lat": 48.364613,
+                "lon": 10.8994027,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "50",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "check_date": "2025-05-09",
+                "email": "info@caipi-cocktailbar.de",
+                "name": "Caipi Cocktailbar",
+                "opening_hours": "Mo-Th 18:00-01:00; Fr-Sa 18:00-02:00; Su off",
+                "outdoor_seating": "yes",
+                "phone": "+49 821 3195411",
+                "smoking": "outside",
+                "website": "https://www.caipi-cocktailbar.de/",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8994027,
+                  48.364613
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "687951436",
+                "osm_type": "node",
+                "lat": 48.3653387,
+                "lon": 10.8991359,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "40",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "name": "3M",
+                "opening_hours": "Mo-Sa 10:00-01:00, Su 10:00-23:00",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.bar3m.de/",
+                "wheelchair": "limited",
+                "wheelchair:description": "eine rollstuhlrampe ist vorhanden, muss man aber an der hotelrezeption anfordern Hotel hat an Haupteingang 2 stufen also ohne Begleitung kommt man hier nicht rein!!!"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8991359,
+                  48.3653387
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "713155903",
+                "osm_type": "node",
+                "lat": 48.3653135,
+                "lon": 10.8974525,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "8",
+                "addr:postcode": "86150",
+                "addr:street": "Kleines Katharinengäßchen",
+                "amenity": "bar",
+                "name": "Katharinenklause",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8974525,
+                  48.3653135
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "713156028",
+                "osm_type": "node",
+                "lat": 48.3644455,
+                "lon": 10.9000002,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "73",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "name": "Peaches",
+                "opening_hours": "19:00+ open, PH 19:00+ open",
+                "phone": "+49821 31 22 58",
+                "website": "https://www.peaches-augsburg.de/",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9000002,
+                  48.3644455
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "713156030",
+                "osm_type": "node",
+                "lat": 48.364402,
+                "lon": 10.9000193,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "73",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "name": "Schwarze Perle",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9000193,
+                  48.364402
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "713156032",
+                "osm_type": "node",
+                "lat": 48.3642933,
+                "lon": 10.9000827,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "75",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/Seven.Five.Augsburg",
+                "name": "Seven Five",
+                "opening_hours": "Mo-Th 09:30-23:00; Fr 09:30-24:00; Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00,11:00-21:00",
+                "operator": "Bugheanu-Djukiç GbR",
+                "phone": "+49 821 514665",
+                "website": "http://www.seven-five.de",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9000827,
+                  48.3642933
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "845696298",
+                "osm_type": "node",
+                "lat": 48.3649016,
+                "lon": 10.8998622,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86150",
+                "addr:street": "Heilig-Grab-Gasse",
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "name": "Pantheon",
+                "outdoor_seating": "yes",
+                "website": "http://pantheonline.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8998622,
+                  48.3649016
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1037478609",
+                "osm_type": "node",
+                "lat": 48.3674464,
+                "lon": 10.9000617,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "8",
+                "addr:postcode": "86150",
+                "addr:street": "Weiße Gasse",
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "name": "Le Coq - Cafe, Bar, Lounge",
+                "outdoor_seating": "yes",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9000617,
+                  48.3674464
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1140990554",
+                "osm_type": "node",
+                "lat": 48.366814,
+                "lon": 10.8952877,
+                "addr:housenumber": "5",
+                "addr:street": "Färbergäßchen",
+                "amenity": "bar",
+                "drink:wine": "yes",
+                "name": "Herr Brand | Wein und Bar",
+                "opening_hours": "Tu-Th 17:00-23:00; Fr 16:00-01:00; Sa 12:00-01:00",
+                "shop": "wine",
+                "website": "https://www.herrbrand.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8952877,
+                  48.366814
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1156355984",
+                "osm_type": "node",
+                "lat": 48.3711031,
+                "lon": 10.8980706,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:postcode": "86152",
+                "addr:street": "Schmiedberg",
+                "amenity": "bar",
+                "contact:instagram": "https://www.instagram.com/awhu.awhu/",
+                "name": "AWHU",
+                "opening_hours": "Mo-Sa off; Su 10:00-14:00",
+                "website": "https://www.awhu-awhu.com"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8980706,
+                  48.3711031
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1464382374",
+                "osm_type": "node",
+                "lat": 48.3711086,
+                "lon": 10.8983065,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "86152",
+                "addr:street": "Schmiedberg",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/GoldenGlimmerBar/",
+                "contact:instagram": "https://www.instagram.com/goldenglimmerbar/",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "level": "0,_-1",
+                "name": "Golden Glimmer Bar",
+                "opening_hours": "Th 20:00-00:00; Fr,Sa 20:00-02:00",
+                "operator": "Daniel Einsiedler, David Rother",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "website": "https://www.goldenglimmer.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8983065,
+                  48.3711086
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2968461510",
+                "osm_type": "node",
+                "lat": 48.3708873,
+                "lon": 10.8932733,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "32",
+                "addr:postcode": "86152",
+                "addr:street": "Ludwigstraße",
+                "amenity": "bar",
+                "name": "Oh Boi",
+                "opening_hours": "Th 20:00-02:00, Fr,Sa 20:00-03:00 || \"Snacks bis 00:00 Uhr\"",
+                "outdoor_seating": "no",
+                "smoking": "no",
+                "website": "https://oh-boi.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8932733,
+                  48.3708873
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3874367257",
+                "osm_type": "node",
+                "lat": 48.3698513,
+                "lon": 10.9002615,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "5",
+                "addr:postcode": "86150",
+                "addr:street": "Auf dem Rain",
+                "amenity": "bar",
+                "brewery": "FrauGruber;Riegele",
+                "email": "thedrunkenmonkeybar@gmx.de",
+                "indoor_seating": "yes",
+                "internet_access": "no",
+                "level": "0",
+                "name": "The Drunken Monkey Bar",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "wheelchair": "limited",
+                "wheelchair:description": "Niedrige Stufe am Eingang, niedrige Stufe auf dem Weg zum WC."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9002615,
+                  48.3698513
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4493349329",
+                "osm_type": "node",
+                "lat": 48.370141,
+                "lon": 10.9076423,
+                "amenity": "bar",
+                "name": "REN Sportsbar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9076423,
+                  48.370141
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5089364048",
+                "osm_type": "node",
+                "lat": 48.3599051,
+                "lon": 10.8869812,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "10",
+                "addr:postcode": "86159",
+                "addr:street": "Gögginger Straße",
+                "amenity": "bar",
+                "email": "info@kklub.de",
+                "name": "KKLUB",
+                "operator": "Feinkost Kahn GmbH & Co. KG",
+                "phone": "+49 821 45599567",
+                "website": "https://www.kklub.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8869812,
+                  48.3599051
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8067017811",
+                "osm_type": "node",
+                "lat": 48.3700892,
+                "lon": 10.9071779,
+                "amenity": "bar",
+                "name": "Atsalis Nachtcafé"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9071779,
+                  48.3700892
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8067017817",
+                "osm_type": "node",
+                "lat": 48.3699639,
+                "lon": 10.9036061,
+                "amenity": "bar",
+                "check_date": "2023-04-22",
+                "name": "Dracula"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9036061,
+                  48.3699639
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8067017819",
+                "osm_type": "node",
+                "lat": 48.3699648,
+                "lon": 10.9031971,
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/DarkVibes6/",
+                "name": "Dark Vibes",
+                "opening_hours": "Mo 11:00-24:00; Tu-Th 11:00-01:00, Fr,Sa 11:00-03:00, Su 12:00-01:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9031971,
+                  48.3699648
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8067017828",
+                "osm_type": "node",
+                "lat": 48.3696462,
+                "lon": 10.9017787,
+                "amenity": "bar",
+                "brewery": "Unterbaarer",
+                "name": "Flying Dutchman"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9017787,
+                  48.3696462
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9751495439",
+                "osm_type": "node",
+                "lat": 48.3637197,
+                "lon": 10.9003975,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "83",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "facebook": "https://www.facebook.com/people/Bar-Noir/100083132742177/",
+                "name": "Bar Noir",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9003975,
+                  48.3637197
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9752567533",
+                "osm_type": "node",
+                "lat": 48.3662372,
+                "lon": 10.8984748,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "36",
+                "addr:postcode": "86150",
+                "addr:street": "Maximilianstraße",
+                "amenity": "bar",
+                "name": "Damenhof",
+                "opening_hours": "Th-Sa 17:00-01:00; Su-We 17:00-23:00",
+                "outdoor_seating": "only",
+                "website": "https://damenhof.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8984748,
+                  48.3662372
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10570659477",
+                "osm_type": "node",
+                "lat": 48.370277,
+                "lon": 10.8930871,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "6",
+                "addr:postcode": "86152",
+                "addr:street": "Theaterstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/mahaclubaugsburg",
+                "description": "Ü30",
+                "level": "-1",
+                "name": "Maha Bar",
+                "note": "Von Außen sieht das geschlossen aus... gibt's das noch?",
+                "opening_hours": "Fr,Sa,PH -1 days 22:00-05:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8930871,
+                  48.370277
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10570760215",
+                "osm_type": "node",
+                "lat": 48.3708828,
+                "lon": 10.8937065,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "28",
+                "addr:postcode": "86152",
+                "addr:street": "Ludwigstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/Sonnendeck-Augsburg-295436460474200/",
+                "contact:website": "https://www.sonnendeck-augsburg.de/",
+                "cuisine": "sushi;pizza",
+                "level": "6",
+                "name": "Sonnendeck Augsburg",
+                "opening_hours": "\"Nur bei gutem Wetter - Siehe Webseite!\"",
+                "outdoor_seating": "yes",
+                "reservation": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8937065,
+                  48.3708828
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11175426249",
+                "osm_type": "node",
+                "lat": 48.3701929,
+                "lon": 10.8938641,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "13",
+                "addr:postcode": "86152",
+                "addr:street": "Ludwigstraße",
+                "amenity": "bar",
+                "brewery": "no",
+                "contact:facebook": "https://www.facebook.com/@yolotoast",
+                "email": "welcome@yolotoast.com",
+                "name": "YOLO toast",
+                "opening_hours": "Th 20:00-01:00; Fr-Sa 20:00-03:30",
+                "payment:app": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "website": "https://yolotoast.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8938641,
+                  48.3701929
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11930375092",
+                "osm_type": "node",
+                "lat": 48.3613144,
+                "lon": 10.9129401,
+                "amenity": "bar",
+                "name": "Valeria"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9129401,
+                  48.3613144
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7209046364",
+                "osm_type": "node",
+                "lat": 48.5102054,
+                "lon": 10.5286851,
+                "addr:city": "Holzheim",
+                "addr:housenumber": "4",
+                "addr:postcode": "89438",
+                "addr:street": "Mühlstraße",
+                "amenity": "bar",
+                "name": "Brezga Bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5286851,
+                  48.5102054
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "875390024",
+                "osm_type": "node",
+                "lat": 48.3847776,
+                "lon": 10.8902699,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "26b",
+                "addr:postcode": "86153",
+                "addr:street": "Riedingerstraße",
+                "amenity": "bar",
+                "entrance": "yes",
+                "name": "Kea Bar",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8902699,
+                  48.3847776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "877558200",
+                "osm_type": "node",
+                "lat": 48.3808109,
+                "lon": 10.8634454,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "116",
+                "addr:postcode": "86156",
+                "addr:street": "Ulmer Straße",
+                "amenity": "bar",
+                "contact:email": "hanna.demir@t-online.de",
+                "contact:facebook": "https://www.facebook.com/All-In-1-464974900331388/timeline",
+                "contact:phone": "+49 172 10 14 707",
+                "name": "All in 1",
+                "opening_hours": "Tu-Th 17:00-23:00, Fr 17:00-01:00, Sa 14:30-01:00, Su 14:30-23:00",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8634454,
+                  48.3808109
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1617495271",
+                "osm_type": "node",
+                "lat": 48.3796924,
+                "lon": 10.9214748,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "27",
+                "addr:postcode": "86165",
+                "addr:street": "Blücherstraße",
+                "amenity": "bar",
+                "check_date:opening_hours": "2025-04-14",
+                "indoor_seating": "yes",
+                "name": "Hugo",
+                "opening_hours": "Tu-Su 14:00-24:00",
+                "outdoor_seating": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9214748,
+                  48.3796924
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4147348607",
+                "osm_type": "node",
+                "lat": 48.3773529,
+                "lon": 10.9039677,
+                "amenity": "bar",
+                "name": "Bleichstube",
+                "opening_hours": "Mo-Su 13:00-23:00",
+                "outdoor_seating": "yes",
+                "smoking": "outside"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9039677,
+                  48.3773529
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4512909305",
+                "osm_type": "node",
+                "lat": 48.3792567,
+                "lon": 10.8803786,
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/Redline-Shisha-Lounge-1097674180319469/",
+                "name": "Redline",
+                "smoking": "shisha"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8803786,
+                  48.3792567
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4989867845",
+                "osm_type": "node",
+                "lat": 48.3819881,
+                "lon": 10.8748139,
+                "amenity": "bar",
+                "name": "Hollywood Bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8748139,
+                  48.3819881
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7836990311",
+                "osm_type": "node",
+                "lat": 48.4573617,
+                "lon": 10.6588277,
+                "addr:city": "Welden",
+                "addr:housenumber": "3",
+                "addr:postcode": "86465",
+                "addr:street": "Uzstraße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/NoLimitWelden",
+                "name": "No Limit",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6588277,
+                  48.4573617
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7932757177",
+                "osm_type": "node",
+                "lat": 48.3919854,
+                "lon": 10.8355114,
+                "amenity": "bar",
+                "level": "-1",
+                "name": "L9 Lounge Shishabar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8355114,
+                  48.3919854
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9308385909",
+                "osm_type": "node",
+                "lat": 48.3780892,
+                "lon": 10.8855724,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "20",
+                "addr:postcode": "86153",
+                "addr:street": "Wertachstraße",
+                "amenity": "bar",
+                "brewery": "no",
+                "indoor_seating": "yes",
+                "min_age": "18",
+                "name": "Cobra in the House Cafe & Cocktail Bar",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8855724,
+                  48.3780892
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10269325852",
+                "osm_type": "node",
+                "lat": 48.3880534,
+                "lon": 10.8660897,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "11",
+                "addr:postcode": "86156",
+                "addr:street": "Gubener Straße",
+                "amenity": "bar",
+                "facebook": "https://www.facebook.com/people/bombig-Bar-Garage/100057164572323/",
+                "name": "Bombig"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8660897,
+                  48.3880534
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10281031201",
+                "osm_type": "node",
+                "lat": 48.3777558,
+                "lon": 10.8826044,
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "note": "Hotelbar Leonardo",
+                "opening_hours": "Mo-Su,PH 18:00-00:30",
+                "outdoor_seating": "no",
+                "smoking": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8826044,
+                  48.3777558
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10281418273",
+                "osm_type": "node",
+                "lat": 48.3938967,
+                "lon": 10.8815128,
+                "addr:city": "Augsburg",
+                "addr:country": "DE",
+                "addr:housenumber": "157",
+                "addr:postcode": "86154",
+                "addr:street": "Donauwörther Straße",
+                "amenity": "bar",
+                "name": "Bar Raffaelli"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8815128,
+                  48.3938967
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10889787858",
+                "osm_type": "node",
+                "lat": 48.3753924,
+                "lon": 10.8898493,
+                "addr:city": "Augsburg",
+                "addr:housenumber": "27",
+                "addr:postcode": "86152",
+                "addr:street": "Lange Gasse",
+                "amenity": "bar",
+                "name": "Cheers"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8898493,
+                  48.3753924
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11868825295",
+                "osm_type": "node",
+                "lat": 48.4249448,
+                "lon": 10.8772037,
+                "addr:city": "Gersthofen",
+                "addr:postcode": "86368",
+                "addr:street": "Bahnhofstraße",
+                "amenity": "bar",
+                "bar:type": "sports_bar",
+                "name": "City Treff",
+                "opening_hours": "10:00-01:00",
+                "phone": "+49 821 2994770"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8772037,
+                  48.4249448
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 10.961507249999999,
+            "north": 48.521248125,
+            "east": 11.438358999999998
+          },
+          "poiCount": 4,
+          "leafCount": 4,
+          "averagePosition": [
+            11.1313006,
+            48.459377175
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2612870726",
+                "osm_type": "node",
+                "lat": 48.4579262,
+                "lon": 11.1295343,
+                "amenity": "bar",
+                "brewery": "Maierbräu Altomünster",
+                "contact:facebook": "https://www.facebook.com/noxbaraichach/",
+                "name": "Nox Bar",
+                "opening_hours": "Fr,Sa 20:00-03:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1295343,
+                  48.4579262
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5330980276",
+                "osm_type": "node",
+                "lat": 48.4614527,
+                "lon": 11.1331814,
+                "amenity": "bar",
+                "name": "Golden Bar Bistro und Cafe"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1331814,
+                  48.4614527
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8636335155",
+                "osm_type": "node",
+                "lat": 48.4591118,
+                "lon": 11.1307725,
+                "addr:city": "Aichach",
+                "addr:country": "DE",
+                "addr:housenumber": "24",
+                "addr:postcode": "86551",
+                "addr:street": "Stadtplatz",
+                "amenity": "bar",
+                "brewery": "Kühbacher",
+                "check_date:opening_hours": "2024-04-07",
+                "name": "Kenn i Di",
+                "opening_hours": "Mo 18:00-24:00; Tu-Th 18:00-01:00, Fr-Sa 18:00-02:00, Su 17:00-24:00",
+                "phone": "+49 8251 887350",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1307725,
+                  48.4591118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12457400797",
+                "osm_type": "node",
+                "lat": 48.459018,
+                "lon": 11.1317142,
+                "amenity": "bar",
+                "contact:instagram": "https://www.instagram.com/doppio_aichach/",
+                "name": "Doppio Bar",
+                "opening_hours": "We-Sa 10:00-23:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1317142,
+                  48.459018
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 10.484655499999999,
+            "north": 48.68652475,
+            "east": 10.961507249999999
+          },
+          "poiCount": 5,
+          "leafCount": 5,
+          "averagePosition": [
+            10.67916906,
+            48.561399019999996
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10314069801",
+                "osm_type": "node",
+                "lat": 48.5811945,
+                "lon": 10.4922801,
+                "addr:city": "Dillingen a.d.Donau",
+                "addr:housenumber": "37",
+                "addr:postcode": "89407",
+                "addr:street": "Große Allee",
+                "amenity": "bar",
+                "contact:facebook": "havanadillingen",
+                "contact:website": "https://www.havana-dillingen.de/",
+                "name": "Havana Cocktailbar",
+                "opening_hours": "Mo-Th 18:00-01:00; Fr-Sa 18:00-03:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4922801,
+                  48.5811945
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "451177400",
+                "osm_type": "node",
+                "lat": 48.5606312,
+                "lon": 10.6795524,
+                "addr:city": "Wertingen",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86637",
+                "addr:street": "Dillinger Straße",
+                "amenity": "bar",
+                "name": "P2 Cocktail & Shishabar",
+                "opening_hours": "We-Sa 18:00-02:00; Su 18:00-23:00",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6795524,
+                  48.5606312
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1440794694",
+                "osm_type": "node",
+                "lat": 48.5621465,
+                "lon": 10.6820192,
+                "amenity": "bar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6820192,
+                  48.5621465
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4459023394",
+                "osm_type": "node",
+                "lat": 48.5623014,
+                "lon": 10.6870719,
+                "addr:city": "Wertingen",
+                "addr:housenumber": "7",
+                "addr:postcode": "86637",
+                "addr:street": "Industriestraße",
+                "amenity": "bar",
+                "name": "Vajaina Lounge",
+                "opening_hours": "Tu-Th,Su 18:00-01:00; Fr,Sa 18:00-03:00; Mo off",
+                "outdoor_seating": "yes",
+                "website": "https://vajainalounge.eatbu.com/?lang=de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6870719,
+                  48.5623014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11286222805",
+                "osm_type": "node",
+                "lat": 48.5407215,
+                "lon": 10.8549217,
+                "addr:city": "Meitingen",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "86405",
+                "addr:street": "Pouzauges Ring",
+                "amenity": "bar",
+                "name": "Le Bistro"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8549217,
+                  48.5407215
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 10.961507249999999,
+            "north": 48.68652475,
+            "east": 11.438358999999998
+          },
+          "poiCount": 5,
+          "leafCount": 5,
+          "averagePosition": [
+            11.23331842,
+            48.5654963
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3269302786",
+                "osm_type": "node",
+                "lat": 48.5861482,
+                "lon": 11.1066503,
+                "addr:housenumber": "19",
+                "addr:street": "Rudolf-Diesel-Straße",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/lips.poettmes",
+                "name": "Lips"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1066503,
+                  48.5861482
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8880927669",
+                "osm_type": "node",
+                "lat": 48.5619318,
+                "lon": 11.2644993,
+                "addr:city": "Schrobenhausen",
+                "addr:country": "DE",
+                "addr:housenumber": "24",
+                "addr:postcode": "86529",
+                "addr:street": "Lenbachstraße",
+                "amenity": "bar",
+                "name": "Saitenlage",
+                "old_name": "Lenbach Lounge",
+                "opening_hours": "Mo off; Tu-Th 09:00-24:00; Fr-Sa 09:00-02:00; Su 09:00-24:00",
+                "outdoor_seating": "yes",
+                "phone": "+49 8252 9657600",
+                "website": "https://saitenlage.eatbu.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2644993,
+                  48.5619318
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9313330007",
+                "osm_type": "node",
+                "lat": 48.5561249,
+                "lon": 11.2667203,
+                "amenity": "bar",
+                "name": "Puzzelz Shisha Bar",
+                "smoking": "yes",
+                "website": "https://puzzelz.business.site"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2667203,
+                  48.5561249
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12481151551",
+                "osm_type": "node",
+                "lat": 48.5597266,
+                "lon": 11.2650954,
+                "addr:city": "Schrobenhausen",
+                "addr:housenumber": "1",
+                "addr:postcode": "86529",
+                "addr:street": "Am Oberen Tor",
+                "amenity": "bar",
+                "name": "Barbetrieb",
+                "outdoor_seating": "yes",
+                "phone": "+49 8252 7053255",
+                "website": "http://www.barbetrieb.org"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2650954,
+                  48.5597266
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13020435334",
+                "osm_type": "node",
+                "lat": 48.56355,
+                "lon": 11.2636268,
+                "addr:city": "Schrobenhausen",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "86529",
+                "addr:street": "Bahnhofstraße",
+                "amenity": "bar",
+                "name": "Piru"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2636268,
+                  48.56355
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 9.530952,
+        "north": 49.017078,
+        "east": 10.484655499999999
+      },
+      "poiCount": 63,
+      "leafCount": 0,
+      "averagePosition": [
+        9.816194673015872,
+        48.803988769841276
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 9.530952,
+            "north": 48.851801374999994,
+            "east": 10.007803749999999
+          },
+          "poiCount": 38,
+          "leafCount": 38,
+          "averagePosition": [
+            9.714662307894736,
+            48.7597633
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "247490522",
+                "osm_type": "node",
+                "lat": 48.7033014,
+                "lon": 9.6549961,
+                "amenity": "bar",
+                "name": "Bistro Respekt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6549961,
+                  48.7033014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "248922195",
+                "osm_type": "node",
+                "lat": 48.789719,
+                "lon": 9.9351062,
+                "addr:city": "Heubach",
+                "addr:housenumber": "29",
+                "addr:postcode": "73540",
+                "addr:street": "Hauptstraße",
+                "amenity": "bar",
+                "name": "Pi Cafe",
+                "outdoor_seating": "yes",
+                "smoking": "isolated"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9351062,
+                  48.789719
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "257166889",
+                "osm_type": "node",
+                "lat": 48.7020345,
+                "lon": 9.6591346,
+                "amenity": "bar",
+                "name": "Shakers Cocktailbar",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6591346,
+                  48.7020345
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "305137923",
+                "osm_type": "node",
+                "lat": 48.6867737,
+                "lon": 9.6282813,
+                "addr:city": "Göppingen",
+                "addr:postcode": "73035",
+                "addr:street": "Boller Straße",
+                "addr:suburb": "Jebenhausen",
+                "amenity": "bar",
+                "name": "Victory",
+                "phone": "+49 7161 988492",
+                "wifi": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6282813,
+                  48.6867737
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "412366702",
+                "osm_type": "node",
+                "lat": 48.7232786,
+                "lon": 9.6367341,
+                "amenity": "bar",
+                "name": "Lafee"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6367341,
+                  48.7232786
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "448445666",
+                "osm_type": "node",
+                "lat": 48.8054438,
+                "lon": 9.5749384,
+                "amenity": "bar",
+                "name": "Black & White"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5749384,
+                  48.8054438
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "617035805",
+                "osm_type": "node",
+                "lat": 48.7068218,
+                "lon": 9.6550122,
+                "addr:city": "Göppingen",
+                "addr:country": "DE",
+                "addr:housenumber": "64",
+                "addr:postcode": "73033",
+                "addr:street": "Freihofstraße",
+                "amenity": "bar",
+                "cuisine": "german",
+                "name": "Hotel Hohenstaufen",
+                "smoking": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6550122,
+                  48.7068218
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1531158644",
+                "osm_type": "node",
+                "lat": 48.8003897,
+                "lon": 9.7961949,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "12",
+                "addr:postcode": "73525",
+                "addr:street": "Freudental",
+                "amenity": "bar",
+                "level": "-1",
+                "name": "Full Moon",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7961949,
+                  48.8003897
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1654903743",
+                "osm_type": "node",
+                "lat": 48.8245329,
+                "lon": 9.7979038,
+                "addr:city": "Mutlangen",
+                "addr:housenumber": "32",
+                "addr:postcode": "73557",
+                "addr:street": "Hauptstraße",
+                "amenity": "bar",
+                "name": "Hirsch",
+                "phone": "+4971718741941",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7979038,
+                  48.8245329
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2080310920",
+                "osm_type": "node",
+                "lat": 48.7038476,
+                "lon": 9.6520547,
+                "amenity": "bar",
+                "name": "Prestige Bar Café Lounge",
+                "opening_hours": "Mo-Th 11:30-01:00, Fr,Sa 11:30-03:00, Su 14:00-23:00",
+                "toilets:wheelchair": "no",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6520547,
+                  48.7038476
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2378508912",
+                "osm_type": "node",
+                "lat": 48.7990096,
+                "lon": 9.7958334,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "12",
+                "addr:postcode": "73525",
+                "addr:street": "Münsterplatz",
+                "amenity": "bar",
+                "contact:email": "info@diecocktailbar.com",
+                "contact:mobile": "+49 1624997449",
+                "contact:website": "https://diecocktailbar.com/",
+                "disused:amenity": "cafe",
+                "disused:name": "Café Spielplatz",
+                "entrance": "yes",
+                "name": "Die Cocktailbar",
+                "opening_hours": "Th 20:00-00:00; Fr-Sa 20:00-02:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7958334,
+                  48.7990096
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3266217373",
+                "osm_type": "node",
+                "lat": 48.7021395,
+                "lon": 9.6569489,
+                "amenity": "bar",
+                "name": "Tacuba Shisha Lounge"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6569489,
+                  48.7021395
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3820175677",
+                "osm_type": "node",
+                "lat": 48.7709807,
+                "lon": 9.8298949,
+                "amenity": "bar",
+                "name": "Billard Cafe Heisse Kugel",
+                "opening_hours": "Mo-Th 18:00-23:00, Fr-Sa 17:00-01:00, Su 14:00-23:00",
+                "smoking": "no",
+                "website": "http://www.heissekugel.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8298949,
+                  48.7709807
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4333457144",
+                "osm_type": "node",
+                "lat": 48.7021599,
+                "lon": 9.6517799,
+                "addr:city": "Göppingen",
+                "addr:country": "DE",
+                "addr:housenumber": "15",
+                "addr:postcode": "73033",
+                "addr:street": "Freihofstraße",
+                "amenity": "bar",
+                "name": "Casablanca",
+                "opening_hours": "Mo-Th 12:00-03:00, Fr,Sa 12:00-05:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6517799,
+                  48.7021599
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4430057662",
+                "osm_type": "node",
+                "lat": 48.6918309,
+                "lon": 9.5649678,
+                "amenity": "bar",
+                "name": "Barolo"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5649678,
+                  48.6918309
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4459642589",
+                "osm_type": "node",
+                "lat": 48.7949893,
+                "lon": 9.600544,
+                "addr:city": "Plüderhausen",
+                "addr:housenumber": "39",
+                "addr:postcode": "73655",
+                "addr:street": "Hauptstraße",
+                "air_conditioning": "yes",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/FreizeittreffIMSTRESS",
+                "contact:phone": "+49 171 3566171",
+                "description": "Willkommen im Freizeittreff IMSTRESS, dem angesagten Treffpunkt und Sky Sportsbar in Plüderhausen! Genieße erlesene Getränke, gemütliche Atmosphäre und unvergessliche Momente. Café, Bar, Lounge - alles an einem Ort! 🍹🎶 #IMSTRESS #Plüderhausen",
+                "level": "0",
+                "min_age": "18",
+                "name": "Freizeittreff IMSTRESS",
+                "opening_hours": "Mo Geschlossen, Tu-Th 17:00-00:00, Fr 17:00-03:00, Sa 14:00-03:00, Su 14:00-00:00",
+                "outdoor_seating": "yes",
+                "smoking": "yes",
+                "website": "https://imstress.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.600544,
+                  48.7949893
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4592965991",
+                "osm_type": "node",
+                "lat": 48.799504,
+                "lon": 9.7977289,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:housenumber": "7",
+                "addr:postcode": "73525",
+                "addr:street": "Marktplatz",
+                "amenity": "bar",
+                "contact:email": "info@m7bar.de",
+                "contact:facebook": "https://facebook.com/m7bar.gd",
+                "contact:phone": "+49 7171 5374",
+                "name": "M7",
+                "opening_hours": "Mo-Th 09:30-01:00, Fr-Sa 09:30-03:00, Su 13:00-01:00",
+                "outdoor_seating": "yes",
+                "toilets:wheelchair": "no",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7977289,
+                  48.799504
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4724857819",
+                "osm_type": "node",
+                "lat": 48.846922,
+                "lon": 9.6925573,
+                "addr:city": "Alfdorf",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:place": "Poppenholz",
+                "addr:postcode": "73553",
+                "amenity": "bar",
+                "contact:phone": "+49 7172 32727",
+                "contact:website": "https://restaurant-seehof.de/#grill-amp-bar",
+                "name": "Hemingway's Grill & Bar",
+                "opening_hours": "Th 18:00-24:00; Fr-Sa 18:00-02:00, Su 18:00-22:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6925573,
+                  48.846922
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728857080",
+                "osm_type": "node",
+                "lat": 48.7980363,
+                "lon": 9.6861207,
+                "amenity": "bar",
+                "contact:facebook": "https://facebook.com/Wunderbar-Lorch-Kultkneipe-Bar-181117225260284/?ref=page_internal",
+                "name": "Wunderbar",
+                "old_name": "Jägerstüble",
+                "opening_hours": "Mo-Fr 16:00+; Sa, Su, PH 10:00+"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6861207,
+                  48.7980363
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4750667120",
+                "osm_type": "node",
+                "lat": 48.7304739,
+                "lon": 9.6442621,
+                "amenity": "bar",
+                "name": "Weinstube"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6442621,
+                  48.7304739
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4837667321",
+                "osm_type": "node",
+                "lat": 48.7021376,
+                "lon": 9.6595796,
+                "amenity": "bar",
+                "name": "Capone",
+                "name:de": "Capone",
+                "opening_hours": "Mo-Fr 16:00-24:00; Sa 00:00-03:00,16:00-24:00; Su 00:00-03:00,14:00-24:00; PH 14:00-24:00",
+                "smoking": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6595796,
+                  48.7021376
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4855493798",
+                "osm_type": "node",
+                "lat": 48.79757,
+                "lon": 9.6892485,
+                "addr:housenumber": "11/1",
+                "addr:street": "Hauptstraße",
+                "amenity": "bar",
+                "contact:phone": "+49 163 1400588",
+                "name": "73",
+                "opening_hours": "Mo-We 12:00-24:00, Th 12:00-01:00, Fr, Sa 12:00-03:00, Su 12:00-23:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6892485,
+                  48.79757
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5745806937",
+                "osm_type": "node",
+                "lat": 48.6914845,
+                "lon": 9.7385283,
+                "addr:city": "Salach",
+                "addr:country": "DE",
+                "addr:housenumber": "70/1",
+                "addr:postcode": "73084",
+                "addr:street": "Hauptstraße",
+                "amenity": "bar",
+                "name": "Tweety",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7385283,
+                  48.6914845
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5817567517",
+                "osm_type": "node",
+                "lat": 48.7997925,
+                "lon": 9.7881295,
+                "amenity": "bar",
+                "brewery": "yes;various",
+                "contact:website": "https://hotelamremspark.de/de/hi-rooftop-bar.html",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Hi, Rooftop Bar",
+                "opening_hours": "Mo-Sa 17:00-23:00; Su 14:00-22:00",
+                "payment:account_cards": "yes",
+                "payment:alipay": "no",
+                "payment:american_express": "yes",
+                "payment:app": "no",
+                "payment:apple_pay": "yes",
+                "payment:bancomat": "yes",
+                "payment:blik": "no",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:cheque": "no",
+                "payment:clipper": "no",
+                "payment:coins": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:cryptocurrencies": "no",
+                "payment:debit_cards": "yes",
+                "payment:diners_club": "no",
+                "payment:discover_card": "no",
+                "payment:dkv": "no",
+                "payment:electronic_purses": "no",
+                "payment:google_pay": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:mastercard_contactless": "yes",
+                "payment:notes": "yes",
+                "payment:paypal": "no",
+                "payment:prepaid_ticket": "no",
+                "payment:telephone_cards": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7881295,
+                  48.7997925
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5904014485",
+                "osm_type": "node",
+                "lat": 48.7977052,
+                "lon": 9.79375,
+                "amenity": "bar",
+                "contact:email": "peanutbar@gmx.de",
+                "contact:phone": "+49 176 96732854",
+                "contact:website": "https://diecocktailbar.com",
+                "name": "Die Cocktailbar",
+                "opening_hours": "Fr-Sa 20:00-03:00",
+                "operator": "Dietrich C. Schell",
+                "smoking": "yes",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.79375,
+                  48.7977052
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6033582303",
+                "osm_type": "node",
+                "lat": 48.7055995,
+                "lon": 9.5844799,
+                "addr:city": "Uhingen",
+                "addr:housenumber": "3",
+                "addr:postcode": "73066",
+                "addr:street": "Ulmer Straße",
+                "amenity": "bar",
+                "name": "Silikus",
+                "opening_hours": "Tu-Fr 15:00-24:00; Sa 00:00-01:00,15:00-24:00; Su 00:00-01:00,15:00-23:00",
+                "outdoor_seating": "yes",
+                "phone": "+49 7161 9516000",
+                "website": "http://www.silikus.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5844799,
+                  48.7055995
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6166128373",
+                "osm_type": "node",
+                "lat": 48.8017145,
+                "lon": 9.8001977,
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/Royal.Gmuend/",
+                "name": "Lana Lounge"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8001977,
+                  48.8017145
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6441585747",
+                "osm_type": "node",
+                "lat": 48.7982819,
+                "lon": 9.7947876,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "18",
+                "addr:postcode": "73525",
+                "addr:street": "Turniergraben",
+                "amenity": "bar",
+                "name": "The Zone 735"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7947876,
+                  48.7982819
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6463706503",
+                "osm_type": "node",
+                "lat": 48.7995607,
+                "lon": 9.7935013,
+                "amenity": "bar",
+                "name": "Odin"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7935013,
+                  48.7995607
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6510443218",
+                "osm_type": "node",
+                "lat": 48.7984316,
+                "lon": 9.7935623,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "4",
+                "addr:postcode": "73525",
+                "addr:street": "Ackergasse",
+                "amenity": "bar",
+                "name": "Café-Bar Pan Tau"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7935623,
+                  48.7984316
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6926440207",
+                "osm_type": "node",
+                "lat": 48.8009626,
+                "lon": 9.8023753,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "23",
+                "addr:postcode": "73525",
+                "addr:street": "Höferlesbach",
+                "amenity": "bar",
+                "name": "Johnnie's Cafè Bar Ouzeri"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8023753,
+                  48.8009626
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7641072247",
+                "osm_type": "node",
+                "lat": 48.8003714,
+                "lon": 9.7900913,
+                "amenity": "bar",
+                "contact:facebook": "https://facebook.com/RemsstrandGmuend",
+                "contact:instagram": "https://instagram.com/remsstrand",
+                "description": "Zugehörige WCs im UG der Villa Hirzel",
+                "email": "remsstrand@gs-gastro.de",
+                "name": "Remsstrand",
+                "opening_hours": "Mo, We, Th 16:00-22:00; Tu, Fr 16:00-23:00; Sa 14:00-23:00; Su, PH 14:00-22:00",
+                "outdoor_seating": "only",
+                "website": "https://remsstrand.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7900913,
+                  48.8003714
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7657197924",
+                "osm_type": "node",
+                "lat": 48.8007251,
+                "lon": 9.7969868,
+                "addr:postcode": "73525",
+                "amenity": "bar",
+                "cuisine": "pasta;pizza",
+                "entrance": "yes",
+                "name": "Kostbar",
+                "old:name": "Mohren Apotheke",
+                "website": "https://www.kostbar-gd.de",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7969868,
+                  48.8007251
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8889679017",
+                "osm_type": "node",
+                "lat": 48.7034439,
+                "lon": 9.6508157,
+                "amenity": "bar",
+                "name": "Schlüssel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6508157,
+                  48.7034439
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11362885357",
+                "osm_type": "node",
+                "lat": 48.7954806,
+                "lon": 9.5988257,
+                "amenity": "bar",
+                "name": "Paparazzi"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5988257,
+                  48.7954806
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12294644861",
+                "osm_type": "node",
+                "lat": 48.6927524,
+                "lon": 9.7159615,
+                "amenity": "bar",
+                "contact:instagram": "_nix_bar_",
+                "name": "NiX"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7159615,
+                  48.6927524
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12696187716",
+                "osm_type": "node",
+                "lat": 48.8000757,
+                "lon": 9.7988659,
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:country": "DE",
+                "addr:housenumber": "7",
+                "addr:postcode": "73525",
+                "addr:street": "Radgäßle",
+                "amenity": "bar",
+                "name": "Black Angel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7988659,
+                  48.8000757
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13015943459",
+                "osm_type": "node",
+                "lat": 48.7027266,
+                "lon": 9.6564866,
+                "amenity": "bar",
+                "name": "Bar Plaisir"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6564866,
+                  48.7027266
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 10.007803749999999,
+            "north": 48.851801374999994,
+            "east": 10.484655499999999
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            10.095598964285715,
+            48.833989085714286
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "351933457",
+                "osm_type": "node",
+                "lat": 48.8352303,
+                "lon": 10.0881518,
+                "addr:city": "Aalen",
+                "addr:housenumber": "40",
+                "addr:street": "Gartenstraße",
+                "amenity": "bar",
+                "description": "Dart, Geldspielautomaten, Tischspiele",
+                "name": "barcode"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0881518,
+                  48.8352303
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1722042637",
+                "osm_type": "node",
+                "lat": 48.8373895,
+                "lon": 10.0925612,
+                "addr:city": "Aalen",
+                "addr:country": "DE",
+                "addr:housenumber": "5",
+                "addr:postcode": "73430",
+                "addr:street": "Gmünder Straße",
+                "amenity": "bar",
+                "check_date": "2024-12-24",
+                "contact:facebook": "https://facebook.com/noiraalen",
+                "name": "Noir",
+                "opening_hours": "Su, Mo, Tu off; We, Th 19:00-02:00, Fr, Sa 19:00-04:00",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0925612,
+                  48.8373895
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1768383265",
+                "osm_type": "node",
+                "lat": 48.8371401,
+                "lon": 10.0934294,
+                "addr:city": "Aalen",
+                "addr:housenumber": "1",
+                "addr:postcode": "73430",
+                "addr:street": "Helferstraße",
+                "amenity": "bar",
+                "contact:email": "mail@havannabar-aalen.de",
+                "contact:facebook": "https://facebook.com/Havannabar.Aalen",
+                "contact:phone": "+49 160 7806246",
+                "contact:website": "http://havannabar-aalen.de",
+                "name": "Havanna Bar",
+                "opening_hours": "Mo-Th 18:00-01:00, Fr,Sa 18:00-02:00, Su 18:00-24:00",
+                "toilets:wheelchair": "no",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0934294,
+                  48.8371401
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1774056990",
+                "osm_type": "node",
+                "lat": 48.8372637,
+                "lon": 10.0939685,
+                "addr:city": "Aalen",
+                "addr:housenumber": "8",
+                "addr:postcode": "73430",
+                "addr:street": "An der Stadtkirche",
+                "alt_name": "Brezga Blase",
+                "amenity": "bar",
+                "contact:email": "info@brezga-blase.de",
+                "contact:phone": "+49 1515 5373844",
+                "contact:website": "http://brezga-blase.de",
+                "indoor_seating": "yes",
+                "name": "Café & Bar Zum Brezga Blase",
+                "opening_hours": "Mo-Th 09:00-02:00, Fr-Sa 09:00-03:00, Su 13:00-02:00",
+                "operator": "Kati Witzke",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "toilets:wheelchair": "no",
+                "wheelchair": "limited",
+                "wheelchair:description": "3 cm Türschwelle, keine Behindertentoilette"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0939685,
+                  48.8372637
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2507409572",
+                "osm_type": "node",
+                "lat": 48.8014691,
+                "lon": 10.1838877,
+                "addr:city": "Aalen",
+                "addr:housenumber": "52",
+                "addr:postcode": "73432",
+                "addr:street": "Ebnater Hauptstraße",
+                "addr:suburb": "Ebnat",
+                "amenity": "bar",
+                "name": "Brezge",
+                "phone": "+49 7367 9249490",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1838877,
+                  48.8014691
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2731252695",
+                "osm_type": "node",
+                "lat": 48.836583,
+                "lon": 10.0721121,
+                "amenity": "bar",
+                "name": "Erna's"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0721121,
+                  48.836583
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2848150229",
+                "osm_type": "node",
+                "lat": 48.8415107,
+                "lon": 10.0954034,
+                "addr:city": "Aalen",
+                "addr:housenumber": "38",
+                "addr:postcode": "73430",
+                "addr:street": "Bahnhofstraße",
+                "amenity": "bar",
+                "name": "Evino Cocktailbar",
+                "opening_hours": "Mo-Th 13:00-01:00, Fr-Sa 15:00-03:00, Su 13:00-01:00",
+                "phone": "+49 7361 9219192",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0954034,
+                  48.8415107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2848223109",
+                "osm_type": "node",
+                "lat": 48.8399968,
+                "lon": 10.0936118,
+                "amenity": "bar",
+                "name": "K1 Bar+Lounge"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0936118,
+                  48.8399968
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2848227012",
+                "osm_type": "node",
+                "lat": 48.8380645,
+                "lon": 10.0925859,
+                "addr:city": "Aalen",
+                "addr:housenumber": "7",
+                "addr:postcode": "73430",
+                "addr:street": "Radgasse",
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "name": "Bar & Restaurant Spion",
+                "opening_hours": "Mo, Tu 11:00-23:30; We,Th 11:00-24:00; Fr 11:00-03:00, Sa 14:00-03:00, Su 14:00-23:30, PH 14:00+",
+                "outdoor_seating": "yes",
+                "phone": "+49 7361 524313",
+                "toilets:wheelchair": "no",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0925859,
+                  48.8380645
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3184703662",
+                "osm_type": "node",
+                "lat": 48.8238743,
+                "lon": 10.0625766,
+                "amenity": "bar",
+                "name": "Surprise Billiard",
+                "smoking": "isolated"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0625766,
+                  48.8238743
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4102956989",
+                "osm_type": "node",
+                "lat": 48.8377096,
+                "lon": 10.095181,
+                "addr:city": "Aalen",
+                "addr:country": "DE",
+                "addr:housenumber": "6",
+                "addr:postcode": "73430",
+                "addr:street": "Stuttgarter Straße",
+                "amenity": "bar",
+                "name": "Mango Lounge - Bar",
+                "opening_hours": "Th,Su-Tu 18:00-24:00, Fr,Sa 18:00-02:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.095181,
+                  48.8377096
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10284380414",
+                "osm_type": "node",
+                "lat": 48.8377203,
+                "lon": 10.0933279,
+                "addr:city": "Aalen",
+                "addr:housenumber": "4",
+                "addr:street": "Alter Kirchplatz",
+                "amenity": "bar",
+                "description": "Cafe, Bar Heimat",
+                "indoor_seating": "yes",
+                "name": "Cafe Luther",
+                "opening_hours": "Th, Fr 16:00-00:00; Sa 10:00-01:00",
+                "outdoor_seating": "yes",
+                "phone": "+49 170 3439728"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0933279,
+                  48.8377203
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11687479463",
+                "osm_type": "node",
+                "lat": 48.8370585,
+                "lon": 10.0937598,
+                "amenity": "bar",
+                "name": "Helferbar",
+                "opening_hours": "We,Th 19:00-24:00; Fr,Sa 19:00-03:00; PH,Su off"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0937598,
+                  48.8370585
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12061022683",
+                "osm_type": "node",
+                "lat": 48.8348368,
+                "lon": 10.0878284,
+                "amenity": "bar",
+                "name": "Bistro - Bar Journal",
+                "opening_hours": "Mo-Th 17:00-02:00, Fr,Sa 17:00-03:00, Su 17:00-01:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0878284,
+                  48.8348368
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 9.530952,
+            "north": 49.017078,
+            "east": 10.007803749999999
+          },
+          "poiCount": 8,
+          "leafCount": 8,
+          "averagePosition": [
+            9.6530354875,
+            48.91662635
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8405132176",
+                "osm_type": "node",
+                "lat": 48.8694872,
+                "lon": 9.6296666,
+                "addr:city": "Welzheim",
+                "addr:housenumber": "4",
+                "addr:postcode": "73642",
+                "addr:street": "Beethovenstraße",
+                "amenity": "bar",
+                "name": "Stadtschänke"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6296666,
+                  48.8694872
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8607430072",
+                "osm_type": "node",
+                "lat": 48.8693898,
+                "lon": 9.6297352,
+                "amenity": "bar",
+                "min_age": "18",
+                "name": "#642 Shisha Cocktail Lounge",
+                "opening_hours:covid19": "off",
+                "smoking": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6297352,
+                  48.8693898
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3059138862",
+                "osm_type": "node",
+                "lat": 48.8765331,
+                "lon": 9.6346189,
+                "amenity": "bar",
+                "indoor_seating": "yes",
+                "name": "Lagune",
+                "outdoor_seating": "no",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6346189,
+                  48.8765331
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3059138866",
+                "osm_type": "node",
+                "lat": 48.8740216,
+                "lon": 9.6347832,
+                "addr:city": "Welzheim",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "73642",
+                "addr:street": "Schorndorfer Straße",
+                "amenity": "bar",
+                "name": "Mocca"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6347832,
+                  48.8740216
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5848581206",
+                "osm_type": "node",
+                "lat": 48.87338,
+                "lon": 9.6309848,
+                "amenity": "bar",
+                "name": "Alte Post",
+                "opening_hours": "Mo-We 15:00-02:00; Th 11:00-02:00; Fr, Sa 11:00-03:00; Su 10:00-02:00",
+                "outdoor_seating": "yes",
+                "smoking": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6309848,
+                  48.87338
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5987209409",
+                "osm_type": "node",
+                "lat": 49.0002505,
+                "lon": 9.7708073,
+                "addr:city": "Gaildorf",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "74405",
+                "addr:street": "Grabenstraße",
+                "amenity": "bar",
+                "name": "The Keyf",
+                "website": "https://www.instagram.com/thekeyfgaildorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7708073,
+                  49.0002505
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10705493219",
+                "osm_type": "node",
+                "lat": 48.9917244,
+                "lon": 9.711986,
+                "addr:city": "Fichtenberg",
+                "addr:housenumber": "17",
+                "addr:postcode": "74427",
+                "addr:street": "Schelmenäcker",
+                "amenity": "bar",
+                "name": "WILKY - mobile Bar",
+                "website": "https://www.wilky-bar.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.711986,
+                  48.9917244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11289551669",
+                "osm_type": "node",
+                "lat": 48.9782242,
+                "lon": 9.5817019,
+                "addr:city": "Murrhardt",
+                "addr:housenumber": "5",
+                "addr:postcode": "71540",
+                "addr:street": "Fornsbacher Straße",
+                "amenity": "bar",
+                "name": "Coco Loco Cocktailbar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5817019,
+                  48.9782242
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 10.007803749999999,
+            "north": 49.017078,
+            "east": 10.484655499999999
+          },
+          "poiCount": 3,
+          "leafCount": 3,
+          "averagePosition": [
+            10.233475766666666,
+            48.9238097
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2430785365",
+                "osm_type": "node",
+                "lat": 48.8675264,
+                "lon": 10.1057539,
+                "addr:city": "Aalen",
+                "addr:country": "DE",
+                "addr:housenumber": "11",
+                "addr:postcode": "73433",
+                "addr:street": "Abtsgmünder Straße",
+                "addr:suburb": "Wasseralfingen",
+                "amenity": "bar",
+                "name": "Ums Eck"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1057539,
+                  48.8675264
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3992500224",
+                "osm_type": "node",
+                "lat": 48.9614964,
+                "lon": 10.1305045,
+                "amenity": "bar",
+                "name": "Manhattan",
+                "opening_hours": "Su-Th 18:00-02:00, Fr,Sa 18:00-05:00",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1305045,
+                  48.9614964
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13100284249",
+                "osm_type": "node",
+                "lat": 48.9424063,
+                "lon": 10.4641689,
+                "addr:city": "Minderoffingen",
+                "addr:housenumber": "24b",
+                "addr:postcode": "86748",
+                "addr:street": "Dorfstraße",
+                "amenity": "bar",
+                "name": "Gfriere Minderoffingen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4641689,
+                  48.9424063
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 10.484655499999999,
+        "north": 49.017078,
+        "east": 11.438358999999998
+      },
+      "poiCount": 43,
+      "leafCount": 43,
+      "averagePosition": [
+        11.123163595348837,
+        48.77692548372092
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "641308878",
+            "osm_type": "node",
+            "lat": 48.845955,
+            "lon": 10.5061077,
+            "amenity": "bar",
+            "name": "Outback"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5061077,
+              48.845955
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1234170182",
+            "osm_type": "node",
+            "lat": 48.8521361,
+            "lon": 10.4967332,
+            "amenity": "bar",
+            "mobile": "+49151 111 185 30",
+            "name": "Living",
+            "opening_hours": "Fr 22:00-04:00; Sa 20:30-04:00",
+            "phone": "+49908124188",
+            "website": "https://www.living-noerdlingen.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4967332,
+              48.8521361
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1614274091",
+            "osm_type": "node",
+            "lat": 48.8505147,
+            "lon": 10.4867035,
+            "amenity": "bar",
+            "check_date": "2025-08-16",
+            "name": "Alexanderplatz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4867035,
+              48.8505147
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1614281618",
+            "osm_type": "node",
+            "lat": 48.8501508,
+            "lon": 10.486274,
+            "amenity": "bar",
+            "name": "Wine Bar Bistro eVIVA",
+            "website": "https://www.wine-bar-bistro-eviva.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.486274,
+              48.8501508
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "315342287",
+            "osm_type": "node",
+            "lat": 48.7156772,
+            "lon": 10.7761751,
+            "addr:city": "Donauwörth",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "86609",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "bar",
+            "contact:facebook": "https://www.facebook.com/GoldeneZeitenLounge",
+            "name": "Goldene Zeiten lounge-eventbar",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7761751,
+              48.7156772
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "616457983",
+            "osm_type": "node",
+            "lat": 48.6955524,
+            "lon": 10.9263502,
+            "addr:city": "Rain",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "86641",
+            "addr:street": "Johannes-Bayer-Straße",
+            "amenity": "bar",
+            "name": "FORTYNINERS49",
+            "opening_hours": "Fr-Sa 20:00-05:00",
+            "smoking": "outside"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9263502,
+              48.6955524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1274024788",
+            "osm_type": "node",
+            "lat": 48.8703853,
+            "lon": 10.7142524,
+            "amenity": "bar",
+            "name": "Power Play",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7142524,
+              48.8703853
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1644330730",
+            "osm_type": "node",
+            "lat": 48.6901535,
+            "lon": 10.9187386,
+            "addr:city": "Rain",
+            "addr:country": "DE",
+            "addr:housenumber": "17",
+            "addr:postcode": "86641",
+            "addr:street": "Hauptstraße",
+            "amenity": "bar",
+            "name": "Lion"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9187386,
+              48.6901535
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7077874279",
+            "osm_type": "node",
+            "lat": 48.716894,
+            "lon": 10.7788246,
+            "addr:city": "Donauwörth",
+            "addr:country": "DE",
+            "addr:housenumber": "22",
+            "addr:postcode": "86609",
+            "addr:street": "Hindenburgstraße",
+            "amenity": "bar",
+            "name": "Römerkeller",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7788246,
+              48.716894
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9939982109",
+            "osm_type": "node",
+            "lat": 48.6898343,
+            "lon": 10.916158,
+            "addr:city": "Rain",
+            "addr:country": "DE",
+            "addr:housenumber": "45",
+            "addr:postcode": "86641",
+            "addr:street": "Hauptstraße",
+            "amenity": "bar",
+            "name": "Downtown"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.916158,
+              48.6898343
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12157516465",
+            "osm_type": "node",
+            "lat": 48.8704356,
+            "lon": 10.7304066,
+            "amenity": "bar",
+            "name": "Ray's Pilsbar",
+            "operator": "noch offen?"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7304066,
+              48.8704356
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12466890119",
+            "osm_type": "node",
+            "lat": 48.6904242,
+            "lon": 10.9182485,
+            "addr:city": "Rain",
+            "addr:country": "DE",
+            "addr:housenumber": "60",
+            "addr:postcode": "86641",
+            "addr:street": "Hauptstraße",
+            "amenity": "bar",
+            "name": "B.H.-Clap Rain e.V.",
+            "opening_hours": "\"zu bestimmten Anlässen\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9182485,
+              48.6904242
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "276610200",
+            "osm_type": "node",
+            "lat": 48.7377371,
+            "lon": 11.1814682,
+            "addr:city": "Neuburg a. d. Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "C 16",
+            "addr:postcode": "86633",
+            "addr:street": "Elisenplatz",
+            "amenity": "bar",
+            "name": "Elisenlounge",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1814682,
+              48.7377371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "360205025",
+            "osm_type": "node",
+            "lat": 48.763871,
+            "lon": 11.4198376,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "85049",
+            "addr:street": "Kreuzstraße",
+            "amenity": "bar",
+            "name": "Zwølf",
+            "opening_hours": "Tu-Sa 16:00-23:00",
+            "website": "http://www.zwoelf-bar.de/",
+            "wheelchair": "limited",
+            "wheelchair:description": "kein WC"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4198376,
+              48.763871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1801423676",
+            "osm_type": "node",
+            "lat": 48.7620769,
+            "lon": 11.4238331,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "85049",
+            "addr:street": "Josef-Ponschab-Straße",
+            "amenity": "bar",
+            "contact:website": "http://www.after-dark-cocktailbar.de",
+            "name": "After Dark",
+            "opening_hours": "Fr-Sa 19:30-02:00",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4238331,
+              48.7620769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1801437066",
+            "osm_type": "node",
+            "lat": 48.7618139,
+            "lon": 11.4261874,
+            "amenity": "bar",
+            "name": "Bar Centrale",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4261874,
+              48.7618139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1801437081",
+            "osm_type": "node",
+            "lat": 48.7611702,
+            "lon": 11.4265964,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "85049",
+            "addr:street": "Donaustraße",
+            "amenity": "bar",
+            "contact:facebook": "https://www.facebook.com/SweptAway.de/",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "name": "Swept Away",
+            "opening_hours": "Mo-Th 17:30-01:00, Fr 19:00-03:00, Sa 17:30-03:00, Su 17:30-01:00",
+            "operator": "Swept Away GmbH",
+            "outdoor_seating": "yes",
+            "phone": "+49 841 9311679",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4265964,
+              48.7611702
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2157820705",
+            "osm_type": "node",
+            "lat": 48.7406041,
+            "lon": 11.4369637,
+            "amenity": "bar",
+            "name": "Pur",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4369637,
+              48.7406041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2268039747",
+            "osm_type": "node",
+            "lat": 48.7826103,
+            "lon": 11.4148897,
+            "amenity": "bar",
+            "name": "Bar & Lounge",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4148897,
+              48.7826103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2287047531",
+            "osm_type": "node",
+            "lat": 48.7651468,
+            "lon": 11.4234165,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "85049",
+            "addr:street": "Kupferstraße",
+            "amenity": "bar",
+            "name": "Franky's",
+            "source": "HiRes aerial imagery"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4234165,
+              48.7651468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2468040488",
+            "osm_type": "node",
+            "lat": 48.7373922,
+            "lon": 11.1829246,
+            "addr:city": "Neuburg an der Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "86633",
+            "addr:street": "Bürgermeister-Hocheder-Platz",
+            "amenity": "bar",
+            "check_date": "2025-08-10",
+            "name": "Route66 Bar-Bistro-Spielothek",
+            "phone": "+49 8431 644072"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1829246,
+              48.7373922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2660612026",
+            "osm_type": "node",
+            "lat": 48.7351811,
+            "lon": 11.1809381,
+            "amenity": "bar",
+            "name": "Shishco"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1809381,
+              48.7351811
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2661286771",
+            "osm_type": "node",
+            "lat": 48.7337723,
+            "lon": 11.1996824,
+            "amenity": "bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1996824,
+              48.7337723
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2661686861",
+            "osm_type": "node",
+            "lat": 48.736079,
+            "lon": 11.1838744,
+            "amenity": "bar",
+            "name": "Manhatten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1838744,
+              48.736079
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2778545772",
+            "osm_type": "node",
+            "lat": 48.7371684,
+            "lon": 11.1818819,
+            "addr:housenumber": "C 4",
+            "addr:street": "Luitpoldstraße",
+            "amenity": "bar",
+            "name": "Andrea's Cafe Lounge Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1818819,
+              48.7371684
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2778545773",
+            "osm_type": "node",
+            "lat": 48.7376543,
+            "lon": 11.1812256,
+            "addr:city": "Neuburg a. d. Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "C 11",
+            "addr:postcode": "86633",
+            "addr:street": "Zur Hölle",
+            "alt_name": "Residenztor",
+            "amenity": "bar",
+            "min_age": "18",
+            "name": "Die Bar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1812256,
+              48.7376543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3393245531",
+            "osm_type": "node",
+            "lat": 48.764118,
+            "lon": 11.4226745,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "85049",
+            "addr:street": "Theresienstraße",
+            "amenity": "bar",
+            "diet:vegan": "yes",
+            "name": "ANNA Ingolstadt",
+            "opening_hours": "May-Sep: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su 10:00-18:00; Oct-Apr: Mo-Sa 09:00-18:00; PH,Su 10:00-18:00; Dec 25-Dec 26 off",
+            "operator": "Thosu GmbH",
+            "outdoor_seating": "yes",
+            "smoking": "no",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4226745,
+              48.764118
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3932090464",
+            "osm_type": "node",
+            "lat": 48.7708292,
+            "lon": 11.3812715,
+            "amenity": "bar",
+            "name": "Clock",
+            "phone": "+49 841 88178975"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3812715,
+              48.7708292
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4206542589",
+            "osm_type": "node",
+            "lat": 48.7374845,
+            "lon": 11.1820077,
+            "amenity": "bar",
+            "entrance": "yes",
+            "name": "Fly Cocktailbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1820077,
+              48.7374845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4225948336",
+            "osm_type": "node",
+            "lat": 48.7350602,
+            "lon": 11.1800948,
+            "addr:city": "Neuburg an der Donau",
+            "addr:country": "DE",
+            "addr:housenumber": "B 179",
+            "addr:postcode": "86633",
+            "addr:street": "Am Graben",
+            "amenity": "bar",
+            "check_date": "2025-08-10",
+            "name": "Rob's Bar",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1800948,
+              48.7350602
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4433208689",
+            "osm_type": "node",
+            "lat": 48.7650443,
+            "lon": 11.4253938,
+            "addr:housenumber": "15",
+            "addr:postcode": "85049",
+            "addr:street": "Milchstraße",
+            "air_conditioning": "no",
+            "amenity": "bar",
+            "cuisine": "american",
+            "diet:vegan": "yes",
+            "email": "derpostwagen@hotmail.com",
+            "name": "Der Postwagen",
+            "opening_hours": "Su,Tu-Th 18:00-24:00; Fr-Sa 18:00-02:30",
+            "phone": "+49 157 88238225"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4253938,
+              48.7650443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5611631730",
+            "osm_type": "node",
+            "lat": 48.7346888,
+            "lon": 11.182531,
+            "addr:city": "Neuburg an der Donau",
+            "addr:housenumber": "1",
+            "addr:postcode": "86633",
+            "addr:street": "Färberstraße",
+            "amenity": "bar",
+            "name": "Bistro Break-Time",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.182531,
+              48.7346888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6019706529",
+            "osm_type": "node",
+            "lat": 48.7630715,
+            "lon": 11.4208881,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "85049",
+            "addr:street": "Griesmühlstraße",
+            "amenity": "bar",
+            "contact:email": "info@flytsbar.com",
+            "contact:website": "www.flytsbar.com",
+            "name": "Flyts Bar",
+            "opening_hours": "Tu-Su 17:00-02:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:girocard": "yes",
+            "phone": "+49 841 32979"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4208881,
+              48.7630715
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7023460835",
+            "osm_type": "node",
+            "lat": 48.7659218,
+            "lon": 11.4297255,
+            "amenity": "bar",
+            "lgbtq": "primary",
+            "name": "Rainbow 2"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4297255,
+              48.7659218
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7319642717",
+            "osm_type": "node",
+            "lat": 48.763187,
+            "lon": 11.4232211,
+            "addr:city": "Ingolstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "12",
+            "addr:postcode": "85049",
+            "addr:street": "Dollstraße",
+            "amenity": "bar",
+            "cuisine": "asian",
+            "name": "Cocktailbar La Diva",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4232211,
+              48.763187
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9111850104",
+            "osm_type": "node",
+            "lat": 48.7655647,
+            "lon": 11.4267738,
+            "amenity": "bar",
+            "description": "Hookah, Lounge, Cocktails",
+            "hookah": "yes",
+            "min_age": "18",
+            "name": "hookah & beats",
+            "website": "https://www.hookahandbeats.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4267738,
+              48.7655647
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11047791505",
+            "osm_type": "node",
+            "lat": 48.7515145,
+            "lon": 11.3833569,
+            "amenity": "bar",
+            "name": "Die Bar am See SUP Verleih",
+            "operator": "diebaramsee.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3833569,
+              48.7515145
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12537233292",
+            "osm_type": "node",
+            "lat": 48.7349054,
+            "lon": 11.1799594,
+            "addr:city": "Neuburg an der Donau",
+            "addr:housenumber": "180",
+            "addr:postcode": "86633",
+            "addr:street": "Luitpoldstraße",
+            "amenity": "bar",
+            "name": "Drogerie"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1799594,
+              48.7349054
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12680875385",
+            "osm_type": "node",
+            "lat": 48.9527515,
+            "lon": 10.6040179,
+            "addr:city": "Oettingen i.Bay.",
+            "addr:housenumber": "27",
+            "addr:postcode": "86732",
+            "addr:street": "Schloßstraße",
+            "amenity": "bar",
+            "facebook": "https://www.facebook.com/p/Kn%C3%A4pper-100093838493611/",
+            "level": "0",
+            "name": "Knäpper",
+            "old_name": "Josephstürmle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6040179,
+              48.9527515
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1157353045",
+            "osm_type": "node",
+            "lat": 48.8941413,
+            "lon": 11.1832848,
+            "addr:city": "Eichstätt",
+            "addr:housenumber": "7",
+            "addr:postcode": "85072",
+            "addr:street": "Westenstraße",
+            "amenity": "bar",
+            "contact:facebook": "https://www.facebook.com/people/Diwan-Bar/100006370516173",
+            "indoor_seating": "yes",
+            "name": "Diwan",
+            "old_name": "Cafe-Bistro Journal",
+            "outdoor_seating": "no",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1832848,
+              48.8941413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2624693223",
+            "osm_type": "node",
+            "lat": 48.891354,
+            "lon": 11.1868743,
+            "amenity": "bar",
+            "name": "Theke"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1868743,
+              48.891354
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2624721208",
+            "osm_type": "node",
+            "lat": 48.8939239,
+            "lon": 11.1837362,
+            "amenity": "bar",
+            "check_date": "2025-07-11",
+            "name": "Tartufo Kellerbar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1837362,
+              48.8939239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2631163962",
+            "osm_type": "node",
+            "lat": 48.8938445,
+            "lon": 11.1815313,
+            "addr:housenumber": "2",
+            "addr:street": "Herzogsteg",
+            "amenity": "bar",
+            "check_date": "2024-06-28",
+            "description": "Biergarten, Bootsverleih, Kiosk",
+            "email": "info@hfb-ei.de",
+            "name": "Haifischbar - Bootssteg",
+            "opening_hours": "10:00-22:30; bei schlechtem Wetter schließen wir früher",
+            "website": "https://www.hfb-ei.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1815313,
+              48.8938445
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,2526 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 113,
+  "leafCount": 0,
+  "averagePosition": [
+    14.146735755752212,
+    46.711963260176994
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 13.345766,
+        "north": 46.70320525,
+        "east": 14.2994695
+      },
+      "poiCount": 32,
+      "leafCount": 32,
+      "averagePosition": [
+        13.851949090625,
+        46.589200328125
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1968555164",
+            "osm_type": "node",
+            "lat": 46.4801476,
+            "lon": 13.5226601,
+            "addr:city": "Camporosso",
+            "addr:place": "Monte Santo di Lussari / Svete Višarje",
+            "addr:postcode": "33010",
+            "contact:email": "rifugioalsantuario@gmail.com",
+            "contact:fax": "+39 0428 61108",
+            "contact:phone": "+39 328 5818789;+42 0602611083",
+            "contact:website": "https://www.rifugioalsantuario.com/",
+            "cuisine": "italian;regional",
+            "name": "Rifugio Al Santuario",
+            "tourism": "alpine_hut",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5226601,
+              46.4801476
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2178528746",
+            "osm_type": "node",
+            "lat": 46.4801239,
+            "lon": 13.5227813,
+            "addr:city": "Camporosso",
+            "addr:place": "Monte Santo di Lussari / Svete Višarje",
+            "addr:postcode": "33010",
+            "contact:phone": "+39 0428 63242",
+            "cuisine": "regional;steak_house",
+            "name": "Rifugio Monte Lussari",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5227813,
+              46.4801239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5018264822",
+            "osm_type": "node",
+            "lat": 46.4799863,
+            "lon": 13.5226866,
+            "addr:city": "Camporosso",
+            "addr:place": "Monte Santo di Lussari / Svete Višarje",
+            "addr:postcode": "33010",
+            "name": "Rifugio al Santuario",
+            "name:it": "Rifugio al Santuario",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5226866,
+              46.4799863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5597104281",
+            "osm_type": "node",
+            "lat": 46.6275395,
+            "lon": 13.3636317,
+            "addr:city": "Hermagor-Pressegger See",
+            "addr:country": "AT",
+            "addr:housenumber": "61",
+            "addr:postcode": "9620",
+            "addr:street": "Hauptstraße",
+            "amenity": "social_facility",
+            "email": "beratung.hermagor@ktn.kinderfreunde.org",
+            "name": "Kinderschutzzentrum DELFI Hermagor",
+            "phone": "+43 4282 25006",
+            "social_facility": "childrens_centre",
+            "social_facility:for": "child",
+            "source": "survey",
+            "website": "http://www.kisz-ktn.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3636317,
+              46.6275395
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5822380454",
+            "osm_type": "node",
+            "lat": 46.6906312,
+            "lon": 13.5026108,
+            "name": "Gasser Alm",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5026108,
+              46.6906312
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6669818746",
+            "osm_type": "node",
+            "lat": 46.624004,
+            "lon": 13.3552271,
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3552271,
+              46.624004
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6669864050",
+            "osm_type": "node",
+            "lat": 46.6243942,
+            "lon": 13.3669709,
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3669709,
+              46.6243942
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6684715903",
+            "osm_type": "node",
+            "lat": 46.6359987,
+            "lon": 13.3698058,
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3698058,
+              46.6359987
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12921387989",
+            "osm_type": "node",
+            "lat": 46.6737429,
+            "lon": 13.4150194,
+            "name": "Fischeralm",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4150194,
+              46.6737429
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "389785880",
+            "osm_type": "node",
+            "lat": 46.6961092,
+            "lon": 13.8869343,
+            "ele": "1580",
+            "massif": "Nockberge",
+            "name": "Gerlitzenhütte",
+            "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+            "operator": "Sektion Villach",
+            "tourism": "alpine_hut",
+            "wikidata": "Q102226624"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8869343,
+              46.6961092
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1822668169",
+            "osm_type": "node",
+            "lat": 46.6678149,
+            "lon": 13.9324344,
+            "addr:city": "Treffen am Ossiacher See",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "9520",
+            "addr:street": "Kanziweg",
+            "at_bev:addr_date": "2016-10-02",
+            "internet_access": "yes",
+            "name": "Ebner",
+            "tourism": "chalet",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9324344,
+              46.6678149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2794527294",
+            "osm_type": "node",
+            "lat": 46.6115419,
+            "lon": 13.8442575,
+            "addr:city": "Villach",
+            "addr:housenumber": "5",
+            "addr:postcode": "9500",
+            "addr:street": "Italiener Straße",
+            "building": "retail",
+            "name": "Hut Christl",
+            "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8442575,
+              46.6115419
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3885008663",
+            "osm_type": "node",
+            "lat": 46.5659079,
+            "lon": 13.9067137,
+            "name": "Karglhof",
+            "operator": "Fam. Kargl",
+            "tourism": "chalet",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9067137,
+              46.5659079
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5962689577",
+            "osm_type": "node",
+            "lat": 46.5006067,
+            "lon": 13.5935268,
+            "addr:city": "Tarivisio",
+            "addr:housenumber": "6",
+            "addr:postcode": "33018",
+            "addr:street": "Via Luigi Cadorna",
+            "email": "info@lalunadellemontagne.eu",
+            "image": "www.lalunadellemontagne.eu",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "la LUNA delle MONTAGNE",
+            "phone": "+39 3517666219",
+            "tourism": "chalet",
+            "website": "www.lalunadellemontagne.eu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5935268,
+              46.5006067
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6443442896",
+            "osm_type": "node",
+            "lat": 46.4973112,
+            "lon": 13.5987125,
+            "alt_name": "Residenze Al Tiglio",
+            "name": "La casa di Heidi",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5987125,
+              46.4973112
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9696086000",
+            "osm_type": "node",
+            "lat": 46.4524778,
+            "lon": 13.5847109,
+            "ele": "1460",
+            "name": "Bivacco Oscar Piusi",
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5847109,
+              46.4524778
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9926562655",
+            "osm_type": "node",
+            "lat": 46.6175143,
+            "lon": 13.9446682,
+            "addr:city": "Wernberg",
+            "addr:housenumber": "5",
+            "addr:postcode": "9241",
+            "addr:street": "Gewerbeweg",
+            "craft": "sun_protection",
+            "name": "Tschelisnig Sonnenschutzsysteme GmbH",
+            "phone": "+43425244934",
+            "website": "https://tschelisnig.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9446682,
+              46.6175143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10086597625",
+            "osm_type": "node",
+            "lat": 46.5295287,
+            "lon": 13.970108,
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.970108,
+              46.5295287
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12948858850",
+            "osm_type": "node",
+            "lat": 46.5960654,
+            "lon": 13.9405874,
+            "addr:city": "Villach",
+            "addr:housenumber": "4",
+            "addr:postcode": "9580",
+            "addr:street": "Ribnigstraße",
+            "description": "Peter Anderwald ist Ihr Experte für Brandschutz und Sicherheitstechnik in Österreich. Wir bieten umfassende Leistungen von der Planung und Ausschreibung sicherheitstechnischer Anlagen, Genehmigungen sowie Brandschutz Kurse an.",
+            "email": "office@ah-se.at",
+            "fax": "+43 4242 33141-8",
+            "image": "https://www.brandschutz-oesterreich.at/wp-content/uploads/Brandschutzwart-1024x1024.jpeg",
+            "name": "Brandschutz Österreich - Brandschutzkonzepte & Beratung",
+            "office": "security",
+            "opening_hours": "Mo-Fr 08:00–17:00 Uhr",
+            "operator": "AH Safety Engineering GmbH",
+            "phone": "+43 4242 33141–0",
+            "ref:vatin": "ATU75210503",
+            "start_date": "2020",
+            "website": "https://www.brandschutz-oesterreich.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9405874,
+              46.5960654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "389786089",
+            "osm_type": "node",
+            "lat": 46.4468626,
+            "lon": 14.1830532,
+            "addr:city": "Feistritz im Rosental",
+            "addr:housenumber": "19",
+            "addr:postcode": "9181",
+            "addr:street": "Bärental",
+            "ele": "1664",
+            "massif": "Karawanken u. Bachergebirge",
+            "name": "Klagenfurter Hütte",
+            "name:de": "Klagenfurter Hütte",
+            "name:sl": "Celovška koča",
+            "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+            "operator": "Österreichischer Alpenverein - Sektion Klagenfurt",
+            "tourism": "alpine_hut",
+            "website": "https://klagenfurter-huette.at/",
+            "wikidata": "Q1744234",
+            "wikipedia": "de:Klagenfurter Hütte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1830532,
+              46.4468626
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1293105146",
+            "osm_type": "node",
+            "lat": 46.5903402,
+            "lon": 14.1593321,
+            "name": "Appartementhaus Fischerhütte",
+            "operator": "A. Sztriberny",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1593321,
+              46.5903402
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1794150048",
+            "osm_type": "node",
+            "lat": 46.5836571,
+            "lon": 14.1166986,
+            "addr:housenumber": "25",
+            "addr:street": "Penken-Pleierweg",
+            "name": "Pleierhof",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1166986,
+              46.5836571
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2419616227",
+            "osm_type": "node",
+            "lat": 46.6216848,
+            "lon": 14.2115392,
+            "addr:city": "Krumpendorf am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "44",
+            "addr:postcode": "9201",
+            "addr:street": "Kochstraße",
+            "name": "Appartementhaus Habich",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2115392,
+              46.6216848
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2419654444",
+            "osm_type": "node",
+            "lat": 46.6253323,
+            "lon": 14.2065777,
+            "addr:city": "Krumpendorf am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "9201",
+            "addr:street": "Karawankenweg",
+            "internet_access": "wlan",
+            "name": "Haus Gaggl",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2065777,
+              46.6253323
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2419654448",
+            "osm_type": "node",
+            "lat": 46.6246753,
+            "lon": 14.2048841,
+            "addr:city": "Krumpendorf am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "12",
+            "addr:postcode": "9201",
+            "addr:street": "Bad-Stich-Straße",
+            "internet_access": "wlan",
+            "name": "Haus Habich",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2048841,
+              46.6246753
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2419880676",
+            "osm_type": "node",
+            "lat": 46.6242605,
+            "lon": 14.2101466,
+            "addr:city": "Krumpendorf am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "19",
+            "addr:postcode": "9201",
+            "addr:street": "Kochstraße",
+            "email": "urlaubsinfo@pension-seehof.at",
+            "name": "Ferienanlage Seehof",
+            "tourism": "chalet",
+            "website": "https://www.pension-seehof.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2101466,
+              46.6242605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2422126360",
+            "osm_type": "node",
+            "lat": 46.6221968,
+            "lon": 14.2142435,
+            "internet_access": "wlan",
+            "name": "Appartements Oswald",
+            "tourism": "chalet",
+            "website": "https://www.appartements-oswald.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2142435,
+              46.6221968
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2424154482",
+            "osm_type": "node",
+            "lat": 46.6309727,
+            "lon": 14.2085278,
+            "name": "Apartment Schaller",
+            "tourism": "chalet",
+            "website": "https://www.apartment-schaller.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2085278,
+              46.6309727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3100832521",
+            "osm_type": "node",
+            "lat": 46.6493455,
+            "lon": 14.193671,
+            "name": "Landhaus Lassnig",
+            "operator": "Dietrun Lassnig",
+            "tourism": "chalet",
+            "website": "https://www.landhaus-lassnig.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.193671,
+              46.6493455
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8370490532",
+            "osm_type": "node",
+            "lat": 46.6100295,
+            "lon": 14.0625253,
+            "name": "Seevillen Excelsior",
+            "tourism": "chalet",
+            "website": "https://www.seevillen.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0625253,
+              46.6100295
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10086609200",
+            "osm_type": "node",
+            "lat": 46.5172315,
+            "lon": 14.0981631,
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0981631,
+              46.5172315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11281073441",
+            "osm_type": "node",
+            "lat": 46.6563754,
+            "lon": 14.0489613,
+            "name": "Keuschnig Anderlehütte",
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0489613,
+              46.6563754
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 14.2994695,
+        "north": 46.70320525,
+        "east": 15.253173
+      },
+      "poiCount": 28,
+      "leafCount": 28,
+      "averagePosition": [
+        14.629657525,
+        46.565226085714286
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "474595022",
+            "osm_type": "node",
+            "lat": 46.5231418,
+            "lon": 14.7241233,
+            "addr:city": "Globasnitz",
+            "addr:country": "AT",
+            "addr:housenumber": "39",
+            "addr:place": "Wackendorf",
+            "addr:postcode": "9142",
+            "at_bev:addr_date": "2017-10-01",
+            "ele": "1576.676",
+            "name": "Wackendorfer Alm",
+            "operator": "private",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7241233,
+              46.5231418
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2443330976",
+            "osm_type": "node",
+            "lat": 46.4996125,
+            "lon": 14.9279367,
+            "addr:housenumber": "15",
+            "addr:street": "Uršlja gora",
+            "name": "Obretanovo",
+            "note": "Taborniški dom roda koroških jeklarjev",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9279367,
+              46.4996125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4069363609",
+            "osm_type": "node",
+            "lat": 46.5925708,
+            "lon": 14.5936044,
+            "name": "Raschun",
+            "toilets:wheelchair": "no",
+            "tourism": "chalet",
+            "website": "http://www.ferien-raschun.at/",
+            "wheelchair": "limited",
+            "wheelchair:description": "WC für Rollstuhl zu eng, keine Haltegriffe, kein W-Lan und wenig Komfort"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5936044,
+              46.5925708
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4069382491",
+            "osm_type": "node",
+            "lat": 46.6006323,
+            "lon": 14.5490418,
+            "addr:city": "St. Kanzian",
+            "addr:housenumber": "16",
+            "addr:postcode": "9122",
+            "addr:street": "Steinerberg",
+            "name": "Ferienhaus Höllerl",
+            "toilets:wheelchair": "no",
+            "tourism": "chalet",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5490418,
+              46.6006323
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4445641691",
+            "osm_type": "node",
+            "lat": 46.6101757,
+            "lon": 14.5973338,
+            "addr:city": "Sankt Kanzian am Klopeiner See",
+            "addr:housenumber": "3",
+            "addr:postcode": "9122",
+            "addr:street": "Ostuferstraße",
+            "name": "Apartments Jesse",
+            "tourism": "chalet",
+            "website": "https://www.apartments-jesse.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5973338,
+              46.6101757
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7443346196",
+            "osm_type": "node",
+            "lat": 46.6024877,
+            "lon": 14.5723299,
+            "name": "Seehaus Karin",
+            "tourism": "chalet",
+            "website": "https://www.seehauskarin.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5723299,
+              46.6024877
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7482808300",
+            "osm_type": "node",
+            "lat": 46.6102315,
+            "lon": 14.5959565,
+            "name": "Ferienwohnung Rogatsch",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5959565,
+              46.6102315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7482824122",
+            "osm_type": "node",
+            "lat": 46.6100222,
+            "lon": 14.5933323,
+            "addr:city": "St. Kanzian am Klopeiner See",
+            "addr:housenumber": "13",
+            "addr:postcode": "9122",
+            "addr:street": "Am See XV",
+            "name": "Ferienhaus Drobesch",
+            "tourism": "chalet",
+            "website": "http://www.fewo-drobesch.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5933323,
+              46.6100222
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12335734084",
+            "osm_type": "node",
+            "lat": 46.5851539,
+            "lon": 14.7757406,
+            "name": "Ferienhaus Huber",
+            "operator": "Familie Elbe",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7757406,
+              46.5851539
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "309010898",
+            "osm_type": "node",
+            "lat": 46.5281486,
+            "lon": 15.1285496,
+            "ele": "1102",
+            "name": "Koča pod Kremžarjevim vrhom",
+            "tourism": "alpine_hut",
+            "wikidata": "Q11744668",
+            "wikipedia": "pl:Koča pod Kremžarjevim vrhom"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1285496,
+              46.5281486
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "389786039",
+            "osm_type": "node",
+            "lat": 46.641703,
+            "lon": 15.2414477,
+            "addr:city": "Eibiswald",
+            "addr:country": "AT",
+            "addr:housenumber": "32",
+            "addr:place": "Bachholz",
+            "addr:postcode": "8552",
+            "ele": "1003",
+            "massif": "Lavanttaler Alpen",
+            "name": "Kapunerhütte",
+            "operator": "ÖAV Sektion Graz",
+            "start_date": "1965",
+            "tourism": "alpine_hut",
+            "website": "https://www.alpenverein.at/kapunerhuette/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2414477,
+              46.641703
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1928651227",
+            "osm_type": "node",
+            "lat": 46.5060061,
+            "lon": 15.2071506,
+            "email": "ribnisko.pohorje@rikom.si",
+            "name": "Apartma Pungart",
+            "phone": "+386 2 8765300;+386 31 782908",
+            "tourism": "chalet",
+            "website": "https://www.ribnisko-pohorje.si/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2071506,
+              46.5060061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10906076569",
+            "osm_type": "node",
+            "lat": 46.6085899,
+            "lon": 15.119518,
+            "addr:city": "Muta",
+            "addr:country": "SI",
+            "addr:housenumber": "49",
+            "addr:postcode": "2366",
+            "addr:street": "Gortina",
+            "name": "Glamping MM",
+            "tourism": "chalet",
+            "website": "https://www.booking.com/hotel/si/glamping"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.119518,
+              46.6085899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10906076578",
+            "osm_type": "node",
+            "lat": 46.6085278,
+            "lon": 15.1193152,
+            "addr:city": "Muta",
+            "addr:country": "SI",
+            "addr:housenumber": "49",
+            "addr:postcode": "2366",
+            "addr:street": "Gortina",
+            "name": "Glamping MM",
+            "tourism": "chalet",
+            "website": "https://www.booking.com/hotel/si/glamping"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1193152,
+              46.6085278
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10906078425",
+            "osm_type": "node",
+            "lat": 46.6133595,
+            "lon": 15.1087336,
+            "addr:city": "Muta",
+            "addr:country": "SI",
+            "addr:housenumber": "161",
+            "addr:postcode": "2366",
+            "addr:street": "Gortina",
+            "name": "Glamping hišice Orlič",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1087336,
+              46.6133595
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1321748923",
+            "osm_type": "node",
+            "lat": 46.5016398,
+            "lon": 14.5102265,
+            "designation": "Eisenkappeler Hütte",
+            "ele": "1555",
+            "name": "Eisenkappler Hütte / Kapelska koča",
+            "name:de": "Eisenkappler Hütte",
+            "name:sl": "Kapelska koča;Kapelška koča",
+            "source": "Local Knowledge",
+            "tourism": "alpine_hut",
+            "wikidata": "Q1313032",
+            "wikipedia": "de:Eisenkappler Hütte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5102265,
+              46.5016398
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1342611573",
+            "osm_type": "node",
+            "lat": 46.4517585,
+            "lon": 14.3874496,
+            "ele": "1280",
+            "name": "Koschutahaus / Koča pod Košuto",
+            "name:de": "Koschutahaus",
+            "name:sl": "Koča pod Košuto",
+            "operator": "Naturfreunde",
+            "shower": "yes",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3874496,
+              46.4517585
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1417312745",
+            "osm_type": "node",
+            "lat": 46.6182403,
+            "lon": 14.3126888,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "55",
+            "addr:street": "Bahnhofstraße",
+            "name": "ARAG Rechtschutzversicherung",
+            "office": "insurance",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3126888,
+              46.6182403
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1746568558",
+            "osm_type": "node",
+            "lat": 46.6613018,
+            "lon": 14.3560978,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "46",
+            "addr:postcode": "9020",
+            "addr:street": "Judendorfer Straße",
+            "amenity": "animal_shelter",
+            "animal_shelter": "dog;cat;rabbit",
+            "check": "yes",
+            "email": "office@tiko.or.at",
+            "name": "Tiko - das Tierschutzkompetenzzentrum Kärnten",
+            "opening_hours": "Tu-Fr 12:30-16:30; Sa 10:00-13:00",
+            "phone": "+43 463 43 5 41",
+            "website": "https://www.tiko.or.at/",
+            "wheelchair": "yes",
+            "wheelchair:description": "Stufenloser Zugang, Lift, Rollstuhlgerechtes WC, Rollstuhlgerechte Dusche für Mitarbeiter"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3560978,
+              46.6613018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2394736941",
+            "osm_type": "node",
+            "lat": 46.4578112,
+            "lon": 14.3877471,
+            "name": "Zell-Koschuta/Sele-Košuta",
+            "traffic_sign": "city_limit"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3877471,
+              46.4578112
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2939278322",
+            "osm_type": "node",
+            "lat": 46.4918089,
+            "lon": 14.5087552,
+            "ele": "1272",
+            "name": "Obiralm",
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5087552,
+              46.4918089
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5584570905",
+            "osm_type": "node",
+            "lat": 46.4519169,
+            "lon": 14.3871358,
+            "ele": "1282",
+            "man_made": "monitoring_station",
+            "monitoring:weather": "yes",
+            "name": "Koschutahaus / Koča pod Košuto",
+            "operator": "LWD Kärnten",
+            "website": "https://www.lawine.ktn.gv.at/264206_DE-"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3871358,
+              46.4519169
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5983519283",
+            "osm_type": "node",
+            "lat": 46.5369113,
+            "lon": 14.372278,
+            "contact": "Valentin Korenjak, Dobrowa 3, 9173 St. Margareten im Rosental",
+            "man_made": "watermill",
+            "name": "Hutlmühle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.372278,
+              46.5369113
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7020318113",
+            "osm_type": "node",
+            "lat": 46.6238068,
+            "lon": 14.3155315,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "20/1",
+            "addr:postcode": "9020",
+            "addr:street": "Kumpfgasse",
+            "alt_name": "Kinderschutzzentrum Klagenfurt;Kinderschutzzentrum DELFI",
+            "amenity": "social_facility",
+            "email": "kisz.klagenfurt@ktn.kinderfreunde.org",
+            "name": "Kinderschutzzentrum DELFI Klagenfurt",
+            "phone": "+43 463 56767",
+            "social_facility": "childrens_centre",
+            "social_facility:for": "child",
+            "website": "http://www.kisz-ktn.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3155315,
+              46.6238068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7072411861",
+            "osm_type": "node",
+            "lat": 46.6232199,
+            "lon": 14.3067212,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "5",
+            "addr:postcode": "9020",
+            "addr:street": "Benediktinerplatz",
+            "check_date": "2023-11-10",
+            "level": "1",
+            "name": "Mieterschutzverband Kärnten",
+            "office": "ngo",
+            "opening_hours": "Mo-Th 08:00-12:00; \"on telefonic arrangement\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3067212,
+              46.6232199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8018203328",
+            "osm_type": "node",
+            "lat": 46.526085,
+            "lon": 14.3021347,
+            "amenity": "veterinary",
+            "name": "Dr.med.vet. Cekoni-Hutter Beate",
+            "website": "https://www.tierarzt-ferlach.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3021347,
+              46.526085
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11256149766",
+            "osm_type": "node",
+            "lat": 46.612235,
+            "lon": 14.3175207,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:housenumber": "70",
+            "addr:postcode": "9020",
+            "addr:street": "Flatschacher Straße",
+            "government": "administrative",
+            "name": "Amt der Kärntner Landesregierung, Abteilung 8 - Umwelt, Naturschutz und Klimaschutzkoordination",
+            "office": "government",
+            "website": "https://www.ktn.gv.at/Verwaltung/Amt-der-Kaerntner-Landesregierung/Abteilung-8"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3175207,
+              46.612235
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11294940464",
+            "osm_type": "node",
+            "lat": 46.5292317,
+            "lon": 14.3120098,
+            "addr:city": "Ferlach",
+            "addr:country": "AT",
+            "addr:housenumber": "17",
+            "addr:postcode": "9170",
+            "addr:street": "Major-Trojer-Straße",
+            "craft": "stonemason",
+            "name": "Cekoni-Hutter Steinmetzmeister GmbH",
+            "phone": "++43 / 4227 2556",
+            "website": "http://www.cekoni.at/kontakt/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3120098,
+              46.5292317
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 13.345766,
+        "north": 47.033758500000005,
+        "east": 14.2994695
+      },
+      "poiCount": 36,
+      "leafCount": 36,
+      "averagePosition": [
+        13.728874308333333,
+        46.865020236111114
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "389785723",
+            "osm_type": "node",
+            "lat": 46.8901109,
+            "lon": 13.4663337,
+            "ele": "1800",
+            "massif": "Ankogelgruppe",
+            "name": "Bergfriedhütte",
+            "operator": "Sektion Spittal an der Drau",
+            "tourism": "alpine_hut",
+            "wikidata": "Q125258971"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4663337,
+              46.8901109
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "472639251",
+            "osm_type": "node",
+            "lat": 47.0302827,
+            "lon": 13.5251344,
+            "ele": "1865",
+            "name": "Lasörnhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5251344,
+              47.0302827
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1360238632",
+            "osm_type": "node",
+            "lat": 46.9761271,
+            "lon": 13.5113497,
+            "name": "Kramerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5113497,
+              46.9761271
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4659946341",
+            "osm_type": "node",
+            "lat": 47.0180714,
+            "lon": 13.3696879,
+            "access": "key",
+            "contact:email": "oeav-villach@aon.at",
+            "contact:phone": "+43 4242 28 95 84",
+            "contact:website": "www.alpenverein.at/villach",
+            "description:de": "16 Matratzenlager, ganzjährig geöffnet, Zugang mit Hüttenschlüssel des Österreichischen Alpenvereins",
+            "ele": "2194",
+            "massif": "Ankogelgruppe",
+            "name": "Villacher Hütte",
+            "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+            "operator": "Österreichischer Alpenverein, Sektion Villach",
+            "source": "Bergauf 01.2017",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3696879,
+              47.0180714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "472641454",
+            "osm_type": "node",
+            "lat": 47.0216698,
+            "lon": 13.6827363,
+            "addr:city": "Rennweg",
+            "addr:country": "AT",
+            "addr:housenumber": "20",
+            "addr:place": "Frankenberg",
+            "addr:postcode": "9863",
+            "ele": "1836",
+            "mobile": "+43 664 6317175;+43 664 2106630",
+            "name": "Laußnitzeralm",
+            "opening_hours": "Sa-Su",
+            "operator": "Michael Pirker & Barbara Ilg",
+            "tourism": "alpine_hut",
+            "website": "https://www.laussnitzer.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6827363,
+              47.0216698
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "477249041",
+            "osm_type": "node",
+            "lat": 46.8776422,
+            "lon": 13.7495211,
+            "cuisine": "regional",
+            "ele": "1938",
+            "name": "Erlacher Bockhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7495211,
+              46.8776422
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1739266382",
+            "osm_type": "node",
+            "lat": 46.8816869,
+            "lon": 13.8949845,
+            "internet_access": "no",
+            "name": "Obervostlhaus",
+            "phone": "+43 4275 7486",
+            "smoking": "no",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8949845,
+              46.8816869
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1809101111",
+            "osm_type": "node",
+            "lat": 46.920083,
+            "lon": 13.7842547,
+            "name": "Stangalm",
+            "note": "geologische Typlokalität für das Stangalm-Mesozoikum (Zentralalpin / Mittelostalpin)",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7842547,
+              46.920083
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1809101112",
+            "osm_type": "node",
+            "lat": 46.9204998,
+            "lon": 13.7790678,
+            "ele": "1715",
+            "name": "Tangernerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7790678,
+              46.9204998
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2537772970",
+            "osm_type": "node",
+            "lat": 46.9683971,
+            "lon": 13.546556,
+            "ele": "1700",
+            "name": "Wölflbauerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.546556,
+              46.9683971
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2878598920",
+            "osm_type": "node",
+            "lat": 46.9112994,
+            "lon": 14.0041038,
+            "access": "private",
+            "name": "Jurihütte",
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0041038,
+              46.9112994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3063751728",
+            "osm_type": "node",
+            "lat": 46.9612184,
+            "lon": 13.5417704,
+            "ele": "1649",
+            "name": "Frido-Kordon-Hütte",
+            "operator": "OeAV Sektion Gmünd",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5417704,
+              46.9612184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3495891035",
+            "osm_type": "node",
+            "lat": 47.028353,
+            "lon": 13.8345755,
+            "name": "Niggeialm",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8345755,
+              47.028353
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3803213523",
+            "osm_type": "node",
+            "lat": 46.9958653,
+            "lon": 13.693239,
+            "contact:email": "office@almzeit-auszeit.at",
+            "contact:mobile": "+43 650 3940600",
+            "contact:website": "http://www.almzeit-auszeit.at/obere-huette/",
+            "name": "Obere Sandrisser Hütte",
+            "old_name": "Erlacherhütte",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.693239,
+              46.9958653
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "260133307",
+            "osm_type": "node",
+            "lat": 46.7229985,
+            "lon": 13.4039732,
+            "ele": "1573",
+            "name": "Techendorfer Alm",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4039732,
+              46.7229985
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1418516156",
+            "osm_type": "node",
+            "lat": 46.8112289,
+            "lon": 13.5137885,
+            "name": "Strandschlössl",
+            "stars": "4",
+            "tourism": "chalet",
+            "website": "https://www.strandschloessl.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5137885,
+              46.8112289
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1804734002",
+            "osm_type": "node",
+            "lat": 46.8399319,
+            "lon": 13.5230325,
+            "addr:housenumber": "130",
+            "addr:postcode": "9871",
+            "addr:street": "Treffling",
+            "name": "Landhaus Schnitzer",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5230325,
+              46.8399319
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9997909650",
+            "osm_type": "node",
+            "lat": 46.7611514,
+            "lon": 13.4693472,
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4693472,
+              46.7611514
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "834394753",
+            "osm_type": "node",
+            "lat": 46.8708937,
+            "lon": 13.9920305,
+            "addr:housenumber": "1",
+            "addr:postcode": "9571",
+            "addr:street": "Stoichartweg",
+            "ele": "1578",
+            "email": "stoichart-huette@utanet.at",
+            "name": "Stoicharthütte",
+            "phone": "+43 (0)4279 7361",
+            "source:ele": "Laserscan",
+            "tourism": "alpine_hut",
+            "website": "www.stoichart-huette.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9920305,
+              46.8708937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "849780915",
+            "osm_type": "node",
+            "lat": 46.7569415,
+            "lon": 13.7327488,
+            "ele": "1600",
+            "name": "Melzerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7327488,
+              46.7569415
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "849781015",
+            "osm_type": "node",
+            "lat": 46.7692141,
+            "lon": 13.7074169,
+            "ele": "1795",
+            "name": "Hochalmhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7074169,
+              46.7692141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "895663517",
+            "osm_type": "node",
+            "lat": 46.8708629,
+            "lon": 13.7974615,
+            "access": "private",
+            "name": "Steinalmhütte",
+            "name:de": "Steinalmhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7974615,
+              46.8708629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1871503422",
+            "osm_type": "node",
+            "lat": 46.7868329,
+            "lon": 13.8166929,
+            "ele": "1915",
+            "name": "Rossalmhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8166929,
+              46.7868329
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325711984",
+            "osm_type": "node",
+            "lat": 46.8679048,
+            "lon": 13.985522,
+            "addr:city": "Hochrindl",
+            "addr:housenumber": "10",
+            "addr:postcode": "9571",
+            "addr:street": "Zirbenweg",
+            "ele": "1676",
+            "email": "zirbenhuette@a1.net",
+            "name": "Hiaslalm",
+            "phone": "+43 (0)664 4032556",
+            "source:ele": "Laserscan",
+            "tourism": "alpine_hut",
+            "website": "www.biohiasl.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.985522,
+              46.8679048
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2325719711",
+            "osm_type": "node",
+            "lat": 46.8575221,
+            "lon": 13.9684357,
+            "name": "Wugganighütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9684357,
+              46.8575221
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2432652089",
+            "osm_type": "node",
+            "lat": 46.7765495,
+            "lon": 13.8338544,
+            "access": "yes",
+            "addr:city": "Arriach",
+            "addr:housenumber": "18",
+            "addr:postcode": "9543",
+            "addr:street": "Oberwöllan",
+            "description": "Privates Bergrestaurant mit Übernachtungsmöglichkeit (nach Anmeldung). Zufahrt über Mautstraße möglich.",
+            "ele": "1960",
+            "email": "info@walderhuette.at",
+            "mobile": "+43 660 8165068",
+            "name": "Walderhütte",
+            "opening_hours": "Mo-Su 10:00-18:00",
+            "operator": "privat",
+            "phone": "+43 (0) 4247 30510",
+            "reservation": "recommended",
+            "tourism": "alpine_hut",
+            "website": "https://www.walderhuette.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8338544,
+              46.7765495
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2432690397",
+            "osm_type": "node",
+            "lat": 46.770352,
+            "lon": 13.8125627,
+            "addr:city": "Afritz",
+            "addr:postcode": "9542",
+            "addr:street": "Tassach",
+            "capacity": "40",
+            "ele": "1667",
+            "name": "Trangonihütte",
+            "opening_hours": "\"Juni bis Mitte November\"",
+            "operator": "TVN",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8125627,
+              46.770352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2447536598",
+            "osm_type": "node",
+            "lat": 46.8441514,
+            "lon": 13.7362028,
+            "name": "Winklerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7362028,
+              46.8441514
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2447543431",
+            "osm_type": "node",
+            "lat": 46.8508989,
+            "lon": 13.7280507,
+            "name": "Veidlhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7280507,
+              46.8508989
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3381662522",
+            "osm_type": "node",
+            "lat": 46.7809972,
+            "lon": 13.7949702,
+            "name": "Klamerhütte Sennerei",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7949702,
+              46.7809972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4198400396",
+            "osm_type": "node",
+            "lat": 46.8627713,
+            "lon": 13.830744,
+            "addr:housename": "Chalet Panorama",
+            "addr:housenumber": "166",
+            "addr:postcode": "9564",
+            "addr:street": "Falkertsee",
+            "air_conditioning": "no",
+            "building:levels": "2",
+            "check_date:internet_access": "2023-01-14",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Chalet Panorama",
+            "operator": "Harkort",
+            "phone": "+49 172 6106142",
+            "reservation": "recommended",
+            "smoking": "outside",
+            "tourism": "chalet",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.830744,
+              46.8627713
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4934699600",
+            "osm_type": "node",
+            "lat": 46.7465492,
+            "lon": 13.7435947,
+            "name": "Sauhauthütte",
+            "source": "basemap.at",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7435947,
+              46.7465492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7798001690",
+            "osm_type": "node",
+            "lat": 46.8129699,
+            "lon": 13.7743617,
+            "email": "office@hausamadee.at",
+            "name": "Amadee Appartements",
+            "phone": "+43 664 1315404",
+            "tourism": "chalet",
+            "website": "https://hausamadee.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7743617,
+              46.8129699
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11610944105",
+            "osm_type": "node",
+            "lat": 46.8609133,
+            "lon": 13.8296998,
+            "name": "Fitnessalm",
+            "tourism": "chalet",
+            "website": "https://fitnessalm.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8296998,
+              46.8609133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12944396089",
+            "osm_type": "node",
+            "lat": 46.7673759,
+            "lon": 13.6455463,
+            "addr:housenumber": "117",
+            "addr:street": "Glanzerstraße",
+            "air_conditioning": "yes",
+            "check_date": "2025-06-22",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Eco Lodges am Millstätter See",
+            "payment:cash": "no",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "reservation": "required",
+            "source": "survey",
+            "tourism": "chalet",
+            "website": "https://www.ecolodges-millstaettersee.com",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6455463,
+              46.7673759
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7375839485",
+            "osm_type": "node",
+            "lat": 46.7504102,
+            "lon": 14.2161233,
+            "name": "Veitsberg",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2161233,
+              46.7504102
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 14.2994695,
+        "north": 47.033758500000005,
+        "east": 15.253173
+      },
+      "poiCount": 17,
+      "leafCount": 17,
+      "averagePosition": [
+        14.791110805882354,
+        46.86061052941176
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "455249505",
+            "osm_type": "node",
+            "lat": 46.8106811,
+            "lon": 14.9668956,
+            "ele": "1790",
+            "name": "Großhöllerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9668956,
+              46.8106811
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1155018774",
+            "osm_type": "node",
+            "lat": 46.8389201,
+            "lon": 14.693055,
+            "cuisine": "regional",
+            "ele": "1551",
+            "name": "Zechhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.693055,
+              46.8389201
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1155101935",
+            "osm_type": "node",
+            "lat": 46.8416681,
+            "lon": 14.6762186,
+            "ele": "1668",
+            "name": "Offnerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6762186,
+              46.8416681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2086164207",
+            "osm_type": "node",
+            "lat": 46.8119986,
+            "lon": 14.6918756,
+            "cuisine": "pizza",
+            "name": "Lamminger Halt",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6918756,
+              46.8119986
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3027180001",
+            "osm_type": "node",
+            "lat": 46.7864307,
+            "lon": 14.9433209,
+            "ele": "1650",
+            "name": "Godinger Hütte",
+            "note": "Indefinitely closed",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9433209,
+              46.7864307
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3925578872",
+            "osm_type": "node",
+            "lat": 46.8317813,
+            "lon": 14.674689,
+            "ele": "1542",
+            "massif": "Lavanttaler Alpen",
+            "name": "Alpenrose",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.674689,
+              46.8317813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4356589706",
+            "osm_type": "node",
+            "lat": 46.7525358,
+            "lon": 14.8769636,
+            "email": "dachberghof@speed.at",
+            "name": "Dachberghof",
+            "operator": "Familie Plösch",
+            "phone": "+43 43552228",
+            "tourism": "chalet",
+            "website": "http://dachberghof.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8769636,
+              46.7525358
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5763349720",
+            "osm_type": "node",
+            "lat": 46.7866556,
+            "lon": 14.9428662,
+            "name": "Alpengasthaus Sonnhof",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9428662,
+              46.7866556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9779079006",
+            "osm_type": "node",
+            "lat": 46.7246345,
+            "lon": 15.0027553,
+            "addr:city": "Lavamünd",
+            "addr:country": "AT",
+            "addr:housenumber": "7/1",
+            "addr:postcode": "9473",
+            "addr:street": "Lamprechtsberg",
+            "name": "Gundisch",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0027553,
+              46.7246345
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10599106697",
+            "osm_type": "node",
+            "lat": 46.8396448,
+            "lon": 14.8412959,
+            "addr:city": "Wolfsberg",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "9400",
+            "addr:street": "Roßmarkt",
+            "amenity": "social_facility",
+            "email": "beratung.wolfsberg@ktn.kinderfreunde.org",
+            "name": "Kinderschutzzentrum DELFI Wolfsberg",
+            "phone": "+ 43 4352 30437",
+            "social_facility": "childrens_centre",
+            "social_facility:for": "child",
+            "source": "survey",
+            "website": "http://www.kisz-ktn.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8412959,
+              46.8396448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1423031202",
+            "osm_type": "node",
+            "lat": 46.7755711,
+            "lon": 15.0885189,
+            "name": "Schirchleralm",
+            "source": "survey",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0885189,
+              46.7755711
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2090263931",
+            "osm_type": "node",
+            "lat": 46.9603056,
+            "lon": 14.6917893,
+            "name": "Steinkellnerhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6917893,
+              46.9603056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2090264015",
+            "osm_type": "node",
+            "lat": 46.9610873,
+            "lon": 14.6943293,
+            "name": "Karner Hütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6943293,
+              46.9610873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2839958962",
+            "osm_type": "node",
+            "lat": 46.9954919,
+            "lon": 14.6242633,
+            "name": "Feldalmhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6242633,
+              46.9954919
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2839982071",
+            "osm_type": "node",
+            "lat": 47.0009545,
+            "lon": 14.5887281,
+            "name": "St. Martiner Hütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5887281,
+              47.0009545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5009451915",
+            "osm_type": "node",
+            "lat": 46.9455474,
+            "lon": 14.698455,
+            "name": "Schwarzkogelhütte",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.698455,
+              46.9455474
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5062075303",
+            "osm_type": "node",
+            "lat": 46.9664706,
+            "lon": 14.7528641,
+            "name": "Opas Waldluckn",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7528641,
+              46.9664706
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

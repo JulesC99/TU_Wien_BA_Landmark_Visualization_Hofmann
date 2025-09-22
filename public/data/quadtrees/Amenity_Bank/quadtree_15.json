@@ -1,0 +1,5790 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 218,
+  "leafCount": 0,
+  "averagePosition": [
+    16.12110285642202,
+    48.58995325688073
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 15.253173,
+        "north": 48.68652475,
+        "east": 16.2068765
+      },
+      "poiCount": 81,
+      "leafCount": 0,
+      "averagePosition": [
+        15.69857969382716,
+        48.504043264197534
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 15.253173,
+            "north": 48.521248125,
+            "east": 15.73002475
+          },
+          "poiCount": 35,
+          "leafCount": 35,
+          "averagePosition": [
+            15.56281108,
+            48.43660259428571
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1321460325",
+                "osm_type": "node",
+                "lat": 48.3629931,
+                "lon": 15.4152772,
+                "addr:city": "Spitz",
+                "addr:country": "AT",
+                "addr:housenumber": "22",
+                "addr:postcode": "3620",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Kremser Bank und Sparkassen AG",
+                "phone": "+43 50 1002 5614",
+                "website": "https://www.sparkasse.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4152772,
+                  48.3629931
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1800930788",
+                "osm_type": "node",
+                "lat": 48.3626296,
+                "lon": 15.4159694,
+                "addr:city": "Spitz",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "3620",
+                "addr:street": "Mittergasse",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date": "2023-08-29",
+                "name": "Volksbank Spitz",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "phone": "+43 2713 2425",
+                "website": "https://www.vbnoe.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4159694,
+                  48.3626296
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "289763183",
+                "osm_type": "node",
+                "lat": 48.4623966,
+                "lon": 15.3684543,
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3684543,
+                  48.4623966
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "296418233",
+                "osm_type": "node",
+                "lat": 48.4160892,
+                "lon": 15.3041342,
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Sparkasse Waldviertel-Mitte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3041342,
+                  48.4160892
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "420797513",
+                "osm_type": "node",
+                "lat": 48.4965884,
+                "lon": 15.3925129,
+                "addr:city": "Lichtenau im Waldviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "27",
+                "addr:place": "Lichtenau",
+                "addr:postcode": "3522",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Sparkasse Lichtenau"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3925129,
+                  48.4965884
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "474653587",
+                "osm_type": "node",
+                "lat": 48.497032,
+                "lon": 15.3919471,
+                "addr:city": "Lichtenau im Waldviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "8",
+                "addr:place": "Lichtenau",
+                "addr:postcode": "3522",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenkasse Lichtenau",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3919471,
+                  48.497032
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "697401375",
+                "osm_type": "node",
+                "lat": 48.5163073,
+                "lon": 15.4918629,
+                "addr:city": "Gföhl",
+                "addr:housenumber": "8",
+                "addr:postcode": "3542",
+                "addr:street": "Körnermarkt",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "check_date": "2025-05-30",
+                "contact:email": "info.32990@rb-32990.raiffeisen.at",
+                "fax": "+43 2716 6285 85",
+                "name": "Raiffeisenbank Gföhl",
+                "opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-17:00; PH off",
+                "operator": "Raiffeisenbank Region Waldviertel Mitte",
+                "phone": "+43 2716 6285 0",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4918629,
+                  48.5163073
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1119744937",
+                "osm_type": "node",
+                "lat": 48.5165021,
+                "lon": 15.4902536,
+                "addr:city": "Gföhl",
+                "addr:housenumber": "6",
+                "addr:postcode": "3542",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Waldviertler Sparkasse",
+                "opening_hours": "Mo-Th 07:45-12:00,13:15-16:00; Fr 07:45-12:00,13:15-17:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4902536,
+                  48.5165021
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1139930535",
+                "osm_type": "node",
+                "lat": 48.5169272,
+                "lon": 15.4899217,
+                "addr:city": "Gföhl",
+                "addr:housenumber": "10",
+                "addr:postcode": "3542",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date": "2025-05-30",
+                "name": "Volksbank",
+                "opening_hours": "Mo,Th 08:00-12:00; Fr 08:00-12:00,14:00-16:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4899217,
+                  48.5169272
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1321460328",
+                "osm_type": "node",
+                "lat": 48.3971237,
+                "lon": 15.4699493,
+                "addr:city": "Weißenkirchen in der Wachau",
+                "addr:country": "AT",
+                "addr:housenumber": "61",
+                "addr:postcode": "3610",
+                "addr:street": "Landstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date": "2023-08-29",
+                "name": "Kremser Bank und Sparkassen AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4699493,
+                  48.3971237
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1800908257",
+                "osm_type": "node",
+                "lat": 48.3967575,
+                "lon": 15.4690989,
+                "addr:city": "Weißenkirchen in der Wachau",
+                "addr:country": "AT",
+                "addr:housenumber": "341",
+                "addr:postcode": "3610",
+                "addr:street": "Rathausplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenbank Weißenkirchen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4690989,
+                  48.3967575
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "333626247",
+                "osm_type": "node",
+                "lat": 48.410209,
+                "lon": 15.6049439,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "5-7",
+                "addr:postcode": "3500",
+                "addr:street": "Ringstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Sparkasse",
+                "drive_through": "no",
+                "name": "Kremser Bank und Sparkassen AG",
+                "opening_hours": "Mo 08:00-12:30,14:00-16:00; Tu-Th 08:00-12:30; Fr 08:00-12:30,14:00-16:00",
+                "operator": "Kremser Bank und Sparkassen AG",
+                "phone": "+43 5 0100 - 25552",
+                "website": "https://www.sparkasse.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6049439,
+                  48.410209
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "366978916",
+                "osm_type": "node",
+                "lat": 48.4093614,
+                "lon": 15.615713,
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Kremser Bank und Sparkassen AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.615713,
+                  48.4093614
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "388507335",
+                "osm_type": "node",
+                "lat": 48.4647491,
+                "lon": 15.5729948,
+                "addr:city": "Droß",
+                "addr:country": "AT",
+                "addr:housenumber": "250",
+                "addr:postcode": "3552",
+                "addr:street": "Schloßstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenbank Droß"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5729948,
+                  48.4647491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "391999985",
+                "osm_type": "node",
+                "lat": 48.4128708,
+                "lon": 15.6159839,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "10a",
+                "addr:postcode": "3500",
+                "addr:street": "Mitterweg",
+                "amenity": "bank",
+                "atm": "yes",
+                "email": "kremskh@hyponoe.at",
+                "name": "Hypo",
+                "phone": "+43 5 90 910 5825",
+                "website": "https://www.hyponoe.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6159839,
+                  48.4128708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "415939151",
+                "osm_type": "node",
+                "lat": 48.4095316,
+                "lon": 15.6019145,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "5",
+                "addr:postcode": "3500",
+                "addr:street": "Gartenaugasse",
+                "amenity": "bank",
+                "atm": "yes",
+                "contact:email": "mail@vbnoe.at",
+                "contact:phone": "+43 2732 883 0",
+                "name": "Volksbank",
+                "opening_hours": "Mo,Tu,Th,Fr 08:00-12:00, Fr 14:00-16:00",
+                "website": "https://www.vbnoe.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6019145,
+                  48.4095316
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "415940300",
+                "osm_type": "node",
+                "lat": 48.4103573,
+                "lon": 15.5979815,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "19",
+                "addr:postcode": "3500",
+                "addr:street": "Obere Landstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Bank Austria",
+                "brand:wikidata": "Q697619",
+                "brand:wikipedia": "en:Bank Austria",
+                "check_date:opening_hours": "2022-12-22",
+                "name": "Bank Austria",
+                "opening_hours": "Mo-Fr 08:30-12:30; PH off",
+                "operator": "UniCredit Bank Austria AG",
+                "phone": "+43 50 505 370 40",
+                "website": "https://www.bankaustria.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5979815,
+                  48.4103573
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "443006265",
+                "osm_type": "node",
+                "lat": 48.4757018,
+                "lon": 15.6903772,
+                "addr:city": "Langenlois",
+                "addr:country": "AT",
+                "addr:housenumber": "90",
+                "addr:postcode": "3550",
+                "addr:street": "Bahnstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2023-04-15",
+                "atm": "yes",
+                "name": "Raiffeisenbank Haindorf",
+                "operator": "Raiffeisen",
+                "website": "https://www.raiffeisen.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6903772,
+                  48.4757018
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "457460622",
+                "osm_type": "node",
+                "lat": 48.4736667,
+                "lon": 15.6765468,
+                "addr:city": "Langenlois",
+                "addr:country": "AT",
+                "addr:housenumber": "2a",
+                "addr:postcode": "3550",
+                "addr:street": "Kornplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date": "2024-06-01",
+                "name": "Sparkasse Langenlois",
+                "operator": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6765468,
+                  48.4736667
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "467474402",
+                "osm_type": "node",
+                "lat": 48.4135628,
+                "lon": 15.63546,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "11",
+                "addr:postcode": "3500",
+                "addr:street": "Lerchenfelder Hauptplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date": "2023-09-03",
+                "name": "Kremser Bank und Sparkassen AG",
+                "phone": "+43 501 002 55 97",
+                "website": "https://www.sparkasse.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.63546,
+                  48.4135628
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "513064195",
+                "osm_type": "node",
+                "lat": 48.4099546,
+                "lon": 15.5985403,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "6",
+                "addr:postcode": "3500",
+                "addr:street": "Sparkassengasse",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Oberbank",
+                "brand:wikidata": "Q2009139",
+                "brand:wikipedia": "de:Oberbank",
+                "check_date:opening_hours": "2022-12-22",
+                "email": "kr@oberbank.at",
+                "name": "Oberbank",
+                "opening_hours": "Mo-Fr 09:00-12:00; PH off",
+                "operator": "Oberbank AG",
+                "phone": "+43 2732 735 96",
+                "website": "https://www.oberbank.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5985403,
+                  48.4099546
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1338205889",
+                "osm_type": "node",
+                "lat": 48.5174422,
+                "lon": 15.6975764,
+                "addr:city": "Schönberg am Kamp",
+                "addr:country": "AT",
+                "addr:housenumber": "16",
+                "addr:postcode": "3562",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "atm:opening_hours": "05:00-24:00",
+                "name": "Raika Schönberg",
+                "opening_hours": "Mo-Fr 08:00-12:00,14:00-16:00; We off; Th 08:00-12:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6975764,
+                  48.5174422
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1353731787",
+                "osm_type": "node",
+                "lat": 48.3953937,
+                "lon": 15.5776188,
+                "addr:city": "Mautern an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "3512",
+                "addr:street": "Austraße",
+                "alt_name": "Raiffeisenbank Krems Bankstelle Mautern",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "email": "info@raiffeisenbankkrems.at",
+                "name": "Raiffeisenbank",
+                "operator": "Raiffeisenbank Krems",
+                "phone": "+43 2732 9000-8170",
+                "website": "https://www.raiffeisenbankkrems.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5776188,
+                  48.3953937
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3846134026",
+                "osm_type": "node",
+                "lat": 48.3918686,
+                "lon": 15.5810686,
+                "addr:city": "Mautern an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "3512",
+                "addr:street": "Baumgartner Straße",
+                "addr:unit": "1",
+                "amenity": "bank",
+                "email": "info@kremserbank.at",
+                "name": "Kremser Bank",
+                "opening_hours": "Mo-Fr 08:00-12:30,14:00-15:30",
+                "operator": "Kremser Bank und Sparkassen AG",
+                "phone": "+43 50100-25588",
+                "website": "http://www.kremserbank.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5810686,
+                  48.3918686
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3932135588",
+                "osm_type": "node",
+                "lat": 48.4736154,
+                "lon": 15.6774316,
+                "addr:city": "Langenlois",
+                "addr:country": "AT",
+                "addr:housenumber": "9",
+                "addr:postcode": "3550",
+                "addr:street": "Kornplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "name": "Raiffeisenbank Langenlois",
+                "opening_hours": "Mo-Fr 08:00-12:00,14:00-16:00",
+                "operator": "Raiffeisen",
+                "source": "Bing"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6774316,
+                  48.4736154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4592844779",
+                "osm_type": "node",
+                "lat": 48.3742867,
+                "lon": 15.613177,
+                "addr:city": "Furth bei Göttweig",
+                "addr:country": "AT",
+                "addr:housenumber": "150",
+                "addr:postcode": "3511",
+                "addr:street": "Obere Landstraße",
+                "amenity": "bank",
+                "atm": "no",
+                "branch": "Furth bei Göttweig",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:email": "info@raiffeisenbankkrems.at",
+                "contact:phone": "+43 2732 9000 8190",
+                "name": "Raiffeisen",
+                "website": "https://www.raiffeisenbankkrems.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.613177,
+                  48.3742867
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5028872184",
+                "osm_type": "node",
+                "lat": 48.4105211,
+                "lon": 15.6009065,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "8",
+                "addr:postcode": "3500",
+                "addr:street": "Dreifaltigkeitsplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "check_date:opening_hours": "2024-04-28",
+                "name": "Raiffeisenbank Krems",
+                "opening_hours": "Mo,Fr 08:00-11:00,14:00-16:00; Tu-Th 08:00-11:00",
+                "operator": "Raiffeisen",
+                "phone": "+43 2732 90000",
+                "website": "https://www.raiffeisenbankkrems.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6009065,
+                  48.4105211
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5902168711",
+                "osm_type": "node",
+                "lat": 48.4216805,
+                "lon": 15.6572657,
+                "addr:city": "Rohrendorf bei Krems",
+                "addr:country": "AT",
+                "addr:housenumber": "15",
+                "addr:postcode": "3495",
+                "addr:street": "Bahnstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenbank Rohrendorf",
+                "phone": "+43 2732 9000 8040",
+                "website": "https://www.raiffeisenbankkrems.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6572657,
+                  48.4216805
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6661438929",
+                "osm_type": "node",
+                "lat": 48.4158523,
+                "lon": 15.6192072,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "86",
+                "addr:postcode": "3500",
+                "addr:street": "Wiener Straße",
+                "amenity": "bank",
+                "brand": "BAWAG PSK",
+                "brand:wikidata": "Q379938",
+                "brand:wikipedia": "en:BAWAG P.S.K.",
+                "check_date": "2024-10-18",
+                "drive_through": "no",
+                "name": "BAWAG PSK",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su,PH off",
+                "operator": "BAWAG PSK AG",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6192072,
+                  48.4158523
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601872285",
+                "osm_type": "node",
+                "lat": 48.4730783,
+                "lon": 15.676075,
+                "addr:city": "Langenlois",
+                "addr:country": "AT",
+                "addr:housenumber": "9",
+                "addr:postcode": "3550",
+                "addr:street": "Holzplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "check_date:opening_hours": "2021-09-25",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00,14:00-17:30; PH,Sa,Su off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.676075,
+                  48.4730783
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601872286",
+                "osm_type": "node",
+                "lat": 48.4088077,
+                "lon": 15.6018316,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "4-6",
+                "addr:postcode": "3500",
+                "addr:street": "Brandströmstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "brand:wikipedia": "de:Bank99",
+                "check_date:opening_hours": "2022-12-12",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6018316,
+                  48.4088077
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7803616254",
+                "osm_type": "node",
+                "lat": 48.4760165,
+                "lon": 15.6906623,
+                "amenity": "bank",
+                "name": "Sparkasse Haindorf",
+                "operator": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6906623,
+                  48.4760165
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9481309049",
+                "osm_type": "node",
+                "lat": 48.4091362,
+                "lon": 15.6009381,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "38c",
+                "addr:postcode": "3500",
+                "addr:street": "Ringstraße",
+                "amenity": "bank",
+                "brand": "Santander",
+                "brand:wikidata": "Q5835668",
+                "brand:wikipedia": "en:Santander Bank",
+                "contact:phone": "+43 50 203 3500",
+                "name": "Santander",
+                "opening_hours": "Mo-Fr 09:00-13:00, 14:00-17:00",
+                "operator": "Santander Consumer Bank GmbH",
+                "website": "https://www.santanderconsumer.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6009381,
+                  48.4091362
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11293287624",
+                "osm_type": "node",
+                "lat": 48.4106444,
+                "lon": 15.5987781,
+                "addr:city": "Krems an der Donau",
+                "addr:country": "AT",
+                "addr:housenumber": "13",
+                "addr:postcode": "3500",
+                "addr:street": "Obere Landstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Sparkasse",
+                "description": "Selbstbedienungsfiliale",
+                "name": "Sparkasse - SB-Filiale",
+                "opening_hours": "24/7",
+                "operator": "Kremser Bank und Sparkassen AG",
+                "phone": "+43 5 0100 25530",
+                "website": "https://www.sparkasse.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5987781,
+                  48.4106444
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11329560319",
+                "osm_type": "node",
+                "lat": 48.4714354,
+                "lon": 15.5960135,
+                "addr:city": "Lengenfeld",
+                "addr:country": "AT",
+                "addr:housenumber": "14",
+                "addr:postcode": "3552",
+                "addr:street": "Langenloiser Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenbank Lengenfeld",
+                "operator": "Raiffeisen",
+                "phone": "+43 2719 2439",
+                "website": "https://www.raiffeisen.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5960135,
+                  48.4714354
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 15.73002475,
+            "north": 48.521248125,
+            "east": 16.2068765
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            15.916157366666665,
+            48.44920022666667
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "775277233",
+                "osm_type": "node",
+                "lat": 48.3637523,
+                "lon": 16.0237315,
+                "amenity": "bank",
+                "atm": "no",
+                "bic": "RZBAATWWXXX",
+                "name": "Raiffeisenkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0237315,
+                  48.3637523
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "300091620",
+                "osm_type": "node",
+                "lat": 48.4232852,
+                "lon": 15.7391415,
+                "addr:city": "Haitzendorf",
+                "addr:country": "AT",
+                "addr:housenumber": "5",
+                "addr:postcode": "3485",
+                "addr:street": "Kirchenplatz",
+                "amenity": "bank",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:email": "office@rb-langenlois.at",
+                "contact:phone": "+43 2735 5707",
+                "name": "Raiffeisenbank",
+                "website": "https://www.rb-langenlois.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7391415,
+                  48.4232852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "307386031",
+                "osm_type": "node",
+                "lat": 48.4718587,
+                "lon": 15.9831416,
+                "addr:city": "Großweikersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "3",
+                "addr:postcode": "3701",
+                "addr:street": "Wiener Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q24282825",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "name": "Raiffeisenbank",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9831416,
+                  48.4718587
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1119808485",
+                "osm_type": "node",
+                "lat": 48.4347399,
+                "lon": 15.8981527,
+                "amenity": "bank",
+                "atm": "no",
+                "drive_through": "no",
+                "name": "Raiffeisenkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8981527,
+                  48.4347399
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1119808974",
+                "osm_type": "node",
+                "lat": 48.4350988,
+                "lon": 15.8977778,
+                "amenity": "bank",
+                "atm": "yes",
+                "drive_through": "no",
+                "name": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8977778,
+                  48.4350988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1178823463",
+                "osm_type": "node",
+                "lat": 48.509265,
+                "lon": 15.9419626,
+                "amenity": "bank",
+                "contact:email": "info.32982@rb-32982.raiffeisen.at",
+                "contact:phone": "+43 2956 2356",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9419626,
+                  48.509265
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2106866239",
+                "osm_type": "node",
+                "lat": 48.4394495,
+                "lon": 15.7871549,
+                "amenity": "bank",
+                "atm": "no",
+                "name": "Raiffeisenbank Krems"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7871549,
+                  48.4394495
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4235729976",
+                "osm_type": "node",
+                "lat": 48.4668946,
+                "lon": 15.9447947,
+                "addr:city": "Großweikersdorf",
+                "addr:housenumber": "97",
+                "addr:place": "Ruppersthal",
+                "addr:postcode": "3701",
+                "amenity": "bank",
+                "atm": "no",
+                "name": "Raiffeisenkasse",
+                "opening_hours": "Mo-Th 11:00-12:00; Fr 14:00-16:00",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9447947,
+                  48.4668946
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4320732599",
+                "osm_type": "node",
+                "lat": 48.5063802,
+                "lon": 15.8293758,
+                "addr2:city": "Hohenwarth-Mühlbach a.M.",
+                "addr2:conscriptionnumber": "67",
+                "addr2:country": "AT",
+                "addr2:place": "Hohenwarth",
+                "addr2:postcode": "3472",
+                "addr:city": "Hohenwarth",
+                "addr:country": "AT",
+                "addr:housenumber": "25",
+                "addr:postcode": "3472",
+                "addr:street": "Hauptstraße",
+                "alt_name": "Raiffeisenbank",
+                "amenity": "bank",
+                "name": "Raiffeisenkasse",
+                "operator": "Raiffeisenbank Langenlois",
+                "phone": "+43 2957 217"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8293758,
+                  48.5063802
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4936684611",
+                "osm_type": "node",
+                "lat": 48.5190255,
+                "lon": 15.7892682,
+                "amenity": "bank",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:email": "office@rb-langenlois.at",
+                "contact:phone": "+43 2957 308",
+                "name": "Raiffeisenbank",
+                "website": "https://www.rb-langenlois.at/eBusiness/01_template1/1021666497998-686747399984236683_686747518364272952-686747518364272952-NA-30-NA.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7892682,
+                  48.5190255
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601872287",
+                "osm_type": "node",
+                "lat": 48.4072566,
+                "lon": 15.7756551,
+                "addr:city": "Grafenwörth",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "3484",
+                "addr:street": "Mühlplatz",
+                "amenity": "bank",
+                "bic": "SPBAATWWXXX",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00, 13:30-16:30; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7756551,
+                  48.4072566
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8094776452",
+                "osm_type": "node",
+                "lat": 48.4450211,
+                "lon": 15.7414944,
+                "addr:city": "Etsdorf am Kamp",
+                "addr:country": "AT",
+                "addr:housenumber": "6",
+                "addr:postcode": "3492",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "no",
+                "name": "Sparkasse",
+                "phone": "+43 50 100 797 80",
+                "website": "https://www.sparkasse.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7414944,
+                  48.4450211
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "287881102",
+                "osm_type": "node",
+                "lat": 48.4937426,
+                "lon": 16.1188275,
+                "addr:city": "Göllersdorf",
+                "addr:housenumber": "49",
+                "addr:postcode": "2013",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "brand:wikipedia": "de:Erste Bank",
+                "drive_through": "no",
+                "name": "Erste Bank",
+                "opening_hours": "Mo, We 08:00-11:30; Fr 14:00-17:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1188275,
+                  48.4937426
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1908751895",
+                "osm_type": "node",
+                "lat": 48.4287692,
+                "lon": 16.1694044,
+                "addr:city": "Sierndorf",
+                "addr:housenumber": "1",
+                "addr:postcode": "2011",
+                "addr:street": "Raiffeisenplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "RLNWATWWSTO",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen",
+                "opening_hours": "Mo,We 08:00-12:30,14:00-16:00; Tu 08:00-12:30; Fr 08:00-12:30,14:00-17:30",
+                "operator": "Raiffeisenbank Stockerau",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1694044,
+                  48.4287692
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4773571377",
+                "osm_type": "node",
+                "lat": 48.3934642,
+                "lon": 16.1024778,
+                "addr:city": "Hausleiten",
+                "addr:country": "AT",
+                "addr:housenumber": "8",
+                "addr:postcode": "3464",
+                "addr:street": "F.-W.-Raiffeisen-Platz",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-10-01",
+                "atm": "yes",
+                "bic": "RLNWATW1002",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q24282825",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "contact:fax": "+43 5 9633 9999",
+                "contact:phone": "+43 5 9633 3500",
+                "contact:website": "www.rbrw.at",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo-Th 07:30-12:00,14:00-16:30; Fr 07:30-12:00,14:00-17:30; Sa,Su,PH off",
+                "operator": "Raiffeisenbank Region Wagram",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1024778,
+                  48.3934642
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 15.253173,
+            "north": 48.68652475,
+            "east": 15.73002475
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            15.525203333333334,
+            48.61784512
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "345535221",
+                "osm_type": "node",
+                "lat": 48.5740832,
+                "lon": 15.3303455,
+                "amenity": "bank",
+                "name": "Raiffeisenbank Region Waldviertel Mitte",
+                "operator": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3303455,
+                  48.5740832
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "466091166",
+                "osm_type": "node",
+                "lat": 48.5896888,
+                "lon": 15.4498798,
+                "amenity": "bank",
+                "atm": "yes",
+                "atmotorway": "yes",
+                "contact:phone": "+43 2731 8288",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo 08:30-11:00; We 08:30-11:00; Fr 08:30-11:00; PH off",
+                "operator": "Raiffeisenbank Region Waldviertel Mitte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4498798,
+                  48.5896888
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "513404855",
+                "osm_type": "node",
+                "lat": 48.5730034,
+                "lon": 15.3317144,
+                "addr:city": "Rastenfeld",
+                "addr:country": "AT",
+                "addr:housenumber": "68",
+                "addr:place": "Rastenfeld",
+                "addr:postcode": "3532",
+                "amenity": "bank",
+                "atm": "no",
+                "name": "Waldviertler Sparkasse Bank AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3317144,
+                  48.5730034
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5242809243",
+                "osm_type": "node",
+                "lat": 48.5893815,
+                "lon": 15.2710162,
+                "amenity": "bank",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo 15:00-17:00; We 13:30-15:30; Fr 08:00-10:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2710162,
+                  48.5893815
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7074813319",
+                "osm_type": "node",
+                "lat": 48.521981,
+                "lon": 15.2607351,
+                "addr:city": "Waldhausen",
+                "addr:country": "AT",
+                "addr:housenumber": "4",
+                "addr:place": "Waldhausen",
+                "addr:postcode": "3914",
+                "amenity": "bank",
+                "name": "Raiffeisenbank Waldviertel Mitte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2607351,
+                  48.521981
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7705023863",
+                "osm_type": "node",
+                "lat": 48.64333,
+                "lon": 15.4463565,
+                "amenity": "bank",
+                "name": "Waldviertler Sparkasse Bank AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4463565,
+                  48.64333
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1818978221",
+                "osm_type": "node",
+                "lat": 48.6639268,
+                "lon": 15.6570577,
+                "addr:city": "Horn",
+                "addr:country": "AT",
+                "addr:housenumber": "8",
+                "addr:postcode": "3580",
+                "addr:street": "Kirchenplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Bank Austria",
+                "brand:wikidata": "Q697619",
+                "brand:wikipedia": "en:Bank Austria",
+                "name": "Bank Austria",
+                "opening_hours": "Mo-Fr 08:00-12:30,13:30-16:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6570577,
+                  48.6639268
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1818978249",
+                "osm_type": "node",
+                "lat": 48.6637125,
+                "lon": 15.6576796,
+                "addr:city": "Horn",
+                "addr:country": "AT",
+                "addr:housenumber": "4",
+                "addr:postcode": "3580",
+                "addr:street": "Kirchenplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q24282825",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo-Fr 08:00-12:30, Mo-Th 13:30-16:00, Fr 13:30-17:00",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6576796,
+                  48.6637125
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2000338945",
+                "osm_type": "node",
+                "lat": 48.5982959,
+                "lon": 15.5458135,
+                "addr:city": "St. Leonhard am Hornerwald",
+                "addr:country": "AT",
+                "addr:housenumber": "130",
+                "addr:place": "St. Leonhard am Hornerwald",
+                "addr:postcode": "3572",
+                "amenity": "bank",
+                "contact:email": "info.32990@rbw4.at",
+                "contact:phone": "+43 2987 2221",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo-Fr 07:30-12:00,13:30-16:30;PH off"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5458135,
+                  48.5982959
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2109442348",
+                "osm_type": "node",
+                "lat": 48.663537,
+                "lon": 15.6560163,
+                "amenity": "bank",
+                "name": "Volksbank",
+                "opening_hours": "Mo-Fr 08:00-12:30,13:30-16:30",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6560163,
+                  48.663537
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2109451388",
+                "osm_type": "node",
+                "lat": 48.664122,
+                "lon": 15.6579265,
+                "amenity": "bank",
+                "name": "Sparkasse",
+                "opening_hours": "Mo,Tu,Th,Fr 08:00-16:00, We 08:00-15:00",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6579265,
+                  48.664122
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2125435199",
+                "osm_type": "node",
+                "lat": 48.6671279,
+                "lon": 15.6365488,
+                "amenity": "bank",
+                "brand": "Steiermärkische Sparkasse",
+                "brand:wikidata": "Q1555572",
+                "name": "Steiermärkische Sparkasse",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6365488,
+                  48.6671279
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3821638892",
+                "osm_type": "node",
+                "lat": 48.6627372,
+                "lon": 15.6556231,
+                "addr:city": "Horn",
+                "addr:housenumber": "5",
+                "addr:postcode": "3580",
+                "addr:street": "Prager Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6556231,
+                  48.6627372
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4259452408",
+                "osm_type": "node",
+                "lat": 48.5967333,
+                "lon": 15.6601494,
+                "addr:city": "Gars am Kamp",
+                "addr:country": "AT",
+                "addr:housenumber": "4",
+                "addr:postcode": "3571",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "at_bev:addr_date": "2016-10-02",
+                "atm": "yes",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6601494,
+                  48.5967333
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4259452409",
+                "osm_type": "node",
+                "lat": 48.5960163,
+                "lon": 15.6611876,
+                "addr:city": "Gars am Kamp",
+                "addr:country": "AT",
+                "addr:housenumber": "649",
+                "addr:postcode": "3571",
+                "addr:street": "Kremserstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2018-10-01",
+                "atm": "yes",
+                "name": "Sparkasse – Geschäftsstelle Gars",
+                "operator": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6611876,
+                  48.5960163
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 15.73002475,
+            "north": 48.68652475,
+            "east": 16.2068765
+          },
+          "poiCount": 16,
+          "leafCount": 16,
+          "averagePosition": [
+            15.95413480625,
+            48.5962958375
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292462005",
+                "osm_type": "node",
+                "lat": 48.6431852,
+                "lon": 15.817191,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo-Su,PH 00:00-24:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.817191,
+                  48.6431852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1272282524",
+                "osm_type": "node",
+                "lat": 48.5709816,
+                "lon": 15.8258881,
+                "amenity": "bank",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q24282825",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8258881,
+                  48.5709816
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1272282529",
+                "osm_type": "node",
+                "lat": 48.5717516,
+                "lon": 15.8319371,
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Sparkasse Maissau"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8319371,
+                  48.5717516
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1429325359",
+                "osm_type": "node",
+                "lat": 48.6428611,
+                "lon": 15.8174546,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "name": "Erste bank",
+                "opening_hours": "Mo-Su,PH 00:00-18:00+"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8174546,
+                  48.6428611
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1429325364",
+                "osm_type": "node",
+                "lat": 48.6428988,
+                "lon": 15.8164635,
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Volksbank",
+                "opening_hours": "Mo-Su,PH 00:00-24:00",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8164635,
+                  48.6428988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1898323627",
+                "osm_type": "node",
+                "lat": 48.6862035,
+                "lon": 15.7471713,
+                "addr:city": "Sigmundsherberg",
+                "addr:country": "AT",
+                "addr:housenumber": "24a",
+                "addr:postcode": "3751",
+                "addr:street": "Hauptstraße",
+                "addr:suburb": "Sigmundsherberg",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-10-01",
+                "name": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7471713,
+                  48.6862035
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2539403145",
+                "osm_type": "node",
+                "lat": 48.5514539,
+                "lon": 15.8495332,
+                "addr:city": "Ravelsbach",
+                "addr:housenumber": "3",
+                "addr:postcode": "3720",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenkasse Ziersdorf, Bankstelle Ravelsbach",
+                "opening_hours": "Mo 08:00-12:00,13:15-16:00, Tu-Th 08:00-12:00, Fr 08:00-12:00,13:15-17:30",
+                "phone": "+43 (2958) 83427",
+                "source": "http://ziersdorf.meineraika.at/",
+                "website": "http://ziersdorf.meineraika.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8495332,
+                  48.5514539
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6638350894",
+                "osm_type": "node",
+                "lat": 48.5939009,
+                "lon": 15.8896682,
+                "addr:city": "Niederschleinz",
+                "addr:country": "AT",
+                "addr:housenumber": "7",
+                "addr:postcode": "3714",
+                "addr:street": "Dorfstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2022-10-02",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q24282825",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "contact:phone": "+43 2959 2367",
+                "name": "Raiffeisenbank",
+                "operator": "Raiffeisenbank Eggenburg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8896682,
+                  48.5939009
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "249502701",
+                "osm_type": "node",
+                "lat": 48.5659709,
+                "lon": 16.0800201,
+                "addr:housenumber": "12",
+                "addr:postcode": "2020",
+                "addr:street": "Lothringerplatz",
+                "amenity": "bank",
+                "name": "Hypo Bank",
+                "operator": "Hypo Bank",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0800201,
+                  48.5659709
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "249502705",
+                "osm_type": "node",
+                "lat": 48.5653413,
+                "lon": 16.0799967,
+                "addr:city": "Hollabrunn",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:place": "Raiffeisenplatz",
+                "addr:postcode": "2020",
+                "amenity": "bank",
+                "name": "Raika Raiffeisenbank",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0799967,
+                  48.5653413
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "392284935",
+                "osm_type": "node",
+                "lat": 48.5630575,
+                "lon": 16.0787809,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "brand:wikipedia": "de:Erste Bank",
+                "name": "Erste Bank",
+                "opening_hours": "Mo-Fr 09:00-12:00; Mo, Tu, Th, Fr 13:00-15:00",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0787809,
+                  48.5630575
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1163312732",
+                "osm_type": "node",
+                "lat": 48.5623837,
+                "lon": 16.0781281,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Volksbank",
+                "brand:wikidata": "Q695110",
+                "brand:wikipedia": "en:Volksbank",
+                "name": "Volksbank",
+                "operator": "Volksbank",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0781281,
+                  48.5623837
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1271988829",
+                "osm_type": "node",
+                "lat": 48.6261843,
+                "lon": 16.0985161,
+                "addr:city": "Wullersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "166",
+                "addr:postcode": "2041",
+                "addr:street": "Bahnstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-04-07",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0985161,
+                  48.6261843
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1271988831",
+                "osm_type": "node",
+                "lat": 48.626772,
+                "lon": 16.1021928,
+                "addr:city": "Wullersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "206",
+                "addr:postcode": "2041",
+                "addr:street": "Abt Karl-Straße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-04-07",
+                "atm": "yes",
+                "name": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1021928,
+                  48.626772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2191002238",
+                "osm_type": "node",
+                "lat": 48.5647296,
+                "lon": 16.0797303,
+                "addr:housenumber": "24",
+                "addr:postcode": "2020",
+                "addr:street": "Sparkassegasse",
+                "amenity": "bank",
+                "atm": "no",
+                "brand": "Bank Austria",
+                "brand:wikidata": "Q697619",
+                "brand:wikipedia": "en:Bank Austria",
+                "name": "Bank Austria",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0797303,
+                  48.5647296
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601869781",
+                "osm_type": "node",
+                "lat": 48.5630575,
+                "lon": 16.0734849,
+                "addr:city": "Hollabrunn",
+                "addr:country": "AT",
+                "addr:housenumber": "9",
+                "addr:postcode": "2020",
+                "addr:street": "Bahnhofplatz",
+                "amenity": "bank",
+                "at_bev:addr_date": "2023-04-15",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0734849,
+                  48.5630575
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 16.2068765,
+        "north": 48.68652475,
+        "east": 17.16058
+      },
+      "poiCount": 66,
+      "leafCount": 0,
+      "averagePosition": [
+        16.604630450000002,
+        48.47509442121213
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 16.2068765,
+            "north": 48.521248125,
+            "east": 16.68372825
+          },
+          "poiCount": 28,
+          "leafCount": 28,
+          "averagePosition": [
+            16.423028989285715,
+            48.401527803571426
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "77519960",
+                "osm_type": "node",
+                "lat": 48.3621342,
+                "lon": 16.4682005,
+                "amenity": "bank",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4682005,
+                  48.3621342
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "243506463",
+                "osm_type": "node",
+                "lat": 48.3661711,
+                "lon": 16.3834205,
+                "addr:city": "Stetten",
+                "addr:housenumber": "6",
+                "addr:street": "Wiener Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "contact:phone": "+43 (0)5 0100 - 43460",
+                "name": "Sparkasse Stetten"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3834205,
+                  48.3661711
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "304205441",
+                "osm_type": "node",
+                "lat": 48.3602659,
+                "lon": 16.4292735,
+                "addr:city": "Enzersfeld im Weinviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "36",
+                "addr:postcode": "2202",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2023-10-01",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "drive_through": "no",
+                "name": "Raiffeisenbank Automaten",
+                "operator": "Raiffeisenbank Korneuburg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4292735,
+                  48.3602659
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "330537177",
+                "osm_type": "node",
+                "lat": 48.3573184,
+                "lon": 16.5725427,
+                "addr:city": "Großengersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "108",
+                "addr:postcode": "2212",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-04-07",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5725427,
+                  48.3573184
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "452904751",
+                "osm_type": "node",
+                "lat": 48.3603883,
+                "lon": 16.6015177,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6015177,
+                  48.3603883
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "243865591",
+                "osm_type": "node",
+                "lat": 48.4197688,
+                "lon": 16.4770013,
+                "addr:city": "Schleinbach",
+                "addr:country": "AT",
+                "addr:housenumber": "4",
+                "addr:postcode": "2123",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank",
+                "source": "http://www.raiffeisen.at/eBusiness/rai_template1_post/1006637000974-NA-1004031-NA-1-NA.html?options=16325"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4770013,
+                  48.4197688
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "279089248",
+                "osm_type": "node",
+                "lat": 48.3848049,
+                "lon": 16.5156764,
+                "addr:city": "Wolkersdorf im Weinviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "2120",
+                "addr:street": "Julius Bittner-Platz",
+                "amenity": "bank",
+                "atm": "yes",
+                "contact:phone": "+43 2245 2251",
+                "name": "Volksbank",
+                "operator": "Volksbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5156764,
+                  48.3848049
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "411082437",
+                "osm_type": "node",
+                "lat": 48.4467763,
+                "lon": 16.5261083,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "description": "Bankstelle Hochleithen",
+                "name": "Raika",
+                "opening_hours": "Mo, Th 08:00-11:30; Fr 14:00-17:00",
+                "phone": "+43 2245 89230"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5261083,
+                  48.4467763
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1116507802",
+                "osm_type": "node",
+                "lat": 48.3858723,
+                "lon": 16.2099717,
+                "addr:city": "Stockerau",
+                "addr:country": "AT",
+                "addr:housenumber": "3a",
+                "addr:postcode": "2000",
+                "addr:street": "Schießstattgasse",
+                "amenity": "bank",
+                "bic": "OBKLAT2LXXX",
+                "operator": "Oberbank AG",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2099717,
+                  48.3858723
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1116507803",
+                "osm_type": "node",
+                "lat": 48.3852137,
+                "lon": 16.2089694,
+                "addr:city": "Stockerau",
+                "addr:country": "AT",
+                "addr:housenumber": "7",
+                "addr:postcode": "2000",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "VBOEATWW",
+                "contact:email": "mail@vbnoe.at",
+                "contact:fax": "+43 50 440 719",
+                "contact:phone": "+43 50 440",
+                "contact:website": "www.vbnoe.at",
+                "name": "Volksbank",
+                "opening_hours": "Mo-We 08:00-12:30,13:30-15:00; Th 08:00-12:30; Fr 08:00-12:30,13:30-17:30",
+                "operator": "Volksbank Niederösterreich AG",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2089694,
+                  48.3852137
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1116507806",
+                "osm_type": "node",
+                "lat": 48.3848385,
+                "lon": 16.2069829,
+                "addr:city": "Stockerau",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "2000",
+                "addr:street": "Rathausplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "brand:wikipedia": "cs:Raiffeisenbank",
+                "contact:phone": "+43 2266 62501",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo-Fr 08:00-12:30, Mo-We,Fr 14:00-16:00, Th 14:00-17:30",
+                "operator": "Raiffeisenbank Stockerau eGen",
+                "website": "https://www.raiffeisen.at/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2069829,
+                  48.3848385
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1400124908",
+                "osm_type": "node",
+                "lat": 48.3772216,
+                "lon": 16.3219538,
+                "addr:city": "Leobendorf",
+                "addr:country": "AT",
+                "addr:housenumber": "8-10",
+                "addr:postcode": "2100",
+                "addr:street": "Stockerauer Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisenbank",
+                "brand:wikidata": "Q2127615",
+                "brand:wikipedia": "de:Raiffeisenlandesbank Niederösterreich-Wien",
+                "name": "Raiffeisenbank Leobendorf",
+                "opening_hours": "Mo 07:30-12:30,14:00-17:30; Tu-Th 07:30-12:30; Fr 07:30-12:30,14:00-17:30; Sa,Su,PH off",
+                "operator": "Raiffeisenbank Kreuzenstein eGen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3219538,
+                  48.3772216
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1469249633",
+                "osm_type": "node",
+                "lat": 48.3829804,
+                "lon": 16.5186633,
+                "addr:city": "Wolkersdorf im Weinviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "45",
+                "addr:postcode": "2120",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "brand:wikipedia": "de:Erste Bank",
+                "name": "Erste Bank",
+                "opening_hours": "Mo-Fr 09:00-12:00, Mo-We,Fr 13:00-15:00",
+                "operator": "Erste Bank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5186633,
+                  48.3829804
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1710521141",
+                "osm_type": "node",
+                "lat": 48.4744332,
+                "lon": 16.4186646,
+                "addr:city": "Großrußbach",
+                "addr:housenumber": "5",
+                "addr:postcode": "2114",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "contact:phone": "+43 2263 6630",
+                "name": "Raiffeisenbank Großrußbach"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4186646,
+                  48.4744332
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2553994185",
+                "osm_type": "node",
+                "lat": 48.3911903,
+                "lon": 16.3718934,
+                "amenity": "bank",
+                "name": "Raiffeisenbank Kreuzenstein - Filiale Rückersdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3718934,
+                  48.3911903
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5032161290",
+                "osm_type": "node",
+                "lat": 48.3849569,
+                "lon": 16.2074858,
+                "addr:city": "Stockerau",
+                "addr:country": "AT",
+                "addr:housenumber": "4",
+                "addr:postcode": "2000",
+                "addr:street": "Rathausplatz",
+                "amenity": "bank",
+                "brand": "BAWAG PSK",
+                "brand:wikidata": "Q379938",
+                "brand:wikipedia": "en:BAWAG P.S.K.",
+                "check_date:opening_hours": "2021-04-12",
+                "drive_through": "no",
+                "name": "BAWAG PSK",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su,PH off",
+                "operator": "BAWAG PSK AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2074858,
+                  48.3849569
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5057222612",
+                "osm_type": "node",
+                "lat": 48.3857337,
+                "lon": 16.2146535,
+                "addr:city": "Stockerau",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "2000",
+                "addr:street": "Sparkassaplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Bank Austria",
+                "brand:wikidata": "Q697619",
+                "brand:wikipedia": "en:Bank Austria",
+                "contact:fax": "+43 50505 36250",
+                "contact:phone": "+43 50505 36200",
+                "contact:website": "www.bankaustria.at",
+                "name": "Bank Austria",
+                "opening_hours": "Mo-Fr 08:30-15:00",
+                "operator": "UniCredit Bank Austria AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2146535,
+                  48.3857337
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5338897222",
+                "osm_type": "node",
+                "lat": 48.4487039,
+                "lon": 16.2996987,
+                "addr:city": "Niederhollabrunn",
+                "addr:housenumber": "1",
+                "addr:postcode": "2004",
+                "addr:street": "Amtsweg",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:phone": "+43 2266 62501-810",
+                "contact:website": "stockerau.meineraika.at",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo,Fr 08:00-12:00; We 08:00-12:00,13:00-19:00; Tu,Th,Sa,Su,PH off",
+                "operator": "Raiffeisenbank Stockerau eGen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2996987,
+                  48.4487039
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6425771221",
+                "osm_type": "node",
+                "lat": 48.4212008,
+                "lon": 16.2469192,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2469192,
+                  48.4212008
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7100152765",
+                "osm_type": "node",
+                "lat": 48.3774492,
+                "lon": 16.3228334,
+                "addr:city": "Leobendorf",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "2100",
+                "addr:street": "Hauptstraße",
+                "addr:unit": "1",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Sparkasse",
+                "name": "Sparkasse Leobendorf",
+                "opening_hours": "Mo-We 08:00-12:30,13:30-15:30; Th 08:00-12:30; Fr 08:00-12:30,13:30-17:30; Sa,Su,PH off",
+                "operator": "Sparkasse Korneuburg AG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3228334,
+                  48.3774492
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7602888904",
+                "osm_type": "node",
+                "lat": 48.3841346,
+                "lon": 16.2121134,
+                "addr:city": "Stockerau",
+                "addr:housenumber": "7",
+                "addr:postcode": "2000",
+                "addr:street": "Kochplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "SPBAATWW",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2121134,
+                  48.3841346
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7602888905",
+                "osm_type": "node",
+                "lat": 48.3838004,
+                "lon": 16.5140317,
+                "addr:city": "Wolkersdorf im Weinviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "10",
+                "addr:postcode": "2120",
+                "addr:street": "Wiener Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5140317,
+                  48.3838004
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9574639589",
+                "osm_type": "node",
+                "lat": 48.3836475,
+                "lon": 16.5143502,
+                "addr:city": "Wolkersdorf im Weinviertel",
+                "addr:country": "AT",
+                "addr:housenumber": "5",
+                "addr:postcode": "2120",
+                "addr:street": "Wiener Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Oberbank Wolkersdorf",
+                "website": "https://www.oberbank.at/filialdetail/wolkersdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5143502,
+                  48.3836475
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "298175761",
+                "osm_type": "node",
+                "lat": 48.4770009,
+                "lon": 16.5906211,
+                "amenity": "bank",
+                "bic": "VBOEATWWXXX",
+                "brand": "Volksbank",
+                "brand:wikidata": "Q695110",
+                "brand:wikipedia": "de:Volksbank Gruppe",
+                "name": "Volksbank",
+                "opening_hours": "Mo-Fr 08:00-12:00",
+                "operator": "Volksbank",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5906211,
+                  48.4770009
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "452905413",
+                "osm_type": "node",
+                "lat": 48.4559696,
+                "lon": 16.5963076,
+                "addr:city": "Bad Pirawarth",
+                "addr:country": "AT",
+                "addr:housenumber": "30",
+                "addr:postcode": "2222",
+                "addr:street": "Obere Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "drive_through": "no",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo 08:00-12:00,13:30-16:00, We 08:00-12:00, Fr 08:00-12:00,13:30-16:00, Tu,Th,Sa,Su,PH closed",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5963076,
+                  48.4559696
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "751841164",
+                "osm_type": "node",
+                "lat": 48.5117402,
+                "lon": 16.6210405,
+                "amenity": "bank",
+                "atm": "no",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6210405,
+                  48.5117402
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7602888906",
+                "osm_type": "node",
+                "lat": 48.3735325,
+                "lon": 16.6385348,
+                "addr:city": "Auersthal",
+                "addr:country": "AT",
+                "addr:housename": "Post",
+                "addr:housenumber": "99",
+                "addr:postcode": "2214",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6385348,
+                  48.3735325
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13057534787",
+                "osm_type": "node",
+                "lat": 48.4155304,
+                "lon": 16.6353818,
+                "addr:city": "Groß-Schweinbarth",
+                "addr:housenumber": "3",
+                "addr:postcode": "2221",
+                "addr:street": "Bahnstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "email": "info@rbwau.at",
+                "name": "Raiffeisenbank Groß-Schweinbarth",
+                "opening_hours": "mon-wed 8:00 - 12:00 & 13:00 - 16:00, thu 8:00 - 12:00, fri 8:00 12:00 & 13:00 - 17:00",
+                "phone": "+43 2289 2398",
+                "website": "https://www.raiffeisen.at/noew/wolkersdorf-auersthal/website/de/meine-bank/bankstellen/gross-schweinbarth.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6353818,
+                  48.4155304
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 16.68372825,
+            "north": 48.521248125,
+            "east": 17.16058
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            16.896932720000002,
+            48.42562932
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3931174427",
+                "osm_type": "node",
+                "lat": 48.3662227,
+                "lon": 16.6969841,
+                "addr:city": "Schönkirchen-Reyersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "2241",
+                "addr:street": "Schulstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "RLNWATWWGAE",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:email": "info.32092@rrbg.at",
+                "contact:phone": "+43 2282 8338",
+                "contact:website": "http://www.rrb-gaenserndorf.at/",
+                "drive_through": "no",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo 08:00-12:00; Fr 08:00-12:00; PH,Tu-Th,Sa,Su off",
+                "operator": "Raiffeisen-Regionalbank Gänserndorf",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6969841,
+                  48.3662227
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11652279329",
+                "osm_type": "node",
+                "lat": 48.3648962,
+                "lon": 16.6989653,
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "RLNWATWWGAE",
+                "brand": "Raiffeisen-Regionalbank Gänserndorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6989653,
+                  48.3648962
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "516498735",
+                "osm_type": "node",
+                "lat": 48.3798063,
+                "lon": 16.8285406,
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "RZBAATWWXXX",
+                "name": "Raiffeisenkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8285406,
+                  48.3798063
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "662220135",
+                "osm_type": "node",
+                "lat": 48.4345927,
+                "lon": 17.021842,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "ČSOB",
+                "brand:wikidata": "Q340135",
+                "brand:wikipedia": "en:Československá obchodní banka",
+                "check_date": "2025-03-23",
+                "name": "ČSOB",
+                "opening_hours": "Mo-Fr 08:30-11:45,12:30-16:30",
+                "opening_hours:atm": "24/7",
+                "operator": "ČSOB",
+                "phone": "+421 850 111 777",
+                "website": "https://www.csob.sk/",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.021842,
+                  48.4345927
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "662220164",
+                "osm_type": "node",
+                "lat": 48.4362731,
+                "lon": 17.0194857,
+                "amenity": "bank",
+                "brand": "Slovenská sporiteľňa",
+                "brand:wikidata": "Q7541907",
+                "brand:wikipedia": "en:Slovenská sporiteľňa",
+                "name": "Slovenská sporiteľňa",
+                "opening_hours": "Mo-Fr 09:00-13:00,14:00-17:00",
+                "operator": "Slovenská sporiteľňa",
+                "phone": "+421 25 826 8670",
+                "website": "https://www.slsp.sk/sk/ludia",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0194857,
+                  48.4362731
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "662220166",
+                "osm_type": "node",
+                "lat": 48.4361499,
+                "lon": 17.0199314,
+                "amenity": "bank",
+                "brand": "Prima banka",
+                "brand:wikidata": "Q13538661",
+                "brand:wikipedia": "sk:Prima banka Slovensko",
+                "name": "Prima banka",
+                "opening_hours": "Mo-Fr 09:00-12:00,13:00-17:00",
+                "operator": "Prima banka, a.s.",
+                "phone": "+421 41 511 1111",
+                "website": "https://www.primabanka.sk/",
+                "wheelchair": "no;2 steps"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0199314,
+                  48.4361499
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "839825732",
+                "osm_type": "node",
+                "lat": 48.4383541,
+                "lon": 17.0163586,
+                "amenity": "bank",
+                "brand": "UniCredit Bank",
+                "brand:wikidata": "Q45568",
+                "brand:wikipedia": "en:UniCredit",
+                "check_date": "2022-03-06",
+                "level": "0",
+                "name": "UniCredit Bank",
+                "opening_hours": "Mo,Tu,Th 08:00-12:45,13:30-16:00; We 08:00-12:45,13:30-17:00; Fr 08:00-12:45,13:30-15:00",
+                "opening_hours:atm": "24/7",
+                "operator": "UniCredit Bank",
+                "phone": "+421 34 7979 211 - 3",
+                "website": "https://www.unicreditbank.sk/sk/obcania.html",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0163586,
+                  48.4383541
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1067391390",
+                "osm_type": "node",
+                "lat": 48.4721489,
+                "lon": 16.8526032,
+                "addr:city": "Dürnkrut",
+                "addr:country": "AT",
+                "addr:housenumber": "43",
+                "addr:postcode": "2263",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "description": "Filiale Dürnkrut",
+                "name": "Raiffeisenkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8526032,
+                  48.4721489
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3071405838",
+                "osm_type": "node",
+                "lat": 48.4377396,
+                "lon": 16.7890558,
+                "addr:city": "Ebenthal",
+                "addr:country": "AT",
+                "addr:housenumber": "58",
+                "addr:postcode": "2251",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "at_bev:addr_date": "2018-10-01",
+                "atm": "yes",
+                "bic": "RLNWATWWZDF",
+                "brand": "Raiffeisenkasse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Raiffeisenkasse Ebenthal",
+                "operator": "Raiffeisenkasse Zistersdorf-Dürnkrut",
+                "phone": "+432538 85548"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7890558,
+                  48.4377396
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3212714622",
+                "osm_type": "node",
+                "lat": 48.4378001,
+                "lon": 17.0191437,
+                "amenity": "bank",
+                "brand": "Raiffeisen banka",
+                "brand:wikidata": "Q107986402",
+                "level": "0",
+                "name": "Raiffeisen banka",
+                "opening_hours": "Mo-Fr 08:30-12:00,13:00-16:30",
+                "phone": "+421 25 050 5525",
+                "website": "https://www.raiffeisen.sk/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0191437,
+                  48.4378001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3212714623",
+                "osm_type": "node",
+                "lat": 48.4376614,
+                "lon": 17.0188877,
+                "amenity": "bank",
+                "brand": "Tatra banka",
+                "brand:wikidata": "Q1718069",
+                "brand:wikipedia": "en:Tatra banka",
+                "level": "0",
+                "name": "Tatra banka",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "operator": "Tatra banka, a.s.",
+                "phone": "+421 800 001 100",
+                "website": "https://www.tatrabanka.sk/sk/personal/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0188877,
+                  48.4376614
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3212896423",
+                "osm_type": "node",
+                "lat": 48.4380114,
+                "lon": 17.0162563,
+                "amenity": "bank",
+                "brand": "Všeobecná úverová banka",
+                "brand:facebook": "https://www.facebook.com/vub.banka",
+                "brand:instagram": "https://www.instagram.com/vub.banka",
+                "brand:short": "VÚB",
+                "brand:website": "https://www.vub.sk/ludia",
+                "brand:wikidata": "Q12778981",
+                "brand:wikipedia": "sk:Všeobecná úverová banka",
+                "check_date": "2022-03-06",
+                "internet_access": "wlan",
+                "internet_access:fee": "customers",
+                "level": "0",
+                "name": "Všeobecná úverová banka",
+                "opening_hours": "Mo-Fr 09:00-17:00; PH off",
+                "operator": "Všeobecná úverová banka",
+                "operator:short": "VÚB",
+                "phone": "+421 850 123 000",
+                "short_name": "VUB",
+                "stroller": "yes",
+                "website": "https://www.vub.sk/ludia",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0162563,
+                  48.4380114
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6238502076",
+                "osm_type": "node",
+                "lat": 48.4645153,
+                "lon": 16.7395176,
+                "addr:city": "Spannberg",
+                "addr:country": "AT",
+                "addr:housenumber": "10",
+                "addr:postcode": "2244",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "at_bev:addr_date": "2017-10-01",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "contact:phone": "+43 2572 3375 2000",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo, Fr 08:00-12:30,14:00-16:00; Tu, We, Th 08:00-12:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7395176,
+                  48.4645153
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9748725123",
+                "osm_type": "node",
+                "lat": 48.437248,
+                "lon": 17.0225993,
+                "amenity": "bank",
+                "brand": "365.bank",
+                "brand:wikidata": "Q7237158",
+                "check_date": "2022-05-16",
+                "level": "0",
+                "name": "365.bank",
+                "official_name": "365.bank, a.s.",
+                "opening_hours": "Mo-We,Fr 09:00-12:00,13:00-17:00",
+                "website": "https://365.bank/",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0225993,
+                  48.437248
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12874124869",
+                "osm_type": "node",
+                "lat": 48.4030201,
+                "lon": 16.6938195,
+                "addr:city": "Matzen",
+                "addr:housenumber": "7",
+                "addr:postcode": "2243",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "name": "Raiffeisen-Regionalbank Gänserndorf, Bankstelle Matzen",
+                "phone": "+43 5 02282-3005",
+                "url": "https://www.raiffeisen.at/noew/gaenserndorf/de/meine-bank/bankstellen/matzen.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6938195,
+                  48.4030201
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 16.2068765,
+            "north": 48.68652475,
+            "east": 16.68372825
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            16.518201392857144,
+            48.59173868571428
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "635951441",
+                "osm_type": "node",
+                "lat": 48.5273721,
+                "lon": 16.3618481,
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "VBOEATWW",
+                "name": "Volksbank",
+                "operator": "Volksbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3618481,
+                  48.5273721
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "635951449",
+                "osm_type": "node",
+                "lat": 48.5272448,
+                "lon": 16.3629134,
+                "amenity": "bank",
+                "atm": "no",
+                "bic": "GIBAATWW",
+                "name": "Sparkasse Ernstbrunn"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3629134,
+                  48.5272448
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "635951451",
+                "osm_type": "node",
+                "lat": 48.5276917,
+                "lon": 16.3624266,
+                "amenity": "bank",
+                "atm": "no",
+                "bic": "RZBAATWW",
+                "name": "Raiffeisenbank Ernstbrunn"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3624266,
+                  48.5276917
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1234614766",
+                "osm_type": "node",
+                "lat": 48.5330866,
+                "lon": 16.4929071,
+                "amenity": "bank",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "name": "Erste Bank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4929071,
+                  48.5330866
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3354594342",
+                "osm_type": "node",
+                "lat": 48.6512422,
+                "lon": 16.2991751,
+                "addr:city": "Stronsdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "264",
+                "addr:place": "Stronsdorf",
+                "addr:postcode": "2153",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "fax": "+43 2522 2375 9200",
+                "name": "Raiffeisenbank",
+                "opening_hours": "Mo 08:00-12:30,13:30-16:00; Tu-Th 08:00-12:00; Fr 08:00-12:00, 13:30-17:00; PH off",
+                "phone": "+43 2522 2375 7242",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2991751,
+                  48.6512422
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "240791595",
+                "osm_type": "node",
+                "lat": 48.5700196,
+                "lon": 16.5726392,
+                "amenity": "bank",
+                "atm": "yes",
+                "email": "mail@vbweinviertel.at",
+                "fax": "+43 2572 224723",
+                "name": "Volksbank Weinviertel",
+                "opening_hours": "Mo-Fr 08:30-12:30; Mo,We,Th 13:30-16:00; Fr 13:30-17:00",
+                "phone": "+43 2572 224755",
+                "website": "http://www.volksbankweinviertel.at/m101/volksbank/m049_40100/de/filiale/mistelbach.jsp"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5726392,
+                  48.5700196
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "240793133",
+                "osm_type": "node",
+                "lat": 48.569623,
+                "lon": 16.5716523,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen",
+                "operator": "Raiffeisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5716523,
+                  48.569623
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "240793406",
+                "osm_type": "node",
+                "lat": 48.5701152,
+                "lon": 16.5717266,
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "brand:wikipedia": "de:Erste Bank",
+                "name": "Erste Bank",
+                "operator": "Erste Bank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5717266,
+                  48.5701152
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "293455722",
+                "osm_type": "node",
+                "lat": 48.66776,
+                "lon": 16.628887,
+                "addr:city": "Poysdorf",
+                "addr:housenumber": "2",
+                "addr:street": "Dreifaltigkeitsplatz",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "SPPDAT21XXX",
+                "check_date": "2023-08-05",
+                "name": "Sparkasse",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.628887,
+                  48.66776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "297555053",
+                "osm_type": "node",
+                "lat": 48.668377,
+                "lon": 16.6293162,
+                "addr:city": "Poysdorf",
+                "addr:housenumber": "1",
+                "addr:postcode": "2170",
+                "addr:street": "Oberer Markt",
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "RLNWATWWPOY",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisenbank im Weinviertel",
+                "opening_hours": "Mo,Fr 08:00-12:00,13:00-16:00; Tu-Th 08:00-12:00",
+                "operator": "Raiffeisen",
+                "phone": "+4325723375"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6293162,
+                  48.668377
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "544494654",
+                "osm_type": "node",
+                "lat": 48.5683537,
+                "lon": 16.5704122,
+                "addr:city": "Mistelbach",
+                "addr:country": "AT",
+                "addr:housenumber": "17",
+                "addr:postcode": "2130",
+                "addr:street": "Franz Josef-Straße",
+                "amenity": "bank",
+                "atm": "yes",
+                "email": "mistelbach@hyponoe.at",
+                "name": "Hypo Noe",
+                "opening_hours": "Mo-Fr 08:00-13:30; Sa,Su,PH off",
+                "operator": "Niederösterreichische Landesbank-Hypothekenbank",
+                "phone": "+43 590910 4125",
+                "website": "https://www.hyponoe.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5704122,
+                  48.5683537
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2353676428",
+                "osm_type": "node",
+                "lat": 48.6686462,
+                "lon": 16.6288683,
+                "amenity": "bank",
+                "atm": "yes",
+                "bic": "VBOEATWWXXX",
+                "name": "Volksbank",
+                "opening_hours": "Mo-Fr 08:00-12:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6288683,
+                  48.6686462
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601869783",
+                "osm_type": "node",
+                "lat": 48.6680446,
+                "lon": 16.6288198,
+                "addr:city": "Poysdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "5-7",
+                "addr:postcode": "2170",
+                "addr:street": "Dreifaltigkeitsplatz",
+                "amenity": "bank",
+                "bic": "SPBAATWWXXX",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "brand:wikipedia": "de:Bank99",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6288198,
+                  48.6680446
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7601869784",
+                "osm_type": "node",
+                "lat": 48.5667649,
+                "lon": 16.5732276,
+                "addr:city": "Mistelbach",
+                "addr:country": "AT",
+                "addr:housenumber": "8",
+                "addr:postcode": "2130",
+                "addr:street": "Mitschastraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "brand": "bank99",
+                "brand:wikidata": "Q91200481",
+                "drive_through": "no",
+                "name": "bank99",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+                "operator": "bank99 AG",
+                "website": "https://www.bank99.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5732276,
+                  48.5667649
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 16.68372825,
+            "north": 48.68652475,
+            "east": 17.16058
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            16.81688752222222,
+            48.604963544444445
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "481236386",
+                "osm_type": "node",
+                "lat": 48.6456302,
+                "lon": 16.7962942,
+                "amenity": "bank",
+                "atm": "no",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q2127528",
+                "name": "Raiffeisen",
+                "operator": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7962942,
+                  48.6456302
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "618029284",
+                "osm_type": "node",
+                "lat": 48.5602143,
+                "lon": 16.8722829,
+                "addr:city": "Ringelsdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "120",
+                "addr:postcode": "2272",
+                "addr:street": "Obere Hauptstraße",
+                "amenity": "bank",
+                "description": "Filiale Ringelsdorf",
+                "name": "Raiffeisenkasse",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8722829,
+                  48.5602143
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1575195684",
+                "osm_type": "node",
+                "lat": 48.6460256,
+                "lon": 16.9036875,
+                "addr:city": "Rabensburg",
+                "addr:housenumber": "15",
+                "addr:postcode": "2274",
+                "addr:street": "Hauptstraße",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenkasse Zistersdorf-Dürnkrut, reg.Gen.m.b.H. Bankstelle Rabensburg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9036875,
+                  48.6460256
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1745410653",
+                "osm_type": "node",
+                "lat": 48.5399187,
+                "lon": 16.9031655,
+                "addr:city": "Drösing",
+                "addr:country": "AT",
+                "addr:housename": "Raiffeisenkasse Drösing",
+                "addr:housenumber": "1",
+                "addr:postcode": "2265",
+                "addr:street": "Kaiser Josef-Platz",
+                "alt_name": "Raiffeisenkasse Drösing",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Raiffeisenkasse Neusiedl a.d. Zaya"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9031655,
+                  48.5399187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1745416065",
+                "osm_type": "node",
+                "lat": 48.612456,
+                "lon": 16.7611613,
+                "addr:country": "AT",
+                "addr:housename": "Raiffeisenkasse Hauskirchen",
+                "addr:housenumber": "63",
+                "addr:postcode": "2184",
+                "addr:street": "Hauptstraße",
+                "alt_name": "Raiffeisenkasse Hauskirchen",
+                "amenity": "bank",
+                "atm": "no",
+                "name": "Raiffeisenkasse Neusiedl a.d. Zaya"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7611613,
+                  48.612456
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1819726219",
+                "osm_type": "node",
+                "lat": 48.6443527,
+                "lon": 16.7239959,
+                "addr:city": "Großkrut",
+                "addr:country": "AT",
+                "addr:housenumber": "14",
+                "addr:postcode": "2143",
+                "addr:street": "Hauptplatz",
+                "amenity": "bank",
+                "at_bev:addr_date": "2018-10-01",
+                "name": "Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7239959,
+                  48.6443527
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1819726220",
+                "osm_type": "node",
+                "lat": 48.6445679,
+                "lon": 16.7232508,
+                "amenity": "bank",
+                "brand": "Raiffeisen",
+                "brand:wikidata": "Q22093483",
+                "name": "Raiffeisen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7232508,
+                  48.6445679
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3031612276",
+                "osm_type": "node",
+                "lat": 48.5453475,
+                "lon": 16.7623999,
+                "addr:city": "Zistersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "3",
+                "addr:postcode": "2225",
+                "addr:street": "Dreifaltigkeitsgasse",
+                "amenity": "bank",
+                "atm": "yes",
+                "name": "Erste Bank und Sparkasse",
+                "opening_hours": "Mo 08:00-12:00,14:00-17:00; Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-17:00; Sa-Su off",
+                "website": "https://www.sparkasse.at/erstebank/Filiale/Zistersdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7623999,
+                  48.5453475
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7605413237",
+                "osm_type": "node",
+                "lat": 48.606159,
+                "lon": 16.9057497,
+                "addr:city": "Hohenau an der March",
+                "addr:country": "AT",
+                "addr:housenumber": "7",
+                "addr:postcode": "2273",
+                "addr:street": "Rathausplatz",
+                "amenity": "bank",
+                "brand": "Erste Bank",
+                "brand:wikidata": "Q696867",
+                "brand:wikipedia": "de:Erste Bank",
+                "contact:phone": "+43 5 0100 -21187",
+                "name": "Erste Bank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9057497,
+                  48.606159
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 15.253173,
+        "north": 49.017078,
+        "east": 16.2068765
+      },
+      "poiCount": 37,
+      "leafCount": 37,
+      "averagePosition": [
+        15.593485456756756,
+        48.80000214054054
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "331355403",
+            "osm_type": "node",
+            "lat": 48.8157308,
+            "lon": 15.2844041,
+            "addr:city": "Waidhofen/Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "22",
+            "addr:postcode": "3830",
+            "addr:street": "Böhmgasse",
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Volksbank Oberes Waldviertel regGenmbH"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2844041,
+              48.8157308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "331355415",
+            "osm_type": "node",
+            "lat": 48.8140684,
+            "lon": 15.2830495,
+            "addr:city": "Waidhofen an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "3830",
+            "addr:street": "Raiffeisenpromenade",
+            "amenity": "bank",
+            "atm": "yes",
+            "contact:phone": "+43 2842 506",
+            "name": "Raiffeisenbank Waidhofen/Thaya",
+            "website": "https://www.raiffeisen.at/noew/waidhofen-an-der-thaya/de/meine-bank/bankstellen/waidhofen-an-der-thaya.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2830495,
+              48.8140684
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1300580270",
+            "osm_type": "node",
+            "lat": 48.695443,
+            "lon": 15.328857,
+            "amenity": "bank",
+            "check_date": "2025-05-29",
+            "name": "Waldviertler Sparkasse Bank AG",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.328857,
+              48.695443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1300580273",
+            "osm_type": "node",
+            "lat": 48.6962018,
+            "lon": 15.3271095,
+            "addr:housename": "RAIBA",
+            "addr:housenumber": "13",
+            "addr:street": "Hauptstraße",
+            "amenity": "bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3271095,
+              48.6962018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1374426490",
+            "osm_type": "node",
+            "lat": 48.7253674,
+            "lon": 15.3997917,
+            "addr:housenumber": "2",
+            "addr:postcode": "3800",
+            "addr:street": "Raabser Straße",
+            "amenity": "bank",
+            "name": "Raiffeisenbank",
+            "operator": "Raiffeisenbank Waidhofen a d Thaya eGen",
+            "phone": "+432825 82 68"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3997917,
+              48.7253674
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1374461856",
+            "osm_type": "node",
+            "lat": 48.724834,
+            "lon": 15.4005587,
+            "addr:housenumber": "72",
+            "addr:postcode": "3800",
+            "addr:street": "Hauptstraße",
+            "amenity": "bank",
+            "name": "Waldviertler Sparkasse",
+            "operator": "Waldviertler Sparkasse Bank AG",
+            "phone": "+43 5 0100-79575"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4005587,
+              48.724834
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221526175",
+            "osm_type": "node",
+            "lat": 48.8471189,
+            "lon": 15.4938501,
+            "addr:city": "Raabs an der Thaya",
+            "addr:housenumber": "11",
+            "addr:postcode": "3820",
+            "addr:street": "Hauptplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "email": "info.32127@rb-32127.raiffeisen.at",
+            "fax": "+43 2846 332 25",
+            "name": "Raiffeisenbank Thayatal-Mitte",
+            "opening_hours": "Mo-Fr 08:00-12:00, Mo,Tu,Th,Fr 13:00-16:00",
+            "operator": "Raiffeisenbank Thayatal-Mitte eGen mbH",
+            "phone": "+43 2846 332 0",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4938501,
+              48.8471189
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221526176",
+            "osm_type": "node",
+            "lat": 48.8475818,
+            "lon": 15.4926955,
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Waldviertler Sparkasse Bank AG",
+            "website": "http://www.wspk.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4926955,
+              48.8475818
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5996498370",
+            "osm_type": "node",
+            "lat": 48.8138568,
+            "lon": 15.2841323,
+            "addr:city": "Waidhofen/Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "29",
+            "addr:postcode": "3830",
+            "addr:street": "Niederleuthnerstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "bank99",
+            "brand:wikidata": "Q91200481",
+            "drive_through": "no",
+            "name": "bank99",
+            "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off",
+            "operator": "bank99 AG",
+            "website": "https://www.bank99.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2841323,
+              48.8138568
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6437052355",
+            "osm_type": "node",
+            "lat": 48.7442833,
+            "lon": 15.2639955,
+            "addr:city": "Schwarzenau",
+            "addr:country": "AT",
+            "addr:housenumber": "15a",
+            "addr:postcode": "3900",
+            "addr:street": "Bundesstraße",
+            "amenity": "bank",
+            "at_bev:addr_date": "2018-10-01",
+            "name": "Raiffeisenbank Schwarzenau",
+            "opening_hours": "Mo-Fr 07:45-13:00, Mo,We 13:45-15:45",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2639955,
+              48.7442833
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7556528145",
+            "osm_type": "node",
+            "lat": 48.7430714,
+            "lon": 15.2588011,
+            "amenity": "bank",
+            "name": "Sparkasse Waldviertel Mitte Schwarzenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2588011,
+              48.7430714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12690799574",
+            "osm_type": "node",
+            "lat": 48.7895853,
+            "lon": 15.4039448,
+            "amenity": "bank",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "name": "Raiffeisenbank im Thayatal, Bankstelle Groß-Siegharts"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4039448,
+              48.7895853
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "271767558",
+            "osm_type": "node",
+            "lat": 48.7968504,
+            "lon": 15.6715567,
+            "addr:city": "Geras",
+            "addr:country": "AT",
+            "addr:housenumber": "8",
+            "addr:postcode": "2093",
+            "addr:street": "Horner Straße",
+            "amenity": "bank",
+            "at_bev:addr_date": "2018-10-01",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6715567,
+              48.7968504
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "271767593",
+            "osm_type": "node",
+            "lat": 48.7970845,
+            "lon": 15.6737295,
+            "amenity": "bank",
+            "name": "Erste Bank",
+            "operator": "Erste Bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6737295,
+              48.7970845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "513776386",
+            "osm_type": "node",
+            "lat": 48.8542234,
+            "lon": 15.7704265,
+            "addr:city": "Hardegg",
+            "addr:country": "AT",
+            "addr:housenumber": "91",
+            "addr:place": "Riegersburg",
+            "addr:postcode": "2092",
+            "amenity": "bank",
+            "at_bev:addr_date": "2021-10-01",
+            "atm": "yes",
+            "name": "Raiffeisenbank",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7704265,
+              48.8542234
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "514752129",
+            "osm_type": "node",
+            "lat": 48.759219,
+            "lon": 15.9524977,
+            "addr:city": "Retz",
+            "addr:country": "AT",
+            "addr:housenumber": "16",
+            "addr:postcode": "2070",
+            "addr:street": "Znaimerstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "contact:phone": "+43 50 440 500",
+            "name": "Volksbank",
+            "opening_hours": "Mo-Th 08:00-12:00; Fr 08:00-12:00,14:00-16:00",
+            "operator": "Volksbank Niederösterreich AG",
+            "website": "https://www.vbnoe.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9524977,
+              48.759219
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1455983950",
+            "osm_type": "node",
+            "lat": 48.7820208,
+            "lon": 15.8106778,
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Volksbank Weitersfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8106778,
+              48.7820208
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1455984410",
+            "osm_type": "node",
+            "lat": 48.7814368,
+            "lon": 15.8109611,
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Raiffeisenbank Weitersfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8109611,
+              48.7814368
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2636085405",
+            "osm_type": "node",
+            "lat": 48.7573256,
+            "lon": 15.9513137,
+            "addr:city": "Retz",
+            "addr:country": "AT",
+            "addr:housenumber": "33",
+            "addr:postcode": "2070",
+            "addr:street": "Hauptplatz",
+            "amenity": "bank",
+            "name": "Raiffeisenkasse Retz-Pulkautal",
+            "phone": "+43 2942 2992",
+            "source": "own survey, www.raiffeisen.at",
+            "website": "https://www.raiffeisen.at/eBusiness/01_template1/1022783761825-1025204814226_1025204915880_1034816526697-1034816526697-NA-30-NA.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9513137,
+              48.7573256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2670159084",
+            "osm_type": "node",
+            "lat": 48.7167936,
+            "lon": 15.9086228,
+            "amenity": "bank",
+            "atm": "no",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9086228,
+              48.7167936
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3059983158",
+            "osm_type": "node",
+            "lat": 48.7660555,
+            "lon": 16.0028622,
+            "addr:city": "Unterretzbach",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "2074",
+            "addr:street": "Dorfstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0028622,
+              48.7660555
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4649284090",
+            "osm_type": "node",
+            "lat": 48.7382804,
+            "lon": 15.6306243,
+            "addr:city": "Pernegg",
+            "addr:country": "AT",
+            "addr:housenumber": "25",
+            "addr:place": "Pernegg",
+            "addr:postcode": "3753",
+            "amenity": "bank",
+            "at_bev:addr_date": "2017-04-07",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6306243,
+              48.7382804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7363442161",
+            "osm_type": "node",
+            "lat": 48.740139,
+            "lon": 15.8971269,
+            "addr:city": "Schrattenthal",
+            "addr:country": "AT",
+            "addr:housenumber": "36",
+            "addr:place": "Obermarkersdorf",
+            "addr:postcode": "2073",
+            "amenity": "bank",
+            "at_bev:addr_date": "2018-10-01",
+            "contact:phone": "+43 2942 8245",
+            "name": "Raiffeisenkasse",
+            "operator": "Raiffeisenkasse Retz-Pulkautal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8971269,
+              48.740139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9200276923",
+            "osm_type": "node",
+            "lat": 48.8681557,
+            "lon": 15.6197093,
+            "amenity": "bank",
+            "check_date": "2024-10-26",
+            "name": "Sparkasse",
+            "opening_hours": "Mo,Fr 08:00-12:30,13:30-16:00; Tu-Th 08:00-12:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6197093,
+              48.8681557
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9200276924",
+            "osm_type": "node",
+            "lat": 48.8687523,
+            "lon": 15.6192181,
+            "amenity": "bank",
+            "check_date": "2024-10-27",
+            "name": "Raiffeisenkasse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6192181,
+              48.8687523
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9533847753",
+            "osm_type": "node",
+            "lat": 48.7052793,
+            "lon": 15.8605577,
+            "addr:city": "Pulkau",
+            "addr:country": "AT",
+            "addr:housenumber": "16",
+            "addr:postcode": "3741",
+            "addr:street": "Hauptplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Raiffeisenkasse Pulkau",
+            "opening_hours": "Mo-Th 08:00-12:00,13:00-16:00; Fr 08:00-12:00,13:00-17:30",
+            "website": "https://www.raiffeisen.at/noew/retz/de/meine-bank/bankstellen/pulkau.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8605577,
+              48.7052793
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11508936477",
+            "osm_type": "node",
+            "lat": 48.7462702,
+            "lon": 15.5362553,
+            "addr:city": "Irnfritz-Messern",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "3754",
+            "addr:street": "Hauptplatz",
+            "amenity": "bank",
+            "operator": "Raiffeisen",
+            "website": "https://www.rbw4.at/eBusiness/01_template1/1021662351721-176500948666947557_933475446035113982-934493947516711309-NA-30-NA.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5362553,
+              48.7462702
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12837097861",
+            "osm_type": "node",
+            "lat": 48.7938454,
+            "lon": 15.5694638,
+            "amenity": "bank",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "name": "Raiffeisenbank",
+            "website": "https://www.raiffeisen.at/noew/region-waldviertel-mitte/de/meine-bank/bankstellen/japons.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5694638,
+              48.7938454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1329350490",
+            "osm_type": "node",
+            "lat": 48.7081043,
+            "lon": 16.0768249,
+            "addr:housenumber": "1",
+            "addr:postcode": "2054",
+            "addr:street": "Hauptplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Sparkasse Haugsdorf",
+            "operator": "Sparkasse",
+            "phone": "+43 5 0100 79800",
+            "wikidata": "Q2307459",
+            "wikipedia": "de:Sparkasse Haugsdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0768249,
+              48.7081043
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6185749518",
+            "osm_type": "node",
+            "lat": 48.8606434,
+            "lon": 16.0461361,
+            "amenity": "bank",
+            "branch": "Znojmo",
+            "brand": "Fio banka",
+            "brand:wikidata": "Q12016657",
+            "brand:wikipedia": "cs:Fio banka",
+            "email": "znojmo@fio.cz",
+            "name": "Fio banka",
+            "opening_hours": "Mo-Fr 08:30-17:00",
+            "phone": "+420 224 346 909",
+            "website": "https://www.fio.cz/o-nas/kontakty/373610-znojmo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0461361,
+              48.8606434
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7280530940",
+            "osm_type": "node",
+            "lat": 48.8564971,
+            "lon": 16.0476786,
+            "addr:city": "Znojmo",
+            "addr:housenumber": "139",
+            "addr:postcode": "66902",
+            "addr:street": "Horní náměstí",
+            "addr:unit": "6",
+            "amenity": "bank",
+            "brand": "UniCredit Bank",
+            "brand:wikidata": "Q45568",
+            "brand:wikipedia": "en:UniCredit",
+            "name": "UniCredit Bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0476786,
+              48.8564971
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "513776235",
+            "osm_type": "node",
+            "lat": 48.9149806,
+            "lon": 15.3211675,
+            "amenity": "bank",
+            "atm": "no",
+            "name": "Sparkasse",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3211675,
+              48.9149806
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "513776292",
+            "osm_type": "node",
+            "lat": 48.8837494,
+            "lon": 15.4033003,
+            "addr:city": "Karlstein an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "18",
+            "addr:postcode": "3822",
+            "addr:street": "Hauptstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "name": "Sparkasse Waldviertel Mitte",
+            "phone": "+43-28447015"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4033003,
+              48.8837494
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "513776294",
+            "osm_type": "node",
+            "lat": 48.8834737,
+            "lon": 15.4037868,
+            "addr:city": "Karlstein an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "3822",
+            "addr:street": "Hauptstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "branch": "Thayatal Mitte",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisen",
+            "phone": "+43-2844-274"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4037868,
+              48.8834737
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9283715517",
+            "osm_type": "node",
+            "lat": 48.9152649,
+            "lon": 15.3225436,
+            "amenity": "bank",
+            "name": "Raiffeisenkasse Dobersberg-Waldkirchen",
+            "website": "https://www.raiffeisen.at/noew/dobersberg-waldkirchen/de/meine-bank/bankstellen/dobersberg.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3225436,
+              48.9152649
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11750548062",
+            "osm_type": "node",
+            "lat": 48.9122818,
+            "lon": 15.4750816,
+            "addr:housenumber": "1a",
+            "addr:place": "Weikertschlag an der Thaya",
+            "addr:postcode": "3823",
+            "amenity": "bank",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisen",
+            "operator": "Raiffeisenbank Thayatal Mitte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4750816,
+              48.9122818
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12336873847",
+            "osm_type": "node",
+            "lat": 48.9362092,
+            "lon": 15.3556493,
+            "amenity": "bank",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "name": "Raiffeisen Bankfiliale Waldkirchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3556493,
+              48.9362092
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 16.2068765,
+        "north": 49.017078,
+        "east": 17.16058
+      },
+      "poiCount": 34,
+      "leafCount": 34,
+      "averagePosition": [
+        16.763261644117648,
+        48.78899984117647
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "514876891",
+            "osm_type": "node",
+            "lat": 48.7565016,
+            "lon": 16.5013807,
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "RZBAATWWXXX",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisenbank",
+            "source": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5013807,
+              48.7565016
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2509408045",
+            "osm_type": "node",
+            "lat": 48.7211977,
+            "lon": 16.490987,
+            "amenity": "bank",
+            "bic": "RZBAATWWXXX",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.490987,
+              48.7211977
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4017885803",
+            "osm_type": "node",
+            "lat": 48.7059084,
+            "lon": 16.2389374,
+            "amenity": "bank",
+            "atm": "yes",
+            "email": "info.32413@rb-laa.at",
+            "fax": "+43 2522 2375 9200",
+            "name": "Raiffeisenbank Zwingendorf",
+            "opening_hours": "Tu 08:00-10:30, 13:30-15:30; Th 08:00-12:30, 13:30-17:00",
+            "phone": "+43 2522 2375 7191"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2389374,
+              48.7059084
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4899908728",
+            "osm_type": "node",
+            "lat": 48.7209531,
+            "lon": 16.3854338,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "43",
+            "addr:postcode": "2136",
+            "addr:street": "Stadtplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "GIBAATWWLAA",
+            "brand": "Erste Bank",
+            "brand:wikidata": "Q696867",
+            "brand:wikipedia": "de:Erste Bank",
+            "name": "Erste Bank",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3854338,
+              48.7209531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5776944198",
+            "osm_type": "node",
+            "lat": 48.7221547,
+            "lon": 16.3846985,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "56",
+            "addr:postcode": "2136",
+            "addr:street": "Stadtplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "RLNWATWWLAA",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "drive_through": "no",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3846985,
+              48.7221547
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5777585457",
+            "osm_type": "node",
+            "lat": 48.7197456,
+            "lon": 16.3847815,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "2136",
+            "addr:street": "Nordbahnstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "VBOEATWWXXX",
+            "brand": "Volksbank",
+            "brand:wikidata": "Q695110",
+            "brand:wikipedia": "en:Volksbank",
+            "name": "Volksbank",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3847815,
+              48.7197456
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5777585462",
+            "osm_type": "node",
+            "lat": 48.7215627,
+            "lon": 16.3854823,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "36",
+            "addr:postcode": "2136",
+            "addr:street": "Stadtplatz",
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "SPBAATWWXXX",
+            "brand": "bank99",
+            "brand:wikidata": "Q91200481",
+            "drive_through": "no",
+            "name": "bank99",
+            "opening_hours": "Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off",
+            "operator": "bank99 AG",
+            "website": "https://www.bank99.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3854823,
+              48.7215627
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12791001238",
+            "osm_type": "node",
+            "lat": 48.8304525,
+            "lon": 16.4009523,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Hrušovany nad Jevišovkou, náměstí Míru",
+            "brand": "Česká spořitelna",
+            "brand:facebook": "https://www.facebook.com/ceskasporitelna",
+            "brand:instagram": "https://www.instagram.com/ceskasporitelna",
+            "brand:website": "https://www.csas.cz/cs/osobni-finance",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "level": "0",
+            "name": "Česká spořitelna",
+            "opening_hours": "Mo,We 09:00-12:30,13:30-17:00; Tu,Fr 09:00-12:30,13:30-16:00; PH off",
+            "operator": "Česká spořitelna",
+            "stroller": "yes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4009523,
+              48.8304525
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "249409154",
+            "osm_type": "node",
+            "lat": 48.6899925,
+            "lon": 16.8710662,
+            "amenity": "bank",
+            "bic": "GIBAATWWXXX",
+            "name": "Sparkasse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8710662,
+              48.6899925
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "437381413",
+            "osm_type": "node",
+            "lat": 48.7604351,
+            "lon": 16.8806566,
+            "addr:city": "Břeclav",
+            "addr:conscriptionnumber": "302",
+            "addr:country": "CZ",
+            "addr:housenumber": "1",
+            "addr:postcode": "69070",
+            "addr:street": "Národních hrdinů",
+            "addr:streetnumber": "8",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "brand:wikipedia": "en:Komerční banka",
+            "name": "Komerční banka",
+            "source:addr": "mvcr:adresa",
+            "source:position": "cuzk:km"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8806566,
+              48.7604351
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "481236513",
+            "osm_type": "node",
+            "lat": 48.7001435,
+            "lon": 16.822536,
+            "addr:city": "Reintal",
+            "addr:country": "AT",
+            "addr:housenumber": "287",
+            "addr:postcode": "2276",
+            "addr:street": "Hauptstraße",
+            "amenity": "bank",
+            "at_bev:addr_date": "2021-04-01",
+            "atm": "no",
+            "bic": "RZBAATWWXXX",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.822536,
+              48.7001435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "516498634",
+            "osm_type": "node",
+            "lat": 48.7206239,
+            "lon": 16.5854631,
+            "amenity": "bank",
+            "atm": "no",
+            "bic": "RLNWATWWMIB",
+            "name": "Filiale Falkenstein",
+            "operator": "Raiffeisenbank Mistelbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5854631,
+              48.7206239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "821406633",
+            "osm_type": "node",
+            "lat": 48.6990831,
+            "lon": 16.784313,
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "RZBAATWWXXX",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "name": "Raika"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.784313,
+              48.6990831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2467637197",
+            "osm_type": "node",
+            "lat": 48.7588424,
+            "lon": 16.8798048,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Břeclav, náměstí T. G. Masaryka",
+            "brand": "Banka Creditas",
+            "brand:facebook": "https://www.facebook.com/creditascz",
+            "brand:instagram": "https://www.instagram.com/banka_creditas/",
+            "brand:website": "https://www.creditas.cz/",
+            "brand:wikidata": "Q27910063",
+            "brand:wikipedia": "cs:Creditas",
+            "level": "0",
+            "name": "Banka Creditas",
+            "opening_hours": "Mo,Tu,Th 08:00-12:00,12:30-16:00; We 08:00-12:00,12:30-17:00; Fr 08:00-12:00,12:30-15:00; PH off",
+            "operator": "Banka Creditas",
+            "stroller": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8798048,
+              48.7588424
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2470107935",
+            "osm_type": "node",
+            "lat": 48.7404291,
+            "lon": 16.7541214,
+            "addr:city": "Valtice",
+            "addr:housenumber": "36",
+            "addr:postcode": "69142",
+            "addr:street": "Růžová",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "name": "Česká spořitelna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7541214,
+              48.7404291
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3216520437",
+            "osm_type": "node",
+            "lat": 48.7583169,
+            "lon": 16.8830759,
+            "addr:city": "Břeclav",
+            "addr:housenumber": "3",
+            "addr:postcode": "69002",
+            "addr:street": "17. listopadu",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "UniCredit Bank",
+            "brand:wikidata": "Q45568",
+            "brand:wikipedia": "en:UniCredit",
+            "name": "UniCredit Bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8830759,
+              48.7583169
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3216524565",
+            "osm_type": "node",
+            "lat": 48.7591302,
+            "lon": 16.8822069,
+            "addr:city": "Břeclav",
+            "addr:housenumber": "30",
+            "addr:postcode": "69002",
+            "addr:street": "17. listopadu",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "ČSOB",
+            "brand:wikidata": "Q340135",
+            "brand:wikipedia": "en:Československá obchodní banka",
+            "name": "ČSOB"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8822069,
+              48.7591302
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3535299993",
+            "osm_type": "node",
+            "lat": 48.756398,
+            "lon": 16.646915,
+            "addr:city": "Drasenhofen",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "2165",
+            "addr:street": "Amtsstraße",
+            "amenity": "bank",
+            "atm": "yes",
+            "bic": "RLNWATWWPOY",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q2127528",
+            "email": "info.32501@rb-imweinviertel.at",
+            "name": "Raiffeisenbank",
+            "operator": "Raiffeisenkasse Poysdorf",
+            "phone": "+43 2554 85469"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.646915,
+              48.756398
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4234150037",
+            "osm_type": "node",
+            "lat": 48.8042259,
+            "lon": 16.6362394,
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "name": "Česká spořitelna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6362394,
+              48.8042259
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4234150038",
+            "osm_type": "node",
+            "lat": 48.8040439,
+            "lon": 16.6356104,
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "brand:wikipedia": "en:Komerční banka",
+            "name": "Komerční banka"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6356104,
+              48.8040439
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12523176792",
+            "osm_type": "node",
+            "lat": 48.7565925,
+            "lon": 16.889659,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Břeclav, J. Palacha",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "contact:facebook": "https://www.facebook.com/komercni.banka",
+            "currency:CZK": "yes",
+            "currency:EUR": "yes",
+            "currency:USD": "yes",
+            "email": "kbplus@kb.cz",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "level": "0",
+            "name": "Komerční banka",
+            "opening_hours": "Mo-Th 09:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00",
+            "operator": "Komerční banka",
+            "phone": "+421955556301",
+            "stroller": "yes",
+            "website": "https://www.kb.cz/cs/obcane",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.889659,
+              48.7565925
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12666544542",
+            "osm_type": "node",
+            "lat": 48.7574637,
+            "lon": 16.8872053,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Břeclav",
+            "brand": "Raiffeisenbank",
+            "brand:wikidata": "Q24282825",
+            "contact:facebook": "https://www.facebook.com/RaiffeisenbankCZ",
+            "contact:instagram": "https://www.instagram.com/raiffeisenbank_cz",
+            "level": "0",
+            "name": "Raiffeisenbank",
+            "opening_hours": "Mo,We 08:30-12:00,13:00-17:00; Tu,Th,Fr 08:00-12:00,13:00-16:00; PH off",
+            "operator": "Raiffeisenbank",
+            "stroller": "yes",
+            "website": "https://www.rb.cz/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8872053,
+              48.7574637
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12666544547",
+            "osm_type": "node",
+            "lat": 48.7576088,
+            "lon": 16.8868666,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Břeclav, J. Palacha",
+            "brand": "Fio banka",
+            "brand:wikidata": "Q12016657",
+            "contact:facebook": "https://www.facebook.com/Fiobanka",
+            "email": "breclav@fio.cz",
+            "image": "https://www.fio.cz/docs/foto-pobocky/Breclav_JPalacha-371071/Breclav2017_2.jpg",
+            "level": "0",
+            "name": "Fio banka",
+            "opening_hours": "Mo-Th 08:30-18:00; Fr 08:30-17:00; PH off",
+            "operator": "Fio banka",
+            "phone": "+420 224 346 942",
+            "ref:ruian:building": "30627079",
+            "source": "cuzk:ruian",
+            "stroller": "yes",
+            "website": "https://www.fio.cz/o-nas/kontakty/371071-Breclav",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8868666,
+              48.7576088
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12667072505",
+            "osm_type": "node",
+            "lat": 48.7568724,
+            "lon": 16.8884188,
+            "air_conditioning": "yes",
+            "amenity": "bank",
+            "branch": "Břeclav, J. Palacha",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "contact:facebook": "https://www.facebook.com/ceskasporitelna",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "level": "0",
+            "name": "Česká spořitelna",
+            "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:00; PH off",
+            "operator": "Česká spořitelna",
+            "stroller": "yes",
+            "website": "https://www.csas.cz/cs/osobni-finance",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8884188,
+              48.7568724
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "475542406",
+            "osm_type": "node",
+            "lat": 48.8540441,
+            "lon": 17.1243146,
+            "amenity": "bank",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "brand:wikipedia": "en:Komerční banka",
+            "name": "Komerční banka",
+            "operator": "Komerční banka"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1243146,
+              48.8540441
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1695244782",
+            "osm_type": "node",
+            "lat": 48.8545467,
+            "lon": 17.1250979,
+            "addr:conscriptionnumber": "3654",
+            "addr:country": "CZ",
+            "addr:housename": "Česká Spořitelna",
+            "addr:housenumber": "3654/44",
+            "addr:place": "Hodonín",
+            "addr:postcode": "69501",
+            "addr:street": "Národní třída",
+            "addr:streetnumber": "44",
+            "amenity": "bank",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "name": "Česká spořitelna",
+            "source:addr": "mvcr:adresa",
+            "source:loc": "cuzk:km"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1250979,
+              48.8545467
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1695245041",
+            "osm_type": "node",
+            "lat": 48.8521151,
+            "lon": 17.1262463,
+            "addr:city": "Hodonín",
+            "addr:conscriptionnumber": "370",
+            "addr:country": "CZ",
+            "addr:housenumber": "370/31",
+            "addr:place": "Hodonín",
+            "addr:postcode": "69501",
+            "addr:street": "Národní třída 31",
+            "addr:streetnumber": "31",
+            "alt_name": "Wechselstube",
+            "amenity": "bank",
+            "atm": "no",
+            "designation": "Exchange office",
+            "int_name": "Exchange",
+            "name": "Soukroma moravska smenarna s.r.o.",
+            "ref:ruian:addr": "23183969",
+            "source": "www.smenarnyhodoninsko.cz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1262463,
+              48.8521151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2327920489",
+            "osm_type": "node",
+            "lat": 48.8119317,
+            "lon": 17.1604869,
+            "amenity": "bank",
+            "brand": "Slovenská sporiteľňa",
+            "brand:facebook": "https://www.facebook.com/SlovenskaSporitelna",
+            "brand:instagram": "https://www.instagram.com/slovenska_sporitelna",
+            "brand:website": "https://www.slsp.sk/sk/ludia",
+            "brand:wikidata": "Q7541907",
+            "brand:wikipedia": "en:Slovenská sporiteľňa",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Slovenská sporiteľňa",
+            "opening_hours": "Mo-Fr 08:00-12:00,13:00-16:00; PH off",
+            "stroller": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1604869,
+              48.8119317
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6185749519",
+            "osm_type": "node",
+            "lat": 48.8543901,
+            "lon": 17.1246845,
+            "amenity": "bank",
+            "branch": "Hodonín",
+            "brand": "Fio banka",
+            "brand:wikidata": "Q12016657",
+            "brand:wikipedia": "cs:Fio banka",
+            "check_date:opening_hours": "2024-08-23",
+            "email": "hodonin@fio.cz",
+            "name": "Fio banka",
+            "opening_hours": "Mo-Th 08:30-18:00; Fr 08:30-17:00",
+            "phone": "+420 224 346 914",
+            "website": "https://www.fio.cz/o-nas/kontakty/371070-hodonin"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1246845,
+              48.8543901
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "321975874",
+            "osm_type": "node",
+            "lat": 48.932464,
+            "lon": 16.8839933,
+            "amenity": "bank",
+            "atm": "no",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "name": "Česká spořitelna",
+            "operator": "Česká spořitelna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8839933,
+              48.932464
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4199191143",
+            "osm_type": "node",
+            "lat": 48.8970603,
+            "lon": 16.8191466,
+            "addr:city": "Velké Pavlovice",
+            "addr:housenumber": "666/2",
+            "addr:postcode": "69106",
+            "addr:street": "Hlavní",
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "brand:wikipedia": "en:Komerční banka",
+            "drive_through": "no",
+            "name": "Komerční banka",
+            "operator": "Komerční banka"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8191466,
+              48.8970603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4727601454",
+            "osm_type": "node",
+            "lat": 48.9405811,
+            "lon": 16.7365087,
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "brand:wikipedia": "en:Komerční banka",
+            "name": "Komerční banka",
+            "opening_hours": "Mo 09:00-12:00,13:00-18:00; Tu-Th 09:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7365087,
+              48.9405811
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4727601455",
+            "osm_type": "node",
+            "lat": 48.9407626,
+            "lon": 16.7374906,
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "brand:wikipedia": "en:Česká spořitelna",
+            "name": "Česká spořitelna",
+            "opening_hours": "Mo,We 09:00-12:30,13:30-17:00; Tu,Th,Fr 09:00-12:30,13:30-16:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7374906,
+              48.9407626
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1932934682",
+            "osm_type": "node",
+            "lat": 49.0094207,
+            "lon": 17.1261146,
+            "amenity": "bank",
+            "atm": "yes",
+            "brand": "MONETA Money Bank",
+            "brand:wikidata": "Q24282966",
+            "brand:wikipedia": "cs:Moneta Money Bank",
+            "name": "MONETA Money Bank",
+            "operator": "MONETA Money Bank, a.s.",
+            "website": "https://www.moneta.cz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1261146,
+              49.0094207
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,1751 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 11.438358999999998,
+    "north": 47.694865,
+    "east": 13.345766
+  },
+  "poiCount": 63,
+  "leafCount": 0,
+  "averagePosition": [
+    12.375767828571428,
+    47.36608763015873
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 11.438358999999998,
+        "north": 47.36431175,
+        "east": 12.392062499999998
+      },
+      "poiCount": 17,
+      "leafCount": 17,
+      "averagePosition": [
+        11.897629529411764,
+        47.2502866
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "245788989",
+            "osm_type": "node",
+            "lat": 47.1271389,
+            "lon": 11.4528221,
+            "name": "Matrei am Brenner",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "93.3",
+            "railway:position:exact": "93.281",
+            "railway:ref": "Mei",
+            "railway:ref:DB": "XAM",
+            "uic_name": "Matrei am Brenner",
+            "uic_ref": "8100106",
+            "wheelchair": "yes",
+            "wikidata": "Q18283757"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4528221,
+              47.1271389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "245789006",
+            "osm_type": "node",
+            "lat": 47.0894547,
+            "lon": 11.4698741,
+            "alt_name": "Steinach in Tirol",
+            "name": "Steinach am Brenner",
+            "note": "offizieller uic_name weicht von Stationsnamen ab, bitte NICHT ändern!",
+            "official_name": "Steinach in Tirol",
+            "old_name": "Steinach in Tirol",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "97.9",
+            "railway:position:exact": "97.884",
+            "railway:ref": "Sti",
+            "railway:ref:DB": "XAST",
+            "uic_name": "Steinach in Tirol",
+            "uic_ref": "8100107",
+            "wheelchair": "yes",
+            "wikidata": "Q23198763"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4698741,
+              47.0894547
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2989203594",
+            "osm_type": "node",
+            "lat": 47.2769983,
+            "lon": 11.5016548,
+            "name": "Hall in Tirol",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "66.6",
+            "railway:position:exact": "66.606",
+            "railway:ref": "H",
+            "railway:ref:DB": "XAHT",
+            "uic_name": "Hall in Tirol",
+            "uic_ref": "8100105",
+            "wheelchair": "yes",
+            "wikidata": "Q15785173",
+            "wikipedia": "de:Bahnhof Hall in Tirol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5016548,
+              47.2769983
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "333925300",
+            "osm_type": "node",
+            "lat": 47.3263523,
+            "lon": 11.8652692,
+            "ele": "544",
+            "name": "Uderns im Zillertal",
+            "network": "Verkehrsverbund Tirol",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "12.5",
+            "railway:position:exact": "12.528",
+            "wikidata": "Q72834232"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8652692,
+              47.3263523
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2454822981",
+            "osm_type": "node",
+            "lat": 47.3497564,
+            "lon": 11.7015618,
+            "name": "Schwaz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "48.4",
+            "railway:position:exact": "48.360",
+            "railway:ref": "Sw",
+            "railway:ref:DB": "XASC",
+            "uic_name": "Schwaz",
+            "uic_ref": "8100103",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7015618,
+              47.3497564
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3002744263",
+            "osm_type": "node",
+            "lat": 47.3021475,
+            "lon": 11.5889334,
+            "name": "Fritzens-Wattens",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "59.1",
+            "railway:position:exact": "59.067",
+            "railway:ref": "Fw",
+            "railway:ref:DB": "XAFW",
+            "uic_ref": "8100104",
+            "wheelchair": "no",
+            "wikidata": "Q72808118"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5889334,
+              47.3021475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3383825859",
+            "osm_type": "node",
+            "lat": 47.2634619,
+            "lon": 11.8971083,
+            "ele": "564",
+            "name": "Aschau im Zillertal",
+            "network": "Verkehrsverbund Tirol",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "20.3",
+            "railway:position:exact": "20.330",
+            "wheelchair": "yes",
+            "wikidata": "Q72830021"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8971083,
+              47.2634619
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3388479255",
+            "osm_type": "node",
+            "lat": 47.344751,
+            "lon": 11.8532034,
+            "ele": "537",
+            "name": "Fügen-Hart im Zillertal",
+            "network": "Verkehrsverbund Tirol",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "10.2",
+            "railway:position:exact": "10.247",
+            "wheelchair": "no",
+            "wikidata": "Q72834029"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8532034,
+              47.344751
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4165097140",
+            "osm_type": "node",
+            "lat": 47.2927526,
+            "lon": 11.8759461,
+            "ele": "554",
+            "name": "Kaltenbach-Stumm im Zillertal",
+            "network": "Verkehrsverbund Tirol",
+            "note": "new station, railway:position:exact probably wrong",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "16.5",
+            "railway:position:exact": "16.506",
+            "wikidata": "Q111647413"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8759461,
+              47.2927526
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4165097143",
+            "osm_type": "node",
+            "lat": 47.1694247,
+            "lon": 11.8622376,
+            "name": "Mayrhofen im Zillertal",
+            "network": "Verkehrsverbund Tirol",
+            "network:short": "VVT",
+            "network:wikidata": "Q1668732",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "31.7",
+            "railway:position:exact": "31.700",
+            "railway:ref": "Zb Z9",
+            "train": "yes",
+            "uic_ref": "8100541",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8622376,
+              47.1694247
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4165097147",
+            "osm_type": "node",
+            "lat": 47.2048852,
+            "lon": 11.8699692,
+            "ele": "589",
+            "name": "Ramsau-Hippach",
+            "network": "Verkehrsverbund Tirol",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "railway": "station",
+            "railway:position": "27.6",
+            "railway:position:exact": "27.605",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8699692,
+              47.2048852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4165097149",
+            "osm_type": "node",
+            "lat": 47.2313613,
+            "lon": 11.8813847,
+            "ele": "560",
+            "name": "Zell am Ziller",
+            "network": "Verkehrsverbund Tirol",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "railway": "station",
+            "railway:position": "24.4",
+            "railway:position:exact": "24.400",
+            "railway:ref": "Zz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8813847,
+              47.2313613
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "314553014",
+            "osm_type": "node",
+            "lat": 47.2437466,
+            "lon": 12.2279696,
+            "ele": "869",
+            "name": "Wald im Pinzgau",
+            "network": "Salzburger Verkehrsverbund",
+            "network:short": "SVV",
+            "network:wikidata": "Q1254319",
+            "on_demand": "yes",
+            "operator": "Salzburg AG, Pinzgauer Lokalbahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "49.7",
+            "railway:position:exact": "49.659",
+            "railway:ref": "Wap",
+            "train": "yes",
+            "uic_name": "Wald im Pinzgau",
+            "uic_ref": "8100340"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2279696,
+              47.2437466
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "314553084",
+            "osm_type": "node",
+            "lat": 47.2346007,
+            "lon": 12.1964004,
+            "ele": "911",
+            "name": "Krimml",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "Salzburg AG, Pinzgauer Lokalbahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "52.7",
+            "railway:position:exact": "52.732",
+            "railway:ref": "Krl",
+            "train": "yes",
+            "uic_name": "Krimml",
+            "uic_ref": "8100296"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1964004,
+              47.2346007
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "314559544",
+            "osm_type": "node",
+            "lat": 47.2696893,
+            "lon": 12.3446062,
+            "name": "Bramberg",
+            "network": "Salzburger Verkehrsverbund",
+            "on_demand": "yes",
+            "operator": "Salzburg AG, Pinzgauer Lokalbahn",
+            "railway": "station",
+            "railway:ref": "Bbg",
+            "train": "yes",
+            "uic_name": "Bramberg am Wildkogel",
+            "uic_ref": "8100458"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3446062,
+              47.2696893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "314566710",
+            "osm_type": "node",
+            "lat": 47.2772859,
+            "lon": 12.3885788,
+            "alt_name": "Dorf-Paß Thurn",
+            "disused:railway:ref": "Hba H1",
+            "name": "Dorf-Pass Thurn",
+            "network": "Salzburger Verkehrsverbund",
+            "note": "Neues Betriebskürzel, da jetzt Bf und nicht mehr Hst?",
+            "old_name": "Dorf-Paßthurn",
+            "operator": "Salzburg AG, Pinzgauer Lokalbahn",
+            "railway": "station",
+            "railway:ref": "Dpt",
+            "uic_name": "Dorf im Pinzgau-Pass Thurn",
+            "uic_ref": "8100730"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3885788,
+              47.2772859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2517951362",
+            "osm_type": "node",
+            "lat": 47.2510649,
+            "lon": 12.2821823,
+            "name": "Neukirchen",
+            "on_demand": "yes",
+            "operator": "SLB",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ner",
+            "request_stop": "yes",
+            "uic_name": "Neukirchen am Großvenediger",
+            "uic_ref": "8100433",
+            "wheelchair": "yes",
+            "wikidata": "Q111705496"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2821823,
+              47.2510649
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 12.392062499999998,
+        "north": 47.36431175,
+        "east": 13.345766
+      },
+      "poiCount": 17,
+      "leafCount": 17,
+      "averagePosition": [
+        12.872595547058822,
+        47.2535177117647
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2972088694",
+            "osm_type": "node",
+            "lat": 47.2836631,
+            "lon": 12.481078,
+            "name": "Mittersill Bahnhof",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "Salzburg AG Verkehr",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "28.6",
+            "railway:position:exact": "28.570",
+            "railway:ref": "Mil",
+            "train": "yes",
+            "uic_name": "Mittersill",
+            "uic_ref": "8100480"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.481078,
+              47.2836631
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2978153679",
+            "osm_type": "node",
+            "lat": 47.2857932,
+            "lon": 12.5267159,
+            "name": "Stuhlfelden Ort",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "Salzburg AG Verkehr",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Slf",
+            "source": "geoimage.at",
+            "train": "yes",
+            "uic_name": "Stuhlfelden",
+            "uic_ref": "8100314"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5267159,
+              47.2857932
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "251337936",
+            "osm_type": "node",
+            "lat": 47.1910888,
+            "lon": 12.6832794,
+            "name": "Gletscher Shuttle",
+            "public_transport": "station",
+            "railway": "station",
+            "station": "funicular",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6832794,
+              47.1910888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "251337937",
+            "osm_type": "node",
+            "lat": 47.1891315,
+            "lon": 12.6847776,
+            "name": "Gletscher Shuttle",
+            "public_transport": "station",
+            "railway": "station",
+            "station": "funicular",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6847776,
+              47.1891315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "256074989",
+            "osm_type": "node",
+            "lat": 47.2927877,
+            "lon": 12.9468091,
+            "name": "Taxenbach-Rauris",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "84.3",
+            "railway:position:exact": "84.328",
+            "railway:ref": "Ta",
+            "uic_name": "Taxenbach-Rauris",
+            "uic_ref": "8100046",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9468091,
+              47.2927877
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "616151316",
+            "osm_type": "node",
+            "lat": 47.2846108,
+            "lon": 12.8283989,
+            "name": "Bruck-Fusch",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "93.7",
+            "railway:position:exact": "93.734",
+            "railway:ref": "Brf",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8283989,
+              47.2846108
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2981880082",
+            "osm_type": "node",
+            "lat": 47.3079946,
+            "lon": 12.7940238,
+            "name": "Tischlerhäusl",
+            "operator": "Salzburg AG Verkehr",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "1.5",
+            "railway:position:exact": "1.526",
+            "railway:ref": "Tih",
+            "train": "yes",
+            "uic_name": "Schüttdorf Tischlerhäusl",
+            "uic_ref": "8101671",
+            "wheelchair": "yes",
+            "wikidata": "Q114052024"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7940238,
+              47.3079946
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3441840082",
+            "osm_type": "node",
+            "lat": 47.2809826,
+            "lon": 12.5741557,
+            "name": "Uttendorf-Stubachtal",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "Salzburg AG Verkehr",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ut",
+            "train": "yes",
+            "uic_name": "Uttendorf-Stubachtal",
+            "uic_ref": "8100334",
+            "wikidata": "Q114054547"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5741557,
+              47.2809826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508434078",
+            "osm_type": "node",
+            "lat": 47.3206646,
+            "lon": 12.7968853,
+            "name": "Zell am See",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "99.4 / 0.0",
+            "railway:position:exact": "99.414 / 0.000",
+            "railway:ref": "Z",
+            "train": "yes",
+            "uic_name": "Zell am See",
+            "uic_ref": "8100048",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7968853,
+              47.3206646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3940339588",
+            "osm_type": "node",
+            "lat": 47.2822945,
+            "lon": 12.6471019,
+            "name": "Niedernsill",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "Salzburg AG Verkehr",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Nsi",
+            "train": "yes",
+            "uic_name": "Niedernsill",
+            "uic_ref": "8100500",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6471019,
+              47.2822945
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "87015765",
+            "osm_type": "node",
+            "lat": 47.2385176,
+            "lon": 13.1032205,
+            "name": "Dorfgastein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "14.3",
+            "railway:position:exact": "14.313",
+            "railway:ref": "Dg",
+            "uic_name": "Dorfgastein",
+            "uic_ref": "8100098",
+            "wheelchair": "yes",
+            "wikidata": "Q32800339",
+            "wikipedia": "de:Bahnhof Dorfgastein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1032205,
+              47.2385176
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508395180",
+            "osm_type": "node",
+            "lat": 47.3185635,
+            "lon": 13.1545947,
+            "name": "Schwarzach-St. Veit",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "66.5 / 0.0",
+            "railway:position:exact": "66.546 / 0.000",
+            "railway:ref": "Swa",
+            "uic_name": "Schwarzach-St. Veit",
+            "uic_ref": "8100044",
+            "wheelchair": "yes",
+            "wikidata": "Q20480853",
+            "wikipedia": "de:Bahnhof Schwarzach-St. Veit"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1545947,
+              47.3185635
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508395181",
+            "osm_type": "node",
+            "lat": 47.3484164,
+            "lon": 13.1948877,
+            "name": "St. Johann im Pongau",
+            "network": "Salzburger Verkehrsverbund",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Jp",
+            "uic_name": "St. Johann im Pongau",
+            "uic_ref": "8100043",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1948877,
+              47.3484164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508434066",
+            "osm_type": "node",
+            "lat": 47.2975138,
+            "lon": 13.0553409,
+            "name": "Lend",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "75.0",
+            "railway:position:exact": "74.978",
+            "railway:ref": "Ld",
+            "uic_name": "Lend",
+            "uic_ref": "8100045",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0553409,
+              47.2975138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508448106",
+            "osm_type": "node",
+            "lat": 47.1117714,
+            "lon": 13.1319224,
+            "name": "Bad Gastein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "30.1",
+            "railway:position:exact": "30.078",
+            "railway:ref": "Bag",
+            "uic_ref": "8100095"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1319224,
+              47.1117714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508448107",
+            "osm_type": "node",
+            "lat": 47.1954093,
+            "lon": 13.1005431,
+            "name": "Bad Hofgastein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "19.3",
+            "railway:position:exact": "19.281",
+            "railway:ref": "Hg",
+            "uic_name": "Bad Hofgastein",
+            "uic_ref": "8100097",
+            "wikidata": "Q32312972",
+            "wikipedia": "de:Bahnhof Bad Hofgastein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1005431,
+              47.1954093
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508448108",
+            "osm_type": "node",
+            "lat": 47.0805977,
+            "lon": 13.1303894,
+            "ele": "1173",
+            "name": "Böckstein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "34.2",
+            "railway:position:exact": "34.183",
+            "railway:ref": "Bs",
+            "uic_ref": "8100094",
+            "wheelchair": "limited",
+            "wikidata": "Q32555336",
+            "wikipedia": "de:Bahnhof Böckstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1303894,
+              47.0805977
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 11.438358999999998,
+        "north": 47.694865,
+        "east": 12.392062499999998
+      },
+      "poiCount": 18,
+      "leafCount": 18,
+      "averagePosition": [
+        11.971708561111111,
+        47.488033155555556
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "26827614",
+            "osm_type": "node",
+            "lat": 47.3884246,
+            "lon": 11.778271,
+            "name": "Jenbach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "40.9",
+            "railway:position:exact": "40.882",
+            "railway:ref": "Jb",
+            "railway:ref:DB": "XAJB",
+            "uic_name": "Jenbach",
+            "uic_ref": "8100102",
+            "wheelchair": "yes",
+            "wikidata": "Q663697",
+            "wikipedia": "de:Bahnhof Jenbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.778271,
+              47.3884246
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "206156533",
+            "osm_type": "node",
+            "lat": 47.6757044,
+            "lon": 12.010998,
+            "name": "Bayrischzell",
+            "operator": "DB Station&Service AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MBZ",
+            "railway:station_category": "6",
+            "train": "yes",
+            "uic_ref": "8000834",
+            "wheelchair": "yes",
+            "wikidata": "Q108409013"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.010998,
+              47.6757044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "333885002",
+            "osm_type": "node",
+            "lat": 47.4258823,
+            "lon": 11.7296929,
+            "alt_name": "Seespitz am Achensee",
+            "ele": "931",
+            "name": "Achensee Seespitz",
+            "operator": "Achenseebahn AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:position": "6.7",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikimedia_commons": "File:Achenseebahn train at Seespitz station.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7296929,
+              47.4258823
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "333885228",
+            "osm_type": "node",
+            "lat": 47.3889938,
+            "lon": 11.7793332,
+            "contact:phone": "+43 5244 62243",
+            "ele": "530",
+            "email": "info@achenseebahn.at",
+            "name": "Jenbach Achenseebahn",
+            "operator": "Achenseebahn AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "0.0",
+            "train": "yes",
+            "website": "https://www.achenseebahn.at/",
+            "wheelchair": "no",
+            "wikimedia_commons": "File:Bahnhof Jenbach - Achenseebahn, 2014 (03).JPG"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7793332,
+              47.3889938
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2146624287",
+            "osm_type": "node",
+            "lat": 47.4348573,
+            "lon": 11.8802601,
+            "addr:city": "Brixlegg",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "6230",
+            "addr:street": "Marktstraße",
+            "name": "Brixlegg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "31.3",
+            "railway:position:exact": "31.303",
+            "railway:ref": "Bri",
+            "railway:ref:DB": "XABX",
+            "uic_name": "Brixlegg",
+            "uic_ref": "8100101",
+            "wheelchair": "yes",
+            "wikidata": "Q800570",
+            "wikipedia": "de:Bahnhof Brixlegg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8802601,
+              47.4348573
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2999610874",
+            "osm_type": "node",
+            "lat": 47.388141,
+            "lon": 11.7782126,
+            "ele": "530",
+            "name": "Jenbach Zillertalbahn",
+            "network": "Verkehrsverbund Tirol",
+            "network:short": "VVT",
+            "network:wikidata": "Q1668732",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "0.0",
+            "railway:position:exact": "0.000",
+            "railway:ref:DB": "XAJBZ",
+            "train": "yes",
+            "uic_name": "Jenbach Zillertalbahn",
+            "uic_ref": "8100545",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7782126,
+              47.388141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3222103461",
+            "osm_type": "node",
+            "lat": 47.6802772,
+            "lon": 11.5735467,
+            "name": "Lenggries",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MLG",
+            "railway:station_category": "6",
+            "ref:station": "3664",
+            "uic_ref": "8003643",
+            "website": "http://www.bayerischeoberlandbahn.de/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5735467,
+              47.6802772
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3388460416",
+            "osm_type": "node",
+            "lat": 47.3952794,
+            "lon": 11.8182984,
+            "ele": "525",
+            "name": "Strass im Zillertal",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "3.5",
+            "railway:position:exact": "3.470",
+            "wheelchair": "yes",
+            "wikidata": "Q72834203"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8182984,
+              47.3952794
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3388460433",
+            "osm_type": "node",
+            "lat": 47.3777447,
+            "lon": 11.8436775,
+            "ele": "535",
+            "name": "Schlitters-Bruck am Ziller",
+            "operator": "Zillertaler Verkehrsbetriebe",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "6.4",
+            "railway:position:exact": "6.440",
+            "wheelchair": "no",
+            "wikidata": "Q111044828"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8436775,
+              47.3777447
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4203730478",
+            "osm_type": "node",
+            "lat": 47.4141128,
+            "lon": 11.7633187,
+            "ele": "970",
+            "name": "Eben am Achensee",
+            "operator": "Achenseebahn AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "3.6"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7633187,
+              47.4141128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "27144630",
+            "osm_type": "node",
+            "lat": 47.5196061,
+            "lon": 12.0939124,
+            "name": "Kirchbichl",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:position": "11.9",
+            "railway:position:exact": "11.920",
+            "railway:ref": "Kir",
+            "railway:ref:DB": "XAKL",
+            "uic_ref": "8100290",
+            "wheelchair": "no",
+            "wikidata": "Q72833763"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0939124,
+              47.5196061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "27322337",
+            "osm_type": "node",
+            "lat": 47.4915138,
+            "lon": 12.0606215,
+            "addr:city": "Wörgl",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "6300",
+            "addr:street": "Bahnhofplatz",
+            "name": "Wörgl Hauptbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "16.0",
+            "railway:position:exact": "16.027",
+            "railway:ref": "W",
+            "short_name": "Wörgl Hbf",
+            "uic_name": "Wörgl Hbf",
+            "uic_ref": "8100099",
+            "wheelchair": "yes",
+            "wikidata": "Q871927",
+            "wikipedia": "de:Wörgl Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0606215,
+              47.4915138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "36632331",
+            "osm_type": "node",
+            "lat": 47.4489417,
+            "lon": 12.3090792,
+            "name": "Kirchberg in Tirol",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "166.4",
+            "railway:position:exact": "166.385",
+            "railway:ref": "Kit",
+            "train": "yes",
+            "uic_ref": "8100057",
+            "wheelchair": "no",
+            "wikidata": "Q72831136"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3090792,
+              47.4489417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "36635240",
+            "osm_type": "node",
+            "lat": 47.4542348,
+            "lon": 12.3910162,
+            "name": "Kitzbühel",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "157.1",
+            "railway:position:exact": "157.077",
+            "railway:ref": "Kzb",
+            "toilets:wheelchair": "yes",
+            "uic_ref": "8100055",
+            "wheelchair": "yes",
+            "wikidata": "Q72833788",
+            "wikipedia": "en:Kitzbühel railway station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3910162,
+              47.4542348
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1364686371",
+            "osm_type": "node",
+            "lat": 47.5829718,
+            "lon": 12.165727,
+            "name": "Kufstein",
+            "name:zh": "库尔施泰因",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "8",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "2.3",
+            "railway:position:exact": "2.339",
+            "railway:ref": "K",
+            "railway:ref:DB": "XAKN",
+            "toilets:wheelchair": "yes",
+            "uic_name": "Kufstein",
+            "uic_ref": "8100001",
+            "wheelchair": "limited",
+            "wikidata": "Q801040",
+            "wikipedia": "de:Bahnhof Kufstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.165727,
+              47.5829718
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3020574344",
+            "osm_type": "node",
+            "lat": 47.4554415,
+            "lon": 12.1490355,
+            "name": "Hopfgarten",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "183.4",
+            "railway:position:exact": "183.447",
+            "railway:ref": "Hp",
+            "uic_name": "Hopfgarten im Brixental",
+            "uic_ref": "8100059",
+            "wheelchair": "limited",
+            "wikidata": "Q72808338"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1490355,
+              47.4554415
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4696899514",
+            "osm_type": "node",
+            "lat": 47.6098511,
+            "lon": 12.1905026,
+            "name": "Kiefersfelden",
+            "operator": "DB",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MKI",
+            "railway:station_category": "4",
+            "ref:station": "3172",
+            "train": "yes",
+            "uic_name": "Kiefersfelden",
+            "uic_ref": "8003249",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1905026,
+              47.6098511
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8361421746",
+            "osm_type": "node",
+            "lat": 47.6526185,
+            "lon": 12.1752506,
+            "name": "Oberaudorf",
+            "operator": "DB",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MOD",
+            "railway:station_category": "5",
+            "uic_name": "Oberaudorf",
+            "uic_ref": "8004507",
+            "wheelchair": "yes",
+            "wikidata": "Q105474954"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1752506,
+              47.6526185
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 12.392062499999998,
+        "north": 47.694865,
+        "east": 13.345766
+      },
+      "poiCount": 11,
+      "leafCount": 11,
+      "averagePosition": [
+        13.008072072727272,
+        47.51947732727273
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "36635331",
+            "osm_type": "node",
+            "lat": 47.5196013,
+            "lon": 12.4308187,
+            "name": "St. Johann in Tirol",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "147.7",
+            "railway:position:exact": "147.675",
+            "railway:ref": "Jti",
+            "toilets:wheelchair": "yes",
+            "uic_name": "St. Johann in Tirol",
+            "uic_ref": "8100054",
+            "wheelchair": "yes",
+            "wikidata": "Q72833891"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4308187,
+              47.5196013
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "129973615",
+            "osm_type": "node",
+            "lat": 47.467447,
+            "lon": 12.6266025,
+            "name": "Hochfilzen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "130.1",
+            "railway:position:exact": "130.141",
+            "railway:ref": "Hch",
+            "uic_ref": "8100052",
+            "wikidata": "Q72830709"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6266025,
+              47.467447
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3261599953",
+            "osm_type": "node",
+            "lat": 47.626717,
+            "lon": 12.9997241,
+            "name": "Berchtesgaden Hauptbahnhof",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MBG",
+            "railway:station_category": "5",
+            "short_name": "Berchtesgaden Hbf",
+            "uic_ref": "8000885",
+            "wheelchair": "yes",
+            "wikidata": "Q818813",
+            "wikipedia": "de:Berchtesgaden Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9997241,
+              47.626717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3270130580",
+            "osm_type": "node",
+            "lat": 47.651861,
+            "lon": 12.9602426,
+            "name": "Bischofswiesen",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MBI",
+            "railway:station_category": "6",
+            "ref:station": "672",
+            "uic_ref": "8000997",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9602426,
+              47.651861
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508395179",
+            "osm_type": "node",
+            "lat": 47.4268102,
+            "lon": 12.8297861,
+            "name": "Saalfelden",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "112.3",
+            "railway:position:exact": "112.335",
+            "railway:ref": "Saa",
+            "train": "yes",
+            "uic_name": "Saalfelden",
+            "uic_ref": "8100049",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8297861,
+              47.4268102
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2647508847",
+            "osm_type": "node",
+            "lat": 47.6850362,
+            "lon": 13.0996782,
+            "name": "Hallein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Hl",
+            "uic_ref": "8100040",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0996782,
+              47.6850362
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2647539046",
+            "osm_type": "node",
+            "lat": 47.6008219,
+            "lon": 13.1640565,
+            "name": "Golling-Abtenau",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gg",
+            "uic_name": "Golling-Abtenau",
+            "uic_ref": "8100041",
+            "wheelchair": "yes",
+            "wikidata": "Q60616614",
+            "wikipedia": "de:Bahnhof Golling-Abtenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1640565,
+              47.6008219
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2653581695",
+            "osm_type": "node",
+            "lat": 47.4304137,
+            "lon": 13.2544928,
+            "name": "Pöham",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ph"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2544928,
+              47.4304137
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508395173",
+            "osm_type": "node",
+            "lat": 47.4179034,
+            "lon": 13.219954,
+            "name": "Bischofshofen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Bo",
+            "uic_ref": "8100042",
+            "wheelchair": "limited",
+            "wikidata": "Q15107137",
+            "wikipedia": "de:Bahnhof Bischofshofen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.219954,
+              47.4179034
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3508395183",
+            "osm_type": "node",
+            "lat": 47.4728332,
+            "lon": 13.1952361,
+            "name": "Werfen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Rf",
+            "uic_name": "Werfen",
+            "uic_ref": "8100539",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1952361,
+              47.4728332
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12395717629",
+            "osm_type": "node",
+            "lat": 47.4148057,
+            "lon": 13.3082012,
+            "name": "Hüttau",
+            "note": "Personenhalt heißt Hüttau",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Hue"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3082012,
+              47.4148057
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

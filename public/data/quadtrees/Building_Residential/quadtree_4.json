@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    14.146924400000001,
+    46.58376823333333
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11584847450",
+        "osm_type": "node",
+        "lat": 46.4858965,
+        "lon": 13.8387522,
+        "building": "residential"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8387522,
+          46.4858965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1831986954",
+        "osm_type": "node",
+        "lat": 46.6326664,
+        "lon": 14.3009251,
+        "addr:city": "Klagenfurt am Wörthersee",
+        "addr:country": "AT",
+        "addr:housenumber": "12a,12b",
+        "addr:street": "Blumengasse",
+        "building": "residential"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3009251,
+          46.6326664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1831986957",
+        "osm_type": "node",
+        "lat": 46.6327418,
+        "lon": 14.3010959,
+        "addr:city": "Klagenfurt am Wörthersee",
+        "addr:country": "AT",
+        "addr:housenumber": "12c,12d",
+        "building": "residential"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3010959,
+          46.6327418
+        ]
+      }
+    }
+  ],
+  "children": []
+}

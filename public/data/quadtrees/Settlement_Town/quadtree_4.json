@@ -1,0 +1,937 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 35,
+  "leafCount": 35,
+  "averagePosition": [
+    14.275423605714286,
+    46.68068742571429
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64002482",
+        "osm_type": "node",
+        "lat": 46.5896276,
+        "lon": 15.0235456,
+        "ele": "390.4",
+        "is_in:country": "Slovenia",
+        "is_in:country_code": "SI",
+        "name": "Dravograd",
+        "name:ru": "Дравоград",
+        "name:sl": "Dravograd",
+        "name:sr": "Дравоград",
+        "old_name:de": "Unterdrauburg",
+        "place": "town",
+        "population": "3088",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "wikidata": "Q15867",
+        "wikipedia": "sl:Dravograd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0235456,
+          46.5896276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "186636093",
+        "osm_type": "node",
+        "lat": 46.6604246,
+        "lon": 14.6340505,
+        "name": "Völkermarkt",
+        "name:sl": "Velikovec",
+        "place": "town",
+        "population": "4747",
+        "population:date": "2024-01-01",
+        "source:population": "wikipedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6340505,
+          46.6604246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240110468",
+        "osm_type": "node",
+        "lat": 46.4868033,
+        "lon": 14.5932323,
+        "name": "Bad Eisenkappel/Železna Kapla",
+        "name:de": "Bad Eisenkappel",
+        "name:sl": "Železna Kapla",
+        "place": "town",
+        "population": "872",
+        "wikidata": "Q14954747",
+        "wikipedia": "de:Bad Eisenkappel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5932323,
+          46.4868033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240120735",
+        "osm_type": "node",
+        "lat": 46.8390583,
+        "lon": 14.8452061,
+        "ele": "463",
+        "name": "Wolfsberg",
+        "name:hu": "Wolfsberg",
+        "name:ru": "Вольфсберг",
+        "name:sl": "Volšperk",
+        "place": "town",
+        "population": "25045",
+        "postal_code": "9400",
+        "wikidata": "Q487527",
+        "wikipedia": "de:Wolfsberg (Kärnten)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8452061,
+          46.8390583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240129992",
+        "osm_type": "node",
+        "lat": 46.7661111,
+        "lon": 14.8236111,
+        "name": "Sankt Andrä",
+        "name:ru": "Санкт-Андре",
+        "note": "population stands for town, not for municipality",
+        "place": "town",
+        "population": "1299",
+        "population:date": "2011-10-31",
+        "postal_code": "9433",
+        "source:population": "wikipedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8236111,
+          46.7661111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "287385515",
+        "osm_type": "node",
+        "lat": 46.5195022,
+        "lon": 14.8521528,
+        "name": "Mežica",
+        "name:ru": "Межица",
+        "name:sl": "Mežica",
+        "name:sr": "Межица",
+        "old_name:de": "Mießdorf",
+        "place": "town",
+        "population": "3400",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "wikidata": "Q15898",
+        "wikipedia": "sl:Mežica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8521528,
+          46.5195022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "287387287",
+        "osm_type": "node",
+        "lat": 46.5446516,
+        "lon": 14.9622863,
+        "name": "Ravne na Koroškem",
+        "name:ru": "Равне-на-Корошкем",
+        "name:sl": "Ravne na Koroškem",
+        "name:sr": "Равне на Корошкем",
+        "old_name": "Guštanj",
+        "old_name:de": "Gutenstein",
+        "place": "town",
+        "population": "7000",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "wikidata": "Q15911",
+        "wikipedia": "sl:Ravne na Koroškem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9622863,
+          46.5446516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "290421432",
+        "osm_type": "node",
+        "lat": 46.5460617,
+        "lon": 14.9169796,
+        "ele": "415",
+        "name": "Prevalje",
+        "name:ru": "Превале",
+        "name:sl": "Prevalje",
+        "name:sr": "Преваље",
+        "old_name:de": "Prävali",
+        "place": "town",
+        "population": "4700",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "wikidata": "Q15905",
+        "wikipedia": "sl:Prevalje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9169796,
+          46.5460617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1993122158",
+        "osm_type": "node",
+        "lat": 46.5901133,
+        "lon": 14.7989915,
+        "name": "Bleiburg/Pliberk",
+        "name:de": "Bleiburg",
+        "name:ru": "Блайбург",
+        "name:sl": "Pliberk",
+        "place": "town",
+        "population": "1339",
+        "wikidata": "Q871356",
+        "wikipedia": "de:Bleiburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7989915,
+          46.5901133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34911644",
+        "osm_type": "node",
+        "lat": 46.8146272,
+        "lon": 15.2137799,
+        "name": "Deutschlandsberg",
+        "name:hu": "Deutschlandsberg",
+        "name:ru": "Дойчландсберг",
+        "place": "town",
+        "population": "7983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2137799,
+          46.8146272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64001817",
+        "osm_type": "node",
+        "lat": 46.509144,
+        "lon": 15.0790677,
+        "alt_name:bg": "Виндишгрец",
+        "alt_name:cs": "Slovinský Hradec",
+        "alt_name:de": "Windischgraz",
+        "alt_name:la": "Graecium Slovenum",
+        "is_in:country": "Slovenia",
+        "is_in:country_code": "SI",
+        "name": "Slovenj Gradec",
+        "name:ar": "سلوفينج غرادتس",
+        "name:ba": "Словень-Градец",
+        "name:be": "Словень-Градэц",
+        "name:bg": "Словен градец",
+        "name:ce": "Словень Градець",
+        "name:el": "Σλοβένι Γκράντετς",
+        "name:fa": "سلونی گرادتس",
+        "name:hy": "Սլովեն Գրադեց",
+        "name:ja": "スロヴェニ・グラデツ",
+        "name:ko": "슬로벤그라데츠",
+        "name:la": "Colatio",
+        "name:lt": "Sloven Gradecas",
+        "name:mk": "Словењ Градец",
+        "name:ru": "Словень-Градец",
+        "name:sl": "Slovenj Gradec",
+        "name:sr": "Словењ Градец",
+        "name:th": "สลอเวงกราเดิตส์",
+        "name:tt": "Словень Градець",
+        "name:uk": "Словень Градець",
+        "name:zh-Hans": "斯洛文尼亚格拉代茨",
+        "name:zh-Hant": "斯洛維尼亞格拉代茨",
+        "old_name:de": "Windischgrätz",
+        "place": "town",
+        "population": "7500",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "website": "https://www.slovenjgradec.si/",
+        "wikidata": "Q15918",
+        "wikipedia": "sl:Slovenj Gradec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0790677,
+          46.509144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "96959453",
+        "osm_type": "node",
+        "lat": 46.3773929,
+        "lon": 15.0459505,
+        "name": "Šoštanj",
+        "name:de": "Schönstein",
+        "name:ru": "Шоштань",
+        "name:sl": "Šoštanj",
+        "name:sr": "Шоштањ",
+        "place": "town",
+        "population": "2900",
+        "source:population": "http://www.stat.si/KrajevnaImena/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0459505,
+          46.3773929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240052146",
+        "osm_type": "node",
+        "lat": 46.9065611,
+        "lon": 13.5359844,
+        "full_name": "Gmünd in Kärnten",
+        "name": "Gmünd",
+        "place": "town",
+        "population": "1547",
+        "postal_code": "9853",
+        "ref:at:gkz": "2060803",
+        "ref:at:okz": "01896",
+        "wikidata": "Q660580",
+        "wikipedia": "de:Gmünd in Kärnten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5359844,
+          46.9065611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "185432598",
+        "osm_type": "node",
+        "lat": 46.8751209,
+        "lon": 14.2897692,
+        "name": "Gurk",
+        "place": "town",
+        "population": "861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2897692,
+          46.8751209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240052875",
+        "osm_type": "node",
+        "lat": 46.8955368,
+        "lon": 14.3313853,
+        "ele": "642",
+        "name": "Straßburg",
+        "place": "town",
+        "population": "2138",
+        "postal_code": "9341",
+        "wikidata": "Q660945",
+        "wikipedia": "de:Straßburg (Kärnten)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3313853,
+          46.8955368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "343343868",
+        "osm_type": "node",
+        "lat": 46.9520636,
+        "lon": 14.4052266,
+        "name": "Friesach",
+        "name:ru": "Фризах",
+        "place": "town",
+        "population": "2238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4052266,
+          46.9520636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240079112",
+        "osm_type": "node",
+        "lat": 46.9646368,
+        "lon": 14.7887727,
+        "alt_name": "Bad Sankt Leonhard",
+        "ele": "714",
+        "int_name": "Bad Sankt Leonhard im Lavanttal",
+        "name": "Bad Sankt Leonhard im Lavanttal",
+        "old_name": "St. Leonhard im Lavantthale",
+        "place": "town",
+        "population": "4386",
+        "postal_code": "9462",
+        "wikidata": "Q660781",
+        "wikipedia": "de:Bad St. Leonhard im Lavanttal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7887727,
+          46.9646368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31238888",
+        "osm_type": "node",
+        "lat": 46.7982211,
+        "lon": 13.4963308,
+        "ele": "560",
+        "name": "Spittal an der Drau",
+        "name:hu": "Spittal an der Drau",
+        "name:ja": "シュピッタール",
+        "name:sl": "Špital ob Dravi",
+        "official_name:ja": "シュピッタール・アン・デア・ドラウ",
+        "openGeoDB:community_identification_number": "2063523",
+        "openGeoDB:loc_id": "30179",
+        "openGeoDB:postal_codes": "9800,9802,9803",
+        "outdoor_seating": "no",
+        "place": "town",
+        "population": "15549",
+        "wikidata": "Q487500",
+        "wikipedia": "de:Spittal an der Drau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4963308,
+          46.7982211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36487909",
+        "osm_type": "node",
+        "lat": 46.8190736,
+        "lon": 13.5186548,
+        "ele": "618",
+        "name": "Seeboden",
+        "place": "town",
+        "population": "6325",
+        "postal_code": "9871",
+        "wikidata": "Q660576",
+        "wikipedia": "de:Seeboden am Millstätter See"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5186548,
+          46.8190736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "185503543",
+        "osm_type": "node",
+        "lat": 46.6268076,
+        "lon": 13.3702382,
+        "name": "Hermagor",
+        "name:cs": "Šmohor",
+        "name:fur": "Sant Armacul",
+        "name:it": "Sant'Ermagora",
+        "name:sl": "Šmohor",
+        "place": "town",
+        "population": "1527",
+        "wikidata": "Q21871647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3702382,
+          46.6268076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29777261",
+        "osm_type": "node",
+        "lat": 46.6167284,
+        "lon": 13.8500268,
+        "ele": "501",
+        "name": "Villach",
+        "name:cs": "Bělák",
+        "name:de": "Villach",
+        "name:fur": "Vilac",
+        "name:hu": "Villach",
+        "name:it": "Villaco",
+        "name:ka": "ფილახი",
+        "name:ml": "വിലാഹ്",
+        "name:ru": "Филлах",
+        "name:sk": "Belák",
+        "name:sl": "Beljak",
+        "name:sr": "Филах",
+        "place": "town",
+        "population": "61221",
+        "population:date": "2016",
+        "postal_code": "9500",
+        "wikidata": "Q483522",
+        "wikipedia": "de:Villach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8500268,
+          46.6167284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36488223",
+        "osm_type": "node",
+        "lat": 46.8007487,
+        "lon": 13.7107017,
+        "alt_name": "die GranatStadt",
+        "name": "Radenthein",
+        "name:de": "Radenthein",
+        "name:ru": "Радентайн",
+        "name:zh": "拉登泰因",
+        "place": "town",
+        "population": "1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7107017,
+          46.8007487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36488725",
+        "osm_type": "node",
+        "lat": 46.8051293,
+        "lon": 13.5714926,
+        "addr:postcode": "9872",
+        "ele": "611",
+        "name": "Millstatt",
+        "name:ru": "Милльштатт",
+        "name:uk": "Мілльштатт",
+        "name:zh": "米尔施塔特",
+        "place": "town",
+        "population": "3334",
+        "postal_code": "9872",
+        "wikidata": "Q668044",
+        "wikipedia": "de:Millstatt am See"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5714926,
+          46.8051293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66503478",
+        "osm_type": "node",
+        "lat": 46.5052624,
+        "lon": 13.5783734,
+        "gfoss_id": "3788",
+        "name": "Tarvisio / Tarvis / Trbiž",
+        "name:de": "Tarvis",
+        "name:fur": "Tarvis",
+        "name:it": "Tarvisio",
+        "name:sl": "Trbiž",
+        "place": "town",
+        "population": "5071",
+        "source": "geodati.gfoss.it",
+        "wikidata": "Q18801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5783734,
+          46.5052624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240052359",
+        "osm_type": "node",
+        "lat": 46.6245962,
+        "lon": 13.6871559,
+        "ele": "902",
+        "name": "Bad Bleiberg",
+        "place": "town",
+        "population": "589",
+        "website": "https://www.bad-bleiberg.gv.at",
+        "wikidata": "Q535737",
+        "wikipedia": "de:Bad Bleiberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6871559,
+          46.6245962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240056349",
+        "osm_type": "node",
+        "lat": 46.548718,
+        "lon": 13.7071246,
+        "ele": "578",
+        "name": "Arnoldstein",
+        "name:fur": "Orestagn",
+        "name:it": "Oristagno",
+        "name:sl": "Podklošter",
+        "place": "town",
+        "population": "2035",
+        "population:date": "2016",
+        "source:population": "wikipedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7071246,
+          46.548718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240091192",
+        "osm_type": "node",
+        "lat": 46.5659297,
+        "lon": 13.8713597,
+        "name": "Finkenstein",
+        "place": "town",
+        "population": "1275",
+        "wikidata": "Q662080",
+        "wikipedia": "de:Finkenstein am Faaker See"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8713597,
+          46.5659297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "611750804",
+        "osm_type": "node",
+        "lat": 46.7037803,
+        "lon": 13.661408,
+        "name": "Feistritz an der Drau",
+        "name:cs": "Bystřice nad Drávou",
+        "place": "town",
+        "population": "1739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.661408,
+          46.7037803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "88222100",
+        "osm_type": "node",
+        "lat": 46.4323705,
+        "lon": 14.0623942,
+        "alt_name:bg": "Аслинг",
+        "alt_name:ko": "아슬링",
+        "ele": "576",
+        "name": "Jesenice",
+        "name:ar": "جيسينتسي",
+        "name:be": "Есеніцы",
+        "name:bg": "Йесенице",
+        "name:ce": "Есенице",
+        "name:de": "Aßling",
+        "name:fa": "یسنیتسه",
+        "name:hy": "Եսենիցե",
+        "name:ja": "イェセニツェ",
+        "name:ka": "ესენიცე",
+        "name:ko": "예세니체",
+        "name:lt": "Jesenicės",
+        "name:mk": "Јесенице",
+        "name:ru": "Есенице",
+        "name:sl": "Jesenice",
+        "name:sr": "Јесенице",
+        "name:tt": "Есенице",
+        "name:uk": "Єсениці",
+        "name:ur": "یسینیتسے",
+        "name:zh": "耶塞尼采",
+        "place": "town",
+        "population": "13400",
+        "source:population": "http://www.stat.si/KrajevnaImena/",
+        "website": "https://www.jesenice.si/",
+        "wikidata": "Q4165497",
+        "wikipedia": "sl:Jesenice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0623942,
+          46.4323705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240053135",
+        "osm_type": "node",
+        "lat": 46.6151882,
+        "lon": 14.0450583,
+        "addr:postcode": "9220",
+        "alt_name": "Velden am Wörthersee",
+        "name": "Velden",
+        "name:sl": "Vrba",
+        "official_name": "Velden am Wörther See",
+        "official_name:sl": "Vrba na Koroškem",
+        "place": "town",
+        "population": "9127",
+        "population:date": "2023-01-01",
+        "source:population": "wikipedia",
+        "website": "https://velden.gv.at/",
+        "wikidata": "Q660687",
+        "wikipedia": "en:Velden am Wörther See"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0450583,
+          46.6151882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240067971",
+        "osm_type": "node",
+        "lat": 46.7672814,
+        "lon": 14.3576981,
+        "name": "Sankt Veit an der Glan",
+        "name:hu": "Sankt Veit an der Glan",
+        "name:sl": "Sveti Vid",
+        "place": "town",
+        "population": "12255",
+        "population:date": "2023-01-01",
+        "short_name": "St. Veit",
+        "source:population": "wikipedia",
+        "website": "www.stveit.carinthia.at",
+        "wikidata": "Q494604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3576981,
+          46.7672814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240070188",
+        "osm_type": "node",
+        "lat": 46.5265324,
+        "lon": 14.3006203,
+        "alt_name": "Borovlje",
+        "name": "Ferlach",
+        "name:de": "Ferlach",
+        "name:hu": "Ferlach",
+        "name:ru": "Ферлах",
+        "name:sl": "Borovlje",
+        "name:uk": "Ферлах",
+        "place": "town",
+        "population": "7450",
+        "source": "geoimage.at",
+        "wikidata": "Q610514",
+        "wikipedia": "de:Ferlach",
+        "wikipedia:sl": "Borovlje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3006203,
+          46.5265324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240071579",
+        "osm_type": "node",
+        "lat": 46.6359543,
+        "lon": 14.1448209,
+        "alt_name": "Pörtschach am Wörthersee",
+        "name": "Pörtschach",
+        "name:ja": "ペルチャッハ",
+        "name:sl": "Poreče",
+        "official_name": "Pörtschach am Wörther See",
+        "official_name:sl": "Poreče ob Vrbskem jezeru",
+        "place": "town",
+        "population": "2937",
+        "population:date": "2023-01-01",
+        "postal_code": "9210",
+        "source:population": "wikipedia",
+        "wikidata": "Q875805",
+        "wikipedia": "en:Pörtschach am Wörthersee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1448209,
+          46.6359543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240101404",
+        "osm_type": "node",
+        "lat": 46.871383,
+        "lon": 14.4698793,
+        "name": "Althofen",
+        "name:hu": "Althofen",
+        "place": "town",
+        "population": "4950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4698793,
+          46.871383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240116186",
+        "osm_type": "node",
+        "lat": 46.7229178,
+        "lon": 14.0964965,
+        "ele": "554",
+        "name": "Feldkirchen",
+        "name:hu": "Feldkirchen in Kärnten",
+        "name:ru": "Фельдкирхен-ин-Кернтен",
+        "official_name": "Feldkirchen in Kärnten",
+        "place": "town",
+        "population": "14434",
+        "population:date": "2023-01-01",
+        "postal_code": "9560",
+        "source:population": "wikipedia",
+        "wikidata": "Q507533",
+        "wikipedia": "de:Feldkirchen in Kärnten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0964965,
+          46.7229178
+        ]
+      }
+    }
+  ],
+  "children": []
+}

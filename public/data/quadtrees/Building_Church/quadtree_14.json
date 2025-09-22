@@ -1,0 +1,80 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 13.345766,
+    "north": 49.017078,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    14.6149871,
+    48.68431506666667
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9439603318",
+        "osm_type": "node",
+        "lat": 48.6363101,
+        "lon": 13.9681023,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-10-20",
+        "church:type": "monastic",
+        "denomination": "catholic",
+        "name": "Stiftskirche Schlägl",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9681023,
+          48.6363101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2503047885",
+        "osm_type": "node",
+        "lat": 48.782659,
+        "lon": 14.6485716,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6485716,
+          48.782659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2439708116",
+        "osm_type": "node",
+        "lat": 48.6339761,
+        "lon": 15.2282874,
+        "building": "church",
+        "historic": "ruins",
+        "name": "Thomaskircherl",
+        "ruins": "yes",
+        "wikidata": "Q19631490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2282874,
+          48.6339761
+        ]
+      }
+    }
+  ],
+  "children": []
+}

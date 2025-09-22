@@ -1,0 +1,1851 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 13.345766,
+    "north": 48.355971499999995,
+    "east": 15.253173
+  },
+  "poiCount": 80,
+  "leafCount": 0,
+  "averagePosition": [
+    14.25413807875,
+    48.1323629875
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 13.345766,
+        "north": 48.02541825,
+        "east": 14.2994695
+      },
+      "poiCount": 17,
+      "leafCount": 17,
+      "averagePosition": [
+        13.788969611764704,
+        47.93902597058824
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1516074656",
+            "osm_type": "node",
+            "lat": 47.8577671,
+            "lon": 13.3494614,
+            "addr:city": "Mondsee",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "5310",
+            "addr:street": "Schloßweg",
+            "amenity": "library",
+            "email": "pfarrbibliothek.mondsee@aon.at",
+            "entrance": "yes",
+            "name": "Pfarrbibliothek Mondsee",
+            "opening_hours": "Tu 15:00-17:30; Fr 15:00-18:00; Su 09:00-11:30",
+            "phone": "+43 6232 36639"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3494614,
+              47.8577671
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5843843505",
+            "osm_type": "node",
+            "lat": 47.7398213,
+            "lon": 13.44652,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.44652,
+              47.7398213
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "693075655",
+            "osm_type": "node",
+            "lat": 47.8124091,
+            "lon": 13.7744686,
+            "addr:city": "Ebensee am Traunsee",
+            "addr:country": "AT",
+            "addr:housenumber": "34",
+            "addr:postcode": "4802",
+            "addr:street": "Hauptstraße",
+            "amenity": "library",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Gemeinde- und Pfarrbücherei Ebensee",
+            "opening_hours": "Mo,We,Fr 15:00-18:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7744686,
+              47.8124091
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12250318834",
+            "osm_type": "node",
+            "lat": 47.8543589,
+            "lon": 13.9562854,
+            "amenity": "library",
+            "name": "Bücherei Grünau im Almtal",
+            "opening_hours": "Mo,Sa 09:00-11:00; We,Fr 15:30-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9562854,
+              47.8543589
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1309789118",
+            "osm_type": "node",
+            "lat": 48.0076839,
+            "lon": 13.6556454,
+            "addr:city": "Vöcklabruck",
+            "addr:country": "AT",
+            "addr:housenumber": "13-15",
+            "addr:postcode": "4840",
+            "addr:street": "Hinterstadt",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wheelchair": "limited",
+            "wheelchair:description": "Hat einen rollstuhlgerechten Hintereingang",
+            "wikidata": "Q56238755"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6556454,
+              48.0076839
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1869870681",
+            "osm_type": "node",
+            "lat": 48.009582,
+            "lon": 13.6591824,
+            "addr:city": "Vöcklabruck",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "4840",
+            "addr:street": "Pfarrhofgries",
+            "amenity": "library",
+            "name": "Pfarrzentrum",
+            "phone": "+43 7672 72608-0",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6591824,
+              48.009582
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1885141492",
+            "osm_type": "node",
+            "lat": 48.0026234,
+            "lon": 13.6134795,
+            "addr:city": "Timelkam",
+            "addr:housenumber": "36",
+            "addr:postcode": "4850",
+            "addr:street": "Linzer Straße",
+            "amenity": "library",
+            "name": "Bücherei",
+            "operator": "Marktgemeinde Timelkam",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6134795,
+              48.0026234
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2326316528",
+            "osm_type": "node",
+            "lat": 48.0135079,
+            "lon": 13.723263,
+            "amenity": "library",
+            "entrance": "service",
+            "name": "Pfarrbücherei",
+            "noexit": "yes",
+            "opening_hours": "Su 08:45-10:45",
+            "operator": "Pfarre Heiliger Geist Attnang",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.723263,
+              48.0135079
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3008422250",
+            "osm_type": "node",
+            "lat": 47.9608579,
+            "lon": 14.0172305,
+            "amenity": "library",
+            "name": "Öffentliche Bücherei der Pfarre Pettenbach",
+            "opening_hours": "Fr 15:30-17:30; Su 09:30-11:30",
+            "operator": "Pfarre Pettenbach",
+            "wikidata": "Q56238472"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0172305,
+              47.9608579
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3867572137",
+            "osm_type": "node",
+            "lat": 47.9904865,
+            "lon": 13.6884467,
+            "amenity": "library",
+            "email": "buecherei.regau@aon.at",
+            "indoor": "yes",
+            "level": "0",
+            "name": "Bücherei Regau",
+            "opening_hours": "Su 10:30-11:30,Tu 09:00-10:30,Th 17:30-20:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6884467,
+              47.9904865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3900345955",
+            "osm_type": "node",
+            "lat": 47.9189467,
+            "lon": 13.8011337,
+            "addr:city": "Gmunden",
+            "addr:housenumber": "4",
+            "addr:postcode": "4810",
+            "addr:street": "Traungasse",
+            "amenity": "library",
+            "name": "Bücherei Gmunden",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8011337,
+              47.9189467
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4432839170",
+            "osm_type": "node",
+            "lat": 48.003946,
+            "lon": 13.9226063,
+            "amenity": "library",
+            "name": "Bibliothek Vorchdorf",
+            "opening_hours": "Tu 17:00-18:00; We 09:00-11:00; Fr 15:00-18:00; Su 08:30-11:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9226063,
+              48.003946
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8709316921",
+            "osm_type": "node",
+            "lat": 47.9883714,
+            "lon": 13.5557778,
+            "amenity": "library",
+            "check_date": "2025-03-19",
+            "name": "Bücherei Gampern",
+            "opening_hours": "Fr 18:00-19:00; Su 09:00-11:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5557778,
+              47.9883714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9842353002",
+            "osm_type": "node",
+            "lat": 47.934768,
+            "lon": 13.8461133,
+            "addr:city": "Gschwandt",
+            "addr:housenumber": "10",
+            "addr:postcode": "4816",
+            "addr:street": "Hauptstraße",
+            "amenity": "library",
+            "contact:email": "gschwandt.buecherei@aon.at",
+            "contact:phone": "0681 10209637",
+            "contact:website": "https://www.gschwandt.bvoe.at/",
+            "description": "Eingang zur Bücherei beim Hintereingang des Schulgebäudes (Von der Seite des Spielplatzes)",
+            "internet_access": "no",
+            "name": "Öffentliche Bibliothek Gschwandt",
+            "opening_hours": "Th 16:00-19:00; Su 9:00-11:00",
+            "operator": "Pfarre Gschwandt / Gemeinde Gschwandt",
+            "operator:type": "public",
+            "toilets": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8461133,
+              47.934768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1345574089",
+            "osm_type": "node",
+            "lat": 47.9898,
+            "lon": 14.1173178,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1173178,
+              47.9898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6106302202",
+            "osm_type": "node",
+            "lat": 47.9065981,
+            "lon": 14.1208451,
+            "addr:city": "Kirchdorf an der Krems",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "4560",
+            "addr:street": "Sengsschmiedstraße",
+            "amenity": "library",
+            "email": "buecherei.kirchdorf@aon.at",
+            "name": "Stadtbücherei",
+            "opening_hours": "Mo 14:00-18:00; Th 15:00-18:30; Sa 09:30-11:00",
+            "phone": "+43 7582 610-63",
+            "wikidata": "Q56238773"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1208451,
+              47.9065981
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7902323584",
+            "osm_type": "node",
+            "lat": 47.9719133,
+            "lon": 14.1647065,
+            "addr:city": "Nußbach",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "4542",
+            "addr:street": "Leonhardiweg",
+            "amenity": "library",
+            "email": "nussbach@bibliotheken.at",
+            "name": "Pfarrbücherei Nußbach",
+            "opening_hours": "We 18:00-20:00; Fr 11:00-12:00, 16:00-18:00; Su 08:00-11:00",
+            "website": "https://www.nussbach.bvoe.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1647065,
+              47.9719133
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 14.2994695,
+        "north": 48.02541825,
+        "east": 15.253173
+      },
+      "poiCount": 5,
+      "leafCount": 5,
+      "averagePosition": [
+        14.742539740000002,
+        47.94608422
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8548711485",
+            "osm_type": "node",
+            "lat": 47.8620158,
+            "lon": 15.0286421,
+            "addr:city": "Lunz am See",
+            "addr:housenumber": "5",
+            "addr:postcode": "3293",
+            "addr:street": "Schulstraße",
+            "amenity": "library",
+            "internet_access": "yes",
+            "name": "Bibliothek Lunz",
+            "operator": "Marktgemeinde Lunz am See",
+            "operator:type": "public",
+            "website": "https://www.lunz.bvoe.at/herzlich-willkommen-unserer-buecherwelt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0286421,
+              47.8620158
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2268082581",
+            "osm_type": "node",
+            "lat": 48.0214726,
+            "lon": 14.4077423,
+            "amenity": "library",
+            "name": "Pfarrbibliothek Garsten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4077423,
+              48.0214726
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3512282730",
+            "osm_type": "node",
+            "lat": 47.9476675,
+            "lon": 14.8953074,
+            "amenity": "library",
+            "name": "Rudolf-Kremayr-Bücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8953074,
+              47.9476675
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5455301727",
+            "osm_type": "node",
+            "lat": 47.9364576,
+            "lon": 14.6070407,
+            "addr:city": "Maria Neustift",
+            "addr:country": "AT",
+            "addr:housenumber": "28a",
+            "addr:place": "Neustift",
+            "addr:postcode": "4443",
+            "amenity": "library",
+            "at_bev:addr_date": "2021-10-01",
+            "name": "Bücherei Maria Neustift",
+            "website": "http://marianeustift.bvoe.at",
+            "wikidata": "Q56238393"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6070407,
+              47.9364576
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6338380662",
+            "osm_type": "node",
+            "lat": 47.9628076,
+            "lon": 14.7739662,
+            "addr:city": "Waidhofen an der Ybbs",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "3340",
+            "addr:street": "Schlossweg",
+            "amenity": "library",
+            "contact:phone": "+43 7442 511-229",
+            "description": "Zugang über Tourismusbüro",
+            "level": "-1",
+            "name": "Stadtbibliothek",
+            "opening_hours": "Tu, Fr 09:00-13:00; We, Th 14:00-17:00",
+            "website": "https://waidhofen.at/stadtbibliothek/person/stadtbibliothekarchivmuseum?type=A",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7739662,
+              47.9628076
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 13.345766,
+        "north": 48.355971499999995,
+        "east": 14.2994695
+      },
+      "poiCount": 29,
+      "leafCount": 29,
+      "averagePosition": [
+        14.058461000000001,
+        48.21512775862069
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1681535074",
+            "osm_type": "node",
+            "lat": 48.2107243,
+            "lon": 13.4879752,
+            "amenity": "library",
+            "name": "Stadtbücherei",
+            "wikidata": "Q56570498"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4879752,
+              48.2107243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1546229080",
+            "osm_type": "node",
+            "lat": 48.143332,
+            "lon": 13.7361541,
+            "amenity": "library",
+            "name": "Pfarrbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7361541,
+              48.143332
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2169180307",
+            "osm_type": "node",
+            "lat": 48.3020548,
+            "lon": 13.6352593,
+            "amenity": "library",
+            "name": "Gemeindebücherei Riedau",
+            "opening_hours": "Mo,Tu,Th 07:00-12:00, Mo 13:00-18:00, Th 13:00-17:00, Fr 07:00-13:00",
+            "wikidata": "Q56237700"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6352593,
+              48.3020548
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2315612504",
+            "osm_type": "node",
+            "lat": 48.132741,
+            "lon": 13.9427663,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9427663,
+              48.132741
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2327490874",
+            "osm_type": "node",
+            "lat": 48.2737755,
+            "lon": 13.7270577,
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "wheelchair": "no",
+            "wikidata": "Q56237685"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7270577,
+              48.2737755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4713360690",
+            "osm_type": "node",
+            "lat": 48.1808218,
+            "lon": 13.7944284,
+            "amenity": "library",
+            "name": "Bücherei",
+            "opening_hours": "Tu 19:00-20:00, Su 08:00-11:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7944284,
+              48.1808218
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5419733450",
+            "osm_type": "node",
+            "lat": 48.1539769,
+            "lon": 14.0172073,
+            "addr:housenumber": "33",
+            "addr:street": "Maria-Theresia-Straße",
+            "amenity": "library",
+            "check_date:opening_hours": "2025-07-17",
+            "name": "Stadtbücherei",
+            "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-12:00; PH off",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0172073,
+              48.1539769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6868294491",
+            "osm_type": "node",
+            "lat": 48.1919184,
+            "lon": 13.5441732,
+            "addr:city": "Hohenzell",
+            "addr:housenumber": "4",
+            "addr:postcode": "4921",
+            "addr:street": "Am Pfarrhof",
+            "amenity": "library",
+            "name": "Bücherei Hohenzell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5441732,
+              48.1919184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7575240773",
+            "osm_type": "node",
+            "lat": 48.0923353,
+            "lon": 13.5661572,
+            "amenity": "library",
+            "name": "Pfarrbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5661572,
+              48.0923353
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8257013839",
+            "osm_type": "node",
+            "lat": 48.2288985,
+            "lon": 13.924849,
+            "amenity": "library",
+            "name": "Bad Schallerbacher Bibliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.924849,
+              48.2288985
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "277309125",
+            "osm_type": "node",
+            "lat": 48.3101259,
+            "lon": 14.2830522,
+            "addr:city": "Linz",
+            "addr:country": "AT",
+            "addr:housenumber": "1-5",
+            "addr:postcode": "4041",
+            "addr:street": "Hauptstraße",
+            "amenity": "library",
+            "check_date:opening_hours": "2024-07-28",
+            "contact:email": "bib@mag.linz.at",
+            "contact:phone": "+43 732 7070 2953",
+            "contact:website": "http://www.linz.at/bibliothek",
+            "name": "Stadtbibliothek Urfahr",
+            "opening_hours": "Mo 12:00-18:00, Tu-Th 09:00-12:00, We,Th 13:00-17:00, Fr 09:00-17:00, Tu 13:00-18:00",
+            "operator": "Stadt Linz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2830522,
+              48.3101259
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "410664446",
+            "osm_type": "node",
+            "lat": 48.221163,
+            "lon": 14.2422663,
+            "addr:city": "Traun",
+            "addr:country": "AT",
+            "addr:postcode": "4050",
+            "amenity": "library",
+            "name": "Bibliothek Traun",
+            "opening_hours": "Tu 09:00-12:00,13:00-18:00; We 13:00-18:00; Th 09:00-12:00,13:00-18:00; Fr 13:00-18:00; Sa 09:00-12:00",
+            "wikidata": "Q56237504"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2422663,
+              48.221163
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "821606523",
+            "osm_type": "node",
+            "lat": 48.2908899,
+            "lon": 14.2883884,
+            "addr:city": "Linz",
+            "addr:housenumber": "26",
+            "addr:postcode": "4020",
+            "addr:street": "Kärntnerstraße",
+            "amenity": "library",
+            "contact:email": "vhs-bib@mag.linz.at",
+            "contact:fax": "+43 732 70704545",
+            "contact:phone": "+43 732 70700",
+            "contact:website": "http://www.wissensturm.at",
+            "name": "Stadtbibliothek",
+            "opening_hours": "Mo,Tu,Th,Fr 10:00-18:00; We 14:00-18:00; Sa 10:00-15:00; Su off",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2883884,
+              48.2908899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "920708897",
+            "osm_type": "node",
+            "lat": 48.2792228,
+            "lon": 14.2477414,
+            "addr:city": "Leonding",
+            "addr:country": "AT",
+            "addr:housenumber": "2c",
+            "addr:postcode": "4060",
+            "addr:street": "Stadtplatz",
+            "amenity": "library",
+            "contact:email": "stadtbuecherei@leonding.at",
+            "contact:phone": "+43 732 6878200",
+            "name": "Bücherei Leonding",
+            "name:en": "Public Library Leonding",
+            "opening_hours": "Mo off; Tu 13:00-19:00; We 08:00-12:00; Th 08:00-19:00; Fr 15:00-18:00; Sa-Su off"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2477414,
+              48.2792228
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "961610476",
+            "osm_type": "node",
+            "lat": 48.2520814,
+            "lon": 14.2585759,
+            "amenity": "library",
+            "contact:phone": "+43 732 676827",
+            "level": "2",
+            "name": "Bücherei Doppl",
+            "name:en": "Libary Doppl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2585759,
+              48.2520814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1262185684",
+            "osm_type": "node",
+            "lat": 48.2710123,
+            "lon": 14.2827044,
+            "amenity": "library",
+            "name": "Bibliothek - Volkshaus Keferfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2827044,
+              48.2710123
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1297479404",
+            "osm_type": "node",
+            "lat": 48.072936,
+            "lon": 14.0564449,
+            "amenity": "library",
+            "name": "Bibliothek Sattledt",
+            "website": "https://www.biblioweb.at/Sattledt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0564449,
+              48.072936
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1346199187",
+            "osm_type": "node",
+            "lat": 48.2045258,
+            "lon": 14.2504894,
+            "amenity": "library",
+            "name": "Stadtbibliothek Ansfelden",
+            "wheelchair": "yes",
+            "wikidata": "Q2326808"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2504894,
+              48.2045258
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1350029976",
+            "osm_type": "node",
+            "lat": 48.1109531,
+            "lon": 14.1905808,
+            "addr:city": "Kematen an der Krems",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "4531",
+            "addr:street": "Kirchenplatz",
+            "amenity": "library",
+            "email": "kematenooe@bibliotheken.at",
+            "name": "Öffentliche Bücherei der Pfarre Kematen / Krems",
+            "phone": "+43-7228-20523",
+            "website": "http://kematenooe.bvoe.at/",
+            "wikidata": "Q56238072"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1905808,
+              48.1109531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1377841917",
+            "osm_type": "node",
+            "lat": 48.3505142,
+            "lon": 14.1572886,
+            "amenity": "library",
+            "name": "Bücherei Walding"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1572886,
+              48.3505142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1855223322",
+            "osm_type": "node",
+            "lat": 48.0540844,
+            "lon": 14.1296186,
+            "amenity": "library",
+            "name": "Stiftsbibliothek Kremsmünster",
+            "toilets:wheelchair": "no",
+            "wheelchair": "no",
+            "wikidata": "Q2348727",
+            "wikipedia": "de:Stiftsbibliothek Kremsmünster"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1296186,
+              48.0540844
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3486449089",
+            "osm_type": "node",
+            "lat": 48.1447092,
+            "lon": 14.2793008,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2793008,
+              48.1447092
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3783170597",
+            "osm_type": "node",
+            "lat": 48.3114274,
+            "lon": 14.2411759,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Puchenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2411759,
+              48.3114274
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3966022896",
+            "osm_type": "node",
+            "lat": 48.0546224,
+            "lon": 14.1274095,
+            "amenity": "library",
+            "name": "Pfarrbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1274095,
+              48.0546224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6971060886",
+            "osm_type": "node",
+            "lat": 48.3036116,
+            "lon": 14.2915729,
+            "addr:housenumber": "20",
+            "addr:postcode": "4020",
+            "addr:street": "Bethlehemstraße",
+            "amenity": "library",
+            "email": "office@ku-linz.at",
+            "name": "Diözesan- und Universitätsbibliothek (DUB)",
+            "operator": "Katholische Privat-Universität Linz",
+            "phone": "+43 732 / 784293",
+            "ref:isil": "AT-HBTL",
+            "website": "https://ku-linz.at/bibliothek/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2915729,
+              48.3036116
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6971088728",
+            "osm_type": "node",
+            "lat": 48.2926637,
+            "lon": 14.2983598,
+            "addr:housenumber": "19",
+            "addr:postcode": "4020",
+            "addr:street": "Anzengruberstraße",
+            "amenity": "library",
+            "check_date:opening_hours": "2025-08-24",
+            "email": "landesarchiv@ooe.gv.at",
+            "name": "Oberösterreichisches Landesarchiv, Bibliothek",
+            "opening_hours": "Mo-Tu 08:30-17:00; We 08:30-13:30; Th 08:30-17:00",
+            "phone": "+43 732 7720-146 01",
+            "ref:isil": "AT-LAO",
+            "website": "https://www.landesarchiv-ooe.at/bibliothek-verlag/ooela-bibliothek/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2983598,
+              48.2926637
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6974269942",
+            "osm_type": "node",
+            "lat": 48.3057798,
+            "lon": 14.2937949,
+            "addr:housenumber": "14",
+            "addr:postcode": "4010",
+            "addr:street": "Museumstraße",
+            "amenity": "library",
+            "email": "bibliothek@landesmuseum.at",
+            "fixme": "Position inside building unknown",
+            "name": "Bibliothek des Landesmuseum",
+            "opening_hours": "Tu 10:00-13:00, 14:00-17:30; We 10:00-13:00; Th 10:00-13:00, 14:00-17:30; Fr 10:00-12:00",
+            "operator": "Oberösterreichisches Landesmuseum",
+            "phone": "+43 732 7720 522 19",
+            "ref:isil": "AT-LMO-BIB",
+            "website": "http://www.landesmuseum.at/de/bibliothek.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2937949,
+              48.3057798
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6974914276",
+            "osm_type": "node",
+            "lat": 48.3066561,
+            "lon": 14.2855845,
+            "addr:city": "Linz",
+            "addr:housenumber": "8/1",
+            "addr:postcode": "4020",
+            "addr:street": "Hauptplatz",
+            "amenity": "library",
+            "contact:email": "bibliothek.service@ufg.at",
+            "contact:phone": "+43 732 7898 2255",
+            "fixme": "Position in building unknown",
+            "name": "Kunstuniversität Linz: Bibliothek",
+            "name:de": "Kunstuniversität Linz: Bibliothek",
+            "name:en": "University of Art and Design: Library",
+            "official_name": "Universitätsbibliothek",
+            "opening_hours": "Mo 09:00-17:00; Tu-We 09:00-19:00; Th 09:00-17:00; Fr 09:00-15:00",
+            "operator": "Universität für Künstlerische und Industrielle Gestaltung",
+            "ref:isil": "AT-UBGL",
+            "short_name": "UB Kunstuni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2855845,
+              48.3066561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7640161078",
+            "osm_type": "node",
+            "lat": 48.1911475,
+            "lon": 14.1149921,
+            "addr:city": "Marchtrenk",
+            "addr:country": "AT",
+            "addr:housenumber": "21",
+            "addr:postcode": "4614",
+            "addr:street": "Linzer Straße",
+            "amenity": "library",
+            "name": "Öffentliche Bücherei der Stadtgemeinde Marchtrenk und des ÖGB",
+            "website": "https://marchtrenk.bvoe.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1149921,
+              48.1911475
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 14.2994695,
+        "north": 48.355971499999995,
+        "east": 15.253173
+      },
+      "poiCount": 29,
+      "leafCount": 29,
+      "averagePosition": [
+        14.638292937931034,
+        48.19505073793104
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "25181605",
+            "osm_type": "node",
+            "lat": 48.2578444,
+            "lon": 14.3610633,
+            "amenity": "library",
+            "check_date:opening_hours": "2024-06-09",
+            "name": "Stadtbibliothek",
+            "opening_hours": "Mo 09:00-13:00,14:00-18:00; We 09:00-14:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3610633,
+              48.2578444
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "269677662",
+            "osm_type": "node",
+            "lat": 48.3333078,
+            "lon": 14.3175276,
+            "addr:city": "Linz",
+            "addr:housenumber": "1-5",
+            "addr:postcode": "4040",
+            "addr:street": "Sombartstraße",
+            "amenity": "library",
+            "check_date:opening_hours": "2023-04-14",
+            "name": "Stadtbibliothek Dornach/Auhof",
+            "opening_hours": "Mo 11:00-13:00,14:00-17:00; Tu,Th,Fr 09:00-14:00; We 09:00-13:00,14:00-19:00",
+            "phone": "+43 732 2560 661",
+            "website": "https://wissensturm.linz.at/bibliothek/dornach.php"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3175276,
+              48.3333078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "442056988",
+            "osm_type": "node",
+            "lat": 48.0410665,
+            "lon": 14.4230529,
+            "addr:city": "Steyr",
+            "addr:housenumber": "4",
+            "addr:postcode": "4400",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "library",
+            "contact:fax": "+43 7252 4842310",
+            "contact:phone": "+43 7252 48423",
+            "internet_access": "terminal",
+            "internet_access:fee": "yes",
+            "name": "Stadtbücherei Marlen Haushofer",
+            "opening_hours": "Tu-Th 10:00-18:00; Fr 14:00-18:00; Sa 09:00-12:00",
+            "operator": "Magistrat Steyr",
+            "shop": "doityourself",
+            "website": "https://www.steyr.at/de/Stadtbuecherei_Marlen_Haushofer",
+            "wheelchair": "yes",
+            "wikidata": "Q56238794"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4230529,
+              48.0410665
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "627934496",
+            "osm_type": "node",
+            "lat": 48.2064385,
+            "lon": 14.3772987,
+            "amenity": "library",
+            "name": "Stiftsbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3772987,
+              48.2064385
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2042576242",
+            "osm_type": "node",
+            "lat": 48.2123002,
+            "lon": 14.4783707,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Enns",
+            "wikidata": "Q56238201"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4783707,
+              48.2123002
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2150867080",
+            "osm_type": "node",
+            "lat": 48.0448162,
+            "lon": 14.3099782,
+            "amenity": "library",
+            "name": "Bücherei Sierning",
+            "wikidata": "Q56237494"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3099782,
+              48.0448162
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2219185498",
+            "osm_type": "node",
+            "lat": 48.2126275,
+            "lon": 14.4785024,
+            "amenity": "library",
+            "name": "Alte Bücherwelt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4785024,
+              48.2126275
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3756266662",
+            "osm_type": "node",
+            "lat": 48.1428061,
+            "lon": 14.3778203,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3778203,
+              48.1428061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4796459019",
+            "osm_type": "node",
+            "lat": 48.2853479,
+            "lon": 14.3713869,
+            "addr:city": "Steyregg",
+            "addr:housenumber": "3",
+            "addr:postcode": "4221",
+            "addr:street": "Weissenwolffstraße",
+            "amenity": "library",
+            "email": "buecherei@steyregg.at",
+            "level": "2",
+            "name": "Stadt- u. Pfarrbücherei Steyregg",
+            "note": "Öffnungszeiten: Di 08:30-12:00, 14:30-19:00 Do 14:30-19:00",
+            "phone": "+43 676 5509843",
+            "website": "https://steyregg.bvoe.at/willkommen",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3713869,
+              48.2853479
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9165769918",
+            "osm_type": "node",
+            "lat": 48.3028812,
+            "lon": 14.3033777,
+            "amenity": "library",
+            "operator": "Johannes Kepler Universität"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3033777,
+              48.3028812
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10997716906",
+            "osm_type": "node",
+            "lat": 48.2498218,
+            "lon": 14.3086534,
+            "addr:city": "Linz",
+            "addr:housenumber": "3",
+            "addr:postcode": "4030",
+            "addr:street": "Wüstenrotplatz",
+            "amenity": "library",
+            "contact:email": "vhs-bib@mag.linz.at",
+            "contact:phone": "+43 732 70700",
+            "contact:website": "http://www.wissensturm.at",
+            "email": "bib.auwiesen@mag.linz.at",
+            "name": "Stadtbibliothek",
+            "opening_hours": "Mo 11:00-13:00,14:00-19:00; Tu 9:00-14:00, Wed 09:00-13:00,14:00-17:00, Th-Fr 09:00-17:00; Sa-Su off",
+            "phone": "+43 732 30 24 08",
+            "website": "https://wissensturm.linz.at/bibliothek/auwiesen.php"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3086534,
+              48.2498218
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11630945021",
+            "osm_type": "node",
+            "lat": 48.2441107,
+            "lon": 14.3293073,
+            "addr:city": "Linz",
+            "addr:housenumber": "1-3",
+            "addr:postcode": "4030",
+            "addr:street": "Kremsmünstererstraße",
+            "amenity": "library",
+            "name": "Stadtbibliothek Ebelsberg",
+            "opening_hours": "Tu,Fr 09:00-14:00; Th 09:00-13:00,14:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3293073,
+              48.2441107
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12513878636",
+            "osm_type": "node",
+            "lat": 48.1265871,
+            "lon": 14.4839802,
+            "amenity": "library",
+            "level": "1",
+            "name": "Bücherei der Pfarre Ernsthofen",
+            "opening_hours": "Th 17:30-19:00; Su 08:30-11:00",
+            "website": "http://ernsthofen.noebib.at/html/137/D/home.asp?pass=x&p_direct=yes&rn=110867"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4839802,
+              48.1265871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12625615716",
+            "osm_type": "node",
+            "lat": 48.1602414,
+            "lon": 14.3399745,
+            "addr:city": "Niederneukirchen",
+            "addr:housenumber": "6",
+            "addr:postcode": "4491",
+            "addr:street": "Dorfplatz",
+            "amenity": "library",
+            "name": "Öffentliche Bücherei Niederneukirchen",
+            "opening_hours": "Tu 08:30-10:15, We 14:00-15:15, Th 17:00-18:45, Su 09:00-10:15; PH off",
+            "website": "http://www.buecherei-nnk.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3399745,
+              48.1602414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1224425719",
+            "osm_type": "node",
+            "lat": 48.1224359,
+            "lon": 14.8714826,
+            "alt_name": "Stadtbibliothek",
+            "amenity": "library",
+            "contact:email": "buecherei@amstetten.at",
+            "contact:phone": "+43 7472 601320",
+            "contact:website": "https://buch.amstetten.at/",
+            "name": "Stadt- und ÖGB-Bücherei",
+            "opening_hours": "Tu,Fr 08:00-19:00; Sa 09:00-12:00; Mo,We-Th,Su,PH off",
+            "operator": "Stadtgemeinde Amstetten",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8714826,
+              48.1224359
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1501866961",
+            "osm_type": "node",
+            "lat": 48.1122642,
+            "lon": 14.567715,
+            "amenity": "library",
+            "name": "Bücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.567715,
+              48.1122642
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1651298722",
+            "osm_type": "node",
+            "lat": 48.3486391,
+            "lon": 14.6695447,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6695447,
+              48.3486391
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1824098771",
+            "osm_type": "node",
+            "lat": 48.1738423,
+            "lon": 14.5337226,
+            "amenity": "library",
+            "contact:phone": "+43 7435 505-4170",
+            "name": "Stadtbibliothek St. Valentin",
+            "opening_hours": "Tu 16:00-19:00; Th 09:00-12:00, 16:00-19:00",
+            "website": "https://www.sanktvalentin.at/index.php/themen/bildung/stadtbibliothek",
+            "wikidata": "Q56215475"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5337226,
+              48.1738423
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2331099591",
+            "osm_type": "node",
+            "lat": 48.2463139,
+            "lon": 14.6347721,
+            "amenity": "library",
+            "check_date": "2025-04-14",
+            "contact:mail": "buecherei@perg.at",
+            "contact:phone": "+43 7262 545 95",
+            "name": "Stadtbibliothek Perg",
+            "opening_hours": "Mo 10:30-13:30; Tu, Th 08:00-11:00, 16:00-19:00",
+            "website": "https://www.perg.at/kultur-bildung/stadtbibliothek/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6347721,
+              48.2463139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2347339270",
+            "osm_type": "node",
+            "lat": 48.0833824,
+            "lon": 14.9329218,
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "3324",
+            "addr:street": "Kirchenplatz",
+            "amenity": "library",
+            "name": "Öffentliche Bücherei Euratsfeld",
+            "opening_hours": "Tu 16:00-19:00; Sa 08:00-11:00; Su 08:00-11:00",
+            "operator": "Marktgemeinde Euratsfeld"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9329218,
+              48.0833824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2795106059",
+            "osm_type": "node",
+            "lat": 48.1742378,
+            "lon": 14.532768,
+            "amenity": "library",
+            "name": "Pfarrbücherei St. Valentin",
+            "wheelchair": "no",
+            "wikidata": "Q56238502"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.532768,
+              48.1742378
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11051763739",
+            "osm_type": "node",
+            "lat": 48.2729967,
+            "lon": 14.9488105,
+            "amenity": "library",
+            "name": "Biblioöthek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9488105,
+              48.2729967
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11285789878",
+            "osm_type": "node",
+            "lat": 48.3314948,
+            "lon": 14.6222274,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6222274,
+              48.3314948
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2396505769",
+            "osm_type": "node",
+            "lat": 48.0588041,
+            "lon": 15.1327259,
+            "amenity": "library",
+            "name": "Bücherei im Rathaus",
+            "website": "https://www.purgstall-erlauf.gv.at/Buecherei_im_Rathaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1327259,
+              48.0588041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2736272612",
+            "osm_type": "node",
+            "lat": 48.3180873,
+            "lon": 15.2058525,
+            "addr:city": "Pöggstall",
+            "addr:country": "AT",
+            "addr:housenumber": "5",
+            "addr:postcode": "3650",
+            "addr:street": "Schulstraße",
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2058525,
+              48.3180873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3067237736",
+            "osm_type": "node",
+            "lat": 48.1772601,
+            "lon": 15.084343,
+            "amenity": "library",
+            "email": "stadtbuecherei@ybbs.at",
+            "name": "Stadt- und ÖGB Bücherei Ybbs",
+            "opening_hours": "Mo,We 15:00-17:00; Tu,Fr 17:00-19:00; Sa 09:00-12:00",
+            "phone": "+43 7412 52612250"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.084343,
+              48.1772601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6410046418",
+            "osm_type": "node",
+            "lat": 48.2249925,
+            "lon": 15.1564309,
+            "amenity": "library",
+            "historic": "yes",
+            "name": "Pfarrbibliothek Maria Taferl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1564309,
+              48.2249925
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9014306091",
+            "osm_type": "node",
+            "lat": 48.1268807,
+            "lon": 15.1376681,
+            "amenity": "library",
+            "contact:phone": "+43 7416 520 75",
+            "name": "Bücherei Wieselburg",
+            "website": "https://buecherei-wieselburg.noebib.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1376681,
+              48.1268807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10300654848",
+            "osm_type": "node",
+            "lat": 48.0646423,
+            "lon": 15.219216,
+            "amenity": "library",
+            "name": "Oberndorfer Bücherei",
+            "operator": "Pfarre und Marktgemeinde Oberndorf an der Melk",
+            "website": "http://buecherei-oberndorf.noebib.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.219216,
+              48.0646423
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

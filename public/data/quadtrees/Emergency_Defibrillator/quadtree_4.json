@@ -1,0 +1,2467 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 120,
+  "leafCount": 0,
+  "averagePosition": [
+    14.299546386666668,
+    46.570121477499995
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 13.345766,
+        "north": 46.70320525,
+        "east": 14.2994695
+      },
+      "poiCount": 55,
+      "leafCount": 0,
+      "averagePosition": [
+        13.928805492727275,
+        46.51771040181818
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 13.345766,
+            "north": 46.537928625000006,
+            "east": 13.82261775
+          },
+          "poiCount": 19,
+          "leafCount": 19,
+          "averagePosition": [
+            13.696778147368422,
+            46.470189
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7203807072",
+                "osm_type": "node",
+                "lat": 46.3870164,
+                "lon": 13.4731972,
+                "emergency": "defibrillator",
+                "indoor": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.4731972,
+                  46.3870164
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8852282941",
+                "osm_type": "node",
+                "lat": 46.4806467,
+                "lon": 13.5224748,
+                "access": "yes",
+                "defibrillator:location": "external wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.5224748,
+                  46.4806467
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4426123136",
+                "osm_type": "node",
+                "lat": 46.3807187,
+                "lon": 13.7526829,
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7526829,
+                  46.3807187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4638491595",
+                "osm_type": "node",
+                "lat": 46.5067396,
+                "lon": 13.5345641,
+                "defibrillator:location": "In teca esterna.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "location": "outdoor",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.5345641,
+                  46.5067396
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649060895",
+                "osm_type": "node",
+                "lat": 46.498154,
+                "lon": 13.7136303,
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "Ratece Planica",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7136303,
+                  46.498154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649080849",
+                "osm_type": "node",
+                "lat": 46.4855871,
+                "lon": 13.7875487,
+                "check_date": "2022-08-13",
+                "defibrillator:location": "Mittig am Gebäude neben der Eingangstür",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "PGD Kranjska Gora",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7875487,
+                  46.4855871
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649084044",
+                "osm_type": "node",
+                "lat": 46.4934179,
+                "lon": 13.757408,
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "Podkoren",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.757408,
+                  46.4934179
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649087143",
+                "osm_type": "node",
+                "lat": 46.4861499,
+                "lon": 13.7800519,
+                "access": "no",
+                "addr:city": "Kranjska Gora",
+                "addr:housenumber": "100",
+                "addr:postcode": "4280",
+                "addr:street": "Borovška cesta",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Hotel Kompas defibrillator",
+                "ref:gurs:hs_mid": "11927874",
+                "source:addr": "GURS",
+                "source:addr:date": "1995-01-01"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7800519,
+                  46.4861499
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649088081",
+                "osm_type": "node",
+                "lat": 46.4845686,
+                "lon": 13.780223,
+                "access": "no",
+                "addr:city": "Kranjska Gora",
+                "addr:housenumber": "99",
+                "addr:postcode": "4280",
+                "addr:street": "Borovška cesta",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Ramada Resort defibrillator",
+                "ref:gurs:hs_mid": "11927858"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.780223,
+                  46.4845686
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649090144",
+                "osm_type": "node",
+                "lat": 46.4854042,
+                "lon": 13.7825284,
+                "access": "no",
+                "addr:city": "Kranjska Gora",
+                "addr:housenumber": "2",
+                "addr:postcode": "4280",
+                "addr:street": "Koroška ulica",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Zdravstvena postaja Kranjska gora",
+                "ref:gurs:hs_mid": "11928510"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7825284,
+                  46.4854042
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649090851",
+                "osm_type": "node",
+                "lat": 46.4851907,
+                "lon": 13.7828719,
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Gorenjske lekarne - Lekarna Kranjska Gora"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7828719,
+                  46.4851907
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649093923",
+                "osm_type": "node",
+                "lat": 46.4815562,
+                "lon": 13.7815277,
+                "access": "no",
+                "defibrillator:location": "Vršiška cesta 38, SI-4280 Kranjska Gora",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Hotel Kranjska Gora"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7815277,
+                  46.4815562
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649094277",
+                "osm_type": "node",
+                "lat": 46.4826423,
+                "lon": 13.7871136,
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Igralniško-zabaviščni center Korona",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7871136,
+                  46.4826423
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649099584",
+                "osm_type": "node",
+                "lat": 46.4877073,
+                "lon": 13.7896843,
+                "access": "no",
+                "addr:city": "Kranjska Gora",
+                "addr:housenumber": "34",
+                "addr:postcode": "4280",
+                "addr:street": "Naselje Slavka Černeta",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Lekarna Kranjska gora",
+                "ref:gurs:hs_mid": "11929745",
+                "source:addr": "GURS",
+                "source:addr:date": "1995-01-01"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7896843,
+                  46.4877073
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9871879994",
+                "osm_type": "node",
+                "lat": 46.4421457,
+                "lon": 13.5709432,
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.5709432,
+                  46.4421457
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9947560808",
+                "osm_type": "node",
+                "lat": 46.4743467,
+                "lon": 13.7825768,
+                "access": "yes",
+                "defibrillator:location": "In a white box in front (outside) of the toilet house",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7825768,
+                  46.4743467
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11459651468",
+                "osm_type": "node",
+                "lat": 46.5093821,
+                "lon": 13.5325507,
+                "access": "yes",
+                "defibrillator:location": "In teca esterna a sinistra della porta del museo Antiquarium di Camporosso.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.5325507,
+                  46.5093821
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11611340314",
+                "osm_type": "node",
+                "lat": 46.4059817,
+                "lon": 13.603053,
+                "check_date": "2023-08-10",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "Log pod Mangartom",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.603053,
+                  46.4059817
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12537540383",
+                "osm_type": "node",
+                "lat": 46.4762352,
+                "lon": 13.7241543,
+                "access": "yes",
+                "check_date": "2023-03-01",
+                "emergency": "defibrillator",
+                "image": "https://ocdn.eu/pulscms-transforms/1/b7ek9kuTURBXy81ZTE5MmZmYy1lODZhLTQ1YWUtODdjNS05ZjA4ZTgwYTE1ZGQuanBlZ5GTAs0DSM0Cdt4AAqEwBqExAQ",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7241543,
+                  46.4762352
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 13.82261775,
+            "north": 46.537928625000006,
+            "east": 14.2994695
+          },
+          "poiCount": 16,
+          "leafCount": 16,
+          "averagePosition": [
+            14.09043895625,
+            46.43257545
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649103287",
+                "osm_type": "node",
+                "lat": 46.4849954,
+                "lon": 13.8288249,
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "PGD Gozd Martuljek",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.8288249,
+                  46.4849954
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649110975",
+                "osm_type": "node",
+                "lat": 46.4898744,
+                "lon": 13.8376218,
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "PGD Gozd - Martuljek, Orodišče Srednji Vrh",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.8376218,
+                  46.4898744
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4649112614",
+                "osm_type": "node",
+                "lat": 46.4760652,
+                "lon": 13.9097632,
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "Stanovanjska hisa Belca",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9097632,
+                  46.4760652
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6667996534",
+                "osm_type": "node",
+                "lat": 46.3935878,
+                "lon": 14.0857246,
+                "defibrillator:location": "Ask staff",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0857246,
+                  46.3935878
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8018212409",
+                "osm_type": "node",
+                "lat": 46.5267792,
+                "lon": 14.2985796,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2985796,
+                  46.5267792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8572987789",
+                "osm_type": "node",
+                "lat": 46.3752444,
+                "lon": 14.1986579,
+                "access": "yes",
+                "defibrillator:location": "outside on the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1986579,
+                  46.3752444
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9404718968",
+                "osm_type": "node",
+                "lat": 46.427688,
+                "lon": 14.1011468,
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1011468,
+                  46.427688
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11072924962",
+                "osm_type": "node",
+                "lat": 46.4075542,
+                "lon": 14.1479186,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1479186,
+                  46.4075542
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11285779060",
+                "osm_type": "node",
+                "lat": 46.4151927,
+                "lon": 14.0806271,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0806271,
+                  46.4151927
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11455507268",
+                "osm_type": "node",
+                "lat": 46.3958306,
+                "lon": 14.152368,
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.152368,
+                  46.3958306
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11822367359",
+                "osm_type": "node",
+                "lat": 46.4319425,
+                "lon": 14.06351,
+                "access": "yes",
+                "covered": "yes",
+                "defibrillator:location:en": "in the public transport building",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "support": "wall"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.06351,
+                  46.4319425
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11953827980",
+                "osm_type": "node",
+                "lat": 46.4661944,
+                "lon": 14.050994,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.050994,
+                  46.4661944
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12092897042",
+                "osm_type": "node",
+                "lat": 46.3728893,
+                "lon": 14.1004765,
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1004765,
+                  46.3728893
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12104729164",
+                "osm_type": "node",
+                "lat": 46.3884782,
+                "lon": 14.1059205,
+                "defibrillator:location": "On the right side of the entrance door",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1059205,
+                  46.3884782
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12407597351",
+                "osm_type": "node",
+                "lat": 46.4389112,
+                "lon": 14.2665643,
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2665643,
+                  46.4389112
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12973835833",
+                "osm_type": "node",
+                "lat": 46.4299797,
+                "lon": 14.2183255,
+                "access": "yes",
+                "defibrillator:location": "Pred vhodom\nIn front of the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2183255,
+                  46.4299797
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 13.345766,
+            "north": 46.70320525,
+            "east": 13.82261775
+          },
+          "poiCount": 2,
+          "leafCount": 2,
+          "averagePosition": [
+            13.55005015,
+            46.66361195
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10795197727",
+                "osm_type": "node",
+                "lat": 46.7026189,
+                "lon": 13.412683,
+                "defibrillator:location": "Next to the cashiers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Medtronic",
+                "ref": "37312446"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.412683,
+                  46.7026189
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7079993930",
+                "osm_type": "node",
+                "lat": 46.624605,
+                "lon": 13.6874173,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.6874173,
+                  46.624605
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 13.82261775,
+            "north": 46.70320525,
+            "east": 14.2994695
+          },
+          "poiCount": 18,
+          "leafCount": 18,
+          "averagePosition": [
+            14.072132983333333,
+            46.62733611111111
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12582979758",
+                "osm_type": "node",
+                "lat": 46.6635823,
+                "lon": 13.9744753,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9744753,
+                  46.6635823
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12658050501",
+                "osm_type": "node",
+                "lat": 46.6122866,
+                "lon": 13.8440886,
+                "access": "yes",
+                "defibrillator:location": "Gegenüber Bäckerei Weißenstein",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.8440886,
+                  46.6122866
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12825903932",
+                "osm_type": "node",
+                "lat": 46.6288782,
+                "lon": 13.9630879,
+                "access": "yes",
+                "defibrillator:location": "An der Außenwand",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9630879,
+                  46.6288782
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12825903933",
+                "osm_type": "node",
+                "lat": 46.6235737,
+                "lon": 13.9377767,
+                "access": "yes",
+                "defibrillator:location": "Defisäule",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9377767,
+                  46.6235737
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12825903934",
+                "osm_type": "node",
+                "lat": 46.6204746,
+                "lon": 13.9441014,
+                "emergency": "defibrillator",
+                "indoor": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9441014,
+                  46.6204746
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12825903935",
+                "osm_type": "node",
+                "lat": 46.5989435,
+                "lon": 13.9632554,
+                "defibrillator:location": "Neben dem Eingang",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9632554,
+                  46.5989435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12880927829",
+                "osm_type": "node",
+                "lat": 46.6583493,
+                "lon": 13.9004781,
+                "defibrillator:location": "Vor den Toiletteneingang auf der rechten Seite",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9004781,
+                  46.6583493
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13125213945",
+                "osm_type": "node",
+                "lat": 46.6759385,
+                "lon": 13.9838538,
+                "defibrillator:location": "An der Außenwand montiert",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.9838538,
+                  46.6759385
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6787686733",
+                "osm_type": "node",
+                "lat": 46.6475894,
+                "lon": 14.0919828,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0919828,
+                  46.6475894
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7083032315",
+                "osm_type": "node",
+                "lat": 46.6135435,
+                "lon": 14.0421085,
+                "check_date": "2024-05-21",
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0421085,
+                  46.6135435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9823410981",
+                "osm_type": "node",
+                "lat": 46.6180962,
+                "lon": 14.2685597,
+                "defibrillator:location": "vor Hörsaal 6",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2685597,
+                  46.6180962
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10114506850",
+                "osm_type": "node",
+                "lat": 46.616341,
+                "lon": 14.2656522,
+                "defibrillator:location": "Haupteingang rechts, beim Portier/Sicherheitsdienst",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2656522,
+                  46.616341
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10719261310",
+                "osm_type": "node",
+                "lat": 46.6144107,
+                "lon": 14.266469,
+                "defibrillator:location": "in der Empfangshalle, gegenüber vom Lift",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.266469,
+                  46.6144107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10742392100",
+                "osm_type": "node",
+                "lat": 46.6137048,
+                "lon": 14.2633046,
+                "access": "yes",
+                "defibrillator:location": "rechts vor dem Parkhauseingang P1a",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2633046,
+                  46.6137048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10826951665",
+                "osm_type": "node",
+                "lat": 46.6156341,
+                "lon": 14.265012,
+                "defibrillator:location": "An der Wand neben dem Lift",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.265012,
+                  46.6156341
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10899507324",
+                "osm_type": "node",
+                "lat": 46.6231972,
+                "lon": 14.1247611,
+                "emergency": "defibrillator",
+                "indoor": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1247611,
+                  46.6231972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11611478279",
+                "osm_type": "node",
+                "lat": 46.6297174,
+                "lon": 14.0954255,
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0954255,
+                  46.6297174
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12025780610",
+                "osm_type": "node",
+                "lat": 46.617789,
+                "lon": 14.1040011,
+                "emergency": "defibrillator"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.1040011,
+                  46.617789
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 14.2994695,
+        "north": 46.70320525,
+        "east": 15.253173
+      },
+      "poiCount": 48,
+      "leafCount": 48,
+      "averagePosition": [
+        14.761735570833332,
+        46.53713691458333
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2441646348",
+            "osm_type": "node",
+            "lat": 46.521769,
+            "lon": 14.9857747,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9857747,
+              46.521769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3100514660",
+            "osm_type": "node",
+            "lat": 46.4703029,
+            "lon": 14.8497481,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8497481,
+              46.4703029
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3774967471",
+            "osm_type": "node",
+            "lat": 46.680005,
+            "lon": 14.5937613,
+            "emergency": "defibrillator",
+            "indoor": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5937613,
+              46.680005
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4396047936",
+            "osm_type": "node",
+            "lat": 46.4580126,
+            "lon": 14.7517127,
+            "emergency": "defibrillator",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7517127,
+              46.4580126
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4427540645",
+            "osm_type": "node",
+            "lat": 46.5115469,
+            "lon": 14.8629888,
+            "emergency": "defibrillator",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8629888,
+              46.5115469
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4427986722",
+            "osm_type": "node",
+            "lat": 46.4848261,
+            "lon": 14.8749673,
+            "emergency": "defibrillator",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8749673,
+              46.4848261
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5306596006",
+            "osm_type": "node",
+            "lat": 46.6645994,
+            "lon": 14.8293343,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8293343,
+              46.6645994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6681121749",
+            "osm_type": "node",
+            "lat": 46.5409454,
+            "lon": 14.9572393,
+            "access": "yes",
+            "defibrillator:location": "outside",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9572393,
+              46.5409454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8816922551",
+            "osm_type": "node",
+            "lat": 46.660306,
+            "lon": 14.6339974,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6339974,
+              46.660306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9321058350",
+            "osm_type": "node",
+            "lat": 46.5958635,
+            "lon": 14.9136198,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9136198,
+              46.5958635
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9847622942",
+            "osm_type": "node",
+            "lat": 46.5177664,
+            "lon": 14.8817486,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8817486,
+              46.5177664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9865450960",
+            "osm_type": "node",
+            "lat": 46.4356814,
+            "lon": 14.6597079,
+            "defibrillator:location": "By the building under the roof",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6597079,
+              46.4356814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9865640736",
+            "osm_type": "node",
+            "lat": 46.4664801,
+            "lon": 14.8042349,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8042349,
+              46.4664801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9865719820",
+            "osm_type": "node",
+            "lat": 46.4751937,
+            "lon": 14.851493,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.851493,
+              46.4751937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9866369859",
+            "osm_type": "node",
+            "lat": 46.4784055,
+            "lon": 14.7726194,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7726194,
+              46.4784055
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9868840269",
+            "osm_type": "node",
+            "lat": 46.4784008,
+            "lon": 14.7726384,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7726384,
+              46.4784008
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11085506914",
+            "osm_type": "node",
+            "lat": 46.6476202,
+            "lon": 14.9339065,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9339065,
+              46.6476202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11090104168",
+            "osm_type": "node",
+            "lat": 46.6412225,
+            "lon": 14.9422208,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9422208,
+              46.6412225
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11770187141",
+            "osm_type": "node",
+            "lat": 46.5849269,
+            "lon": 14.797346,
+            "defibrillator:location": "Direkt neben Hallenbad Eingang",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.797346,
+              46.5849269
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12860816673",
+            "osm_type": "node",
+            "lat": 46.5569181,
+            "lon": 14.7045608,
+            "access": "yes",
+            "covered": "yes",
+            "defibrillator:location": "unter dem Vordach beim Eingang zur Schule",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7045608,
+              46.5569181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12909331974",
+            "osm_type": "node",
+            "lat": 46.397774,
+            "lon": 14.7083158,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7083158,
+              46.397774
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13016899452",
+            "osm_type": "node",
+            "lat": 46.590051,
+            "lon": 14.7996765,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7996765,
+              46.590051
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13017099803",
+            "osm_type": "node",
+            "lat": 46.4200954,
+            "lon": 14.6915826,
+            "access": "yes",
+            "covered": "yes",
+            "defibrillator:location": "by the entrance, information center",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6915826,
+              46.4200954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13021143524",
+            "osm_type": "node",
+            "lat": 46.4183517,
+            "lon": 14.641274,
+            "access": "yes",
+            "defibrillator:location": "at the infomation building",
+            "emergency": "defibrillator",
+            "indoor": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.641274,
+              46.4183517
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13051823798",
+            "osm_type": "node",
+            "lat": 46.4200885,
+            "lon": 14.7439558,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7439558,
+              46.4200885
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3065448574",
+            "osm_type": "node",
+            "lat": 46.5366389,
+            "lon": 15.2493718,
+            "emergency": "defibrillator",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2493718,
+              46.5366389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4252832556",
+            "osm_type": "node",
+            "lat": 46.4718082,
+            "lon": 15.0885505,
+            "emergency": "defibrillator",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0885505,
+              46.4718082
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5982892767",
+            "osm_type": "node",
+            "lat": 46.5387479,
+            "lon": 15.2247275,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2247275,
+              46.5387479
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6042198706",
+            "osm_type": "node",
+            "lat": 46.6011337,
+            "lon": 15.1053117,
+            "defibrillator:location": "outside, covered",
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1053117,
+              46.6011337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9727196583",
+            "osm_type": "node",
+            "lat": 46.5029272,
+            "lon": 15.2113122,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2113122,
+              46.5029272
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10760902177",
+            "osm_type": "node",
+            "lat": 46.5528841,
+            "lon": 15.2309978,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2309978,
+              46.5528841
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11514222999",
+            "osm_type": "node",
+            "lat": 46.5937099,
+            "lon": 15.0422414,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0422414,
+              46.5937099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11745074021",
+            "osm_type": "node",
+            "lat": 46.4250951,
+            "lon": 15.1536677,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1536677,
+              46.4250951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13138256201",
+            "osm_type": "node",
+            "lat": 46.6845282,
+            "lon": 15.2430813,
+            "access": "customers",
+            "check_date": "2025-09-12",
+            "defibrillator:location:de": "Im Erdgeschoss  der LBS Eibiswald, Haupteingang gerade Aus",
+            "emergency": "defibrillator",
+            "indoor": "yes",
+            "level": "0",
+            "phone": "03466 423350"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2430813,
+              46.6845282
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13138258001",
+            "osm_type": "node",
+            "lat": 46.6843037,
+            "lon": 15.2425372,
+            "access": "yes",
+            "check_date": "2025-09-12",
+            "defibrillator:location:de": "Neben der Gaszentrale",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2425372,
+              46.6843037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9807196297",
+            "osm_type": "node",
+            "lat": 46.626457,
+            "lon": 14.308588,
+            "defibrillator:location": "Neben der Telefonzelle, Ecke Außenbereich McDonalds",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.308588,
+              46.626457
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9908899622",
+            "osm_type": "node",
+            "lat": 46.6297832,
+            "lon": 14.3096695,
+            "defibrillator:location": "Rechts neben Haupteingang",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3096695,
+              46.6297832
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10015584717",
+            "osm_type": "node",
+            "lat": 46.6245186,
+            "lon": 14.3052882,
+            "defibrillator:location": "Am Anfang des Zebrastreifens, vor der Tafel mit dem Liniennetzplan",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3052882,
+              46.6245186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10113593917",
+            "osm_type": "node",
+            "lat": 46.6602238,
+            "lon": 14.311265,
+            "access": "no",
+            "defibrillator:location": "klagenfurt",
+            "emergency": "defibrillator",
+            "emergency:phone": "144",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.311265,
+              46.6602238
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11152543969",
+            "osm_type": "node",
+            "lat": 46.3999389,
+            "lon": 14.3456471,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3456471,
+              46.3999389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11637391231",
+            "osm_type": "node",
+            "lat": 46.6112259,
+            "lon": 14.3598609,
+            "emergency": "defibrillator",
+            "operator": "Apotheke Ebenthal",
+            "website": "https://apo-ebenthal.at/defibrillator/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3598609,
+              46.6112259
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11640693459",
+            "osm_type": "node",
+            "lat": 46.6356815,
+            "lon": 14.3076939,
+            "emergency": "defibrillator",
+            "indoor": "yes",
+            "level": "0"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3076939,
+              46.6356815
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11652773222",
+            "osm_type": "node",
+            "lat": 46.6103873,
+            "lon": 14.3182714,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3182714,
+              46.6103873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12138545637",
+            "osm_type": "node",
+            "lat": 46.479237,
+            "lon": 14.4414254,
+            "access": "yes",
+            "defibrillator:location": "An der Wand hängend",
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "opening_hours": "24/7",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4414254,
+              46.479237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12185868202",
+            "osm_type": "node",
+            "lat": 46.4011729,
+            "lon": 14.5251832,
+            "access": "yes",
+            "check_date": "2024-09-19",
+            "defibrillator:location:en": "Park Jezersko",
+            "emergency": "defibrillator",
+            "image": "https://openaedmap.org/api/v1/photos/view/ZMK8HMWwCiZecGzfEXDs9A.webp",
+            "image:license": "CC0",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5251832,
+              46.4011729
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12198670801",
+            "osm_type": "node",
+            "lat": 46.3946505,
+            "lon": 14.5009823,
+            "access": "yes",
+            "check_date": "2024-09-25",
+            "defibrillator:location:en": "Petrol Jezersko",
+            "emergency": "defibrillator",
+            "image": "https://openaedmap.org/api/v1/photos/view/LCixch6bO5JrIZQVkwxb0Q.webp",
+            "image:license": "CC0",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5009823,
+              46.3946505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12382280318",
+            "osm_type": "node",
+            "lat": 46.6184917,
+            "lon": 14.3103835,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3103835,
+              46.6184917
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12528988601",
+            "osm_type": "node",
+            "lat": 46.3818737,
+            "lon": 14.4688252,
+            "access": "yes",
+            "check_date": "2025-01-24",
+            "defibrillator:location:en": "AED Kanonir",
+            "emergency": "defibrillator",
+            "image": "https://openaedmap.org/api/v1/photos/view/JYYGaJ93U4gT4_-5uhFhWA.webp",
+            "image:license": "CC0",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4688252,
+              46.3818737
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 13.345766,
+        "north": 47.033758500000005,
+        "east": 14.2994695
+      },
+      "poiCount": 9,
+      "leafCount": 9,
+      "averagePosition": [
+        13.7598425,
+        46.811113766666665
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7562197009",
+            "osm_type": "node",
+            "lat": 46.9810448,
+            "lon": 14.2162673,
+            "emergency": "defibrillator",
+            "level": "0",
+            "operator": "Gemeinde Metnitz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2162673,
+              46.9810448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5113286408",
+            "osm_type": "node",
+            "lat": 46.8276172,
+            "lon": 13.3498317,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3498317,
+              46.8276172
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9138748934",
+            "osm_type": "node",
+            "lat": 46.7977054,
+            "lon": 13.4960637,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4960637,
+              46.7977054
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3458046560",
+            "osm_type": "node",
+            "lat": 46.787831,
+            "lon": 13.6330498,
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "operator": "Hängergemeinschaft Matzelsdorf",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6330498,
+              46.787831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7858413718",
+            "osm_type": "node",
+            "lat": 46.8252428,
+            "lon": 13.5434213,
+            "access": "yes",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5434213,
+              46.8252428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10059800339",
+            "osm_type": "node",
+            "lat": 46.7826655,
+            "lon": 13.6589731,
+            "check_date": "2025-08-02",
+            "defibrillator:location": "Ecke Außenwand des Feuerwehrhauses",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6589731,
+              46.7826655
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10060532114",
+            "osm_type": "node",
+            "lat": 46.8024331,
+            "lon": 13.6054512,
+            "defibrillator:location": "Am Ausfahrtstor",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6054512,
+              46.8024331
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8919589166",
+            "osm_type": "node",
+            "lat": 46.7505892,
+            "lon": 14.170085,
+            "defibrillator:location": "in einer Defi-Säule im Freien",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.170085,
+              46.7505892
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8919589170",
+            "osm_type": "node",
+            "lat": 46.7448949,
+            "lon": 14.1654394,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1654394,
+              46.7448949
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 14.2994695,
+        "north": 47.033758500000005,
+        "east": 15.253173
+      },
+      "poiCount": 8,
+      "leafCount": 8,
+      "averagePosition": [
+        14.6824218,
+        46.857238675
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5608031009",
+            "osm_type": "node",
+            "lat": 46.7500671,
+            "lon": 14.531686,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.531686,
+              46.7500671
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12134101090",
+            "osm_type": "node",
+            "lat": 46.840975,
+            "lon": 14.8413901,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8413901,
+              46.840975
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7330074684",
+            "osm_type": "node",
+            "lat": 46.8173931,
+            "lon": 15.2220729,
+            "emergency": "defibrillator"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2220729,
+              46.8173931
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5808582395",
+            "osm_type": "node",
+            "lat": 46.9636327,
+            "lon": 14.7908375,
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "operator": "Stadtgemeinde Bad St. Leonhard im Lavanttal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7908375,
+              46.9636327
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5808582396",
+            "osm_type": "node",
+            "lat": 46.9773562,
+            "lon": 14.7819557,
+            "emergency": "defibrillator",
+            "indoor": "no",
+            "operator": "Stadtgemeinde Bad St. Leonhard im Lavanttal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7819557,
+              46.9773562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11028196929",
+            "osm_type": "node",
+            "lat": 46.7657862,
+            "lon": 14.3557484,
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3557484,
+              46.7657862
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11937376437",
+            "osm_type": "node",
+            "lat": 46.8707049,
+            "lon": 14.469789,
+            "defibrillator:location": "Neben dem Parkplatz",
+            "emergency": "defibrillator",
+            "indoor": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.469789,
+              46.8707049
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11937376438",
+            "osm_type": "node",
+            "lat": 46.8719942,
+            "lon": 14.4658948,
+            "defibrillator:location": "An der Wand neben Kassa 1",
+            "emergency": "defibrillator",
+            "indoor": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4658948,
+              46.8719942
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    10.6998704,
+    48.2078209
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5111831886",
+        "osm_type": "node",
+        "lat": 48.2361559,
+        "lon": 10.1366781,
+        "addr:city": "Illertissen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "89257",
+        "addr:street": "Zum Flugplatz",
+        "contact:email": "rt@paranodon.de",
+        "contact:phone": "+49 171 4023709",
+        "ele": "512",
+        "free_flying:tandem": "yes",
+        "leisure": "sports_centre",
+        "name": "Paranodon Fallschirmsport Illertissen e.V",
+        "office": "association",
+        "sport": "free_flying",
+        "start_date": "2014-06-23",
+        "website": "https://www.paranodon.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1366781,
+          48.2361559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5895077416",
+        "osm_type": "node",
+        "lat": 48.1794859,
+        "lon": 11.2630627,
+        "amenity": "recycling",
+        "check_date:recycling": "2025-08-07",
+        "location": "overground",
+        "name": "Gartenabfallsammelstelle Frühlingstraße",
+        "opening_hours": "Mar-Sep: Sa 14:00-17:00",
+        "recycling:green_waste": "yes",
+        "recycling_type": "container"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2630627,
+          48.1794859
+        ]
+      }
+    }
+  ],
+  "children": []
+}

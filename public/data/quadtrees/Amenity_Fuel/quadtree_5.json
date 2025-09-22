@@ -1,0 +1,3252 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 15.253173,
+    "north": 47.033758500000005,
+    "east": 17.16058
+  },
+  "poiCount": 111,
+  "leafCount": 0,
+  "averagePosition": [
+    15.967128399999998,
+    46.78014395135135
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 15.253173,
+        "north": 46.70320525,
+        "east": 16.2068765
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        15.674286437500001,
+        46.5621856375
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "278226034",
+            "osm_type": "node",
+            "lat": 46.5546516,
+            "lon": 15.507769,
+            "amenity": "fuel",
+            "automated": "yes",
+            "brand": "MAXEN",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MAXEN - Selnica ob Dravi",
+            "opening_hours": "24/7",
+            "operator": "M-Energija d.o.o."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.507769,
+              46.5546516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "469709176",
+            "osm_type": "node",
+            "lat": 46.6636244,
+            "lon": 15.4704521,
+            "addr:city": "Leutschach",
+            "addr:housenumber": "144",
+            "addr:place": "Schlossberg",
+            "addr:postcode": "8463",
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "cafe": "yes",
+            "car_wash": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_91": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Skoktschnigg",
+            "opening_hours": "Mo-Sa 06:00-20:00; Su,PH 07:30-20:00 || \"Tankautomat 24 Stunden!\"",
+            "opening_hours:vending_machine": "24/7",
+            "operator": "Skoktschnigg Gmbh",
+            "vending_machine": "fuel",
+            "website": "https://www.skotschnigg.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4704521,
+              46.6636244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "469709194",
+            "osm_type": "node",
+            "lat": 46.6610871,
+            "lon": 15.4699382,
+            "addr:city": "Leutschach",
+            "addr:postcode": "8463",
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Diskont-Tankstelle",
+            "not:brand:wikidata": "Q107803455"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4699382,
+              46.6610871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1713215586",
+            "osm_type": "node",
+            "lat": 46.6799402,
+            "lon": 15.4013325,
+            "addr:city": "Arnfels",
+            "addr:country": "AT",
+            "addr:housenumber": "277",
+            "addr:postcode": "8454",
+            "addr:street": "Leibnitzer Straße",
+            "amenity": "fuel",
+            "brand": "SOCAR",
+            "brand:wikidata": "Q1622293",
+            "brand:wikipedia": "en:SOCAR",
+            "contact:phone": "+43 3455 200 26",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Socar",
+            "opening_hours": "24/7",
+            "operator": "A1 Tankstellenbetrieb GmbH",
+            "self_service": "yes",
+            "vending_machine": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4013325,
+              46.6799402
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1844237034",
+            "osm_type": "node",
+            "lat": 46.5290645,
+            "lon": 15.6465731,
+            "amenity": "fuel",
+            "fuel:lpg": "yes",
+            "name": "Discont oil Maribor",
+            "name:en": "LPG station",
+            "opening_hours": "Mo-Sa 06:00-20:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6465731,
+              46.5290645
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2174962736",
+            "osm_type": "node",
+            "lat": 46.6459545,
+            "lon": 15.8436529,
+            "amenity": "fuel",
+            "name": "KZ Oil"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8436529,
+              46.6459545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3448037878",
+            "osm_type": "node",
+            "lat": 46.3850524,
+            "lon": 15.5762436,
+            "amenity": "fuel",
+            "brand": "Agip",
+            "brand:wikidata": "Q377915",
+            "brand:wikipedia": "en:Agip",
+            "fuel:biodiesel": "yes",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Agip"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5762436,
+              46.3850524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3967630012",
+            "osm_type": "node",
+            "lat": 46.4168896,
+            "lon": 15.9856572,
+            "addr:city": "Gorišnica",
+            "addr:housenumber": "1G",
+            "addr:postcode": "2272",
+            "addr:street": "Moškanjci",
+            "amenity": "fuel",
+            "brand": "Petrol",
+            "brand:wikidata": "Q174824",
+            "name": "Petrol - BS Moškanjci",
+            "opening_hours": "6:00 - 22:00",
+            "operator": "Petrol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9856572,
+              46.4168896
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4421755271",
+            "osm_type": "node",
+            "lat": 46.6636788,
+            "lon": 16.0094186,
+            "amenity": "fuel",
+            "automated": "yes",
+            "brand": "MAXEN",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MAXEN - Gornja Radgona",
+            "opening_hours": "24/7",
+            "operator": "M-Energija d.o.o."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0094186,
+              46.6636788
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6168954586",
+            "osm_type": "node",
+            "lat": 46.677853,
+            "lon": 15.6525484,
+            "addr:city": "Šentilj v Slov. goricah",
+            "addr:postcode": "2212",
+            "addr:street": "Mariborska cesta",
+            "amenity": "fuel",
+            "brand": "MOL",
+            "brand:wikidata": "Q549181",
+            "brand:wikipedia": "en:MOL (company)",
+            "name": "MOL Šentilj",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "operator": "Mitja Rebetnik s.p.",
+            "phone": "026500530"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6525484,
+              46.677853
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8969294328",
+            "osm_type": "node",
+            "lat": 46.4500833,
+            "lon": 15.6532903,
+            "addr:city": "Fram",
+            "addr:housenumber": "35",
+            "addr:postcode": "2313",
+            "addr:street": "Turnerjeva ulica",
+            "amenity": "fuel",
+            "automated": "yes",
+            "brand": "Shell",
+            "brand:wikidata": "Q154950",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "compressed_air": "yes",
+            "fuel:HGV_diesel": "yes",
+            "fuel:diesel": "yes",
+            "name": "Shell",
+            "opening_hours": "24/7",
+            "operator": "Shell Adria d.o.o.",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6532903,
+              46.4500833
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9260735818",
+            "osm_type": "node",
+            "lat": 46.6954502,
+            "lon": 15.6379104,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "name": "Shell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6379104,
+              46.6954502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9893763913",
+            "osm_type": "node",
+            "lat": 46.4833369,
+            "lon": 15.9652429,
+            "addr:city": "Juršinci",
+            "addr:housenumber": "81A",
+            "addr:postcode": "2256",
+            "addr:street": "Juršinci",
+            "amenity": "fuel",
+            "brand": "Logo",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Logo - bencinski servis Juršinci",
+            "opening_hours": "Mo-Sa 06:00-21:00; Su 07:00-17:00",
+            "operator": "LOGO BENCINSKI SERVISI d.o.o.",
+            "self_service": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9652429,
+              46.4833369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12649973609",
+            "osm_type": "node",
+            "lat": 46.4309456,
+            "lon": 15.6272037,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "contact:fax": "+386 2 8033220",
+            "contact:phone": "+386 2 8033220",
+            "name": "Shell",
+            "opening_hours": "Mo-Su 06:00-22:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6272037,
+              46.4309456
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12650021324",
+            "osm_type": "node",
+            "lat": 46.5223562,
+            "lon": 15.6798715,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "compressed_air": "yes",
+            "contact:fax": "+386 2 333 8212",
+            "contact:phone": "+386 2 333 8210",
+            "name": "Shell",
+            "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00; PH 07:00-21:00",
+            "website": "https://find.shell.com/si/fuel/13107257-maribor-ptujska-vzhod/sl_SI"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6798715,
+              46.5223562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12650030096",
+            "osm_type": "node",
+            "lat": 46.5350019,
+            "lon": 15.6614786,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "compressed_air": "yes",
+            "contact:fax": "+386 2 3338202",
+            "contact:phone": "+386 2 3338200",
+            "name": "Shell",
+            "opening_hours": "Mo-Fr 5:00-22:00, Sa-Su 6:00-22:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6614786,
+              46.5350019
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 16.2068765,
+        "north": 46.70320525,
+        "east": 17.16058
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        16.663661084615384,
+        46.454184138461535
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1129498894",
+            "osm_type": "node",
+            "lat": 46.3752438,
+            "lon": 16.4615825,
+            "addr:city": "Čakovec",
+            "addr:housenumber": "167",
+            "addr:postcode": "40000",
+            "addr:street": "Preloška ulica",
+            "amenity": "fuel",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Mikol",
+            "opening_hours": "Mo-Su 06:00-24:00",
+            "shop": "yes",
+            "website": "https://www.mikol.hr/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4615825,
+              46.3752438
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1201803752",
+            "osm_type": "node",
+            "lat": 46.3993308,
+            "lon": 16.4265939,
+            "addr:city": "Čakovec",
+            "addr:housenumber": "18",
+            "addr:postcode": "40000",
+            "addr:street": "Svetojelenska cesta",
+            "amenity": "fuel",
+            "name": "Mobenz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4265939,
+              46.3993308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6347495264",
+            "osm_type": "node",
+            "lat": 46.3955893,
+            "lon": 16.4265872,
+            "addr:city": "Čakovec",
+            "addr:housenumber": "12",
+            "addr:postcode": "40000",
+            "addr:street": "Globetka",
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "car_wash": "yes",
+            "name": "Shell",
+            "opening_hours": "Mo-Su 05:00-23:00",
+            "website": "https://www.apios.hr/en/home/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4265872,
+              46.3955893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6549983681",
+            "osm_type": "node",
+            "lat": 46.3877439,
+            "lon": 16.4155267,
+            "addr:city": "Čakovec",
+            "addr:housenumber": "18",
+            "addr:postcode": "40000",
+            "addr:street": "Zrinsko-Frankopanska ulica",
+            "amenity": "fuel",
+            "brand": "INA",
+            "brand:wikidata": "Q1662137",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "INA",
+            "opening_hours": "24/7",
+            "operator": "INA d.d.",
+            "recycling:cooking_oil": "yes",
+            "self_service": "yes",
+            "website": "https://www.ina.hr/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4155267,
+              46.3877439
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7126475185",
+            "osm_type": "node",
+            "lat": 46.3799466,
+            "lon": 16.3996636,
+            "addr:city": "Nedelišće",
+            "addr:housenumber": "119",
+            "addr:postcode": "40305",
+            "addr:street": "Čakovečka ulica",
+            "amenity": "fuel",
+            "compressed_air": "yes",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Formula V",
+            "opening_hours": "24/7",
+            "operator": "Moharić Commerce",
+            "shop": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3996636,
+              46.3799466
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7954651051",
+            "osm_type": "node",
+            "lat": 46.59726,
+            "lon": 16.46141,
+            "addr:city": "Rédics",
+            "addr:postcode": "8978",
+            "addr:street": "86. számú főközlekedési út",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "MOL",
+            "brand:wikidata": "Q549181",
+            "brand:wikipedia": "hu:MOL Magyar Olaj- és Gázipari Nyrt.",
+            "compressed_air": "yes",
+            "contact:facebook": "https://www.facebook.com/mol.magyarorszag/",
+            "contact:instagram": "https://www.instagram.com/mol.magyarorszag/",
+            "contact:website": "https://www.mol.hu",
+            "contact:youtube": "https://www.youtube.com/user/molgrouptv",
+            "fixme": "verify import",
+            "food": "yes",
+            "fuel:GTL_diesel": "yes",
+            "fuel:adblue": "yes",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "no",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MOL",
+            "operator": "MOL Nyrt.",
+            "operator:addr": "1117 Budapest, Dombóvári út 28.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-10-041683",
+            "ref:HU:vatin": "10625790-4-44",
+            "rent:lpg_bottles": "yes",
+            "source": "website",
+            "source:date": "2022-05-21",
+            "truck": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.46141,
+              46.59726
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1367925259",
+            "osm_type": "node",
+            "lat": 46.4556452,
+            "lon": 16.8252756,
+            "amenity": "fuel",
+            "compressed_air": "yes",
+            "name": "Feroil",
+            "opening_hours": "24/7",
+            "operator": "Oil!",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8252756,
+              46.4556452
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2271890051",
+            "osm_type": "node",
+            "lat": 46.4559335,
+            "lon": 17.0100367,
+            "addr:city": "Nagykanizsa",
+            "addr:housenumber": "5",
+            "addr:postcode": "8800",
+            "addr:street": "Hevesi Sándor utca",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "yes",
+            "contact:email": "info.hungary@omv.com",
+            "contact:facebook": "https://www.facebook.com/omvmagyarorszag",
+            "contact:fax": "+36 1 381 9899",
+            "contact:instagram": "https://www.instagram.com/omv/",
+            "contact:linkedin": "https://www.linkedin.com/company/omv",
+            "contact:phone": "+36 93 310 387",
+            "contact:twitter": "omv",
+            "contact:website": "https://www.omv.hu",
+            "contact:youtube": "https://www.youtube.com/user/omvofficial",
+            "fuel:GTL_diesel": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Su 06:00-22:00; PH off",
+            "operator": "OMV Hungária Kft.",
+            "operator:addr": "1117 Budapest, Október huszonharmadika utca 6-10 5. emelet 5/A.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-09-071584",
+            "ref:HU:vatin": "10542925-2-44",
+            "ref:vatin": "HU10542925",
+            "shop": "yes",
+            "source": "website",
+            "source:date": "2020-10-03"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0100367,
+              46.4559335
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2410379620",
+            "osm_type": "node",
+            "lat": 46.3772348,
+            "lon": 16.5320099,
+            "amenity": "fuel",
+            "fuel:GTL_diesel": "no",
+            "fuel:HGV_diesel": "no",
+            "fuel:biodiesel": "no",
+            "fuel:biogas": "no",
+            "fuel:cng": "no",
+            "fuel:diesel": "yes",
+            "fuel:e10": "no",
+            "fuel:e85": "no",
+            "fuel:electricity": "no",
+            "fuel:lpg": "no",
+            "fuel:octane_100": "no",
+            "fuel:octane_91": "no",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Iva petrol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5320099,
+              46.3772348
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2504310177",
+            "osm_type": "node",
+            "lat": 46.4664187,
+            "lon": 16.985117,
+            "addr:city": "Nagykanizsa",
+            "addr:housenumber": "118",
+            "addr:postcode": "8800",
+            "addr:street": "Magyar utca",
+            "amenity": "fuel",
+            "compressed_air": "yes",
+            "contact:fax": "+36 93 516 576",
+            "email": "info@normbenz.hu",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "yes",
+            "name": "Orlen",
+            "opening_hours": "24/7",
+            "operator": "Normbenz Magyarország Kft.",
+            "payment:american_express": "yes",
+            "payment:coins": "yes",
+            "payment:dkv": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:uta": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "phone": "+36 93 516 577",
+            "website": "https://orlen.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.985117,
+              46.4664187
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3012042865",
+            "osm_type": "node",
+            "lat": 46.6190827,
+            "lon": 16.5459159,
+            "amenity": "fuel",
+            "name": "Benzinkút Zala Volán Zrt."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5459159,
+              46.6190827
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7796797901",
+            "osm_type": "node",
+            "lat": 46.4538339,
+            "lon": 17.0104638,
+            "addr:city": "Nagykanizsa",
+            "addr:housenumber": "4",
+            "addr:postcode": "8800",
+            "addr:street": "Táborhely utca",
+            "amenity": "fuel",
+            "brand": "Oranges Oil Company",
+            "email": "info@orangesoil.hu",
+            "fuel:benzin_e6": "yes",
+            "fuel:diesel": "yes",
+            "image": "https://goo.gl/maps/VSigBncHFbjDBx5o7",
+            "name": "Oranges Oil Company - Nagykanizsa",
+            "opening_hours": "24/7",
+            "operator": "Oranges Oil Company",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+36304708411",
+            "self_service": "yes",
+            "website": "https://www.orangesoil.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0104638,
+              46.4538339
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1380883583",
+            "osm_type": "node",
+            "lat": 46.5411306,
+            "lon": 17.1274113,
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Karos Kút",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1274113,
+              46.5411306
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 15.253173,
+        "north": 47.033758500000005,
+        "east": 16.2068765
+      },
+      "poiCount": 59,
+      "leafCount": 0,
+      "averagePosition": [
+        15.58581840677966,
+        46.86768194067796
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 15.253173,
+            "north": 46.868481875,
+            "east": 15.73002475
+          },
+          "poiCount": 23,
+          "leafCount": 23,
+          "averagePosition": [
+            15.468478556521738,
+            46.77411726956522
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3198957445",
+                "osm_type": "node",
+                "lat": 46.7162079,
+                "lon": 15.2535466,
+                "addr:city": "Wies",
+                "addr:housenumber": "31",
+                "addr:postcode": "8551",
+                "addr:street": "Radlpaßstraße",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tankstelle Wetl",
+                "opening_hours": "Mo-Fr 06:00-20:00; Sa 07:00-17:00",
+                "operator": "Wetl GmbH"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2535466,
+                  46.7162079
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3198957446",
+                "osm_type": "node",
+                "lat": 46.7188118,
+                "lon": 15.2609496,
+                "addr:city": "Wies",
+                "addr:housenumber": "4",
+                "addr:postcode": "8551",
+                "addr:street": "Am Bahnhof",
+                "amenity": "fuel",
+                "brand": "Genol",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Genol Tankstelle",
+                "opening_hours": "24/7",
+                "operator": "Lagerhaus Wies",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2609496,
+                  46.7188118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3198985363",
+                "osm_type": "node",
+                "lat": 46.7227357,
+                "lon": 15.2784859,
+                "addr:city": "Wies",
+                "addr:housenumber": "12",
+                "addr:postcode": "8551",
+                "addr:street": "Hauptstraße",
+                "amenity": "fuel",
+                "fuel:1_25": "yes",
+                "fuel:1_50": "yes",
+                "fuel:adblue": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Hochkofler",
+                "opening_hours": "Mo-Sa 07:30-19:30; Su,PH 08:30-19:00",
+                "operator": "Hochkofler GmbH",
+                "self_service": "yes",
+                "website": "http://www.hochkofler.at/tankstelle"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2784859,
+                  46.7227357
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5261679953",
+                "osm_type": "node",
+                "lat": 46.8221823,
+                "lon": 15.3189273,
+                "addr:city": "Groß Sankt Florian",
+                "addr:postcode": "8522",
+                "amenity": "fuel",
+                "name": "Genol Lagerhaus",
+                "opening_hours": "24/7",
+                "phone": "+43 3464 2236",
+                "website": "https://www.grazland.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3189273,
+                  46.8221823
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5261863771",
+                "osm_type": "node",
+                "lat": 46.8224915,
+                "lon": 15.2856808,
+                "amenity": "fuel",
+                "contact:phone": "+43 3464 8401",
+                "name": "Diskonttankstelle Zmugg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2856808,
+                  46.8224915
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5838233418",
+                "osm_type": "node",
+                "lat": 46.7585183,
+                "lon": 15.4461363,
+                "addr:city": "Kitzeck im Sausal",
+                "addr:country": "AT",
+                "addr:housenumber": "150",
+                "addr:place": "Fresing",
+                "addr:postcode": "8441",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "M3 Tankstelle",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4461363,
+                  46.7585183
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9788575255",
+                "osm_type": "node",
+                "lat": 46.7486702,
+                "lon": 15.3479768,
+                "addr:city": "Gleinstätten",
+                "addr:housenumber": "37a",
+                "addr:place": "Haslach",
+                "addr:postcode": "8443",
+                "amenity": "fuel",
+                "brand": "F.Leitner",
+                "description": "Eröffnung am Donnerstag, 2. Juni 2022",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:profi_diesel": "yes",
+                "name": "F.Leitner",
+                "opening_hours": "24/7",
+                "operator": "F.Leitner Mineralöle GmbH",
+                "self_service": "yes",
+                "start_date": "2022-06-02",
+                "website": "https://www.leitner-mineraloele.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3479768,
+                  46.7486702
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10072648421",
+                "osm_type": "node",
+                "lat": 46.7361518,
+                "lon": 15.4451237,
+                "addr:housenumber": "130",
+                "addr:place": "Großklein",
+                "addr:postcode": "8452",
+                "addr:street": "Mattelsberg",
+                "amenity": "fuel",
+                "brand": "M3",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "M3 Großklein",
+                "opening_hours": "24/7",
+                "operator": "RMN Consulting GmbH",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4451237,
+                  46.7361518
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10185177383",
+                "osm_type": "node",
+                "lat": 46.7473428,
+                "lon": 15.3258853,
+                "addr:city": "Sankt Martin im Sulmtal",
+                "addr:country": "AT",
+                "addr:housenumber": "36",
+                "addr:place": "Graschach",
+                "addr:postcode": "8543",
+                "amenity": "fuel",
+                "brand": "Eni",
+                "brand:wikidata": "Q565594",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "fuel:premium_diesel": "yes",
+                "name": "ENI Tankstelle ERHART SB-Center Graschach",
+                "operator": "Andrea Maria Fink - ERHART",
+                "self_service": "yes",
+                "start_date": "2021.09.25",
+                "website": "https://erhart.co.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3258853,
+                  46.7473428
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10828783996",
+                "osm_type": "node",
+                "lat": 46.7573866,
+                "lon": 15.3746742,
+                "addr:city": "Gleinstätten",
+                "addr:country": "AT",
+                "addr:housenumber": "208",
+                "addr:place": "Pistorf",
+                "addr:postcode": "8443",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2016-10-02",
+                "brand": "Rumpold",
+                "fuel:adblue": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Rumpold",
+                "opening_hours": "24/7",
+                "operator": "Roth Energie GmbH",
+                "self_service": "yes",
+                "website": "https://www.rumpold.net/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3746742,
+                  46.7573866
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "35526367",
+                "osm_type": "node",
+                "lat": 46.8311842,
+                "lon": 15.5524484,
+                "addr:city": "Gralla",
+                "addr:country": "AT",
+                "addr:housenumber": "2",
+                "addr:postcode": "8431",
+                "addr:street": "Am Rastplatz",
+                "amenity": "fuel",
+                "brand": "Shell",
+                "brand:wikidata": "Q110716465",
+                "brand:wikipedia": "en:Royal Dutch Shell",
+                "fuel:HGV_diesel": "yes",
+                "fuel:adblue": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Shell",
+                "operator": "Shell",
+                "self_service": "yes",
+                "website": "https://find.shell.com/at/fuel/10022892-gralla-a9-phyrnautobahn-gralla-ost/de_AT"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5524484,
+                  46.8311842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "36740320",
+                "osm_type": "node",
+                "lat": 46.8330855,
+                "lon": 15.5477671,
+                "addr:city": "Gralla",
+                "addr:housenumber": "1",
+                "addr:postcode": "8431",
+                "addr:street": "Am Rastplatz",
+                "amenity": "fuel",
+                "brand": "Shell",
+                "brand:wikidata": "Q110716465",
+                "brand:wikipedia": "en:Royal Dutch Shell",
+                "compressed_air": "yes",
+                "fuel:HGV_diesel": "yes",
+                "fuel:adblue": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Shell",
+                "self_service": "yes",
+                "website": "https://find.shell.com/at/fuel/10022893-gralla-a9-phyrnautobahn-gralla-west/de_AT"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5477671,
+                  46.8330855
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "270372978",
+                "osm_type": "node",
+                "lat": 46.8572801,
+                "lon": 15.5361563,
+                "addr:city": "Lebring-Sankt Margarethen",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "8403",
+                "addr:street": "Leibnitzer Straße",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2019-04-01",
+                "brand": "OIL!",
+                "brand:wikidata": "Q2007561",
+                "brand:wikipedia": "de:OIL! Tankstellen",
+                "compressed_air": "yes",
+                "name": "Oil!",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5361563,
+                  46.8572801
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1044851372",
+                "osm_type": "node",
+                "lat": 46.7987075,
+                "lon": 15.5389209,
+                "addr:city": "Leibnitz",
+                "addr:country": "AT",
+                "addr:housenumber": "188",
+                "addr:postcode": "8430",
+                "addr:street": "Grazer Straße",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2018-10-01",
+                "brand": "Independent",
+                "compressed_air": "yes",
+                "fuel:1_25": "yes",
+                "fuel:1_50": "yes",
+                "fuel:GTL_diesel": "yes",
+                "fuel:HGV_diesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_91": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Tankstelle Gabi",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5389209,
+                  46.7987075
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1045698387",
+                "osm_type": "node",
+                "lat": 46.729489,
+                "lon": 15.6160015,
+                "amenity": "fuel",
+                "brand": "Eni",
+                "fuel:1_25": "no",
+                "fuel:1_50": "yes",
+                "fuel:HGV_diesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_91": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Eni",
+                "shop": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6160015,
+                  46.729489
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1765833692",
+                "osm_type": "node",
+                "lat": 46.7637663,
+                "lon": 15.5802874,
+                "addr:city": "Gabersdorf",
+                "addr:country": "AT",
+                "addr:housenumber": "50",
+                "addr:place": "Landscha an der Mur",
+                "addr:postcode": "8424",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2019-10-01",
+                "brand": "OMV",
+                "brand:wikidata": "Q168238",
+                "brand:wikipedia": "en:OMV",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "OMV",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "operator": "OMV",
+                "phone": "+43 3452 8204112"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5802874,
+                  46.7637663
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1765833698",
+                "osm_type": "node",
+                "lat": 46.7726408,
+                "lon": 15.5547635,
+                "addr:city": "Wagna",
+                "addr:country": "AT",
+                "addr:housenumber": "48",
+                "addr:postcode": "8435",
+                "addr:street": "Marburger Straße",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2018-10-01",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Diskont",
+                "operator": "Neubauer H."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5547635,
+                  46.7726408
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1840954327",
+                "osm_type": "node",
+                "lat": 46.7202467,
+                "lon": 15.585434,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "LH Ehrenhausen",
+                "operator": "Lagerhaus"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.585434,
+                  46.7202467
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6547091192",
+                "osm_type": "node",
+                "lat": 46.7066986,
+                "lon": 15.6339009,
+                "amenity": "fuel",
+                "brand": "Avanti",
+                "brand:wikidata": "Q168238",
+                "brand:wikipedia": "en:OMV",
+                "name": "Avanti",
+                "opening_hours": "24/7",
+                "operator": "Avanti",
+                "phone": "+43 800 202055"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6339009,
+                  46.7066986
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7743591911",
+                "osm_type": "node",
+                "lat": 46.7849576,
+                "lon": 15.6407983,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Johann Schlögl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6407983,
+                  46.7849576
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8341484758",
+                "osm_type": "node",
+                "lat": 46.8471054,
+                "lon": 15.5378236,
+                "addr:city": "Lebring",
+                "addr:country": "AT",
+                "addr:hamlet": "Sankt Magarethen bei Lebring",
+                "addr:housenumber": "76",
+                "addr:postcode": "8403",
+                "addr:street": "Leibnitzer Straße",
+                "amenity": "fuel",
+                "brand": "Socar",
+                "brand:wikidata": "Q1622293",
+                "brand:wikipedia": "de:State Oil Company of Azerbaijan Republic",
+                "contact:phone": "+43 316 41110",
+                "name": "SOCAR",
+                "old_name": "A1",
+                "opening_hours": "24/7",
+                "source": "geoimage.at MaxRes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5378236,
+                  46.8471054
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11030512348",
+                "osm_type": "node",
+                "lat": 46.8044907,
+                "lon": 15.5569982,
+                "addr:city": "Gralla",
+                "addr:country": "AT",
+                "addr:housenumber": "3",
+                "addr:postcode": "8431",
+                "addr:street": "Gewerbepark Nord",
+                "alt_name": "Billa",
+                "amenity": "fuel",
+                "brand": "JET",
+                "brand:wikidata": "Q568940",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Jet",
+                "opening_hours": "Mo-Sa 05:00-23:00; Su,PH 06:00-23:00",
+                "website": "https://www.jet-tankstellen.at/de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5569982,
+                  46.8044907
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12339019864",
+                "osm_type": "node",
+                "lat": 46.8045459,
+                "lon": 15.5563202,
+                "addr:city": "Gralla",
+                "addr:housenumber": "1",
+                "addr:postcode": "8431",
+                "addr:street": "Gewerbepark Nord",
+                "amenity": "fuel",
+                "compressed_air": "no",
+                "description": "Tanken nur mit Hirschmugl Tankkarte möglich",
+                "fuel:diesel": "yes",
+                "name": "Diesel-Tankstelle Hirschmugl",
+                "opening_hours": "Mo-Su,PH 00:00+,00:00-23:59",
+                "operator": "Hirschmugl",
+                "payment:cash": "no",
+                "payment:credit_cards": "no",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5563202,
+                  46.8045459
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 15.73002475,
+            "north": 46.868481875,
+            "east": 16.2068765
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            15.900075644444444,
+            46.772183399999996
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "945106914",
+                "osm_type": "node",
+                "lat": 46.7874848,
+                "lon": 15.8942891,
+                "amenity": "fuel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8942891,
+                  46.7874848
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1389317931",
+                "osm_type": "node",
+                "lat": 46.7064811,
+                "lon": 15.7596242,
+                "amenity": "fuel",
+                "brand": "pein.energy",
+                "mapillary": "228114242511995",
+                "name": "Tankstelle Pein",
+                "opening_hours": "24/7",
+                "shop": "convenience",
+                "survey:date": "2021-07-20",
+                "wheelchair": "limited"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7596242,
+                  46.7064811
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1682056293",
+                "osm_type": "node",
+                "lat": 46.7208049,
+                "lon": 15.9515562,
+                "addr:city": "Halbenrain",
+                "addr:housenumber": "65",
+                "addr:place": "Halbenrain",
+                "addr:postcode": "8492",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Pein Energy"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9515562,
+                  46.7208049
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1723725183",
+                "osm_type": "node",
+                "lat": 46.8681788,
+                "lon": 15.8896414,
+                "amenity": "fuel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8896414,
+                  46.8681788
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1917033935",
+                "osm_type": "node",
+                "lat": 46.7490108,
+                "lon": 15.8320713,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_91": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tankstelle Hirschmugl",
+                "operator": "Hirschmugl GmbH & Co KG"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8320713,
+                  46.7490108
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2609155617",
+                "osm_type": "node",
+                "lat": 46.7899638,
+                "lon": 15.8526,
+                "amenity": "fuel",
+                "name": "\"Landkauf\" Bund",
+                "opening_hours": "Mo-Fr 06:00-19:00; Sa 06:00-18:00",
+                "operator": "Bund",
+                "shop": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8526,
+                  46.7899638
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5090985471",
+                "osm_type": "node",
+                "lat": 46.7639179,
+                "lon": 15.9010049,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9010049,
+                  46.7639179
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13113138063",
+                "osm_type": "node",
+                "lat": 46.766041,
+                "lon": 15.9311946,
+                "amenity": "fuel",
+                "brand": "Genol",
+                "name": "Genol"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9311946,
+                  46.766041
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2071426703",
+                "osm_type": "node",
+                "lat": 46.7977675,
+                "lon": 16.0886991,
+                "amenity": "fuel",
+                "automated": "yes",
+                "brand": "Maxen",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Maxen - Grad",
+                "opening_hours": "24/7",
+                "operator": "M-Energija d.o.o."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0886991,
+                  46.7977675
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 15.253173,
+            "north": 47.033758500000005,
+            "east": 15.73002475
+          },
+          "poiCount": 20,
+          "leafCount": 20,
+          "averagePosition": [
+            15.4409339,
+            46.998846035
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "31617646",
+                "osm_type": "node",
+                "lat": 47.0131779,
+                "lon": 15.4089719,
+                "amenity": "fuel",
+                "brand": "Shell",
+                "brand:wikidata": "Q110716465",
+                "name": "Shell"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4089719,
+                  47.0131779
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "279599884",
+                "osm_type": "node",
+                "lat": 47.0204708,
+                "lon": 15.4106246,
+                "amenity": "fuel",
+                "name": "Roth"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4106246,
+                  47.0204708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "280407063",
+                "osm_type": "node",
+                "lat": 47.0300504,
+                "lon": 15.4942749,
+                "amenity": "fuel",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "F. Leitner",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4942749,
+                  47.0300504
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "316413007",
+                "osm_type": "node",
+                "lat": 47.0025589,
+                "lon": 15.2730136,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Diskonttankstelle",
+                "operator": "Kaier GmbH."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2730136,
+                  47.0025589
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "834760654",
+                "osm_type": "node",
+                "lat": 46.9249957,
+                "lon": 15.4905104,
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4905104,
+                  46.9249957
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "995930992",
+                "osm_type": "node",
+                "lat": 47.0299283,
+                "lon": 15.4005921,
+                "amenity": "fuel",
+                "brand": "Avanti",
+                "brand:wikidata": "Q168238",
+                "brand:wikipedia": "en:OMV",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Avanti",
+                "opening_hours": "24/7",
+                "operator": "Avanti",
+                "phone": "+43 800 202055"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4005921,
+                  47.0299283
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1028034339",
+                "osm_type": "node",
+                "lat": 46.9897753,
+                "lon": 15.3985101,
+                "addr:city": "Windorf;Seiersberg-Pirka",
+                "addr:country": "AT",
+                "addr:housenumber": "182a",
+                "addr:postcode": "8054",
+                "addr:street": "Premstätter Straße",
+                "amenity": "fuel",
+                "at_bev:addr_date": "2018-10-01",
+                "email": "osm@avido.cc",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Hi5-Diskont Tankstelle",
+                "opening_hours": "Mo-Su 6:00 - 21:00",
+                "operator": "Disk Hi 5;avido Gastro Handels GmbH",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:maestro": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3985101,
+                  46.9897753
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1388347830",
+                "osm_type": "node",
+                "lat": 47.0268976,
+                "lon": 15.4008712,
+                "amenity": "fuel",
+                "brand": "Turmöl",
+                "brand:wikidata": "Q1473279",
+                "compressed_air": "yes",
+                "name": "Turmöl"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4008712,
+                  47.0268976
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1756488773",
+                "osm_type": "node",
+                "lat": 47.0138753,
+                "lon": 15.4098217,
+                "amenity": "fuel",
+                "brand": "Hofer Diskont",
+                "brand:wikidata": "Q107803455",
+                "designation": "refuel yourself, Hofer petrol station, bank card",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Hofer Diskont",
+                "opening_hours": "24/7",
+                "operator": "Avanti",
+                "website": "https://www.diskonttanken.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4098217,
+                  47.0138753
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1765786818",
+                "osm_type": "node",
+                "lat": 47.0329455,
+                "lon": 15.4307642,
+                "addr:city": "Graz",
+                "addr:country": "AT",
+                "addr:housenumber": "328",
+                "addr:postcode": "8055",
+                "addr:street": "Triester Straße",
+                "amenity": "fuel",
+                "brand": "Sprint",
+                "description:payment": "Leitner-Kundenchip, Landforst-Kundenkarte",
+                "description:payment:en": "Leitner customer chip, Landforst customer card",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Sprint",
+                "opening_hours": "24/7",
+                "operator": "Sprint by Leitner",
+                "payment:maestro": "yes",
+                "payment:notes": "yes",
+                "website": "https://www.leitner-mineraloele.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4307642,
+                  47.0329455
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2481349058",
+                "osm_type": "node",
+                "lat": 46.9967428,
+                "lon": 15.2835118,
+                "amenity": "fuel",
+                "fuel:1_25": "no",
+                "fuel:1_50": "no",
+                "fuel:GTL_diesel": "no",
+                "fuel:cng": "no",
+                "fuel:diesel": "yes",
+                "fuel:e10": "no",
+                "fuel:e85": "no",
+                "fuel:lpg": "no",
+                "fuel:octane_100": "no",
+                "fuel:octane_80": "no",
+                "fuel:octane_91": "no",
+                "fuel:octane_92": "no",
+                "fuel:octane_95": "no",
+                "fuel:octane_98": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2835118,
+                  46.9967428
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3304371477",
+                "osm_type": "node",
+                "lat": 47.0145995,
+                "lon": 15.4739397,
+                "addr:housenumber": "8",
+                "addr:postcode": "8077",
+                "addr:street": "Bundesstraße",
+                "amenity": "fuel",
+                "brand": "Socar",
+                "brand:wikidata": "Q1622293",
+                "brand:wikipedia": "en:SOCAR",
+                "name": "Socar",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4739397,
+                  47.0145995
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5037705378",
+                "osm_type": "node",
+                "lat": 47.0333925,
+                "lon": 15.4435955,
+                "amenity": "fuel",
+                "brand": "JET",
+                "brand:wikidata": "Q568940",
+                "brand:wikipedia": "en:Jet (brand)",
+                "contact:phone": "+43 316 244 367",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Jet",
+                "opening_hours": "Mo-Sa 05:30-22:30; Su 07:00-22:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4435955,
+                  47.0333925
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5351400527",
+                "osm_type": "node",
+                "lat": 46.9708612,
+                "lon": 15.436586,
+                "addr:city": "Premstätten",
+                "addr:country": "AT",
+                "addr:housenumber": "22",
+                "addr:postcode": "8141",
+                "addr:street": "Sternweg",
+                "amenity": "fuel",
+                "brand": "Socar",
+                "brand:wikidata": "Q1622293",
+                "contact:phone": "+43 316 4111 0",
+                "name": "SOCAR",
+                "opening_hours": "24/7",
+                "website": "https://socarenergy.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.436586,
+                  46.9708612
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7569314910",
+                "osm_type": "node",
+                "lat": 46.9745592,
+                "lon": 15.4982299,
+                "addr:city": "Fernitz",
+                "addr:housenumber": "24",
+                "addr:postcode": "8072",
+                "addr:street": "Grazer Straße",
+                "amenity": "fuel",
+                "brand": "M3",
+                "compressed_air": "yes",
+                "fixme": "Please mark defunct, it's been changed to be a car repair or check",
+                "fuel:1_25": "yes",
+                "fuel:1_50": "yes",
+                "fuel:HGV_diesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "M3 Tankstelle",
+                "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-20:00; So 08:00-20:00",
+                "operator": "Maier Mineralölhandel OG",
+                "payment:cash": "yes",
+                "payment:debit_cards": "yes",
+                "payment:maestro": "yes",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4982299,
+                  46.9745592
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7593235749",
+                "osm_type": "node",
+                "lat": 47.0052504,
+                "lon": 15.4196909,
+                "access": "private",
+                "amenity": "fuel",
+                "fuel:diesel": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4196909,
+                  47.0052504
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12800510825",
+                "osm_type": "node",
+                "lat": 46.9936216,
+                "lon": 15.4547547,
+                "amenity": "fuel",
+                "name": "Tankstelle"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4547547,
+                  46.9936216
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "863999471",
+                "osm_type": "node",
+                "lat": 46.9821288,
+                "lon": 15.5655601,
+                "addr:city": "Heiligenkreuz am Waasen",
+                "addr:country": "AT",
+                "addr:housenumber": "36",
+                "addr:place": "Liebensdorf",
+                "addr:postcode": "8081",
+                "amenity": "fuel",
+                "opening_hours": "Mo-Fr 06:00-20:00,Sa 07:00-20:00, Su 08:00-20:00",
+                "operator": "BP"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5655601,
+                  46.9821288
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3734097165",
+                "osm_type": "node",
+                "lat": 47.0056546,
+                "lon": 15.541682,
+                "addr:city": "Vasoldsberg",
+                "addr:housenumber": "39",
+                "addr:postcode": "8076",
+                "addr:street": "Kapellenstraße",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "name": "Fortmüller",
+                "note": "only Diesel also a small \"Trafik\" selling cigarettes/newspapers/...",
+                "phone": "+43 3135 46318"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.541682,
+                  47.0056546
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7577833155",
+                "osm_type": "node",
+                "lat": 46.9154344,
+                "lon": 15.5831727,
+                "addr:city": "Allerheiligen bei Wildon",
+                "addr:housenumber": "20",
+                "addr:postcode": "8412",
+                "addr:street": "Siebing",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Gasthaus & Tankstelle Josef Fruhmann",
+                "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-13:00",
+                "operator": "Josef Fruhmann e.U. - Gasthaus & Tankstelle Josef Fruhmann",
+                "payment:cash": "yes",
+                "self_service": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5831727,
+                  46.9154344
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 15.73002475,
+            "north": 47.033758500000005,
+            "east": 16.2068765
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            15.981274342857143,
+            46.923138
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "317991287",
+                "osm_type": "node",
+                "lat": 46.8695511,
+                "lon": 15.9023776,
+                "addr:city": "Bad Gleichenberg",
+                "addr:housenumber": "12",
+                "addr:postcode": "8344",
+                "addr:street": "Radkersburger Straße",
+                "amenity": "fuel",
+                "brand": "Socar",
+                "fuel:diesel": "yes",
+                "fuel:octane_91": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Socar",
+                "operator": "A1 Tankstellenbetrieb GmbH",
+                "phone": "+43 3159 2484"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9023776,
+                  46.8695511
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4351638538",
+                "osm_type": "node",
+                "lat": 46.8724314,
+                "lon": 15.9020213,
+                "addr:street": "Grazer Straße",
+                "amenity": "fuel",
+                "fuel:diesel": "yes",
+                "name": "Lagerhaus Tankstelle",
+                "opening_hours": "24/7",
+                "operator": "Lagerhaus Bad Gleichenberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9020213,
+                  46.8724314
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3158934966",
+                "osm_type": "node",
+                "lat": 46.8821959,
+                "lon": 15.8177806,
+                "addr:city": "Gnas",
+                "addr:country": "AT",
+                "addr:housenumber": "98",
+                "addr:place": "Burgfried",
+                "addr:postcode": "8342",
+                "amenity": "fuel",
+                "brand": "Socar",
+                "brand:wikidata": "Q1622293",
+                "fax": "+43 3151 8683 13",
+                "name": "SOCAR",
+                "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-21:00",
+                "operator": "A1 Tankstellenbetrieb GmbH",
+                "phone": "+43 3151 8683"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8177806,
+                  46.8821959
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4504752675",
+                "osm_type": "node",
+                "lat": 46.9573454,
+                "lon": 15.8503448,
+                "addr:city": "Paldau",
+                "addr:housenumber": "99",
+                "addr:place": "Saaz",
+                "addr:postcode": "8341",
+                "amenity": "fuel",
+                "fuel:wood": "yes",
+                "name": "Brennstoffhandel holzbrennerei",
+                "operator": "niceshops GmbH"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8503448,
+                  46.9573454
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "316696233",
+                "osm_type": "node",
+                "lat": 47.0054646,
+                "lon": 16.1125816,
+                "addr:city": "Bad Loipersdorf",
+                "addr:country": "AT",
+                "addr:postcode": "8282",
+                "amenity": "fuel",
+                "compressed_air": "yes",
+                "name": "ProRast",
+                "opening_hours": "PH,Mo-Su 05:00-23:00",
+                "self_service": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1125816,
+                  47.0054646
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "344512018",
+                "osm_type": "node",
+                "lat": 46.9370776,
+                "lon": 16.1350965,
+                "amenity": "fuel",
+                "created_by": "Merkaartor 0.13"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1350965,
+                  46.9370776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2822792401",
+                "osm_type": "node",
+                "lat": 46.9379,
+                "lon": 16.148718,
+                "addr:city": "Jennersdorf",
+                "addr:housenumber": "7",
+                "addr:postcode": "8380",
+                "addr:street": "Technologiepark",
+                "amenity": "fuel",
+                "car_wash": "yes",
+                "name": "Rumpold Tankstelle"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.148718,
+                  46.9379
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 16.2068765,
+        "north": 47.033758500000005,
+        "east": 17.16058
+      },
+      "poiCount": 23,
+      "leafCount": 23,
+      "averagePosition": [
+        16.75529518695652,
+        46.89145130869565
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1777095007",
+            "osm_type": "node",
+            "lat": 46.7249215,
+            "lon": 16.838178,
+            "amenity": "fuel",
+            "fuel:diesel": "yes",
+            "name": "Benzinkút"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.838178,
+              46.7249215
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2168591143",
+            "osm_type": "node",
+            "lat": 46.844634,
+            "lon": 16.864789,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q110716465",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "name": "Shell",
+            "operator": "Shell",
+            "website": "https://www.shell.hu/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.864789,
+              46.844634
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2201590830",
+            "osm_type": "node",
+            "lat": 46.868879,
+            "lon": 16.7920064,
+            "amenity": "fuel",
+            "brand": "Avia",
+            "brand:wikidata": "Q300147",
+            "name": "Avia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7920064,
+              46.868879
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3479941514",
+            "osm_type": "node",
+            "lat": 46.821999,
+            "lon": 16.8478944,
+            "addr:city": "Zalaegerszeg",
+            "addr:housenumber": "20",
+            "addr:postcode": "8900",
+            "addr:street": "Zrínyi Miklós utca",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "Orlen",
+            "brand:wikidata": "Q971649",
+            "brand:wikipedia": "en:Orlen",
+            "compressed_air": "yes",
+            "contact:email": "info@orlen.hu",
+            "contact:fax": "+36 1 799 1008",
+            "contact:instagram": "https://www.instagram.com/orlen.magyarorszag/",
+            "contact:phone": "+36 1 465 7600",
+            "contact:website": "https://www.orlen.hu/",
+            "contact:youtube": "https://www.youtube.com/@orlenmagyarorszag",
+            "food": "no",
+            "fuel:GTL_diesel": "yes",
+            "fuel:adblue": "no",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "no",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Orlen",
+            "old_brand": "MOL",
+            "old_name": "MOL",
+            "operator": "Orlen Hungary KFt.",
+            "operator:addr": "1112 Budapest, Boldizsár utca 2",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "rent:lpg_bottles": "yes",
+            "source": "website",
+            "source:date": "2024-02-29",
+            "toilets:wheelchair": "no",
+            "truck": "no",
+            "url": "http://turistautak.hu/poi.php?id=124645",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8478944,
+              46.821999
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3479941515",
+            "osm_type": "node",
+            "lat": 46.8567728,
+            "lon": 16.7897358,
+            "addr:postcode": "8900",
+            "addr:street": "Teskandi",
+            "amenity": "fuel",
+            "brand": "Independent",
+            "fuel:biodiesel": "no",
+            "fuel:diesel": "yes",
+            "fuel:e85": "yes",
+            "fuel:octane_95": "yes",
+            "name": "Molnár Tank",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "payment:coins": "yes",
+            "payment:credit_cards": "no",
+            "payment:cryptocurrencies": "no",
+            "payment:debit_cards": "no",
+            "payment:electronic_purses": "no",
+            "payment:notes": "yes",
+            "url": "http://turistautak.hu/poi.php?id"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7897358,
+              46.8567728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4784679721",
+            "osm_type": "node",
+            "lat": 46.8423872,
+            "lon": 16.8678376,
+            "amenity": "fuel",
+            "name": "Oranges Oil",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8678376,
+              46.8423872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4919185221",
+            "osm_type": "node",
+            "lat": 46.8215194,
+            "lon": 16.9952754,
+            "amenity": "fuel",
+            "name": "Port oil",
+            "name:hu": "Port oil"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9952754,
+              46.8215194
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4933471510",
+            "osm_type": "node",
+            "lat": 46.8259936,
+            "lon": 16.8481528,
+            "amenity": "fuel",
+            "fixme": "verify",
+            "name": "Box Utca",
+            "source": "route4u",
+            "toilets:wheelchair": "no",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8481528,
+              46.8259936
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4933471731",
+            "osm_type": "node",
+            "lat": 46.864701,
+            "lon": 16.7916234,
+            "amenity": "fuel",
+            "fixme": "verify",
+            "name": "Zala-Tank Töltőállomás",
+            "source": "route4u",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7916234,
+              46.864701
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5633524271",
+            "osm_type": "node",
+            "lat": 46.7303106,
+            "lon": 16.8533414,
+            "addr:city": "Bak",
+            "addr:conscriptionnumber": "0222/30",
+            "addr:postcode": "8945",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "yes",
+            "contact:email": "info.hungary@omv.com",
+            "contact:facebook": "https://www.facebook.com/omvmagyarorszag",
+            "contact:fax": "+36 1 381 9899",
+            "contact:instagram": "https://www.instagram.com/omv/",
+            "contact:linkedin": "https://www.linkedin.com/company/omv",
+            "contact:twitter": "omv",
+            "contact:website": "https://www.omv.hu",
+            "contact:youtube": "https://www.youtube.com/user/omvofficial",
+            "fuel:GTL_diesel": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-19:00",
+            "operator": "OMV Hungária Kft.",
+            "operator:addr": "1117 Budapest, Október huszonharmadika utca 6-10 5. emelet 5/A.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-09-071584",
+            "ref:HU:vatin": "10542925-2-44",
+            "ref:vatin": "HU10542925",
+            "self_service": "yes",
+            "source": "website",
+            "source:date": "2020-10-03"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8533414,
+              46.7303106
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7738477670",
+            "osm_type": "node",
+            "lat": 46.7682365,
+            "lon": 16.7801724,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7801724,
+              46.7682365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12008990246",
+            "osm_type": "node",
+            "lat": 46.8429255,
+            "lon": 16.5858477,
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "name": "OMV",
+            "operator": "OMV"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5858477,
+              46.8429255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1349142913",
+            "osm_type": "node",
+            "lat": 46.9885031,
+            "lon": 16.2575727,
+            "amenity": "fuel",
+            "brand": "BP",
+            "brand:wikidata": "Q152057",
+            "name": "BP",
+            "operator": "BP",
+            "source": "Bing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2575727,
+              46.9885031
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "603883200",
+            "osm_type": "node",
+            "lat": 46.9736157,
+            "lon": 17.0155194,
+            "addr:city": "Zalabér",
+            "addr:conscriptionnumber": "03155/2",
+            "addr:postcode": "8798",
+            "amenity": "fuel",
+            "brand": "Avia",
+            "compressed_air": "yes",
+            "contact:email": "avia@avia.hu",
+            "contact:facebook": "https://www.facebook.com/AVIAHungary",
+            "contact:phone": "+36 20 205 4388",
+            "contact:website": "https://www.avia.hu/toltoallomas/?id=5",
+            "contact:youtube": "https://www.youtube.com/channel/UCjvjkjf2RgmKBuTnKSXk-Rg",
+            "food": "no",
+            "fuel:diesel": "yes",
+            "fuel:e85": "no",
+            "fuel:lpg": "yes",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "no",
+            "name": "Avia",
+            "opening_hours": "Mo-Su 06:00-20:00",
+            "operator": "AVIA Hungária Kft.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "rent:lpg_bottles": "yes",
+            "restaurant": "no",
+            "source": "import;website",
+            "source:date": "2025-01-07",
+            "truck": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0155194,
+              46.9736157
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2161429751",
+            "osm_type": "node",
+            "lat": 47.0099396,
+            "lon": 16.583343,
+            "amenity": "fuel",
+            "brand": "Shell",
+            "brand:wikidata": "Q154950",
+            "brand:wikipedia": "en:Royal Dutch Shell",
+            "name": "Shell",
+            "operator": "Shell",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.shell.hu/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.583343,
+              47.0099396
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3459862956",
+            "osm_type": "node",
+            "lat": 47.014409,
+            "lon": 16.609934,
+            "addr:city": "Körmend",
+            "addr:postcode": "9900",
+            "addr:street": "Rákóczi utca",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "MOL",
+            "brand:wikidata": "Q549181",
+            "brand:wikipedia": "hu:MOL Magyar Olaj- és Gázipari Nyrt.",
+            "contact:facebook": "https://www.facebook.com/mol.magyarorszag/",
+            "contact:instagram": "https://www.instagram.com/mol.magyarorszag/",
+            "contact:website": "https://www.mol.hu",
+            "contact:youtube": "https://www.youtube.com/user/molgrouptv",
+            "fuel:diesel": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MOL",
+            "operator": "MOL Nyrt.",
+            "operator:addr": "1117 Budapest, Dombóvári út 28.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-10-041683",
+            "ref:HU:vatin": "10625790-4-44",
+            "source": "website",
+            "source:date": "2019-11-06",
+            "url": "http://turistautak.hu/poi.php?id=27542",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.609934,
+              47.014409
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3459863176",
+            "osm_type": "node",
+            "lat": 47.0067852,
+            "lon": 16.6085757,
+            "amenity": "fuel",
+            "name": "Magyar benzinkút – Magyar kúthálózat",
+            "source": "turistautak.hu",
+            "source:date": "2015-03-03",
+            "url": "http://turistautak.hu/poi.php?id=5355"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6085757,
+              47.0067852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6210890584",
+            "osm_type": "node",
+            "lat": 46.9640373,
+            "lon": 16.6042373,
+            "amenity": "fuel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6042373,
+              46.9640373
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7110505121",
+            "osm_type": "node",
+            "lat": 46.8767242,
+            "lon": 16.7457604,
+            "addr:city": "Bagod",
+            "addr:housenumber": "21-23",
+            "addr:postcode": "8992",
+            "addr:street": "Kossuth Lajos utca",
+            "amenity": "fuel",
+            "brand": "Avia",
+            "compressed_air": "yes",
+            "contact:email": "avia@avia.hu",
+            "contact:facebook": "https://www.facebook.com/AVIAHungary",
+            "contact:phone": "+36 20 524 9535",
+            "contact:website": "https://www.avia.hu/toltoallomas/?id=9",
+            "contact:youtube": "https://www.youtube.com/channel/UCjvjkjf2RgmKBuTnKSXk-Rg",
+            "fixme": "verify import",
+            "food": "no",
+            "fuel:diesel": "yes",
+            "fuel:e85": "no",
+            "fuel:lpg": "no",
+            "fuel:octane_95": "yes",
+            "fuel:octane_98": "no",
+            "name": "Avia",
+            "operator": "AVIA Hungária Kft.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "rent:lpg_bottles": "yes",
+            "restaurant": "no",
+            "source": "import;website",
+            "source:date": "2025-01-07",
+            "truck": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7457604,
+              46.8767242
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8360056814",
+            "osm_type": "node",
+            "lat": 47.0177197,
+            "lon": 16.6141895,
+            "addr:city": "Körmend",
+            "addr:housenumber": "5",
+            "addr:postcode": "9900",
+            "addr:street": "Sport utca",
+            "amenity": "fuel",
+            "brand": "Concordia",
+            "email": "kormend@concordia-trans.hu",
+            "name": "Concordia",
+            "opening_hours": "Mo-Sa 06:00-22:00",
+            "website": "http://concordiabenzinkut.hu/?page_id=46"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6141895,
+              47.0177197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9347246587",
+            "osm_type": "node",
+            "lat": 46.8906863,
+            "lon": 16.8359312,
+            "addr:city": "Zalaegerszeg",
+            "addr:conscriptionnumber": "0779/9",
+            "addr:postcode": "8900",
+            "air_conditioning": "no",
+            "amenity": "fuel",
+            "brand": "MOL",
+            "brand:wikidata": "Q549181",
+            "brand:wikipedia": "hu:MOL Magyar Olaj- és Gázipari Nyrt.",
+            "compressed_air": "no",
+            "contact:facebook": "https://www.facebook.com/mol.magyarorszag/",
+            "contact:instagram": "https://www.instagram.com/mol.magyarorszag/",
+            "contact:website": "https://www.mol.hu",
+            "contact:youtube": "https://www.youtube.com/user/molgrouptv",
+            "food": "no",
+            "fuel:GTL_diesel": "yes",
+            "fuel:adblue": "yes",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "no",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MOL",
+            "operator": "MOL Nyrt.",
+            "operator:addr": "1117 Budapest, Dombóvári út 28.",
+            "payment:cash": "no",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-10-041683",
+            "ref:HU:vatin": "10625790-4-44",
+            "rent:lpg_bottles": "no",
+            "shop": "no",
+            "source": "website",
+            "source:date": "2021-12-17",
+            "truck": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8359312,
+              46.8906863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9347246588",
+            "osm_type": "node",
+            "lat": 47.00813,
+            "lon": 16.57423,
+            "addr:city": "Körmend",
+            "addr:postcode": "9900",
+            "addr:street": "Rákóczi utca",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "MOL",
+            "brand:wikidata": "Q549181",
+            "brand:wikipedia": "hu:MOL Magyar Olaj- és Gázipari Nyrt.",
+            "compressed_air": "yes",
+            "contact:facebook": "https://www.facebook.com/mol.magyarorszag/",
+            "contact:instagram": "https://www.instagram.com/mol.magyarorszag/",
+            "contact:website": "https://www.mol.hu",
+            "contact:youtube": "https://www.youtube.com/user/molgrouptv",
+            "fixme": "verify import",
+            "food": "no",
+            "fuel:GTL_diesel": "yes",
+            "fuel:adblue": "no",
+            "fuel:diesel": "yes",
+            "fuel:lpg": "no",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "MOL",
+            "operator": "MOL Nyrt.",
+            "operator:addr": "1117 Budapest, Dombóvári út 28.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-10-041683",
+            "ref:HU:vatin": "10625790-4-44",
+            "rent:lpg_bottles": "yes",
+            "source": "website",
+            "source:date": "2022-05-21",
+            "truck": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.57423,
+              47.00813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "542000050",
+            "osm_type": "node",
+            "lat": 46.9395499,
+            "lon": 17.0676418,
+            "addr:city": "Zalaszentgrót",
+            "addr:housenumber": "5",
+            "addr:postcode": "8790",
+            "addr:street": "Erzsébet liget utca",
+            "air_conditioning": "yes",
+            "amenity": "fuel",
+            "brand": "OMV",
+            "brand:wikidata": "Q168238",
+            "brand:wikipedia": "en:OMV",
+            "compressed_air": "yes",
+            "contact:email": "info.hungary@omv.com",
+            "contact:facebook": "https://www.facebook.com/omvmagyarorszag",
+            "contact:fax": "+36 1 381 9899",
+            "contact:instagram": "https://www.instagram.com/omv/",
+            "contact:linkedin": "https://www.linkedin.com/company/omv",
+            "contact:phone": "+36 83 360 052",
+            "contact:twitter": "omv",
+            "contact:website": "https://www.omv.hu",
+            "contact:youtube": "https://www.youtube.com/user/omvofficial",
+            "fuel:GTL_diesel": "yes",
+            "fuel:diesel": "yes",
+            "fuel:octane_100": "yes",
+            "fuel:octane_95": "yes",
+            "name": "OMV",
+            "opening_hours": "Mo-Su 06:00-22:00; PH off",
+            "operator": "OMV Hungária Kft.",
+            "operator:addr": "1117 Budapest, Október huszonharmadika utca 6-10 5. emelet 5/A.",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:mastercard_electronic": "yes",
+            "payment:visa": "yes",
+            "payment:visa_electron": "yes",
+            "ref:HU:company": "01-09-071584",
+            "ref:HU:vatin": "10542925-2-44",
+            "ref:vatin": "HU10542925",
+            "source": "website",
+            "source:date": "2020-10-03"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0676418,
+              46.9395499
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

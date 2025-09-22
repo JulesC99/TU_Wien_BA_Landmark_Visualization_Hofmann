@@ -1,0 +1,621 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 21,
+  "leafCount": 21,
+  "averagePosition": [
+    15.746060819047619,
+    47.170524061904764
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1370536696",
+        "osm_type": "node",
+        "lat": 47.0752482,
+        "lon": 15.4485856,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "8010",
+        "addr:street": "Brunngasse",
+        "amenity": "clinic",
+        "contact:email": "office@prophy-docs.at",
+        "contact:phone": "+43 316 42 43 98",
+        "description": "Die Ärzte der prophy docs sind Wahlärzte",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dermatology;paediatrics;internal;orthopaedics;trauma;otolaryngology;dermatovenereology;psychiatry;neurology;anaesthetics",
+        "name": "prophy docs Ärztezentrum",
+        "opening_hours": "Mo 09:00-12:00,15:00-18:00; Tu,Th 09:00-18:00; We 15:00-18:00; Fr 09:00-12:00",
+        "source": "survey",
+        "website": "https://www.prophy-docs.at/kontakt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4485856,
+          47.0752482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2459143680",
+        "osm_type": "node",
+        "lat": 47.0698518,
+        "lon": 15.4491846,
+        "OGD-Stmk:ARZTNR": "1167.0",
+        "OGD-Stmk:OBJECTID": "404",
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:floor": "2",
+        "addr:housenumber": "6",
+        "addr:postcode": "8010",
+        "addr:street": "Rechbauerstraße",
+        "amenity": "clinic",
+        "contact:email": "i.rock@aon.at",
+        "contact:fax": "+43 316 8305074",
+        "contact:phone": "+43 316 830 163",
+        "healthcare": "clinic",
+        "healthcare:speciality": "osteopathy;physiotherapy;psychotherapist",
+        "healthcare:speciality:de": "Facharzt für Kinder- und Jugendheilkunde",
+        "insurance": "GKK, KFAG, SVA, VA",
+        "insurance:GKK": "yes",
+        "insurance:KFAG": "yes",
+        "insurance:SVA": "yes",
+        "insurance:VA": "yes",
+        "name": "Praxis Rechbauer",
+        "note": "Gemeinschaftspraxis\n\nElke Fürpaß\nSimone Wogrolly\nAlexandra Schmid\nVerena Barth-Veith\nSilvia Ableitner\nMonika Schäffer\nDr. Elisabeth Gierlinger-Czerny",
+        "opening_hours": "Mo-Fr 07:00-20:00",
+        "source": "Land Steiermark - data.steiermark.gv.at",
+        "toilets:wheelchair": "no",
+        "website": "https://www.praxis-rechbauer.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4491846,
+          47.0698518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3070411925",
+        "osm_type": "node",
+        "lat": 47.0838615,
+        "lon": 15.4424177,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "35",
+        "addr:postcode": "8010",
+        "addr:street": "Kreuzgasse",
+        "amenity": "clinic",
+        "elevator": "yes",
+        "healthcare": "clinic",
+        "level": "2",
+        "name": "CT-Zentrum",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4424177,
+          47.0838615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4728555626",
+        "osm_type": "node",
+        "lat": 47.0785954,
+        "lon": 15.463945,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "8010",
+        "addr:street": "Leonhardplatz",
+        "amenity": "clinic",
+        "contact:phone": "+43 316 90 44 88",
+        "full_name": "Medius - Zentrum für Gesundheit",
+        "health_facility:type": "office",
+        "healthcare": "centre",
+        "healthcare:speciality": "social_work",
+        "insurance": "BVA, GKK, KFAG, KFAW, SVA, OEDA, VA",
+        "insurance:BVA": "yes",
+        "insurance:GKK": "yes",
+        "insurance:KFAG": "yes",
+        "insurance:KFAW": "yes",
+        "insurance:OEDA": "yes",
+        "insurance:SVA": "yes",
+        "insurance:SVB": "yes",
+        "insurance:VA": "yes",
+        "insurance:VAEB": "yes",
+        "name": "Primärversorgungszentrum Graz - MEDIUS Zentrum für Gesundheit",
+        "opening_hours": "Mo-Fr 08:00-18:00; Mo-Fr 08:00-12:00,14:00-18:00 \"ärztliche Ordinationszeiten\"; PH off",
+        "operator": "Medius – Korsatko, Muchitsch, Strobl-Gobiet – Allgemeinmedizin OG",
+        "social_facility": "healthcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463945,
+          47.0785954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5345093556",
+        "osm_type": "node",
+        "lat": 47.0839141,
+        "lon": 15.4424376,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "35",
+        "addr:postcode": "8010",
+        "addr:street": "Kreuzgasse",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "MR-Zentrum",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4424376,
+          47.0839141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8006822488",
+        "osm_type": "node",
+        "lat": 47.0632108,
+        "lon": 15.4311804,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "8020",
+        "addr:street": "Karlauerstraße",
+        "amenity": "clinic",
+        "check_date:opening_hours": "2024-04-25",
+        "contact:phone": "+43 316 93 12 72",
+        "contact:website": "http://www.allgemeinmedizingries.at/",
+        "entrance": "main",
+        "healthcare": "centre",
+        "healthcare:speciality": "social_work",
+        "name": "Primärversorgungszentrum Graz Gries",
+        "name:de": "Primärversorgungszentrum Algemeinmedizin Graz Gries",
+        "opening_hours": "Mo,We 08:00-18:00; Tu,Fr 08:00-15:30; Th 08:00-13:00",
+        "operator": "Dr.in Johanna Leitner  Dr.in Elisabeth Wejbora",
+        "social_facility": "healthcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4311804,
+          47.0632108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11449201747",
+        "osm_type": "node",
+        "lat": 47.0640064,
+        "lon": 15.4112141,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "8020",
+        "addr:street": "Am Steinfeld",
+        "amenity": "clinic",
+        "email": "ordination@gz-reininghaus.at",
+        "healthcare": "centre",
+        "healthcare:speciality": "general",
+        "level": "2",
+        "name": "Gesundheitszentrum Reininghaus",
+        "opening_hours": "Mo 08:00-17:30; Tu 08:00-15:30; We 08:00-17:30; Th 08:00-15:30; Fr 08:00-18:00; PH off",
+        "operator": "GESUNDHEITSZENTRUM REININGHAUS – Brenneis, Hochegger, Tamminen PVZ für Allgemeinmedizin OG",
+        "operator:type": "private",
+        "phone": "+43 316 292731",
+        "start_date": "2024-01-02",
+        "website": "https://www.gz-reininghaus.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4112141,
+          47.0640064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11624946348",
+        "osm_type": "node",
+        "lat": 47.0816278,
+        "lon": 15.4100421,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "128",
+        "addr:postcode": "8020",
+        "addr:street": "Waagner-Biro-Straße",
+        "alt_name": "Dr. Natalie Otto;Dr. Lisa Höfler;Dr. Stephanie Pachler;Dr. Patricia Wilhelmer",
+        "amenity": "clinic",
+        "contact:email": "\"on appointment\"",
+        "contact:phone": "+43 316 58 13 63 0",
+        "contact:website": "https://lendarztpraxis.at/",
+        "healthcare": "centre",
+        "healthcare:speciality": "general",
+        "level": "0",
+        "name": "Lendarzt Praxis",
+        "opening_hours": "Mo,We,Fr 08:00-15:30; Tu,Th 08:0-18:00",
+        "operator": "Dr. Natalie Otto;Dr. Lisa Höfler;Dr. Stephanie Pachler;Dr. Patricia Wilhelmer",
+        "operator:type": "private",
+        "start_date": "2024-02-19",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4100421,
+          47.0816278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11887715415",
+        "osm_type": "node",
+        "lat": 47.0809699,
+        "lon": 15.4704262,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "8010",
+        "addr:street": "Neue Stiftingtalstraße",
+        "addr:unit": "F",
+        "amenity": "clinic",
+        "contact:phone": "+43 664 84 38 241",
+        "description": "Speziell ausgebildete Ärzt:innen bieten den Betroffenen physischer Gewalt eine genaue gerichtsmedizinische Untersuchung mit einer ausführlichen Dokumentation der Verletzungen sowie im Bedarfsfall eine Spurensicherung an.",
+        "healthcare": "centre",
+        "healthcare:speciality": "pathology",
+        "level": "2",
+        "name": "Gewaltambulanz Graz",
+        "opening_hours": "Mo 00:00-16:00; Tu, We, Th 08:00-16:00; Fr 08:00-24:00; Sa, Su, PH 00:00-24:00",
+        "operator": "Medizinische Universität Graz",
+        "operator:type": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4704262,
+          47.0809699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12463184027",
+        "osm_type": "node",
+        "lat": 47.0803122,
+        "lon": 15.4643087,
+        "amenity": "clinic",
+        "check_date": "2024-12-30",
+        "emergency": "yes",
+        "healthcare": "centre",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "ZAM - Zentrum für Akutmedizin",
+        "name:de": "Zentrum für Akutmedizin",
+        "name:en": "Centre for Acute Medicine",
+        "name:ru": "Приёмное отделение, Центр неотложной медицины",
+        "official_name": "Zentrum für Akutmedizin",
+        "opening_hours": "24/7",
+        "phone": "+43 316 38520100",
+        "short_name": "ZAM",
+        "website": "https://www.uniklinikumgraz.at/zam#c32550",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4643087,
+          47.0803122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12966152132",
+        "osm_type": "node",
+        "lat": 47.0627003,
+        "lon": 15.4087121,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "8020",
+        "addr:street": "Reininghauspark",
+        "amenity": "clinic",
+        "contact:email": "anmeldung@minimaximed.at",
+        "contact:phone": "+43 316 58 10 00",
+        "contact:website": "https://www.minimaximed.at/",
+        "healthcare": "centre",
+        "healthcare:speciality": "paediatrics",
+        "level": "0",
+        "name": "Mini Maxi Med",
+        "opening_hours": "Mo 08:00-16:00; Tu,Th 08:00-17:00; We 07:30-13:30; Fr 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4087121,
+          47.0627003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13093123182",
+        "osm_type": "node",
+        "lat": 47.0647172,
+        "lon": 15.4090427,
+        "addr:city": "Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "8020",
+        "addr:street": "Mälzereigasse",
+        "alt_name": "Dr. Christian Stangl;Dr. Thomas Schwarz;Dr. Friedrich Jesenik",
+        "amenity": "clinic",
+        "contact:email": "info@augenklinik-steiermark.at",
+        "contact:phone": "+43 316 82 00 00",
+        "contact:website": "https://augenklinik-steiermark.at/",
+        "healthcare": "centre",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Augenklinik Steiermark",
+        "opening_hours": "Mo-Fr 08:00-12:00; 14:00-17:00",
+        "operator": "Dr. Christian Stangl",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4090427,
+          47.0647172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "262068005",
+        "osm_type": "node",
+        "lat": 47.0757355,
+        "lon": 15.5782356,
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Sanatorium Laßnitzhöhe",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5782356,
+          47.0757355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1557231561",
+        "osm_type": "node",
+        "lat": 47.2792949,
+        "lon": 15.9694878,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ärztezentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9694878,
+          47.2792949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2459143950",
+        "osm_type": "node",
+        "lat": 47.1002722,
+        "lon": 15.7163118,
+        "addr:city": "Gleisdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8200",
+        "addr:street": "Business Park",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "source": "Land Steiermark - data.steiermark.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7163118,
+          47.1002722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3295199164",
+        "osm_type": "node",
+        "lat": 47.0515119,
+        "lon": 16.797878,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.797878,
+          47.0515119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7847355284",
+        "osm_type": "node",
+        "lat": 47.0513649,
+        "lon": 16.7986142,
+        "amenity": "clinic",
+        "check_date": "2024-03-30",
+        "healthcare": "clinic",
+        "name": "Orvosi Ügyelet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7986142,
+          47.0513649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8006826358",
+        "osm_type": "node",
+        "lat": 47.4111709,
+        "lon": 15.8929015,
+        "addr:city": "Vorau",
+        "addr:housenumber": "200",
+        "addr:postcode": "8250",
+        "addr:street": "Riegersbach",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "healthcare:speciality": "social_work",
+        "name": "Primärversorgungszentrum Gesundheitszentrum Joglland",
+        "operator": "Gesundheitszentrum Joglland gemeinnützige GmbH",
+        "phone": "+43 3337 310230",
+        "social_facility": "healthcare",
+        "website": "https://www.gzj.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8929015,
+          47.4111709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11371333505",
+        "osm_type": "node",
+        "lat": 47.6089022,
+        "lon": 15.9911978,
+        "addr:city": "Kirchberg am Wechsel",
+        "addr:country": "AT",
+        "addr:housenumber": "83",
+        "addr:postcode": "2880",
+        "addr:street": "Markt",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gesundheitszentrum Kirchberg am Wechsel",
+        "website": "https://www.gz-kirchberg.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9911978,
+          47.6089022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10688216578",
+        "osm_type": "node",
+        "lat": 47.4411093,
+        "lon": 16.0572413,
+        "addr:city": "Friedberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "8240",
+        "addr:street": "Rathausgasse",
+        "amenity": "clinic",
+        "description": "Gesundheitszentrum Joglland, Friedberg",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Gesundheitszentrum Friedberg",
+        "opening_hours": "Mo-Th 08:00-16:00",
+        "operator": "Gesundheitszentrum Joglland Gemeinnützige GMBH",
+        "operator:type": "public",
+        "phone": "+43 3339 24 440",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0572413,
+          47.4411093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12964880485",
+        "osm_type": "node",
+        "lat": 47.6726279,
+        "lon": 16.6139124,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ikva Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6139124,
+          47.6726279
+        ]
+      }
+    }
+  ],
+  "children": []
+}

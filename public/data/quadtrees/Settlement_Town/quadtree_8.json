@@ -1,0 +1,2203 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 63,
+  "leafCount": 0,
+  "averagePosition": [
+    10.557925934920634,
+    48.062496674603175
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 9.530952,
+        "north": 48.02541825,
+        "east": 10.484655499999999
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        9.939814538461539,
+        47.86215119230769
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "28296828",
+            "osm_type": "node",
+            "lat": 47.7811014,
+            "lon": 9.612468,
+            "de:amtlicher_gemeindeschluessel": "08436",
+            "ele": "450",
+            "license_plate_code": "RV",
+            "name": "Ravensburg",
+            "name:als": "Raveschburg",
+            "name:ar": "رافنسبورغ",
+            "name:de": "Ravensburg",
+            "name:fa": "رافنزبورگ",
+            "name:ko": "라벤스부르크",
+            "name:ru": "Равенсбург",
+            "name:sr": "Равензбург",
+            "name:uk": "Равенсбург",
+            "name:zh": "拉芬斯堡",
+            "openGeoDB:is_in_loc_id": "377",
+            "openGeoDB:loc_id": "22852",
+            "place": "town",
+            "population": "50776",
+            "postal_code": "88212;88213;88214",
+            "telephone_area_code": "0751",
+            "website": "https://www.ravensburg.de",
+            "wikidata": "Q6832",
+            "wikipedia": "de:Ravensburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.612468,
+              47.7811014
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240046422",
+            "osm_type": "node",
+            "lat": 47.8266137,
+            "lon": 10.0228027,
+            "ele": "654",
+            "name": "Leutkirch im Allgäu",
+            "name:ru": "Лойткирх",
+            "place": "town",
+            "postal_code": "88299",
+            "wikidata": "Q32613236"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0228027,
+              47.8266137
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1958090808",
+            "osm_type": "node",
+            "lat": 47.8075299,
+            "lon": 9.6431145,
+            "name": "Weingarten",
+            "place": "town",
+            "postal_code": "88250"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6431145,
+              47.8075299
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2039598605",
+            "osm_type": "node",
+            "lat": 47.6999205,
+            "lon": 9.560628,
+            "name": "Meckenbeuren",
+            "place": "town",
+            "population": "13651",
+            "postal_code": "88074",
+            "short_name": "Mecka",
+            "website": "https://www.meckenbeuren.de/de/",
+            "wikidata": "Q527910",
+            "wikipedia": "de:Meckenbeuren"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.560628,
+              47.6999205
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "58801148",
+            "osm_type": "node",
+            "lat": 47.8052615,
+            "lon": 10.2136981,
+            "name": "Altusried",
+            "place": "town",
+            "wikidata": "Q31878981"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2136981,
+              47.8052615
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "60011978",
+            "osm_type": "node",
+            "lat": 47.8458763,
+            "lon": 10.4192911,
+            "name": "Obergünzburg",
+            "name:als": "Obergenzburg",
+            "name:ru": "Обергюнцбург",
+            "name:sr": "Обергинцбург",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Obergünzburg",
+            "openGeoDB:community_identification_number": "09777154",
+            "openGeoDB:is_in": "Ostallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "274",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "OAL",
+            "openGeoDB:loc_id": "21895",
+            "openGeoDB:name": "Obergünzburg",
+            "openGeoDB:population": "6469",
+            "openGeoDB:postal_codes": "87634",
+            "openGeoDB:sort_name": "OBERGUENZBURG",
+            "openGeoDB:telephone_area_code": "08372",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "47.8458763",
+            "opengeodb:lon": "10.4192911",
+            "place": "town",
+            "population": "6469",
+            "wikidata": "Q513923",
+            "wikipedia": "de:Obergünzburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4192911,
+              47.8458763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240126519",
+            "osm_type": "node",
+            "lat": 47.7267063,
+            "lon": 10.3168835,
+            "alt_name": "Kempten",
+            "ele": "674",
+            "name": "Kempten (Allgäu)",
+            "name:als": "Kempta",
+            "name:eo": "Kempten (Algovio)",
+            "name:es": "Kempten (Algovia)",
+            "name:la": "Cambodunum",
+            "name:ru": "Кемптен",
+            "name:sr": "Кемптен",
+            "place": "town",
+            "postal_code": "87435,87437,87439",
+            "website": "https://www.kempten.de/",
+            "wikidata": "Q131673711"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3168835,
+              47.7267063
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "29950833",
+            "osm_type": "node",
+            "lat": 47.9209556,
+            "lon": 9.7542772,
+            "ele": "588",
+            "name": "Bad Waldsee",
+            "name:sr": "Бад Валдзе",
+            "place": "town",
+            "population": "19596",
+            "postal_code": "88339",
+            "website": "https://www.bad-waldsee.de/",
+            "wikidata": "Q515423",
+            "wikipedia": "de:Bad Waldsee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7542772,
+              47.9209556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "34818702",
+            "osm_type": "node",
+            "lat": 48.0047363,
+            "lon": 9.6561098,
+            "name": "Bad Schussenried",
+            "openGeoDB:auto_update": "population",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Bad Schussenried-Ingoldingen",
+            "openGeoDB:community_identification_number": "08426014",
+            "openGeoDB:is_in": "Biberach,Tübingen,Baden-Württemberg,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "367",
+            "openGeoDB:license_plate_code": "BC",
+            "openGeoDB:loc_id": "13989",
+            "openGeoDB:name": "Bad Schussenried",
+            "openGeoDB:population": "8477",
+            "openGeoDB:postal_codes": "88427",
+            "openGeoDB:sort_name": "BAD SCHUSSENRIED",
+            "openGeoDB:telephone_area_code": "07583",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11%20/%202007-12-04%20/%20http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.0047363",
+            "opengeodb:lon": "9.6561098",
+            "place": "town",
+            "population": "8477",
+            "postal_code": "88427",
+            "website": "https://www.bad-schussenried.de/de/startseite",
+            "wikidata": "Q522513"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6561098,
+              48.0047363
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "59863856",
+            "osm_type": "node",
+            "lat": 47.9084031,
+            "lon": 9.8966021,
+            "name": "Bad Wurzach",
+            "name:de": "Bad Wurzach",
+            "name:ru": "Бад-Вурцах",
+            "old_name": "Wurtzach",
+            "place": "town",
+            "wikidata": "Q56440026"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8966021,
+              47.9084031
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "59863858",
+            "osm_type": "node",
+            "lat": 47.9528162,
+            "lon": 9.6409331,
+            "name": "Aulendorf",
+            "openGeoDB:auto_update": "population",
+            "openGeoDB:community_identification_number": "08436008",
+            "openGeoDB:is_in": "Ravensburg,Tübingen,Baden-Württemberg,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "377",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "RV",
+            "openGeoDB:loc_id": "13820",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:name": "Aulendorf (Württemberg)",
+            "openGeoDB:population": "10001",
+            "openGeoDB:postal_codes": "88326",
+            "openGeoDB:sort_name": "AULENDORF",
+            "openGeoDB:telephone_area_code": "07525",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "place": "town",
+            "population": "10001",
+            "wikidata": "Q505459"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6409331,
+              47.9528162
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "115212629",
+            "osm_type": "node",
+            "lat": 47.9417348,
+            "lon": 10.2999793,
+            "name": "Ottobeuren",
+            "place": "town",
+            "population": "8672",
+            "wikidata": "Q532455"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2999793,
+              47.9417348
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240036844",
+            "osm_type": "node",
+            "lat": 47.9863099,
+            "lon": 10.1808016,
+            "ele": "601",
+            "name": "Memmingen",
+            "name:bar": "Memmingen",
+            "name:ja": "メミンゲン",
+            "name:ko": "메밍겐",
+            "name:ml": "മെമ്മിങ്കൻ",
+            "name:ru": "Мемминген",
+            "name:sr": "Меминген",
+            "name:zh": "梅明根",
+            "openGeoDB:community_identification_number": "09764000",
+            "openGeoDB:license_plate_code": "MM",
+            "openGeoDB:loc_id": "20818",
+            "openGeoDB:telephone_area_code": "08331",
+            "place": "town",
+            "population": "45343",
+            "postal_code": "87700",
+            "wikidata": "Q14825",
+            "wikipedia": "de:Memmingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1808016,
+              47.9863099
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.694865,
+        "west": 10.484655499999999,
+        "north": 48.02541825,
+        "east": 11.438358999999998
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        11.043393638461538,
+        47.8790946
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "889285957",
+            "osm_type": "node",
+            "lat": 47.7959863,
+            "lon": 10.9228731,
+            "name": "Peiting",
+            "name:fa": "پایتینگ",
+            "name:ru": "Пайтинг",
+            "name:sr": "Пајтинг",
+            "name:zh": "派廷格",
+            "place": "town",
+            "population": "11678",
+            "website": "https://www.peiting.de/",
+            "wikidata": "Q518123",
+            "wikipedia": "de:Peiting"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9228731,
+              47.7959863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1015605096",
+            "osm_type": "node",
+            "lat": 47.7780871,
+            "lon": 10.6188796,
+            "name": "Marktoberdorf",
+            "name:als": "Obrdoarf",
+            "name:ar": "ماركت أوبردورف",
+            "name:fa": "مارکت‌اوبردورف",
+            "name:hy": "Մարքտոբերդորֆ",
+            "name:ja": "マルクトオーバードルフ",
+            "name:ru": "Марктобердорф",
+            "name:sr": "Марктобердорф",
+            "openGeoDB:community_identification_number": "09777151",
+            "openGeoDB:license_plate_code": "OAL",
+            "openGeoDB:loc_id": "20657",
+            "openGeoDB:telephone_area_code": "08342",
+            "place": "town",
+            "population": "18487",
+            "postal_code": "87616",
+            "wikidata": "Q502955",
+            "wikipedia": "de:Marktoberdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6188796,
+              47.7780871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2664960796",
+            "osm_type": "node",
+            "lat": 47.8118973,
+            "lon": 10.8972133,
+            "name": "Schongau",
+            "name:ar": "شونغاو",
+            "name:bar": "Schogau",
+            "name:fa": "شونغاو",
+            "name:ja": "ショーンガウ",
+            "name:la": "Schongium",
+            "name:ru": "Шонгау",
+            "place": "town",
+            "population": "12023",
+            "wikidata": "Q518663",
+            "wikipedia": "de:Schongau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8972133,
+              47.8118973
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "100387771",
+            "osm_type": "node",
+            "lat": 47.7996665,
+            "lon": 11.0655229,
+            "ele": "584",
+            "image": "https://commons.wikimedia.org/wiki/Category:Pei%C3%9Fenberg?uselang=de",
+            "name": "Peißenberg",
+            "name:bar": "Peißaberg",
+            "name:fa": "پایسنبرگ",
+            "name:hy": "Պայսենբերգ",
+            "name:ja": "パイセンベルク",
+            "name:ru": "Пайсенберг",
+            "name:sr": "Пајсенберг",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09190139",
+            "openGeoDB:is_in": "Weilheim-Schongau in Oberbayern,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "448",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "WM",
+            "openGeoDB:loc_id": "35750",
+            "openGeoDB:name": "Peißenberg",
+            "openGeoDB:population": "12544",
+            "openGeoDB:postal_codes": "82380",
+            "openGeoDB:sort_name": "PEISSENBERG",
+            "openGeoDB:telephone_area_code": "08803",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "47.7906864",
+            "opengeodb:lon": "11.0585894",
+            "place": "town",
+            "population": "12516",
+            "postal_code": "82380",
+            "website": "https://www.peissenberg.de/start.html",
+            "wikidata": "Q521535",
+            "wikipedia": "de:Peißenberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0655229,
+              47.7996665
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240114592",
+            "osm_type": "node",
+            "lat": 47.8395072,
+            "lon": 11.1416355,
+            "ele": "563",
+            "loc_name": "Weilheim",
+            "name": "Weilheim in Oberbayern",
+            "name:ru": "Вайльхайм-ин-Обербайерн",
+            "name:sr": "Вајлхајм у Горњој Баварској",
+            "name:zh": "魏尔海姆",
+            "official_name": "Weilheim i.OB",
+            "place": "town",
+            "population": "18000"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1416355,
+              47.8395072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2458405336",
+            "osm_type": "node",
+            "lat": 47.7518502,
+            "lon": 11.3763014,
+            "image": "https://commons.wikimedia.org/wiki/Category:Penzberg?uselang=de",
+            "name": "Penzberg",
+            "place": "town",
+            "population": "16092",
+            "postal_code": "82377",
+            "website": "https://www.penzberg.de/",
+            "wikidata": "Q254271",
+            "wikipedia": "de:Penzberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3763014,
+              47.7518502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240078045",
+            "osm_type": "node",
+            "lat": 47.8803788,
+            "lon": 10.622246,
+            "ele": "678",
+            "name": "Kaufbeuren",
+            "name:de": "Kaufbeuren",
+            "name:fa": "کاوفبویرن",
+            "name:ja": "カウフボイレン",
+            "name:kk": "Кауфбойрен",
+            "name:ru": "Кауфбойрен",
+            "name:sr": "Кауфбојрен",
+            "name:zh": "考夫博伊伦",
+            "place": "town",
+            "population": "41759",
+            "postal_code": "87600",
+            "wikidata": "Q131676361"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.622246,
+              47.8803788
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "470319784",
+            "osm_type": "node",
+            "lat": 48.0059852,
+            "lon": 10.5921263,
+            "is_in": "Unterallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Bad Wörishofen",
+            "name:als": "Werishofe",
+            "name:ar": "باد فوريسهوفن",
+            "name:fa": "باد وریسهوفن",
+            "name:ru": "Бад-Вёрисхофен",
+            "name:sr": "Бад Верисхофен",
+            "name:zh": "巴特沃里斯霍芬",
+            "openGeoDB:community_identification_number": "09778116",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "MN",
+            "openGeoDB:loc_id": "14015",
+            "openGeoDB:telephone_area_code": "08247",
+            "place": "town",
+            "population": "13925",
+            "postal_code": "86825",
+            "wikidata": "Q504579",
+            "wikipedia": "de:Bad Wörishofen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5921263,
+              48.0059852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "25532515",
+            "osm_type": "node",
+            "lat": 47.9104632,
+            "lon": 11.4266377,
+            "name": "Wolfratshausen",
+            "name:bar": "Woifratshausen",
+            "name:sr": "Волфратсхаузен",
+            "openGeoDB:community_identification_number": "09173147",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "TÖL",
+            "openGeoDB:loc_id": "26392",
+            "openGeoDB:telephone_area_code": "08171",
+            "place": "town",
+            "population": "17464",
+            "wikidata": "Q503160",
+            "wikipedia": "de:Wolfratshausen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4266377,
+              47.9104632
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "54805263",
+            "osm_type": "node",
+            "lat": 47.9086358,
+            "lon": 11.2798244,
+            "name": "Tutzing",
+            "name:bar": "Tutzing",
+            "name:fa": "توتزینگ",
+            "name:ru": "Тутцинг",
+            "name:sr": "Туцинг",
+            "name:zh": "图青",
+            "openGeoDB:community_identification_number": "09188141",
+            "openGeoDB:license_plate_code": "STA",
+            "openGeoDB:loc_id": "25149",
+            "openGeoDB:telephone_area_code": "08158",
+            "place": "town",
+            "population": "9506",
+            "postal_code": "82327",
+            "wikidata": "Q533166",
+            "wikipedia": "de:Tutzing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2798244,
+              47.9086358
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "54806925",
+            "osm_type": "node",
+            "lat": 47.9477942,
+            "lon": 11.1049697,
+            "name": "Dießen am Ammersee",
+            "name:bar": "Diaßn am Ammasä",
+            "name:fa": "دیسن ام آمرزی",
+            "name:hy": "Ամերզեի Դիսեն",
+            "name:ja": "ディーセン・アム・アンマーゼー",
+            "name:ru": "Дисен-ам-Аммерзе",
+            "name:sr": "Дисен ам Амерзе",
+            "name:zh": "迪森阿姆阿梅尔塞",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09181114",
+            "openGeoDB:is_in": "Landsberg am Lech,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "218",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "LL",
+            "openGeoDB:loc_id": "15605",
+            "openGeoDB:name": "Dießen am Ammersee",
+            "openGeoDB:population": "10018",
+            "openGeoDB:postal_codes": "86911",
+            "openGeoDB:sort_name": "DIESSEN",
+            "openGeoDB:telephone_area_code": "08807",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "47.9481751",
+            "opengeodb:lon": "11.1049482",
+            "place": "town",
+            "population": "10239",
+            "website": "https://www.diessen.de/",
+            "wikidata": "Q165501",
+            "wikipedia": "de:Dießen am Ammersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1049697,
+              47.9477942
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "129966712",
+            "osm_type": "node",
+            "lat": 47.9992929,
+            "lon": 11.1748083,
+            "ele": "568",
+            "name": "Herrsching am Ammersee",
+            "name:ru": "Хершинг-ам-Аммерзе",
+            "name:sr": "Хершинг ам Амерзе",
+            "name:zh": "阿默湖畔黑尔兴",
+            "openGeoDB:community_identification_number": "09188124",
+            "openGeoDB:license_plate_code": "STA, WOR",
+            "openGeoDB:loc_id": "18246",
+            "openGeoDB:telephone_area_code": "08152",
+            "phone": "+498152 3740",
+            "place": "town",
+            "population": "10206",
+            "postal_code": "82211",
+            "website": "https://www.herrsching.de/",
+            "wikidata": "Q170020",
+            "wikipedia": "de:Herrsching am Ammersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1748083,
+              47.9992929
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240075726",
+            "osm_type": "node",
+            "lat": 47.9986851,
+            "lon": 11.3410791,
+            "name": "Starnberg",
+            "name:ar": "شتارنبرغ",
+            "name:bar": "Starnberg",
+            "name:fa": "اشتارنبرگ",
+            "name:ru": "Штарнберг",
+            "name:sr": "Штарнберг",
+            "name:zh": "施塔恩贝格",
+            "place": "town",
+            "population": "23115",
+            "postal_code": "82319",
+            "wikidata": "Q61936",
+            "wikipedia": "de:Starnberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3410791,
+              47.9986851
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 9.530952,
+        "north": 48.355971499999995,
+        "east": 10.484655499999999
+      },
+      "poiCount": 15,
+      "leafCount": 15,
+      "averagePosition": [
+        10.002789086666667,
+        48.22179194
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31372616",
+            "osm_type": "node",
+            "lat": 48.0984413,
+            "lon": 9.7899938,
+            "ele": "533",
+            "name": "Biberach an der Riß",
+            "name:de": "Biberach an der Riß",
+            "name:ru": "Биберах-на-Рисе",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Biberach an der Riß",
+            "openGeoDB:community_identification_number": "08426021",
+            "openGeoDB:is_in_loc_id": "367",
+            "openGeoDB:license_plate_code": "BC",
+            "openGeoDB:loc_id": "14449",
+            "openGeoDB:telephone_area_code": "07351",
+            "place": "town",
+            "population": "31419",
+            "postal_code": "88400",
+            "wikidata": "Q16069",
+            "wikipedia": "de:Biberach an der Riß"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7899938,
+              48.0984413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31372618",
+            "osm_type": "node",
+            "lat": 48.230514,
+            "lon": 9.8771587,
+            "ele": "528",
+            "name": "Laupheim",
+            "name:als": "Laoba",
+            "name:ar": "لاوبهايم",
+            "name:fa": "لاوپهایم",
+            "name:hy": "Լաուպհայմ",
+            "name:ka": "ლაუპჰაიმი",
+            "name:ru": "Лаупхайм",
+            "name:sr": "Лаупхајм",
+            "name:zh": "劳普海姆",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Laupheim",
+            "openGeoDB:community_identification_number": "08426070",
+            "openGeoDB:is_in_loc_id": "367",
+            "openGeoDB:license_plate_code": "BC",
+            "openGeoDB:loc_id": "20022",
+            "openGeoDB:telephone_area_code": "07392",
+            "place": "town",
+            "population": "20213",
+            "postal_code": "88471",
+            "wikidata": "Q574314",
+            "wikipedia": "de:Laupheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8771587,
+              48.230514
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "31372619",
+            "osm_type": "node",
+            "lat": 48.0711222,
+            "lon": 9.9512104,
+            "name": "Ochsenhausen",
+            "name:prefix": "Stadt",
+            "place": "town",
+            "population": "8985",
+            "wikidata": "Q522526"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9512104,
+              48.0711222
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "34818701",
+            "osm_type": "node",
+            "lat": 48.0655836,
+            "lon": 9.6097541,
+            "name": "Bad Buchau",
+            "name:prefix": "Stadt",
+            "place": "town",
+            "population": "4070",
+            "wikidata": "Q496489"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6097541,
+              48.0655836
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "60199325",
+            "osm_type": "node",
+            "lat": 48.2358225,
+            "lon": 9.6441788,
+            "name": "Munderkingen",
+            "name:als": "Mõndergenge",
+            "name:ar": "موندركينغن",
+            "name:fa": "موندرکینگن",
+            "name:ru": "Мундеркинген",
+            "name:sr": "Мундеркинген",
+            "name:zh": "蒙德尔金根",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Munderkingen",
+            "openGeoDB:community_identification_number": "08425081",
+            "openGeoDB:is_in": "Alb-Donau-Kreis,Tübingen,Baden-Württemberg,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "607",
+            "openGeoDB:license_plate_code": "UL",
+            "openGeoDB:loc_id": "21219",
+            "openGeoDB:name": "Munderkingen",
+            "openGeoDB:population": "5142",
+            "openGeoDB:postal_codes": "89597",
+            "openGeoDB:sort_name": "MUNDERKINGEN",
+            "openGeoDB:telephone_area_code": "07393",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11%20/%202007-12-04%20/%20http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.2358225",
+            "opengeodb:lon": "9.6441788",
+            "place": "town",
+            "population": "5142",
+            "wikidata": "Q515163",
+            "wikipedia": "de:Munderkingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6441788,
+              48.2358225
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240067808",
+            "osm_type": "node",
+            "lat": 48.3274603,
+            "lon": 9.8913803,
+            "ele": "529",
+            "name": "Erbach",
+            "name:als": "Ärrbach",
+            "name:ar": "إرباخ",
+            "name:fa": "ارباخ",
+            "name:hy": "Էրբախ",
+            "name:ka": "ერბახი",
+            "name:ru": "Эрбах",
+            "name:sr": "Ербах",
+            "openGeoDB:community_identification_number": "08425039",
+            "openGeoDB:license_plate_code": "UL",
+            "openGeoDB:loc_id": "16249",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:telephone_area_code": "07305",
+            "place": "town",
+            "population": "13224",
+            "wikidata": "Q505920",
+            "wikipedia": "de:Erbach (Donau)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8913803,
+              48.3274603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1699831805",
+            "osm_type": "node",
+            "lat": 48.2828519,
+            "lon": 9.7262175,
+            "ele": "515",
+            "name": "Ehingen (Donau)",
+            "name:als": "Eegne",
+            "name:ar": "إيهنغن",
+            "name:fa": "انینگن",
+            "name:hy": "Էհինգեն",
+            "name:ka": "ეჰინგენი",
+            "name:ru": "Эинген",
+            "name:sr": "Ехинген",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Ehingen (Donau)",
+            "openGeoDB:community_identification_number": "08425033",
+            "openGeoDB:license_plate_code": "UL",
+            "openGeoDB:loc_id": "16005",
+            "openGeoDB:telephone_area_code": "07391",
+            "place": "town",
+            "population": "24786",
+            "postal_code": "89584",
+            "wikidata": "Q158523",
+            "wikipedia": "de:Ehingen (Donau)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7262175,
+              48.2828519
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "95112963",
+            "osm_type": "node",
+            "lat": 48.3044877,
+            "lon": 10.1601492,
+            "is_in": "Neu-Ulm,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Weißenhorn",
+            "name:als": "Weissahoara",
+            "name:ar": "فايسنهورن",
+            "name:fa": "واینهورن",
+            "name:hy": "Վայսենհորն",
+            "name:ru": "Вайсенхорн",
+            "name:sr": "Вајсенхорн",
+            "name:zh": "魏森霍尔恩",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09775164",
+            "openGeoDB:is_in": "Neu-Ulm,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "266",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "NU",
+            "openGeoDB:loc_id": "25876",
+            "openGeoDB:name": "Weißenhorn",
+            "openGeoDB:population": "13264",
+            "openGeoDB:postal_codes": "89264",
+            "openGeoDB:sort_name": "WEISSENHORN",
+            "openGeoDB:telephone_area_code": "07309",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.3048923",
+            "opengeodb:lon": "10.1567256",
+            "place": "town",
+            "population": "13252",
+            "postal_code": "89264",
+            "wikidata": "Q519677",
+            "wikipedia": "de:Weißenhorn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1601492,
+              48.3044877
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240035515",
+            "osm_type": "node",
+            "lat": 48.221764,
+            "lon": 10.1058969,
+            "ele": "513",
+            "is_in": "Neu-Ulm,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Illertissen",
+            "name:als": "Dissa",
+            "name:ar": "إلرتيسن",
+            "name:fa": "ایلرتیسن",
+            "name:hy": "Իլերթիսեն",
+            "name:ru": "Иллертиссен",
+            "name:sr": "Илертисен",
+            "name:zh": "伊莱尔蒂森",
+            "openGeoDB:community_identification_number": "09775129",
+            "openGeoDB:is_in_loc_id": "266",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "NU",
+            "openGeoDB:loc_id": "18802",
+            "openGeoDB:telephone_area_code": "07303",
+            "place": "town",
+            "population": "16775",
+            "postal_code": "89257",
+            "wikidata": "Q503295",
+            "wikipedia": "de:Illertissen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1058969,
+              48.221764
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240046109",
+            "osm_type": "node",
+            "lat": 48.3251884,
+            "lon": 10.0471189,
+            "ele": "486",
+            "is_in": "Neu-Ulm,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Senden",
+            "name:als": "Senda",
+            "name:ru": "Зенден",
+            "name:sr": "Зенден",
+            "openGeoDB:community_identification_number": "09775152",
+            "openGeoDB:license_plate_code": "NU",
+            "openGeoDB:loc_id": "24200",
+            "openGeoDB:telephone_area_code": "07307",
+            "place": "town",
+            "population": "22332",
+            "postal_code": "89250",
+            "website": "https://www.stadt-senden.de/",
+            "wikidata": "Q502627",
+            "wikipedia": "de:Senden (Bayern)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0471189,
+              48.3251884
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240052220",
+            "osm_type": "node",
+            "lat": 48.143242,
+            "lon": 10.2540507,
+            "name": "Babenhausen",
+            "place": "town",
+            "wikidata": "Q566620"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2540507,
+              48.143242
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240059139",
+            "osm_type": "node",
+            "lat": 48.2111094,
+            "lon": 10.0700937,
+            "name": "Dietenheim",
+            "name:ar": "ديتنهايم",
+            "name:de": "Dietenheim",
+            "name:en": "Dietenheim",
+            "name:fa": "دیتنهایم",
+            "name:ru": "Дитенхайм",
+            "name:sr": "Дитенхајм",
+            "name:swg": "Diadahõẽ",
+            "name:uk": "Дітенгайм",
+            "name:zh": "迪滕海姆",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Dietenheim",
+            "openGeoDB:community_identification_number": "08425028",
+            "openGeoDB:is_in_loc_id": "607",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "UL",
+            "openGeoDB:loc_id": "15607",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:postal_codes": "89165",
+            "openGeoDB:sort_name": "DIETENHEIM",
+            "openGeoDB:telephone_area_code": "07347",
+            "openGeoDB:type": "Stadt",
+            "place": "town",
+            "population": "6622",
+            "wikidata": "Q206649",
+            "wikipedia": "de:Dietenheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0700937,
+              48.2111094
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240105080",
+            "osm_type": "node",
+            "lat": 48.2833039,
+            "lon": 10.0832982,
+            "ele": "499",
+            "is_in": "Neu-Ulm,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Vöhringen",
+            "name:als": "Vehrenge",
+            "name:ru": "Фёринген",
+            "name:sr": "Феринген",
+            "openGeoDB:community_identification_number": "09775162",
+            "openGeoDB:license_plate_code": "NU",
+            "openGeoDB:loc_id": "25432",
+            "openGeoDB:telephone_area_code": "07306",
+            "place": "town",
+            "population": "13084",
+            "wikidata": "Q534593",
+            "wikipedia": "de:Vöhringen (Iller)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0832982,
+              48.2833039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240110473",
+            "osm_type": "node",
+            "lat": 48.2430587,
+            "lon": 10.3631004,
+            "addr:country": "DE",
+            "name": "Krumbach (Schwaben)",
+            "name:als": "Krombach",
+            "name:ar": "كرومباخ",
+            "name:fa": "کرومباخ",
+            "name:hy": "Կրումբախ",
+            "name:ru": "Крумбах",
+            "name:sr": "Крумбах",
+            "place": "town",
+            "population": "12729",
+            "website": "https://www.krumbach.de/",
+            "wikidata": "Q504803",
+            "wikipedia": "de:Krumbach (Schwaben)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3631004,
+              48.2430587
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240118822",
+            "osm_type": "node",
+            "lat": 48.2829292,
+            "lon": 10.4682347,
+            "ele": "499",
+            "name": "Thannhausen",
+            "name:als": "Deahausa",
+            "name:ar": "تانهاوزن",
+            "name:de": "Thannhausen",
+            "name:fa": "تان‌هاوزن",
+            "name:ru": "Таннхаузен",
+            "name:sr": "Танхаузен",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Thannhausen",
+            "openGeoDB:community_identification_number": "09774185",
+            "openGeoDB:license_plate_code": "GZ",
+            "openGeoDB:loc_id": "24928",
+            "openGeoDB:telephone_area_code": "08281",
+            "place": "town",
+            "population": "5955",
+            "postal_code": "86470",
+            "wikidata": "Q266156",
+            "wikipedia": "de:Thannhausen (Schwaben)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4682347,
+              48.2829292
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.02541825,
+        "west": 10.484655499999999,
+        "north": 48.355971499999995,
+        "east": 11.438358999999998
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        11.014808695454546,
+        48.18064618636363
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1685809860",
+            "osm_type": "node",
+            "lat": 48.0464164,
+            "lon": 10.4882504,
+            "name": "Mindelheim",
+            "name:als": "Mindelhoi",
+            "name:ar": "ميندلهايم",
+            "name:de": "Mindelheim",
+            "name:fa": "میندلهایم",
+            "name:hy": "Մինդելհայմ",
+            "name:ka": "მინდელჰაიმი",
+            "name:la": "Mindelhemium",
+            "name:ru": "Миндельхайм",
+            "name:sr": "Минделхајм",
+            "name:zh": "明德尔海姆",
+            "place": "town",
+            "population": "15108",
+            "website": "https://www.mindelheim.de",
+            "wikidata": "Q518579",
+            "wikipedia": "de:Mindelheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4882504,
+              48.0464164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "33368076",
+            "osm_type": "node",
+            "lat": 48.2687941,
+            "lon": 10.8337852,
+            "ele": "521",
+            "is_in": "Augsburg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Bobingen",
+            "name:als": "Boobenge",
+            "name:fa": "بوبینگن",
+            "name:hy": "Բոբինգեն",
+            "name:ru": "Бобинген",
+            "name:sr": "Бобинген",
+            "openGeoDB:community_identification_number": "09772125",
+            "openGeoDB:is_in_loc_id": "479",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "A",
+            "openGeoDB:loc_id": "14627",
+            "openGeoDB:telephone_area_code": "08234",
+            "place": "town",
+            "population": "16574",
+            "postal_code": "86399",
+            "website": "https://www.stadt-bobingen.de/",
+            "wikidata": "Q254801",
+            "wikipedia": "de:Bobingen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8337852,
+              48.2687941
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "34557684",
+            "osm_type": "node",
+            "lat": 48.0871324,
+            "lon": 10.8605317,
+            "is_in": "Landsberg am Lech,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Kaufering",
+            "name:fa": "کاوفرینگ",
+            "name:hy": "Քաուֆերինգ",
+            "name:ja": "カウフェリング",
+            "name:ru": "Кауферинг",
+            "name:sr": "Кауферинг",
+            "name:zh": "考弗灵",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09181128",
+            "openGeoDB:is_in": "Landsberg am Lech,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "218",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "LL",
+            "openGeoDB:loc_id": "19158",
+            "openGeoDB:name": "Kaufering",
+            "openGeoDB:population": "9824",
+            "openGeoDB:postal_codes": "86916",
+            "openGeoDB:sort_name": "KAUFERING",
+            "openGeoDB:telephone_area_code": "08191",
+            "openGeoDB:type": "Gemeinde",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.0873936",
+            "opengeodb:lon": "10.8603139",
+            "place": "town",
+            "population": "9880",
+            "website": "https://www.kaufering.de/",
+            "wikidata": "Q339918",
+            "wikipedia": "de:Kaufering"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8605317,
+              48.0871324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "34557695",
+            "osm_type": "node",
+            "lat": 48.0373762,
+            "lon": 10.7282761,
+            "is_in": "Ostallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Buchloe",
+            "name:als": "Buechloe",
+            "name:ar": "بوشلو",
+            "name:fa": "بوشلو",
+            "name:ja": "ブーフローエ",
+            "name:ru": "Бухлоэ",
+            "name:sr": "Бухло",
+            "name:zh": "布洛埃",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Buchloe",
+            "openGeoDB:community_identification_number": "09777121",
+            "openGeoDB:is_in": "Ostallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "274",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "OAL",
+            "openGeoDB:loc_id": "15097",
+            "openGeoDB:name": "Buchloe",
+            "openGeoDB:population": "11983",
+            "openGeoDB:postal_codes": "86807",
+            "openGeoDB:sort_name": "BUCHLOE",
+            "openGeoDB:telephone_area_code": "08241",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.0367322",
+            "opengeodb:lon": "10.7281583",
+            "place": "town",
+            "population": "11983",
+            "wikidata": "Q265110",
+            "wikipedia": "de:Buchloe"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7282761,
+              48.0373762
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "39694054",
+            "osm_type": "node",
+            "lat": 48.1805562,
+            "lon": 10.7578121,
+            "is_in": "Augsburg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Schwabmünchen",
+            "name:als": "Mingkchinga",
+            "name:ar": "شفابمونشن",
+            "name:fa": "شوابمونشن",
+            "name:hy": "Շվաբմյունխեն",
+            "name:ru": "Швабмюнхен",
+            "name:zh": "施瓦布明兴",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09772200",
+            "openGeoDB:is_in": "Augsburg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "479",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "A",
+            "openGeoDB:loc_id": "23992",
+            "openGeoDB:name": "Schwabmünchen",
+            "openGeoDB:population": "13153",
+            "openGeoDB:postal_codes": "86830",
+            "openGeoDB:sort_name": "SCHWABMUENCHEN",
+            "openGeoDB:telephone_area_code": "08232",
+            "openGeoDB:type": "Stadt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.1830446",
+            "opengeodb:lon": "10.7581579",
+            "place": "town",
+            "population": "13153",
+            "wikidata": "Q509676",
+            "wikipedia": "de:Schwabmünchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7578121,
+              48.1805562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240043070",
+            "osm_type": "node",
+            "lat": 48.3542454,
+            "lon": 10.7839603,
+            "ele": "485",
+            "name": "Diedorf",
+            "name:als": "Diadorf",
+            "name:de": "Diedorf",
+            "name:fa": "دیدورف",
+            "name:hy": "Դիդորֆ",
+            "name:ru": "Дидорф",
+            "name:sr": "Дидорф",
+            "name:zh": "迪多夫",
+            "openGeoDB:community_identification_number": "09772130",
+            "openGeoDB:license_plate_code": "A",
+            "openGeoDB:loc_id": "15574",
+            "openGeoDB:telephone_area_code": "08238",
+            "place": "town",
+            "population": "10229",
+            "postal_code": "86420",
+            "start_date": "1056",
+            "website": "https://www.markt-diedorf.de/",
+            "wikidata": "Q506614",
+            "wikipedia": "de:Diedorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7839603,
+              48.3542454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240047817",
+            "osm_type": "node",
+            "lat": 48.3551962,
+            "lon": 10.9786498,
+            "ele": "514",
+            "name": "Friedberg",
+            "name:als": "Friedberg",
+            "name:ar": "فريدبرغ",
+            "name:bar": "Friadberg",
+            "name:de": "Friedberg",
+            "name:hy": "Ֆրիդբերգ",
+            "name:ru": "Фридберг",
+            "name:sr": "Фридберг",
+            "openGeoDB:community_identification_number": "09771130",
+            "openGeoDB:license_plate_code": "AIC",
+            "openGeoDB:loc_id": "16685",
+            "openGeoDB:telephone_area_code": "0821",
+            "place": "town",
+            "population": "29081",
+            "postal_code": "86316",
+            "website": "https://www.friedberg.de/",
+            "wikidata": "Q507194",
+            "wikipedia": "de:Friedberg (Bayern)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9786498,
+              48.3551962
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240062765",
+            "osm_type": "node",
+            "lat": 48.2679546,
+            "lon": 10.8883816,
+            "ele": "516",
+            "name": "Königsbrunn",
+            "name:als": "Kenigsbrunn",
+            "name:fa": "کونیگزبرون",
+            "name:hy": "Քյոնիգսբրուն",
+            "name:ru": "Кёнигсбрунн",
+            "name:sr": "Кенигсбрун",
+            "name:zh": "柯尼希斯布伦",
+            "place": "town",
+            "population": "29207",
+            "postal_code": "86343",
+            "wikidata": "Q509355",
+            "wikipedia": "de:Königsbrunn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8883816,
+              48.2679546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240089975",
+            "osm_type": "node",
+            "lat": 48.2902043,
+            "lon": 10.6554555,
+            "name": "Fischach",
+            "openGeoDB:auto_update": "population,place,name,is_in",
+            "openGeoDB:community_identification_number": "09772141",
+            "openGeoDB:is_in": "Augsburg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "479",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "A",
+            "openGeoDB:loc_id": "16507",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:name": "Fischach, Schwaben",
+            "openGeoDB:population": "4678",
+            "openGeoDB:postal_codes": "86850",
+            "openGeoDB:sort_name": "FISCHACH",
+            "openGeoDB:telephone_area_code": "08236",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "place": "town",
+            "population": "4678"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6554555,
+              48.2902043
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240130474",
+            "osm_type": "node",
+            "lat": 48.2678312,
+            "lon": 10.9868769,
+            "name": "Mering",
+            "name:bar": "Mering",
+            "name:de": "Mering",
+            "name:ja": "メーリング",
+            "name:ru": "Меринг",
+            "name:sr": "Меринг",
+            "name:zh": "梅林",
+            "openGeoDB:auto_update": "population,place,is_in",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Mering",
+            "openGeoDB:community_identification_number": "09771146",
+            "openGeoDB:is_in": "Aichach-Friedberg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "476",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "AIC",
+            "openGeoDB:loc_id": "20838",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:name": "Mering, Schwaben",
+            "openGeoDB:population": "12676",
+            "openGeoDB:postal_codes": "86415",
+            "openGeoDB:sort_name": "MERING",
+            "openGeoDB:telephone_area_code": "08233",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "place": "town",
+            "population": "12676",
+            "wikidata": "Q275579",
+            "wikipedia": "de:Mering"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9868769,
+              48.2678312
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "621427293",
+            "osm_type": "node",
+            "lat": 48.3485454,
+            "lon": 10.5909932,
+            "name": "Dinkelscherben",
+            "name:als": "Dinggelscherba",
+            "name:fa": "دینکلشربن",
+            "name:hy": "Դինկելշերբեն",
+            "name:ru": "Динкельшербен",
+            "name:sr": "Динкелшербен",
+            "name:zh": "丁克尔舍尔本",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09772131",
+            "openGeoDB:is_in": "Augsburg,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "479",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "A",
+            "openGeoDB:loc_id": "15640",
+            "openGeoDB:name": "Dinkelscherben",
+            "openGeoDB:population": "6647",
+            "openGeoDB:postal_codes": "86424",
+            "openGeoDB:sort_name": "DINKELSCHERBEN",
+            "openGeoDB:telephone_area_code": "08292",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.3476997",
+            "opengeodb:lon": "10.5905872",
+            "place": "town",
+            "population": "6647",
+            "postal_code": "86424",
+            "website": "https://www.dinkelscherben.info/",
+            "wikidata": "Q503971",
+            "wikipedia": "de:Dinkelscherben"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5909932,
+              48.3485454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1683112949",
+            "osm_type": "node",
+            "lat": 48.0497474,
+            "lon": 10.8768728,
+            "loc_name": "Landsberg",
+            "name": "Landsberg am Lech",
+            "name:ar": "لاندسبرغ آم لش",
+            "name:bar": "Landsberg am Lech",
+            "name:fa": "لاندسبرگ آم لش",
+            "name:hy": "Լեխի Լանդսբերգ",
+            "name:ja": "ランツベルク・アム・レヒ",
+            "name:la": "Landsbergium",
+            "name:ru": "Ландсберг-ам-Лех",
+            "name:sr": "Ландсберг ам Лех",
+            "name:zh": "莱希河畔兰茨贝格",
+            "openGeoDB:community_identification_number": "09181130",
+            "openGeoDB:license_plate_code": "LL",
+            "openGeoDB:loc_id": "19890",
+            "openGeoDB:telephone_area_code": "08191",
+            "openGeoDB:type": "Stadt",
+            "place": "town",
+            "population": "27140",
+            "wikidata": "Q494299",
+            "wikipedia": "de:Landsberg am Lech"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8768728,
+              48.0497474
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1683130862",
+            "osm_type": "node",
+            "lat": 48.0601151,
+            "lon": 10.6394156,
+            "is_in": "Unterallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Türkheim",
+            "name:als": "Tirke",
+            "name:fa": "تورکهایم",
+            "name:ru": "Тюркхайм",
+            "name:sr": "Тиркхајм",
+            "openGeoDB:auto_update": "population,place,name,is_in",
+            "openGeoDB:combination_of_public_administration": "Verwaltungsgemeinschaft Türkheim",
+            "openGeoDB:community_identification_number": "09778203",
+            "openGeoDB:is_in": "Unterallgäu,Schwaben,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "475",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "MN",
+            "openGeoDB:loc_id": "25137",
+            "openGeoDB:location": "political_structure",
+            "openGeoDB:name": "Türkheim, Wertach",
+            "openGeoDB:population": "6644",
+            "openGeoDB:postal_codes": "86842",
+            "openGeoDB:sort_name": "TUERKHEIM",
+            "openGeoDB:telephone_area_code": "08245",
+            "openGeoDB:type": "Markt",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "place": "town",
+            "population": "6998",
+            "wikidata": "Q552257",
+            "wikipedia": "de:Türkheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6394156,
+              48.0601151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "38106589",
+            "osm_type": "node",
+            "lat": 48.1140289,
+            "lon": 11.2921549,
+            "ele": "553",
+            "name": "Gilching",
+            "name:bar": "Guiching",
+            "name:de": "Gilching",
+            "name:fa": "گیلشینگ",
+            "name:hy": "Գիլխինգ",
+            "name:ru": "Гильхинг",
+            "name:sr": "Гилхинг",
+            "name:zh": "吉尔兴",
+            "openGeoDB:community_identification_number": "09188121",
+            "openGeoDB:is_in_loc_id": "442",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "STA",
+            "openGeoDB:loc_id": "17034",
+            "openGeoDB:telephone_area_code": "08105",
+            "place": "town",
+            "population": "18388",
+            "postal_code": "82205",
+            "wikidata": "Q552131",
+            "wikipedia": "de:Gilching"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2921549,
+              48.1140289
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "51299492",
+            "osm_type": "node",
+            "lat": 48.1212042,
+            "lon": 11.4299784,
+            "is_in": "München,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Gräfelfing",
+            "name:bar": "Grefefing",
+            "name:de": "Gräfelfing",
+            "name:fa": "گرفلفینگ",
+            "name:hy": "Գրեֆելֆինգ",
+            "name:ru": "Грефельфинг",
+            "name:sr": "Грефелфинг",
+            "name:zh": "格雷费尔芬格",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09184120",
+            "openGeoDB:is_in": "München,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "225",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "M",
+            "openGeoDB:loc_id": "17267",
+            "openGeoDB:name": "Gräfelfing",
+            "openGeoDB:population": "13058",
+            "openGeoDB:postal_codes": "82166",
+            "openGeoDB:sort_name": "GRAEFELFING",
+            "openGeoDB:telephone_area_code": "089",
+            "openGeoDB:type": "Gemeinde",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.1213924",
+            "opengeodb:lon": "11.4298994",
+            "place": "town",
+            "population": "13058",
+            "postal_code": "82166",
+            "website": "https://www.graefelfing.de/",
+            "wikidata": "Q504854",
+            "wikipedia": "de:Gräfelfing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4299784,
+              48.1212042
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "51299539",
+            "osm_type": "node",
+            "lat": 48.103742,
+            "lon": 11.4220029,
+            "is_in": "München,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Planegg",
+            "name:ar": "بلانغ",
+            "name:bar": "Planegg",
+            "name:de": "Planegg",
+            "name:fa": "پلانگ",
+            "name:ru": "Планег",
+            "name:sr": "Планег",
+            "name:zh": "普拉内格",
+            "openGeoDB:auto_update": "population,is_in",
+            "openGeoDB:community_identification_number": "09184138",
+            "openGeoDB:is_in": "München,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "openGeoDB:is_in_loc_id": "225",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "M",
+            "openGeoDB:loc_id": "22477",
+            "openGeoDB:name": "Planegg",
+            "openGeoDB:population": "10698",
+            "openGeoDB:postal_codes": "82152",
+            "openGeoDB:sort_name": "PLANEGG",
+            "openGeoDB:telephone_area_code": "089",
+            "openGeoDB:type": "Gemeinde",
+            "openGeoDB:version": "0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/",
+            "opengeodb:lat": "48.103742",
+            "opengeodb:lon": "11.4220029",
+            "place": "town",
+            "population": "10459",
+            "wikidata": "Q255796",
+            "wikipedia": "de:Planegg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4220029,
+              48.103742
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "51300127",
+            "osm_type": "node",
+            "lat": 48.0667794,
+            "lon": 11.380285,
+            "ele": "564",
+            "name": "Gauting",
+            "name:bar": "Gauting",
+            "name:de": "Gauting",
+            "name:fa": "گاوتینگ",
+            "name:hy": "Գաութինգ",
+            "name:ru": "Гаутинг",
+            "name:sr": "Гаутинг",
+            "name:zh": "高廷",
+            "openGeoDB:community_identification_number": "09188120",
+            "openGeoDB:is_in_loc_id": "442",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "STA",
+            "openGeoDB:loc_id": "16862",
+            "openGeoDB:telephone_area_code": "089",
+            "place": "town",
+            "population": "20097",
+            "postal_code": "82131",
+            "wikidata": "Q74057",
+            "wikipedia": "de:Gauting"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.380285,
+              48.0667794
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "51572477",
+            "osm_type": "node",
+            "lat": 48.2077801,
+            "lon": 11.3278779,
+            "ele": "503",
+            "name": "Olching",
+            "name:bar": "Oiching",
+            "name:de": "Olching",
+            "name:fa": "اولشینگ",
+            "name:hy": "Օլխինգ",
+            "name:ru": "Ольхинг",
+            "name:sr": "Олхинг",
+            "name:zh": "奥尔兴",
+            "openGeoDB:community_identification_number": "09179142",
+            "openGeoDB:is_in_loc_id": "205",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "FFB",
+            "openGeoDB:loc_id": "22139",
+            "openGeoDB:telephone_area_code": "08142",
+            "place": "town",
+            "population": "28347",
+            "population:date": "2024-05-02",
+            "postal_code": "82140",
+            "source:population": "https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten",
+            "wikidata": "Q178486",
+            "wikipedia": "de:Olching"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3278779,
+              48.2077801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240024838",
+            "osm_type": "node",
+            "lat": 48.2592477,
+            "lon": 11.4354419,
+            "ele": "482",
+            "is_in": "Dachau,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Dachau",
+            "name:ar": "داخاو",
+            "name:bar": "Dochau",
+            "name:de": "Dachau",
+            "name:el": "Νταχάου",
+            "name:fa": "داخاو",
+            "name:he": "דכאו",
+            "name:hy": "Դախաու",
+            "name:ja": "ダッハウ",
+            "name:ko": "다하우",
+            "name:la": "Dachanum",
+            "name:ml": "ഡഹൌ",
+            "name:ru": "Дахау",
+            "name:sr": "Дахау",
+            "name:uk": "Дахау",
+            "name:yi": "דאכוי",
+            "name:zh": "达豪",
+            "openGeoDB:community_identification_number": "09174115",
+            "openGeoDB:license_plate_code": "DAH",
+            "openGeoDB:loc_id": "15365",
+            "openGeoDB:telephone_area_code": "08131",
+            "place": "town",
+            "population": "45621",
+            "postal_code": "85221",
+            "wikidata": "Q7077",
+            "wikipedia": "de:Dachau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4354419,
+              48.2592477
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240058497",
+            "osm_type": "node",
+            "lat": 48.1373576,
+            "lon": 11.3614338,
+            "ele": "535",
+            "is_in": "Fürstenfeldbruck,Oberbayern,Bayern,Bundesrepublik Deutschland,Europe",
+            "name": "Germering",
+            "name:ar": "غيرمرينغ",
+            "name:bar": "Geamaring",
+            "name:fa": "گرمرینگ",
+            "name:hy": "Գերմերինգ",
+            "name:ru": "Гермеринг",
+            "name:sr": "Гермеринг",
+            "name:zh": "盖默灵",
+            "openGeoDB:community_identification_number": "09179123",
+            "openGeoDB:license_plate_code": "FFB",
+            "openGeoDB:loc_id": "16966",
+            "openGeoDB:telephone_area_code": "089",
+            "place": "town",
+            "population": "38478",
+            "postal_code": "82110",
+            "wikidata": "Q14898",
+            "wikipedia": "de:Germering"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3614338,
+              48.1373576
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240112029",
+            "osm_type": "node",
+            "lat": 48.1704908,
+            "lon": 11.3526351,
+            "ele": "535",
+            "name": "Puchheim",
+            "name:bar": "Buachham",
+            "name:fa": "پوخهایم",
+            "name:ru": "Пуххайм",
+            "name:sr": "Пуххајм",
+            "openGeoDB:community_identification_number": "09179145",
+            "openGeoDB:is_in_loc_id": "205",
+            "openGeoDB:layer": "6",
+            "openGeoDB:license_plate_code": "FFB",
+            "openGeoDB:loc_id": "22668",
+            "openGeoDB:telephone_area_code": "089",
+            "place": "town",
+            "population": "20524",
+            "postal_code": "82178",
+            "wikidata": "Q254778",
+            "wikipedia": "de:Puchheim"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3526351,
+              48.1704908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "240121309",
+            "osm_type": "node",
+            "lat": 48.1794705,
+            "lon": 11.2547202,
+            "ele": "517",
+            "name": "Fürstenfeldbruck",
+            "name:ar": "فورستنفلدبروك",
+            "name:bar": "Bruck",
+            "name:bg": "Фюрстенфелдбрук",
+            "name:de": "Fürstenfeldbruck",
+            "name:en": "Fürstenfeldbruck",
+            "name:es": "Fürstenfeldbruck",
+            "name:fa": "فورستنفلدبروک",
+            "name:fr": "Fürstenfeldbruck",
+            "name:lt": "Fiurstenfeldbrukas",
+            "name:ru": "Фюрстенфельдбрук",
+            "name:sr": "Фирстенфелдбрук",
+            "name:zh": "菲尔斯滕费尔德布鲁克",
+            "place": "town",
+            "population": "34648",
+            "postal_code": "82256",
+            "website": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_aktuelles.html",
+            "wikidata": "Q16003",
+            "wikipedia": "de:Fürstenfeldbruck"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2547202,
+              48.1794705
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

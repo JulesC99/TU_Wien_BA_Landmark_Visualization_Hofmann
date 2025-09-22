@@ -1,0 +1,31 @@
+{
+  "name": "landmark-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "webpack serve --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/geojson": "^7946.0.15",
+    "@types/mapbox-gl": "^3.4.1",
+    "mapbox-gl": "^3.9.2",
+    "three": "^0.170.0",
+    "threebox-plugin": "^2.2.7"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.2.1"
+  }
+}

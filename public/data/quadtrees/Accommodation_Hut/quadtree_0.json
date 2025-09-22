@@ -1,0 +1,4576 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 184,
+  "leafCount": 0,
+  "averagePosition": [
+    10.608273520108696,
+    46.734721059782615
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 9.530952,
+        "north": 46.70320525,
+        "east": 10.484655499999999
+      },
+      "poiCount": 27,
+      "leafCount": 27,
+      "averagePosition": [
+        10.084975507407409,
+        46.51484237407408
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "479305503",
+            "osm_type": "node",
+            "lat": 46.4122405,
+            "lon": 9.96505,
+            "breakfast": "yes",
+            "capacity": "170",
+            "contact:person": "Besseghini Valentino",
+            "dinner": "yes",
+            "dog": "on_request",
+            "drinking_water": "yes",
+            "ele": "2978",
+            "email": "berghaus@diavolezza.ch",
+            "food": "yes",
+            "name": "Berghaus Diavolezza",
+            "payment:credit_cards": "yes",
+            "phone": "+41 81 839 39 00",
+            "tourism": "alpine_hut",
+            "website": "https://www.diavolezza.ch/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.96505,
+              46.4122405
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1541332254",
+            "osm_type": "node",
+            "lat": 46.491475,
+            "lon": 9.7944505,
+            "name": "Alp Suvretta",
+            "place": "locality",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7944505,
+              46.491475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1541334427",
+            "osm_type": "node",
+            "lat": 46.4960654,
+            "lon": 9.820307,
+            "name": "Alp Giop",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.820307,
+              46.4960654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1541345785",
+            "osm_type": "node",
+            "lat": 46.5047785,
+            "lon": 9.8289577,
+            "name": "Alp Nova",
+            "place": "locality",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8289577,
+              46.5047785
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1652116747",
+            "osm_type": "node",
+            "lat": 46.4928284,
+            "lon": 9.652005,
+            "ele": "1963",
+            "name": "Alp Natons",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.652005,
+              46.4928284
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7188355543",
+            "osm_type": "node",
+            "lat": 46.5780797,
+            "lon": 9.9200573,
+            "name": "Chesa Arnica",
+            "tourism": "chalet",
+            "website": "http://www.etzlimo.ch/ChesaArnica.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9200573,
+              46.5780797
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10123808914",
+            "osm_type": "node",
+            "lat": 46.6118255,
+            "lon": 9.9853425,
+            "name": "Chesa Sulai",
+            "tourism": "chalet",
+            "website": "https://ferienimbaudenkmal.ch/chesa-sulai/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9853425,
+              46.6118255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12801022760",
+            "osm_type": "node",
+            "lat": 46.4130745,
+            "lon": 9.7398613,
+            "addr:city": "Maloja",
+            "addr:housenumber": "49",
+            "addr:postcode": "7516",
+            "addr:street": "Isola",
+            "check_date": "2025-04-30",
+            "check_date:currency:XBT": "2025-04-30",
+            "currency:XBT": "yes",
+            "email": "info@stallacapre.ch",
+            "name": "Stalla Capre Isola",
+            "payment:lightning": "yes",
+            "payment:lightning_contactless": "no",
+            "payment:onchain": "yes",
+            "phone": "+41 79 847 51 05",
+            "tourism": "chalet",
+            "website": "https://stallacapre.ch/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7398613,
+              46.4130745
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13043088099",
+            "osm_type": "node",
+            "lat": 46.578896,
+            "lon": 9.9229751,
+            "addr:housenumber": "15",
+            "addr:street": "Arvins",
+            "check_date": "2025-08-02",
+            "name": "Sur Val",
+            "tourism": "chalet",
+            "website": "https://www.ferienhaus-surval.ch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9229751,
+              46.578896
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "851461469",
+            "osm_type": "node",
+            "lat": 46.4457049,
+            "lon": 10.3383398,
+            "name": "Baita La Mandria",
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3383398,
+              46.4457049
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2237960568",
+            "osm_type": "node",
+            "lat": 46.5191645,
+            "lon": 10.3223837,
+            "tourism": "alpine_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3223837,
+              46.5191645
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3874640413",
+            "osm_type": "node",
+            "lat": 46.6000184,
+            "lon": 10.4088678,
+            "addr:city": "Valchava",
+            "addr:country": "CH",
+            "addr:housenumber": "7",
+            "addr:postcode": "7535",
+            "addr:street": "Bauorcha",
+            "name": "Chasa Muntanella",
+            "tourism": "chalet",
+            "website": "http://www.chasa-muntanella.ch/index.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4088678,
+              46.6000184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4494120875",
+            "osm_type": "node",
+            "lat": 46.5517526,
+            "lon": 10.1434564,
+            "name": "Chalet Lago II",
+            "source": "survey",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1434564,
+              46.5517526
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4494120876",
+            "osm_type": "node",
+            "lat": 46.5516083,
+            "lon": 10.1434012,
+            "name": "Chalet Lago I",
+            "source": "survey",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1434012,
+              46.5516083
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4502229913",
+            "osm_type": "node",
+            "lat": 46.5473413,
+            "lon": 10.1388575,
+            "addr:country": "IT",
+            "addr:housenumber": "152",
+            "addr:street": "Via Domenion",
+            "name": "Chalet Charlie",
+            "source": "survey",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1388575,
+              46.5473413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4502229916",
+            "osm_type": "node",
+            "lat": 46.5479909,
+            "lon": 10.1387256,
+            "addr:country": "IT",
+            "addr:postcode": "23030",
+            "email": "info@chaletletizialivigno.it",
+            "internet_access": "wlan",
+            "name": "Chalet Letizia",
+            "name:ru": "Шале Летиция",
+            "source": "survey",
+            "tourism": "chalet",
+            "website": "http://www.chaletletizialivigno.it"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1387256,
+              46.5479909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4502229922",
+            "osm_type": "node",
+            "lat": 46.5484802,
+            "lon": 10.1395519,
+            "addr:city": "Livigno",
+            "addr:country": "IT",
+            "addr:housenumber": "104d",
+            "addr:postcode": "23030",
+            "addr:street": "Via Olta",
+            "name": "Chalet Olta",
+            "source": "survey",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1395519,
+              46.5484802
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4904033582",
+            "osm_type": "node",
+            "lat": 46.5369253,
+            "lon": 10.1415039,
+            "name": "Chalet Mottolino",
+            "stars": "3",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1415039,
+              46.5369253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5202590321",
+            "osm_type": "node",
+            "lat": 46.5546651,
+            "lon": 10.13685,
+            "name": "Chalet del Sole",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.13685,
+              46.5546651
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5207107510",
+            "osm_type": "node",
+            "lat": 46.5324185,
+            "lon": 10.1416799,
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Park Chalet Village",
+            "rooms": "22",
+            "stars": "4",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1416799,
+              46.5324185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5234745789",
+            "osm_type": "node",
+            "lat": 46.5229907,
+            "lon": 10.1259289,
+            "addr:city": "Livigno",
+            "addr:housenumber": "1022a",
+            "addr:postcode": "23041",
+            "addr:street": "Via Saroch",
+            "email": "pedrin.apartments@gmail.com",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Chalet Girasole",
+            "phone": "+39 375 5691767",
+            "tourism": "chalet",
+            "website": "https://www.livignoitaly.it/appartamenti/chalet-girasole"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1259289,
+              46.5229907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5732505122",
+            "osm_type": "node",
+            "lat": 46.4747046,
+            "lon": 10.4737542,
+            "access": "no",
+            "ele": "2360",
+            "name": "Nuovo Bivacco Costantini",
+            "tourism": "wilderness_hut",
+            "wikidata": "Q112259005"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.4737542,
+              46.4747046
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6443219817",
+            "osm_type": "node",
+            "lat": 46.4024149,
+            "lon": 10.1945373,
+            "capacity": "9",
+            "ele": "2501",
+            "name": "Bivacco Caldarini",
+            "operator": "CAI Desio",
+            "tourism": "wilderness_hut"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1945373,
+              46.4024149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8963632417",
+            "osm_type": "node",
+            "lat": 46.5525805,
+            "lon": 10.1025127,
+            "name": "Tea da Memi",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1025127,
+              46.5525805
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8968650717",
+            "osm_type": "node",
+            "lat": 46.5077044,
+            "lon": 10.1204214,
+            "name": "Agriturismo Fontana",
+            "tourism": "chalet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1204214,
+              46.5077044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12622848996",
+            "osm_type": "node",
+            "lat": 46.4617466,
+            "lon": 10.0938142,
+            "check_date": "2025-02-27",
+            "description": "Opening time in winter season from 10 to 15.",
+            "name": "Malga Alpe Vago",
+            "opening_hours": "10:00-15:00",
+            "operator": "Soc Agricola Di silvestri Giorgio e C",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+39 342 979 345",
+            "tourism": "alpine_hut",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0938142,
+              46.4617466
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13104005801",
+            "osm_type": "node",
+            "lat": 46.4632689,
+            "lon": 10.3607459,
+            "addr:housenumber": "2",
+            "addr:postcode": "23032",
+            "addr:street": "Via Cav.Pietro Rini",
+            "name": "Agriturismo Rini",
+            "tourism": "alpine_hut",
+            "website": "https://www.agriturismobormio.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3607459,
+              46.4632689
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 10.484655499999999,
+        "north": 46.70320525,
+        "east": 11.438358999999998
+      },
+      "poiCount": 51,
+      "leafCount": 0,
+      "averagePosition": [
+        11.049427003921569,
+        46.564388525490195
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 10.484655499999999,
+            "north": 46.537928625000006,
+            "east": 10.961507249999999
+          },
+          "poiCount": 13,
+          "leafCount": 13,
+          "averagePosition": [
+            10.808471653846153,
+            46.43123050769231
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "385106019",
+                "osm_type": "node",
+                "lat": 46.5345963,
+                "lon": 10.9215118,
+                "aerialway": "station",
+                "name": "Schwemmalmbahn - Cabinovia Malga Guazza",
+                "name:de": "Schwemmalmbahn",
+                "name:it": "Cabinovia Malga Guazza"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9215118,
+                  46.5345963
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "393892579",
+                "osm_type": "node",
+                "lat": 46.4696416,
+                "lon": 10.6730592,
+                "ele": "2610",
+                "name": "Martellerhütte - Rifugio Martello",
+                "name:de": "Martellerhütte",
+                "name:it": "Rifugio Martello",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1902967",
+                "wikipedia": "de:Marteller Hütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6730592,
+                  46.4696416
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "616524592",
+                "osm_type": "node",
+                "lat": 46.3734834,
+                "lon": 10.8783777,
+                "name": "Residence Bonetti",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8783777,
+                  46.3734834
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "639686208",
+                "osm_type": "node",
+                "lat": 46.5281335,
+                "lon": 10.9554917,
+                "aerialway": "station",
+                "name": "Schwemmalmbahn - Cabinovia Malga Guazza",
+                "name:de": "Schwemmalmbahn",
+                "name:it": "Cabinovia Malga Guazza"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9554917,
+                  46.5281335
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1615509924",
+                "osm_type": "node",
+                "lat": 46.4031875,
+                "lon": 10.8671752,
+                "ele": "1657",
+                "name": "Malga Zoccolo di Sotto",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8671752,
+                  46.4031875
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4393058908",
+                "osm_type": "node",
+                "lat": 46.3806888,
+                "lon": 10.6596574,
+                "addr:street": "Piani del Vioz",
+                "amenity": "restaurant;cafe",
+                "ele": "2316",
+                "email": "info@dossdeigembri.it",
+                "name": "Rifugio Doss dei Cembri / Doss dei Gembri",
+                "phone": "+39 0463 753227",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6596574,
+                  46.3806888
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7858386423",
+                "osm_type": "node",
+                "lat": 46.3906833,
+                "lon": 10.893344,
+                "beds": "11",
+                "ele": "1913",
+                "name": "Malga Mondent alta",
+                "phone": "+39 328 2555273; +39 333 2366967",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.893344,
+                  46.3906833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9987938357",
+                "osm_type": "node",
+                "lat": 46.3737349,
+                "lon": 10.8781208,
+                "name": "Residence Bonetti",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8781208,
+                  46.3737349
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11138924815",
+                "osm_type": "node",
+                "lat": 46.4316173,
+                "lon": 10.775713,
+                "name": "Bait Mandrio Buse",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.775713,
+                  46.4316173
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11138929607",
+                "osm_type": "node",
+                "lat": 46.4316462,
+                "lon": 10.7757554,
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7757554,
+                  46.4316462
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11407409873",
+                "osm_type": "node",
+                "lat": 46.3900576,
+                "lon": 10.769596,
+                "name": "Bivacco Malga Fassa",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.769596,
+                  46.3900576
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11845035761",
+                "osm_type": "node",
+                "lat": 46.5150587,
+                "lon": 10.5979711,
+                "couplings": "3",
+                "couplings:diameters": "C;C;B",
+                "couplings:type": "Storz",
+                "emergency": "fire_hydrant",
+                "fire_hydrant:pressure": "5",
+                "fire_hydrant:type": "pillar",
+                "name": "Zivilschutzgebäude"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5979711,
+                  46.5150587
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13061764986",
+                "osm_type": "node",
+                "lat": 46.3834675,
+                "lon": 10.8643582,
+                "name": "Casa Le Marinolde",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8643582,
+                  46.3834675
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 10.961507249999999,
+            "north": 46.537928625000006,
+            "east": 11.438358999999998
+          },
+          "poiCount": 6,
+          "leafCount": 6,
+          "averagePosition": [
+            11.227916533333334,
+            46.46584953333333
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3740021763",
+                "osm_type": "node",
+                "lat": 46.4093619,
+                "lon": 11.0105414,
+                "addr:city": "Livo",
+                "addr:housenumber": "49",
+                "addr:postcode": "38020",
+                "addr:street": "Frazione Preghena",
+                "name": "Agritur Monte Pin",
+                "phone": "+39 0463 535033",
+                "tourism": "chalet",
+                "website": "https://www.agriturmontepin.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0105414,
+                  46.4093619
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3192163210",
+                "osm_type": "node",
+                "lat": 46.4949617,
+                "lon": 11.3184724,
+                "government": "public_safety",
+                "name": "Agenzia per la Protezione Civile Bolzano - Agentur für Bevölkerungsschutz",
+                "name:de": "Agentur für Bevölkerungsschutz",
+                "name:it": "Agenzia per la Protezione civile Bolzano",
+                "office": "government",
+                "phone": "+39 0471 416000",
+                "website": "https://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/default.asp"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3184724,
+                  46.4949617
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7691158785",
+                "osm_type": "node",
+                "lat": 46.4981522,
+                "lon": 11.2580462,
+                "emergency": "landing_site",
+                "name": "Freiwilliger Zivilschutz",
+                "operator": "Freiwilliger Zivilschutz Trentino Südtirol",
+                "url": "https://zivilschutz.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2580462,
+                  46.4981522
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11077000110",
+                "osm_type": "node",
+                "lat": 46.4987841,
+                "lon": 11.1777451,
+                "name": "Bait delle Bieze",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1777451,
+                  46.4987841
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11139109905",
+                "osm_type": "node",
+                "lat": 46.4078036,
+                "lon": 11.2573925,
+                "addr:street": "Lavason",
+                "name:de": "Giuliani Hans Peter",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2573925,
+                  46.4078036
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13125044701",
+                "osm_type": "node",
+                "lat": 46.4860337,
+                "lon": 11.3453016,
+                "amenity": "public_bookcase",
+                "name": "Bibliocabina",
+                "name:de": "Bibliokabine",
+                "name:it": "Bibliocabina",
+                "opening_hours": "24/7",
+                "operator": "Città di Bolzano – Quartiere Oltrisarco-Aslago/Stadt Bozen – Stadtviertel Oberau-Haslach"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3453016,
+                  46.4860337
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 10.484655499999999,
+            "north": 46.70320525,
+            "east": 10.961507249999999
+          },
+          "poiCount": 5,
+          "leafCount": 5,
+          "averagePosition": [
+            10.846648380000001,
+            46.60087892
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1916659881",
+                "osm_type": "node",
+                "lat": 46.5531461,
+                "lon": 10.9558514,
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9558514,
+                  46.5531461
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2326841662",
+                "osm_type": "node",
+                "lat": 46.6175828,
+                "lon": 10.8603372,
+                "addr:city": "Latsch",
+                "addr:housenumber": "52",
+                "addr:postcode": "39021",
+                "addr:street": "Hauptstraße",
+                "fixme": "Hausnummer?",
+                "name": "Lampacher und Hutter"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8603372,
+                  46.6175828
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4486957692",
+                "osm_type": "node",
+                "lat": 46.6278191,
+                "lon": 10.775694,
+                "addr:city": "Schlanders - Silandro",
+                "addr:housenumber": "13",
+                "addr:postcode": "39028",
+                "addr:street": "Mühlgasse - Via Molini",
+                "check_date": "2024-09-05",
+                "name": "Villhof",
+                "operator": "Famielie Vill",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.775694,
+                  46.6278191
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6991676399",
+                "osm_type": "node",
+                "lat": 46.5712087,
+                "lon": 10.8424486,
+                "addr:city": "Latsch - Laces",
+                "addr:city:de": "Latsch",
+                "addr:city:it": "Laces",
+                "addr:hamlet": "Morter",
+                "addr:housenumber": "99",
+                "addr:postcode": "39021",
+                "addr:street": "Vorhöfe - Masetti di Fuori",
+                "addr:street:de": "Vorhöfe",
+                "addr:street:it": "Masetti di Fuori",
+                "description": "Almhütte\nBergrestaurant",
+                "name": "Morterer Alm",
+                "name:de": "Morterer Alm",
+                "name:it": "Malga Morterer",
+                "restaurant": "yes",
+                "sport": "wandern;radfahren;e-bike",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8424486,
+                  46.5712087
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11586235436",
+                "osm_type": "node",
+                "lat": 46.6346379,
+                "lon": 10.7989107,
+                "addr:street": "Kapuzinergasse",
+                "craft": "signmaker",
+                "description": "Bike Shuttle Stop, gilt für offizilelle und private Fahrzeuge.",
+                "name": "Bike Shuttle Stop",
+                "operator": "TV Schlanders"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7989107,
+                  46.6346379
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 10.961507249999999,
+            "north": 46.70320525,
+            "east": 11.438358999999998
+          },
+          "poiCount": 27,
+          "leafCount": 27,
+          "averagePosition": [
+            11.1633298,
+            46.643641718518516
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9916973418",
+                "osm_type": "node",
+                "lat": 46.5822561,
+                "lon": 11.004069,
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.004069,
+                  46.5822561
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "276649409",
+                "osm_type": "node",
+                "lat": 46.6660745,
+                "lon": 11.2414921,
+                "aerialway": "station",
+                "aerialway:access": "both",
+                "aerialway:summer:access": "both",
+                "contact:email": "info@meran2000.com",
+                "contact:fax": "+39 0473 234911",
+                "contact:phone": "+39 0473 234821",
+                "contact:website": "http://www.meran2000.com/",
+                "name": "Umlaufbahn Falzeben Talstation - Cabinovia Falzeben stazione a valle",
+                "name:de": "Umlaufbahn Falzeben Talstation",
+                "name:it": "Cabinovia Falzeben stazione a valle"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2414921,
+                  46.6660745
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "276649411",
+                "osm_type": "node",
+                "lat": 46.6772969,
+                "lon": 11.255164,
+                "aerialway": "station",
+                "ele": "1950",
+                "name": "Umlaufbahn Falzeben Bergstation - Cabinovia Falzeben stazione a monte",
+                "name:de": "Umlaufbahn Falzeben Bergstation",
+                "name:it": "Cabinovia Falzeben stazione a monte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.255164,
+                  46.6772969
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "768581793",
+                "osm_type": "node",
+                "lat": 46.562807,
+                "lon": 11.2213247,
+                "name": "Haus Winkler",
+                "phone": "+39 0471 678768",
+                "tourism": "chalet",
+                "website": "https://www.haus-winkler.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2213247,
+                  46.562807
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "770695083",
+                "osm_type": "node",
+                "lat": 46.6130194,
+                "lon": 11.1474577,
+                "name": "Call-Hof",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1474577,
+                  46.6130194
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1670552838",
+                "osm_type": "node",
+                "lat": 46.608339,
+                "lon": 11.2255492,
+                "name": "Salahaus",
+                "source": "www.tabaccoeditrice.com",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2255492,
+                  46.608339
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2749760962",
+                "osm_type": "node",
+                "lat": 46.6506885,
+                "lon": 11.2249636,
+                "addr:city": "Hafling - Avelengo",
+                "addr:city:de": "Hafling",
+                "addr:city:it": "Avelengo",
+                "addr:housenumber": "5",
+                "addr:postcode": "39010",
+                "addr:street": "Locherweg - Via Locher",
+                "addr:street:de": "Locherweg",
+                "addr:street:it": "Via Locher",
+                "name": "Bachguter",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2249636,
+                  46.6506885
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2749760966",
+                "osm_type": "node",
+                "lat": 46.6543578,
+                "lon": 11.2190758,
+                "addr:city": "Hafling - Avelengo",
+                "addr:city:de": "Hafling",
+                "addr:city:it": "Avelengo",
+                "addr:housenumber": "50",
+                "addr:postcode": "39010",
+                "addr:street": "Falzebenerstraße - Via Falzeben",
+                "addr:street:de": "Falzebenerstraße",
+                "addr:street:it": "Via Falzeben",
+                "email": "info@chalet-hafling.it",
+                "name": "Chalet Zoila",
+                "phone": "+39 339 2298949",
+                "tourism": "chalet",
+                "website": "https://www.chalet-hafling.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2190758,
+                  46.6543578
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2749760968",
+                "osm_type": "node",
+                "lat": 46.6546296,
+                "lon": 11.2197306,
+                "addr:city": "Hafling - Avelengo",
+                "addr:city:de": "Hafling",
+                "addr:city:it": "Avelengo",
+                "addr:housenumber": "51",
+                "addr:postcode": "39010",
+                "addr:street": "Falzebenerstraße - Via Falzeben",
+                "addr:street:de": "Falzebenerstraße",
+                "addr:street:it": "Via Falzeben",
+                "email": "info@chalet-hafling.it",
+                "name": "Chalet Leckplatt",
+                "phone": "+39 3392298949",
+                "tourism": "chalet",
+                "website": "https://www.chalet-hafling.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2197306,
+                  46.6546296
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755904588",
+                "osm_type": "node",
+                "lat": 46.6693515,
+                "lon": 11.1082085,
+                "contact:email": "info@bruennl.com",
+                "contact:phone": "+39 0473 968077",
+                "name": "Brünnls Försterhütte",
+                "opening_hours": "2025 Jan-Dec",
+                "operator": "Fam. Steck",
+                "source:date": "2025-02-02",
+                "source:de": "Unterkunftsverzeichnis Partschins 2025, S. 29 schriftliche Erlaubnis des Tourismusvereins Partschins vom 2016-08-12  für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Parcines 2025, pagina 29, autorizzazione ufficiale dell‘ Associazione turistica di Parcines dal 2016-08-12 per l‘utilizzo dei dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.bruennl.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1082085,
+                  46.6693515
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755963199",
+                "osm_type": "node",
+                "lat": 46.6930214,
+                "lon": 11.1817852,
+                "addr:city": "Schenna - Scena",
+                "addr:city:de": "Schenna",
+                "addr:city:it": "Scena",
+                "addr:housenumber": "17",
+                "addr:postcode": "39017",
+                "addr:street": "Rothtalerweg - Via Rothtal",
+                "addr:street:de": "Rothtalerweg",
+                "addr:street:it": "Via Rothtal",
+                "name": "Aquatisches Artenschutzzentrum - Centro Tutela Specie Acquatiche"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1817852,
+                  46.6930214
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756069931",
+                "osm_type": "node",
+                "lat": 46.603472,
+                "lon": 11.2252211,
+                "addr:city": "Vöran - Verano",
+                "addr:city:de": "Vöran",
+                "addr:city:it": "Verano",
+                "addr:housenumber": "1",
+                "addr:postcode": "39010",
+                "addr:street": "Unterdorfer Weg - Via Unterdorf",
+                "addr:street:de": "Unterdorfer Weg",
+                "addr:street:it": "Via Unterdorf",
+                "name": "Appartements Greif",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2252211,
+                  46.603472
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756070066",
+                "osm_type": "node",
+                "lat": 46.6049511,
+                "lon": 11.2242516,
+                "addr:city": "Vöran - Verano",
+                "addr:city:de": "Vöran",
+                "addr:city:it": "Verano",
+                "addr:housenumber": "18",
+                "addr:postcode": "39010",
+                "addr:street": "Larcherweg - Via Larcher",
+                "addr:street:de": "Larcherweg",
+                "addr:street:it": "Via Larcher",
+                "name": "Appartements Sonnwies",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2242516,
+                  46.6049511
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756070091",
+                "osm_type": "node",
+                "lat": 46.6030399,
+                "lon": 11.2245128,
+                "addr:city": "Vöran - Verano",
+                "addr:city:de": "Vöran",
+                "addr:city:it": "Verano",
+                "addr:housenumber": "2",
+                "addr:postcode": "39010",
+                "addr:street": "Unterdorfer Weg - Via Unterdorf",
+                "addr:street:de": "Unterdorfer Weg",
+                "addr:street:it": "Via Unterdorf",
+                "apartment": "2",
+                "contact:phone": "+39 0473-278282",
+                "contact:website": "https://www.alberedith.it/",
+                "name": "Alber Edith",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2245128,
+                  46.6030399
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756070099",
+                "osm_type": "node",
+                "lat": 46.6020912,
+                "lon": 11.2186783,
+                "addr:city": "Vöran - Verano",
+                "addr:city:de": "Vöran",
+                "addr:city:it": "Verano",
+                "addr:housenumber": "20",
+                "addr:postcode": "39010",
+                "addr:street": "Unterdorfer Weg - Via Unterdorf",
+                "addr:street:de": "Unterdorfer Weg",
+                "addr:street:it": "Via Unterdorf",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2186783,
+                  46.6020912
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756070155",
+                "osm_type": "node",
+                "lat": 46.6140105,
+                "lon": 11.240759,
+                "addr:city": "Vöran - Verano",
+                "addr:city:de": "Vöran",
+                "addr:city:it": "Verano",
+                "addr:housenumber": "3",
+                "addr:postcode": "39010",
+                "addr:street": "Leadner-Alm-Weg - Via Malga Leadn",
+                "addr:street:de": "Leadner-Alm-Weg",
+                "addr:street:it": "Via Malga Leadn",
+                "name": "Haus Forrer",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.240759,
+                  46.6140105
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3502724271",
+                "osm_type": "node",
+                "lat": 46.6849225,
+                "lon": 11.1892881,
+                "name": "Appartments Meranblick",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1892881,
+                  46.6849225
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3591188996",
+                "osm_type": "node",
+                "lat": 46.6424069,
+                "lon": 11.0716823,
+                "chalet": "agritourism",
+                "contact:email": "info@thaler-hof.com",
+                "contact:mobile": "+39 338 6357424",
+                "internet_access": "wlan",
+                "name": "Thaler-Hof",
+                "number_of_chalets": "2",
+                "opening_hours": "2023 Jan-Dec",
+                "operator": "Fam. Weithaler-Pamer",
+                "source:date": "2023-02-02",
+                "source:de": "Unterkunftsverzeichnis Algund 2023, S. 53, schriftliche Erlaubnis des Tourismusvereins Algund vom 2016-09-01 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Lagundo 2023, pagina 53, autorizzazione ufficiale dell‘ Associazione turistica di Lagundo dal 2016-09-01 per l‘utilizzo dei dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.thaler-hof.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0716823,
+                  46.6424069
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3597879408",
+                "osm_type": "node",
+                "lat": 46.6712237,
+                "lon": 11.1004764,
+                "contact:email": "info@gramegg.it",
+                "contact:phone": "+39 0473 443826",
+                "name": "Gramegger Hütte",
+                "number_of_chalets": "1",
+                "opening_hours": "2024 Apr-Nov",
+                "operator": "Fam. Siebenförcher",
+                "source:date": "2024-11-27",
+                "source:de": "Unterkunftsverzeichnis Algund 2024, S. 51, schriftliche Erlaubnis des Tourismusvereins Algund vom 2016-09-01 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Lagundo 2024, pagina 51, autorizzazione ufficiale dell‘ Associazione turistica di Lagundo dal 2016-09-01 per l‘utilizzo dei dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.gramegg.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1004764,
+                  46.6712237
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3722978724",
+                "osm_type": "node",
+                "lat": 46.6827989,
+                "lon": 11.0637708,
+                "chalet": "agritourism",
+                "contact:email": "info@winklerhof.bz.it",
+                "contact:mobile": "+39 379 1909703",
+                "name": "Winklerhof",
+                "opening_hours": "2025 Jan-Dec",
+                "operator": "Fam. Forcher",
+                "source:date": "2025-02-12",
+                "source:de": "Unterkunftsverzeichnis Partschins 2025, S. 31 schriftliche Erlaubnis des Tourismusvereins Partschins vom 2016-08-12  für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Parcines 2025, pagina 31, autorizzazione ufficiale dell‘ Associazione turistica di Parcines dal 2016-08-12 per l‘utilizzo dei dati su OSM",
+                "stars": "4",
+                "tourism": "chalet",
+                "website": "https://www.winklerhof.bz.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0637708,
+                  46.6827989
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4590511441",
+                "osm_type": "node",
+                "lat": 46.6437076,
+                "lon": 11.0731688,
+                "contact:email": "info@raabenhof.com",
+                "contact:mobile": "+39 338 4424762",
+                "contact:phone": "+39 0473 967155",
+                "dog": "no",
+                "internet_access": "wlan",
+                "name": "Raabenhof",
+                "number_of_chalets": "1",
+                "opening_hours": "2023 Jan-Dec",
+                "operator": "Fam. Raabe",
+                "sauna": "yes",
+                "source:date": "2023-02-01",
+                "source:de": "Unterkunftsverzeichnis Algund 2023, S. 52, schriftliche Erlaubnis des Tourismusvereins Algund vom 2016-09-01 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Lagundo 2023, pagina 52, autorizzazione ufficiale dell‘ Associazione turistica di Lagundo dal 2016-09-01 per l‘utilizzo dei dati su OSM",
+                "stars": "4",
+                "tourism": "chalet",
+                "website": "https://www.raabenhof.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0731688,
+                  46.6437076
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4914012317",
+                "osm_type": "node",
+                "lat": 46.7026971,
+                "lon": 11.038429,
+                "addr:city": "Partschins-Parcines",
+                "addr:housenumber": "5",
+                "addr:street": "Zieltal",
+                "capacity": "22",
+                "check_date": "2024-04-20",
+                "contact:email": "info@nasereit.com",
+                "contact:facebook": "https://www.facebook.com/www.nassereith.it",
+                "contact:mobile": "+39 340 4941347",
+                "contact:phone": "+39 0473 968222",
+                "contact:website": "http://www.nasereit.com/",
+                "cuisine": "regional",
+                "dog": "no",
+                "ele": "1523",
+                "name": "Schutzhütte Nasereit - Rifugio Nasereit",
+                "name:de": "Schutzhütte Nasereit",
+                "name:it": "Rifugio Nasereit",
+                "note": "genauere Angaben zur Öffnung: ab Ostern;ansonsten je nach Witterung",
+                "opening_hours": "Mar-Oct",
+                "operator": "Familie Gerstgrasser",
+                "outdoor_seating": "terrace",
+                "restaurant:capacity": "30",
+                "rooms": "4",
+                "source": "http://www.nasereit.com/",
+                "source:date": "2019-02-20",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.038429,
+                  46.7026971
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5367938174",
+                "osm_type": "node",
+                "lat": 46.6671887,
+                "lon": 11.0845337,
+                "alt_name": "Waldbrunn",
+                "chalet": "agritourism",
+                "contact:email": "info@oberbrunnhof.suedtirol.it",
+                "contact:mobile": "+39 334 9674121",
+                "mobile": "+39 333 2948654",
+                "name": "Oberbrunnhof",
+                "opening_hours": "2025 Jan-Dec",
+                "operator": "Fam. Laimer",
+                "source:date": "2025-02-12",
+                "source:de": "Unterkunftsverzeichnis Partschins 2025, S. 31 schriftliche Erlaubnis des Tourismusvereins Partschins vom 2016-08-12  für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Parcines 2025, pagina 31, autorizzazione ufficiale dell‘ Associazione turistica di Parcines dal 2016-08-12 per l‘utilizzo dei dati su OSM",
+                "tourism": "chalet",
+                "website": "https://www.oberbrunnhof.suedtirol.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0845337,
+                  46.6671887
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8409139740",
+                "osm_type": "node",
+                "lat": 46.6957496,
+                "lon": 11.1933108,
+                "contact:email": "info@goyenhof.com",
+                "contact:phone": "+39 0473 943201",
+                "name": "Chalet Goyenhof",
+                "source:date": "2025-03-09",
+                "source:de": "Unterkunftsverzeichnis Schenna  2025, S. 1, schriftliche Erlaubnis des Tourismusvereins Schenna vom 2016-09-01 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Scena 2025, pagina 1, autorizzazione scritta dell‘Associazione turistica di Scena del 2016-09-01 per l‘utilizzo dei dati su OSM",
+                "stars": "5",
+                "tourism": "chalet",
+                "website": "https://www.chalet-goyenhof.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1933108,
+                  46.6957496
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10241929520",
+                "osm_type": "node",
+                "lat": 46.6594551,
+                "lon": 11.117502,
+                "contact:mobile": "+39 338 5069071",
+                "name": "Bergchalet Refugium Martius",
+                "source:date": "2024-12-22",
+                "source:de": "Unterkunftsverzeichnis Marling  2025, S. 39, schriftliche Erlaubnis des Tourismusvereins Marling vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Marlengo  2025, pagina 39 autorizzazione ufficiale dell‘ Associazione turistica di Marlengo dal 2016-08-16 per l‘utilizzo dei dati su OSM",
+                "stars": "2",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.117502,
+                  46.6594551
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10242104435",
+                "osm_type": "node",
+                "lat": 46.6597017,
+                "lon": 11.1172,
+                "contact:mobile": "+39 340 9689906",
+                "name": "Chalet am Marlinger Berg",
+                "operator": "Perathoner Kathrin",
+                "source:date": "2024-12-22",
+                "source:de": "Unterkunftsverzeichnis Marling  2025, S. 39, schriftliche Erlaubnis des Tourismusvereins Marling vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi a Marlengo  2025, pagina 39 autorizzazione ufficiale dell‘ Associazione turistica di Marlengo dal 2016-08-16 per l‘utilizzo dei dati su OSM",
+                "stars": "1",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1172,
+                  46.6597017
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12123238565",
+                "osm_type": "node",
+                "lat": 46.6090682,
+                "lon": 11.1782995,
+                "emergency": "disaster_response",
+                "name": "Zivilschutzzentrum",
+                "name:de": "Zivilschutzzentrum",
+                "name:it": "Centro protezione civile"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1782995,
+                  46.6090682
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 9.530952,
+        "north": 47.033758500000005,
+        "east": 10.484655499999999
+      },
+      "poiCount": 54,
+      "leafCount": 0,
+      "averagePosition": [
+        10.030388546296297,
+        46.879413831481486
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 9.530952,
+            "north": 46.868481875,
+            "east": 10.007803749999999
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            9.681496055555556,
+            46.761697266666665
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "619481245",
+                "osm_type": "node",
+                "lat": 46.7473744,
+                "lon": 9.8144306,
+                "ele": "2281",
+                "name": "Hubelhütte",
+                "place": "isolated_dwelling",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8144306,
+                  46.7473744
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "828915258",
+                "osm_type": "node",
+                "lat": 46.7495078,
+                "lon": 9.5468851,
+                "addr:city": "Valbella",
+                "addr:housenumber": "39",
+                "addr:postcode": "7077",
+                "addr:street": "Voa Sartons",
+                "check_date": "2024-04-02",
+                "contact:email": "info@erlebacherhus.ch",
+                "contact:fax": "+41 81 384 14 16",
+                "contact:phone": "+41 81 384 13 10",
+                "contact:website": "https://erlebacherhus.ch",
+                "name": "Erlebacherhus",
+                "operator": "Gemeinde Erlenbach ZH",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5468851,
+                  46.7495078
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "928234747",
+                "osm_type": "node",
+                "lat": 46.7895974,
+                "lon": 9.8116515,
+                "name": "Zwillingshof",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8116515,
+                  46.7895974
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1374047635",
+                "osm_type": "node",
+                "lat": 46.7167154,
+                "lon": 9.7797189,
+                "name": "Hauderalp",
+                "shelter_type": "weather_shelter",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7797189,
+                  46.7167154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2295514228",
+                "osm_type": "node",
+                "lat": 46.7342921,
+                "lon": 9.5574396,
+                "addr:city": "Lenzerheide-Valbella",
+                "addr:country": "CH",
+                "addr:postcode": "7078",
+                "name": "Soleval Appartments Lenzerheide",
+                "phone": "+41 81 385 1700",
+                "tourism": "chalet",
+                "website": "https://soleval.ch/DE/home.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5574396,
+                  46.7342921
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3434849771",
+                "osm_type": "node",
+                "lat": 46.8544397,
+                "lon": 9.6652302,
+                "ele": "1958",
+                "name": "Skihaus Hochwang",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6652302,
+                  46.8544397
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5434599122",
+                "osm_type": "node",
+                "lat": 46.784844,
+                "lon": 9.6880059,
+                "leisure": "nature_reserve",
+                "name": "Naturschutzgebiet Schwarzsee"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6880059,
+                  46.784844
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9005067446",
+                "osm_type": "node",
+                "lat": 46.7079994,
+                "lon": 9.716974,
+                "contact:email": "christine@obergass59.ch",
+                "contact:phone": "+41816551008",
+                "contact:website": "https://obergass59.ch",
+                "name": "Genossenschaft Obergass59",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.716974,
+                  46.7079994
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9622512517",
+                "osm_type": "node",
+                "lat": 46.7705052,
+                "lon": 9.5531287,
+                "name": "Städtli",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5531287,
+                  46.7705052
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 10.007803749999999,
+            "north": 46.868481875,
+            "east": 10.484655499999999
+          },
+          "poiCount": 16,
+          "leafCount": 16,
+          "averagePosition": [
+            10.2441478875,
+            46.798137275
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "623049400",
+                "osm_type": "node",
+                "lat": 46.822175,
+                "lon": 10.0217709,
+                "name": "Vernela-Hütte",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0217709,
+                  46.822175
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "863484248",
+                "osm_type": "node",
+                "lat": 46.7997894,
+                "lon": 10.1841995,
+                "access": "private",
+                "capacity": "25",
+                "contact:email": "jon-fadri@bluewin.ch",
+                "contact:phone": "+41 81 862 21 96",
+                "description": "requires key",
+                "ele": "2476",
+                "fee": "yes",
+                "name": "Chamanna Cler",
+                "reservation": "required",
+                "tourism": "wilderness_hut",
+                "website": "https://www.ski-ardez.ch/chamonna"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1841995,
+                  46.7997894
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1110574390",
+                "osm_type": "node",
+                "lat": 46.7701475,
+                "lon": 10.1439733,
+                "name": "Posta Veglia",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1439733,
+                  46.7701475
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1987019707",
+                "osm_type": "node",
+                "lat": 46.7120338,
+                "lon": 10.1129056,
+                "amenity": "taxi",
+                "name": "Endstation Macun-Shuttle",
+                "operator": "Hotel a la Staziun",
+                "phone:mobile": "+41 (0)79 103 20 20",
+                "website": "https://www.hotelstaziun.ch/macun-shuttle.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1129056,
+                  46.7120338
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2399812099",
+                "osm_type": "node",
+                "lat": 46.7984799,
+                "lon": 10.298934,
+                "internet_access": "wlan",
+                "name": "Chasa Florinja",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.298934,
+                  46.7984799
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2614458620",
+                "osm_type": "node",
+                "lat": 46.7969651,
+                "lon": 10.2541193,
+                "email": "seia@zhaw.ch",
+                "name": "Ferienhaus Seiler",
+                "note": "4 Schlafzimmer 2 Badezimmer 6 Personen",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2541193,
+                  46.7969651
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2907105405",
+                "osm_type": "node",
+                "lat": 46.8338209,
+                "lon": 10.379442,
+                "addr:city": "Ramosch",
+                "addr:country": "CH",
+                "addr:housenumber": "80",
+                "addr:postcode": "7556",
+                "addr:street": "Schilana",
+                "name": "Ferienhaus Schilana 80",
+                "tourism": "chalet",
+                "url": "http://www.schilana80.de"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.379442,
+                  46.8338209
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3743982205",
+                "osm_type": "node",
+                "lat": 46.816083,
+                "lon": 10.336317,
+                "addr:city": "Sent",
+                "addr:country": "CH",
+                "addr:housenumber": "82",
+                "addr:postcode": "7554",
+                "addr:street": "Avant Baselgia",
+                "description": "4 bis 8 Bett Ferienwohnungen",
+                "name": "Alpenloft",
+                "operator": "Swissroof GmbH",
+                "smoking": "outside",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.336317,
+                  46.816083
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4077866870",
+                "osm_type": "node",
+                "lat": 46.7958071,
+                "lon": 10.2548321,
+                "addr:city": "Ftan",
+                "addr:country": "CH",
+                "addr:housenumber": "3",
+                "addr:place": "Munt Fallun",
+                "addr:postcode": "7551",
+                "smoking": "no",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2548321,
+                  46.7958071
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4410284270",
+                "osm_type": "node",
+                "lat": 46.717162,
+                "lon": 10.4408594,
+                "access": "yes",
+                "capacity": "2",
+                "drinking_water": "yes",
+                "ele": "2225",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4408594,
+                  46.717162
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5323608364",
+                "osm_type": "node",
+                "lat": 46.7757073,
+                "lon": 10.1542868,
+                "amenity": "public_bookcase",
+                "name": "Cabina da cudeschs",
+                "name:de": "Öffentlicher Bücherschrank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1542868,
+                  46.7757073
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5834653667",
+                "osm_type": "node",
+                "lat": 46.8307354,
+                "lon": 10.1324884,
+                "alt_name": "Chamonna Tuoi CAS",
+                "breakfast": "yes",
+                "capacity": "74",
+                "capacity:winter_room": "14",
+                "contact:person": "Tinner Denise",
+                "dinner": "yes",
+                "dog": "on_request",
+                "drinking_water": "yes",
+                "ele": "2250",
+                "email": "info@tuoi.ch",
+                "food": "yes",
+                "kitchen": "yes",
+                "name": "Chamonna Tuoi",
+                "opening_hours": "Jun Sa[2]-Oct Su[-2]; Dec 26-Jan Su[1];\"Die genaue Oeffnung am besten auf der Website überprüfen\"",
+                "operator": "Club Alpin Svizzer - Secziun Engiadina Bassa",
+                "owner": "SAC ENGIADINA BASSA",
+                "phone": "+41 81 862 23 22",
+                "reg_name": "Bündner Alpen",
+                "reservation:website": "https://hut-reservation.org/reservation/book-hut/33/wizard",
+                "rooms": "separable_group",
+                "tourism": "alpine_hut",
+                "website": "https://www.tuoi.ch/",
+                "wikidata": "Q1060906",
+                "winter_room": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1324884,
+                  46.8307354
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8950436718",
+                "osm_type": "node",
+                "lat": 46.818575,
+                "lon": 10.3392894,
+                "name": "Ferienwohnung",
+                "tourism": "chalet",
+                "website": "https://www.appa.ch/21422.htm"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3392894,
+                  46.818575
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8957858419",
+                "osm_type": "node",
+                "lat": 46.8185125,
+                "lon": 10.3395131,
+                "addr:housenumber": "191",
+                "name": "Sent 191",
+                "tourism": "chalet",
+                "website": "www.sent191.ch"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.3395131,
+                  46.8185125
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10123853019",
+                "osm_type": "node",
+                "lat": 46.796489,
+                "lon": 10.2990678,
+                "addr:city": "Scuol",
+                "addr:housenumber": "136",
+                "addr:postcode": "7550",
+                "addr:street": "Dualatsch",
+                "name": "Chasa Engadina",
+                "tourism": "chalet",
+                "website": "https://ferienimbaudenkmal.ch/chasa-engadina-oben/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2990678,
+                  46.796489
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13068364334",
+                "osm_type": "node",
+                "lat": 46.8677135,
+                "lon": 10.2143676,
+                "description": "very small hut with 2 mattress blankets, 1 table, 1 bench",
+                "ele": "2742",
+                "name": "Futschölhütte Bergfreund Galthür",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2143676,
+                  46.8677135
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 9.530952,
+            "north": 47.033758500000005,
+            "east": 10.007803749999999
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            9.75571966,
+            46.958003139999995
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "415531314",
+                "osm_type": "node",
+                "lat": 47.021602,
+                "lon": 9.7765302,
+                "name": "Gruscher Älpli",
+                "place": "locality",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7765302,
+                  47.021602
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "415531315",
+                "osm_type": "node",
+                "lat": 47.0101422,
+                "lon": 9.7984535,
+                "name": "Alp Drusa",
+                "place": "locality",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7984535,
+                  47.0101422
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2390854383",
+                "osm_type": "node",
+                "lat": 47.0177953,
+                "lon": 9.5832053,
+                "ele": "1773",
+                "fixme": "name",
+                "name": "Mittelsäss",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5832053,
+                  47.0177953
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2610998005",
+                "osm_type": "node",
+                "lat": 47.0043555,
+                "lon": 9.9505331,
+                "name": "Maisäß Gampaping",
+                "tourism": "chalet",
+                "website": "https://www.gampaping.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9505331,
+                  47.0043555
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5808404659",
+                "osm_type": "node",
+                "lat": 46.9079521,
+                "lon": 9.7890168,
+                "addr:city": "Conters im Prättigau",
+                "addr:housenumber": "10",
+                "addr:postcode": "7241",
+                "addr:street": "Fastaigweg",
+                "name": "Ferienhaus Cresta",
+                "old_addr:housenumber": "4",
+                "old_addr:street": "Cresta",
+                "tourism": "chalet",
+                "website": "https://www.ferienhaus-cresta.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7890168,
+                  46.9079521
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6715709286",
+                "osm_type": "node",
+                "lat": 46.8927346,
+                "lon": 9.639258,
+                "name": "Ober Falsch",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.639258,
+                  46.8927346
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6715709386",
+                "osm_type": "node",
+                "lat": 46.9176419,
+                "lon": 9.635065,
+                "name": "Chadschlag",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.635065,
+                  46.9176419
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7098506332",
+                "osm_type": "node",
+                "lat": 46.8844872,
+                "lon": 9.8732773,
+                "addr:country": "CH",
+                "addr:housenumber": "13",
+                "addr:street": "Erlenweg",
+                "check_date": "2025-06-18",
+                "name": "Casa Erla",
+                "tourism": "chalet",
+                "website": "http://www.casa-erla.ch/deutsch/lage/lage.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8732773,
+                  46.8844872
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7832853686",
+                "osm_type": "node",
+                "lat": 46.8974277,
+                "lon": 9.6227537,
+                "name": "Alpe Zanutsch Vordersäss",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6227537,
+                  46.8974277
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10124380419",
+                "osm_type": "node",
+                "lat": 46.9256213,
+                "lon": 9.7409939,
+                "addr:city": "Putz",
+                "addr:housenumber": "9",
+                "addr:postcode": "7224",
+                "addr:street": "Unterputzweg",
+                "construction_date": "1628",
+                "name": "Ferienhaus Under Putz",
+                "tourism": "chalet",
+                "website": "https://ferienimbaudenkmal.ch/haus-under-putz/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7409939,
+                  46.9256213
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10124390018",
+                "osm_type": "node",
+                "lat": 46.9285543,
+                "lon": 9.7139414,
+                "addr:city": "Jenaz",
+                "addr:housenumber": "9",
+                "addr:postcode": "7233",
+                "addr:street": "Platz",
+                "name": "Haus am Platz",
+                "tourism": "chalet",
+                "website": "https://ferienimbaudenkmal.ch/haus-am-platz/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7139414,
+                  46.9285543
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10306413805",
+                "osm_type": "node",
+                "lat": 46.9414309,
+                "lon": 9.6780734,
+                "addr:city": "Furna",
+                "addr:housenumber": "15",
+                "addr:postcode": "7232",
+                "addr:street": "Bodenstrasse",
+                "air_conditioning": "no",
+                "ele": "1400",
+                "email": "info@furnaferien.ch",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Chalet Riedji",
+                "operator": "Dominik und Franziska Weibel",
+                "payment:app": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+41 81 330 12 11",
+                "reservation": "required",
+                "smoking": "outside",
+                "tourism": "chalet",
+                "website": "https://www.furnaferien.ch",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6780734,
+                  46.9414309
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10774808841",
+                "osm_type": "node",
+                "lat": 46.9791369,
+                "lon": 9.5730561,
+                "activation": "power_outage;electricity;phone_breakdown",
+                "addr:city": "Malans GR",
+                "addr:housenumber": "6",
+                "addr:postcode": "7208",
+                "addr:street": "Unterdorfstrasse",
+                "check_date": "2023-03-26",
+                "emergency": "disaster_help_point",
+                "name": "Zivilschutzanlage Eschergut",
+                "operator": "Gemeinde",
+                "source": "notfalltreffpunkt.ch",
+                "temporary": "yes",
+                "website": "https://www.notfalltreffpunkt.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5730561,
+                  46.9791369
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11089243286",
+                "osm_type": "node",
+                "lat": 47.017069,
+                "lon": 9.99182,
+                "name": "Ferienwohnung Anja",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.99182,
+                  47.017069
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11118337555",
+                "osm_type": "node",
+                "lat": 47.0240962,
+                "lon": 9.9698172,
+                "name": "Haus Spona",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.9698172,
+                  47.0240962
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 10.007803749999999,
+            "north": 47.033758500000005,
+            "east": 10.484655499999999
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            10.304668278571429,
+            46.96377342857143
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11207149182",
+                "osm_type": "node",
+                "lat": 46.8929554,
+                "lon": 10.0283887,
+                "name": "Schutzhütte",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0283887,
+                  46.8929554
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1105445466",
+                "osm_type": "node",
+                "lat": 47.0130375,
+                "lon": 10.2930195,
+                "name": "Apart Chamins",
+                "tourism": "chalet",
+                "website": "http://www.apart-chamins.ischgl.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2930195,
+                  47.0130375
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219442",
+                "osm_type": "node",
+                "lat": 46.9596927,
+                "lon": 10.4042432,
+                "name": "Apart Chasina",
+                "tourism": "chalet",
+                "website": "https://www.soliva.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4042432,
+                  46.9596927
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219448",
+                "osm_type": "node",
+                "lat": 46.9602482,
+                "lon": 10.4053893,
+                "name": "Haus Helvetia",
+                "tourism": "chalet",
+                "website": "https://www.haushelvetia.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4053893,
+                  46.9602482
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219456",
+                "osm_type": "node",
+                "lat": 46.9600984,
+                "lon": 10.4003719,
+                "name": "Chesa Mezpra",
+                "tourism": "chalet",
+                "website": "http://www.samnaun.net/mezpra/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4003719,
+                  46.9600984
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219463",
+                "osm_type": "node",
+                "lat": 46.9600427,
+                "lon": 10.4053076,
+                "name": "Haus Bergkristall",
+                "tourism": "chalet",
+                "website": "http://www.homepage.bluewin.ch/haus-bergkristall/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4053076,
+                  46.9600427
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219467",
+                "osm_type": "node",
+                "lat": 46.9594294,
+                "lon": 10.4003561,
+                "name": "Ferienresidenz Soliva",
+                "tourism": "chalet",
+                "website": "https://www.soliva.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4003561,
+                  46.9594294
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1125219474",
+                "osm_type": "node",
+                "lat": 46.9613699,
+                "lon": 10.4060477,
+                "name": "Chasa Vallaina",
+                "tourism": "chalet",
+                "website": "https://www.vallaina.ch/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4060477,
+                  46.9613699
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1407686251",
+                "osm_type": "node",
+                "lat": 46.9832325,
+                "lon": 10.4737807,
+                "access": "private",
+                "ele": "2021",
+                "name": "Ochsenberg-Alm",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4737807,
+                  46.9832325
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1496710565",
+                "osm_type": "node",
+                "lat": 46.9239776,
+                "lon": 10.1756739,
+                "contact:phone": "+43 664 9244508",
+                "ele": "1850",
+                "name": "Scheiben Alm",
+                "tourism": "alpine_hut",
+                "website": "https://scheiben-alm.edan.io/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1756739,
+                  46.9239776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4353968880",
+                "osm_type": "node",
+                "lat": 46.9787008,
+                "lon": 10.2127949,
+                "addr:city": "Galtür",
+                "addr:country": "AT",
+                "addr:housenumber": "109",
+                "addr:place": "Außertschafein",
+                "addr:postcode": "6563",
+                "name": "Casa Valtellina",
+                "tourism": "chalet",
+                "website": "https://www.rifugio-galtuer.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2127949,
+                  46.9787008
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4522020375",
+                "osm_type": "node",
+                "lat": 46.9788119,
+                "lon": 10.2129015,
+                "addr:city": "Galtür",
+                "addr:country": "AT",
+                "addr:housenumber": "109",
+                "addr:place": "Außertschafein",
+                "addr:postcode": "6563",
+                "name": "Casa Falisia",
+                "tourism": "chalet",
+                "website": "https://www.rifugio-galtuer.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2129015,
+                  46.9788119
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10826672276",
+                "osm_type": "node",
+                "lat": 46.9889532,
+                "lon": 10.2461224,
+                "name": "Chasa Altana",
+                "tourism": "chalet",
+                "website": "https://www.chasa-altana.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2461224,
+                  46.9889532
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10846528423",
+                "osm_type": "node",
+                "lat": 46.9722778,
+                "lon": 10.2009585,
+                "addr:city": "Galtür",
+                "addr:country": "AT",
+                "addr:housenumber": "95",
+                "addr:place": "Galtür",
+                "addr:postcode": "6563",
+                "at_bev:addr_date": "2022-10-01",
+                "contact:email": "info@ferienhaus-lenzi.at",
+                "contact:phone": "+43 699 194 64 123",
+                "contact:website": "https://ferienhaus-lenzi.at",
+                "internet_access": "wlan",
+                "name": "Ferienhaus Lenzi",
+                "tourism": "chalet",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2009585,
+                  46.9722778
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 10.484655499999999,
+        "north": 47.033758500000005,
+        "east": 11.438358999999998
+      },
+      "poiCount": 52,
+      "leafCount": 0,
+      "averagePosition": [
+        11.047427505769232,
+        46.865687869230776
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 10.484655499999999,
+            "north": 46.868481875,
+            "east": 10.961507249999999
+          },
+          "poiCount": 3,
+          "leafCount": 3,
+          "averagePosition": [
+            10.594669333333334,
+            46.78634423333333
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "404343311",
+                "osm_type": "node",
+                "lat": 46.8217017,
+                "lon": 10.5088441,
+                "aerialway": "station",
+                "aerialway:access": "both",
+                "aerialway:bicycle": "yes",
+                "aerialway:summer:access": "both",
+                "bicycle": "yes",
+                "name": "Bergbahn Schöneben - Cabinovia Belpiano",
+                "name:de": "Bergbahn Schöneben",
+                "name:it": "Cabinovia Belpiano",
+                "public_transport": "station",
+                "source": "https://www.venosta.net/it/passo-resia/vacanze-in-montagna/camminate-escursioni/impianti-di-risalita/10635603-cabinovia-belpiano.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5088441,
+                  46.8217017
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "404343316",
+                "osm_type": "node",
+                "lat": 46.804973,
+                "lon": 10.4917198,
+                "aerialway": "station",
+                "aerialway:access": "both",
+                "aerialway:bicycle": "yes",
+                "aerialway:summer:access": "both",
+                "bicycle": "yes",
+                "name": "Bergbahn Schöneben - Cabinovia Belpiano",
+                "name:de": "Bergbahn Schöneben",
+                "name:it": "Cabinovia Belpiano",
+                "public_transport": "station",
+                "source": "https://www.venosta.net/it/passo-resia/vacanze-in-montagna/camminate-escursioni/impianti-di-risalita/10635603-cabinovia-belpiano.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.4917198,
+                  46.804973
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1417316459",
+                "osm_type": "node",
+                "lat": 46.732358,
+                "lon": 10.7834441,
+                "description": "burned down",
+                "historic": "shelter",
+                "name": "Ehemalige Schutzhütte",
+                "ruins": "yes",
+                "shelter_type": "weather_shelter"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7834441,
+                  46.732358
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 10.961507249999999,
+            "north": 46.868481875,
+            "east": 11.438358999999998
+          },
+          "poiCount": 23,
+          "leafCount": 23,
+          "averagePosition": [
+            11.16728623478261,
+            46.78397305217391
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755886030",
+                "osm_type": "node",
+                "lat": 46.7571263,
+                "lon": 11.0287963,
+                "addr:city": "Moos in Passeier - Moso in Passiria",
+                "addr:city:de": "Moos in Passeier",
+                "addr:city:it": "Moso in Passiria",
+                "addr:country": "IT",
+                "addr:place": "Pfelders - Plan",
+                "addr:place:de": "Pfelders",
+                "addr:place:it": "Plan",
+                "addr:postcode": "39013",
+                "alt_name:de": "Eisjöchlhütte",
+                "breakfast": "buffet",
+                "capacity": "60",
+                "contact:email": "stettiner@13h.de",
+                "contact:mobile": "+39 347 8742805",
+                "contact:phone": "+39 0473 424244",
+                "ele": "2875",
+                "internet_access": "no",
+                "internet_access:fee": "yes",
+                "name": "Stettiner Hütte - Rifugio Petrarca",
+                "name:de": "Stettiner Hütte",
+                "name:it": "Rifugio Petrarca",
+                "opening_hours": "2024 Jul-Sep",
+                "operator": "Familie Fontana",
+                "source:date": "2024-04-01",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 75, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 75, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "https://www.stettinerhuette.com/",
+                "wikidata": "Q2346323",
+                "wikipedia": "de:Stettiner Hütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0287963,
+                  46.7571263
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4914350344",
+                "osm_type": "node",
+                "lat": 46.7244979,
+                "lon": 11.0210923,
+                "alt_name:it": "Refugio Lodnerhütte",
+                "beds": "34",
+                "capacity": "22",
+                "contact:email": "lodnerhuette.zieltal@gmail.com",
+                "contact:phone": "+39 0473 967 367",
+                "cuisine": "regional",
+                "ele": "2259",
+                "internet_access": "no",
+                "name": "Lodnerhütte - Rifugio Cima Fiammante",
+                "name:de": "Lodnerhütte",
+                "name:it": "Rifugio Cima Fiammante",
+                "opening_hours": "Jun-Oct",
+                "operator": "Familie Prant",
+                "outdoor_seating": "yes",
+                "phone:winter": "+39 0473 968 206",
+                "tourism": "alpine_hut",
+                "website": "http://www.lodnerhuette.com",
+                "wikidata": "Q1867772",
+                "wikipedia": "de:Lodnerhütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0210923,
+                  46.7244979
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1406215598",
+                "osm_type": "node",
+                "lat": 46.8457517,
+                "lon": 11.1901567,
+                "addr:city": "Moos in Passeier - Moso in Passiria",
+                "addr:hamlet": "Stuls - Stulles",
+                "addr:postcode": "39013",
+                "alt_name": "Stuller Mahder",
+                "contact:email": "info@hochalm-schutzhuette.com",
+                "contact:mobile": "+39 349 1590852",
+                "cuisine": "regional",
+                "description:de": "Telefonnummer in den Wintermonaten: +39 0473 231851",
+                "description:it": "Numero di telefono nei mesi invernali: +39 0473 231851",
+                "ele": "2174",
+                "name": "Schutzhütte Hochalm - Rifugio Hochalm",
+                "name:de": "Schutzhütte Hochalm",
+                "name:it": "Rifugio Hochalm",
+                "opening_hours": "2024 Jun-Oct",
+                "operator": "Fam. Gufler",
+                "outdoor_seating": "yes",
+                "rooms": "8",
+                "source:date": "2024-03-24",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 66, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 66, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "https://www.hochalm-schutzhuette.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1901567,
+                  46.8457517
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2380644326",
+                "osm_type": "node",
+                "lat": 46.7264094,
+                "lon": 11.1195251,
+                "capacity": "25",
+                "contact:email": "info@bockerhuette.com",
+                "contact:phone": "+39 0473 424030",
+                "ele": "1700",
+                "internet_access": "wlan",
+                "name": "Schutzhaus Bockerhütte",
+                "opening_hours": "2024 Apr 23-Nov 06",
+                "operator": "Edmund Schnitzer",
+                "rooms": "6",
+                "source:date": "2024-09-08",
+                "source:de": "Unterkunftsverzeichnis Dorf Tirol 2024, S. 89, schriftliche Erlaubnis des Tourismusvereins Dorf Tirol vom 2016-09-06  für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi di Tirolo 2024, pagina 89, autorizzazione in forma scritta dell’Associazione turistica Tirolo del 2016-09-06, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "https://www.bockerhuette.com/",
+                "wikidata": "Q14541090",
+                "wikipedia": "de:Bockerhütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1195251,
+                  46.7264094
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755885395",
+                "osm_type": "node",
+                "lat": 46.8197177,
+                "lon": 11.1366058,
+                "contact:email": "eva.assmann@web.de",
+                "contact:mobile": "+49 172 1401265",
+                "ele": "1400",
+                "name": "Altes Krustnerhaus",
+                "operator": "Fam. Assmann",
+                "source:date": "2024-03-24",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 67, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 67, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1366058,
+                  46.8197177
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755992112",
+                "osm_type": "node",
+                "lat": 46.8096407,
+                "lon": 11.2531591,
+                "apartment": "agritourism",
+                "contact:email": "info@schnitzers-ferienhaisl.com",
+                "contact:phone": "+39 340  0756205",
+                "name": "Schnitzer`s Ferienhaisl",
+                "operator": "Fam. Raffl",
+                "source:date": "2024-03-18",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 58, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 58, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.schnitzers-ferienhaisl.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2531591,
+                  46.8096407
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755992513",
+                "osm_type": "node",
+                "lat": 46.8246616,
+                "lon": 11.2762938,
+                "contact:email": "arnold.pixner@bb44.it",
+                "contact:mobile": "+39 338 4082790",
+                "name": "Ferienhaus in der Blaiche",
+                "operator": "Fam. Pixner",
+                "source:date": "2024-03-20",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 60, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 60, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "2",
+                "tourism": "chalet",
+                "website": "https://www.traum-ferienwohnungen.de/71486/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2762938,
+                  46.8246616
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2756003291",
+                "osm_type": "node",
+                "lat": 46.7914199,
+                "lon": 11.2113225,
+                "chalet": "agritourism",
+                "contact:email": "info@obertalerhof.it",
+                "contact:facebook": "https://www.facebook.com/Ferienhaus-in-S%C3%BCdtirol-851607811622978",
+                "contact:mobile": "+39 349 6818242",
+                "ele": "1157",
+                "name": "Obertalerhof",
+                "operator": "Familie Prünster",
+                "source:date": "2024-02-26",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 45, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 45, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://obertalerhof.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2113225,
+                  46.7914199
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2803780686",
+                "osm_type": "node",
+                "lat": 46.7129177,
+                "lon": 11.0857084,
+                "addr:city": "Partschins-Parcines",
+                "addr:country": "IT",
+                "addr:postcode": "39020",
+                "addr:street": "Vertigenstraße-Via Vertigen",
+                "alt_name:de": "Hochganghaus",
+                "beds": "40",
+                "capacity": "50",
+                "check_date": "2024-07-11",
+                "contact:email": "erlacher@hochganghaus.it",
+                "contact:fax": "+39 0473 449015",
+                "contact:mobile": "+39 333 7289152",
+                "contact:phone": "+39 0473 443310; +39 0473 449015",
+                "contact:website": "http://www.hochganghaus.it/",
+                "ele": "1839",
+                "name": "Schutzhaus Hochgang - Rifugio Casa del Valico",
+                "name:de": "Schutzhaus Hochgang",
+                "name:it": "Rifugio Casa del Valico",
+                "opening_hours": "Jun-Oct",
+                "operator": "Familie Wolf Erlacher",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1431901",
+                "wikipedia": "de:Hochganghaus"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0857084,
+                  46.7129177
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3464723255",
+                "osm_type": "node",
+                "lat": 46.7334954,
+                "lon": 11.0990369,
+                "capacity": "30",
+                "contact:email": "oberkaseralm@gmail.com",
+                "contact:mobile": "+39 348 3167715",
+                "contact:phone": "+39 0473 923814",
+                "ele": "2131",
+                "name": "Schutzhütte Oberkaseralm",
+                "name:de": "Schutzhütte Oberkaseralm",
+                "name:it": "Rifugio alpino Malga Oberkaser",
+                "note": "In der Saison kein Ruhetag!",
+                "opening_hours": "2024 Jun 01-Oct 30",
+                "operator": "Fam. Kathrin und Stephan Burger",
+                "outdoor_seating": "yes",
+                "phone": "+39 0473 420452",
+                "rooms": "4",
+                "source:date": "2024-09-08",
+                "source:de": "Unterkunftsverzeichnis Dorf Tirol 2024, S. 89, schriftliche Erlaubnis des Tourismusvereins Dorf Tirol vom 2016-09-06  für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi di Tirolo 2024, pagina 89, autorizzazione in forma scritta dell’Associazione turistica Tirolo del 2016-09-06, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "https://www.oberkaseralm.it"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0990369,
+                  46.7334954
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4301521375",
+                "osm_type": "node",
+                "lat": 46.867558,
+                "lon": 11.1538054,
+                "chalet": "agritourism",
+                "contact:email": "kurt.lanthaler@rolmail.net",
+                "contact:mobile": "+39 348 3975917",
+                "name": "Lanthalerhütte",
+                "source:date": "2024-03-28",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 67, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 67, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet",
+                "website": "https://www.huettenland.com/huette.php?obekt|=1021"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1538054,
+                  46.867558
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4763782196",
+                "osm_type": "node",
+                "lat": 46.7658428,
+                "lon": 11.2133433,
+                "contact:email": "info@ferienhausimstadl.it",
+                "contact:phone": "+39 0473 650064",
+                "name": "Im Stadl",
+                "number_of_chalets": "1",
+                "operator": "Fam. Haller",
+                "source:date": "2024-02-26",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 45, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 45, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://ferienhausimstadl.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2133433,
+                  46.7658428
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4778542622",
+                "osm_type": "node",
+                "lat": 46.8018068,
+                "lon": 11.0550354,
+                "alt_name": "Planfernerhütte",
+                "capacity": "60",
+                "contact:email": "zwickauer@13h.de",
+                "contact:mobile": "+39 392 5557662",
+                "contact:phone": "+39 0473 868188",
+                "description": "Zwickauer Hütte wusste zum Zeitpunkt des Katalogdruckes noch nicht, ob Pächter wieder hochgehen darf. Pächter ist weiterhin Herr Leitner",
+                "ele": "2989",
+                "name": "Zwickauer Hütte - Rifugio Plan",
+                "name:de": "Zwickauer Hütte",
+                "name:it": "Rifugio Plan",
+                "opening_hours": "2024 Jul-Sep",
+                "operator": "Heinz Leitner",
+                "source:date": "2024-04-01",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 75, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 75, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "zwickauer@13h.de",
+                "wikidata": "Q244540"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0550354,
+                  46.8018068
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6082450820",
+                "osm_type": "node",
+                "lat": 46.7279543,
+                "lon": 11.1951129,
+                "apartment": "agritourism",
+                "contact:email": "info@ebner-hof.it",
+                "contact:mobile": "+39 338 8250164",
+                "name": "Ebnerhof",
+                "operator": "Fam. Schmidhammer",
+                "source:date": "2024-02-17",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 38, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 38, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet",
+                "website": "https://www.ebner-hof.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1951129,
+                  46.7279543
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6087230828",
+                "osm_type": "node",
+                "lat": 46.8133613,
+                "lon": 11.2065055,
+                "chalet": "agritourism",
+                "contact:email": "hans.raich@bb44.it",
+                "contact:mobile": "+39 349 5907980",
+                "name": "Unterweger",
+                "operator": "Familie Raich",
+                "source:date": "2024-02-26",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 45, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 45, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet",
+                "website": "https://www.huettenland.com/huette.php?objektID=913"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2065055,
+                  46.8133613
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7259689550",
+                "osm_type": "node",
+                "lat": 46.7841916,
+                "lon": 11.0675193,
+                "contact:email": "gasthauslazins@gmail.com",
+                "contact:mobile": "+39 348 7729396",
+                "name": "Lazins",
+                "operator": "Fam. Pixner",
+                "source:date": "2024-04-01",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 76, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 76, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "2",
+                "tourism": "chalet",
+                "website": "https://www.lazinshof.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0675193,
+                  46.7841916
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10657692439",
+                "osm_type": "node",
+                "lat": 46.7049118,
+                "lon": 11.1665757,
+                "chalet": "agritourism",
+                "contact:email": "info@mutlechnerhof.it",
+                "contact:mobile": "+39 349 1865536",
+                "contact:phone": "+39 0473 241022",
+                "dog": "no",
+                "name": "Mutlechnerhof",
+                "number_of_chalets": "1",
+                "opening_hours": "2024 Jan-Dec",
+                "operator": "Fam. Gufler",
+                "source:date": "2024-02-13",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 28, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 28, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.mutlechnerhof.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1665757,
+                  46.7049118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10672198616",
+                "osm_type": "node",
+                "lat": 46.7336145,
+                "lon": 11.1995603,
+                "contact:email": "info@chalet-passeier.it",
+                "contact:mobile": "+39 342 3539710",
+                "name": "Chalet Passeier",
+                "operator": "Fam. Ramoser",
+                "source:date": "2024-02-17",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 38, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 38, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "2",
+                "tourism": "chalet",
+                "website": "https://www.chalet-passeier.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1995603,
+                  46.7336145
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10687785987",
+                "osm_type": "node",
+                "lat": 46.777691,
+                "lon": 11.234123,
+                "contact:email": "info@bergchaletprantach.it",
+                "contact:mobile": "+39 327 0521717",
+                "name": "Prantach",
+                "operator": "Familie Pircher",
+                "source:date": "2024-02-26",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 45, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 45, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "2",
+                "tourism": "chalet",
+                "website": "https://www.bergchaletprantach.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.234123,
+                  46.777691
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10698831263",
+                "osm_type": "node",
+                "lat": 46.8215197,
+                "lon": 11.23432,
+                "chalet": "agritourism",
+                "contact:email": "info@bergchalet-heidipeter.com",
+                "contact:mobile": "+39 348 8734233",
+                "name": "Bergchalet Heidi & Peter",
+                "operator": "Fam. Hofer",
+                "source:date": "2024-03-18",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 58, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 58, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet",
+                "website": "https://www.bergchalet-heidipeter.com/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.23432,
+                  46.8215197
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10699390577",
+                "osm_type": "node",
+                "lat": 46.8398155,
+                "lon": 11.2851905,
+                "contact:email": "info@flecknerhuette.bz.it",
+                "contact:mobile": "+39 340 3805160",
+                "ele": "2100",
+                "name": "Flecknerhütte - Baita Fleckner",
+                "name:de": "Flecknerhütte",
+                "name:it": "Baita Fleckner",
+                "operator": "Roland Pixner",
+                "source:date": "2024-03-20",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 60, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 60, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "website": "https://www.flecknerhuette.bz.it/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2851905,
+                  46.8398155
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10725420210",
+                "osm_type": "node",
+                "lat": 46.8159275,
+                "lon": 11.2008115,
+                "contact:phone": "+39 0473 641027",
+                "name": "Engele",
+                "source:date": "2024-02-27",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 77, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 77, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2008115,
+                  46.8159275
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11769176040",
+                "osm_type": "node",
+                "lat": 46.8315471,
+                "lon": 11.2139837,
+                "chalet": "agritourism",
+                "contact:email": "hans.raich@bb44.it",
+                "contact:mobile": "+39 349 5907980",
+                "name": "Unterweger Stuls",
+                "operator": "Fam. Raich",
+                "source:date": "2024-03-28",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 67, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 67, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "3",
+                "tourism": "chalet",
+                "website": "https://www.huettenland.com/huette.php?objekt|=1322"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2139837,
+                  46.8315471
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 10.484655499999999,
+            "north": 47.033758500000005,
+            "east": 10.961507249999999
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            10.71844839,
+            46.95519292
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2376765638",
+                "osm_type": "node",
+                "lat": 46.8877988,
+                "lon": 10.5037958,
+                "addr:city": "Nauders",
+                "addr:country": "AT",
+                "addr:housenumber": "424",
+                "addr:place": "Nauders",
+                "addr:postcode": "6543",
+                "at_bev:addr_date": "2017-10-01",
+                "check_date": "2025-08-21",
+                "contact:email": "info@bellevue-nauders.at",
+                "contact:mobile": "+43 664 88678081",
+                "contact:phone": "+43 5473 87794",
+                "contact:website": "http://www.bellevue-nauders.at/",
+                "name": "Bellevue",
+                "operator": "Familie Albert",
+                "tourism": "chalet",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5037958,
+                  46.8877988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "512618893",
+                "osm_type": "node",
+                "lat": 47.0112221,
+                "lon": 10.6988204,
+                "ele": "2261",
+                "name": "Anton-Renk-Hütte",
+                "note": "Selbstversorger",
+                "operator": "DAV Sektion Aachen",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1253367",
+                "wikipedia": "de:Anton-Renk-Hütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6988204,
+                  47.0112221
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "512622097",
+                "osm_type": "node",
+                "lat": 46.9020017,
+                "lon": 10.6347837,
+                "contact:email": "info@hohenzollernhaus.at",
+                "contact:phone": "+43 664 531 1915",
+                "contact:website": "https://www.hohenzollernhaus.at/",
+                "ele": "2123",
+                "name": "Hohenzollernhaus",
+                "operator": "DAV Sektion Hohenzollern",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1408189",
+                "wikipedia": "de:Hohenzollernhaus"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6347837,
+                  46.9020017
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "755780513",
+                "osm_type": "node",
+                "lat": 47.0152919,
+                "lon": 10.6794352,
+                "ele": "1880",
+                "name": "Stalanzer Alm",
+                "source:ele": "Tiris: contour lines",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6794352,
+                  47.0152919
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1103447018",
+                "osm_type": "node",
+                "lat": 46.8962833,
+                "lon": 10.7350495,
+                "ele": "1903",
+                "name": "Gepatsch Alm",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7350495,
+                  46.8962833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1932329012",
+                "osm_type": "node",
+                "lat": 46.9685913,
+                "lon": 10.6459729,
+                "ele": "2180",
+                "name": "Platzeralm",
+                "source:ele": "Tiris: contour lines",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6459729,
+                  46.9685913
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1943456368",
+                "osm_type": "node",
+                "lat": 47.0109404,
+                "lon": 10.6993917,
+                "ele": "2260",
+                "source:ele": "Tiris: contour lines",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6993917,
+                  47.0109404
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2150565802",
+                "osm_type": "node",
+                "lat": 47.0327018,
+                "lon": 10.9490318,
+                "addr:city": "Längenfeld",
+                "addr:country": "AT",
+                "addr:housenumber": "242",
+                "addr:postcode": "6444",
+                "addr:street": "Huben",
+                "ele": "1840",
+                "name": "Polltalalm",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9490318,
+                  47.0327018
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10925991106",
+                "osm_type": "node",
+                "lat": 46.9571021,
+                "lon": 10.8751151,
+                "addr:city": "St Leonhard/Pitztal",
+                "addr:country": "AT",
+                "addr:housenumber": "83",
+                "addr:postcode": "6481",
+                "addr:street": "Mittelberg",
+                "name": "Hotel Wanderlux Pure Resort",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8751151,
+                  46.9571021
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "250068427",
+                "osm_type": "node",
+                "lat": 46.8699958,
+                "lon": 10.7630878,
+                "addr:city": "Kaunertal",
+                "addr:country": "AT",
+                "addr:housenumber": "253",
+                "addr:place": "Kaunertal",
+                "addr:postcode": "6524",
+                "at_bev:addr_date": "2017-10-01",
+                "check_date": "2024-08-17",
+                "contact:phone": "+43 664 206 7006",
+                "ele": "2731",
+                "email": "info@rauhekopfhuette.at",
+                "name": "Rauhekopfhütte",
+                "operator": "Alpenverein Frankfurt am Main",
+                "tourism": "alpine_hut",
+                "website": "https://www.rauhekopfhuette.at/",
+                "wikidata": "Q2133181",
+                "wikipedia": "de:Rauhekopfhütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7630878,
+                  46.8699958
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 10.961507249999999,
+            "north": 47.033758500000005,
+            "east": 11.438358999999998
+          },
+          "poiCount": 16,
+          "leafCount": 16,
+          "averagePosition": [
+            11.165634687499999,
+            46.94208919375
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2627557480",
+                "osm_type": "node",
+                "lat": 46.9627305,
+                "lon": 11.0022899,
+                "addr:city": "Sölden",
+                "addr:country": "AT",
+                "addr:housenumber": "47a",
+                "addr:postcode": "6450",
+                "addr:street": "Innerwaldstraße",
+                "at_bev:addr_date": "2017-10-01",
+                "name": "Am Trogwohl",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0022899,
+                  46.9627305
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4408840148",
+                "osm_type": "node",
+                "lat": 46.9647942,
+                "lon": 11.0078452,
+                "addr:city": "Sölden",
+                "addr:country": "AT",
+                "addr:housenumber": "65",
+                "addr:postcode": "6450",
+                "addr:street": "Dorfstraße",
+                "email": "info@austria-soelden.at",
+                "fax": "+43 (0) 5254 2417 7",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Ferienhaus & Landhaus Austria",
+                "operator": "Fam. Arnold",
+                "phone": "+43 (0) 5254 2417",
+                "smoking": "no",
+                "tourism": "chalet",
+                "website": "https://www.austria-soelden.at"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0078452,
+                  46.9647942
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10266019042",
+                "osm_type": "node",
+                "lat": 46.9851977,
+                "lon": 11.0138553,
+                "name": "Gästehaus Sternberger",
+                "phone": "+49 1573 598 1863",
+                "tourism": "chalet",
+                "website": "https://gastehaus-sternberger-solden.hotel-mix.de/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0138553,
+                  46.9851977
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10266034627",
+                "osm_type": "node",
+                "lat": 46.9781546,
+                "lon": 11.0118074,
+                "name": "Landhaus Grüner",
+                "phone": "+43 5254 2104",
+                "tourism": "chalet",
+                "website": "https://www.landhaus-gruener.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0118074,
+                  46.9781546
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10266034628",
+                "osm_type": "node",
+                "lat": 46.9780314,
+                "lon": 11.0120512,
+                "name": "Chalet Sölden",
+                "phone": "+43 5254 30 700",
+                "tourism": "chalet",
+                "website": "https://www.chalet-soelden.tirol/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0120512,
+                  46.9780314
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12269125154",
+                "osm_type": "node",
+                "lat": 46.9811478,
+                "lon": 11.0003733,
+                "name": "Leni Mountainchalet",
+                "tourism": "chalet",
+                "website": "https://www.lenimountainchalet.com"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0003733,
+                  46.9811478
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "539660905",
+                "osm_type": "node",
+                "lat": 46.9826622,
+                "lon": 11.4067339,
+                "addr:city": "Obernberg am Brenner",
+                "addr:country": "AT",
+                "addr:housenumber": "88",
+                "addr:place": "Obernbergersee",
+                "addr:postcode": "6157",
+                "alt_name": "Steineralm",
+                "ele": "1735",
+                "name": "Steiner Alm",
+                "shower": "no",
+                "tourism": "alpine_hut",
+                "wikidata": "Q121157545",
+                "wikipedia": "de:Steineralm (Obernberg am Brenner)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4067339,
+                  46.9826622
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1324641340",
+                "osm_type": "node",
+                "lat": 46.8969042,
+                "lon": 11.4271876,
+                "amenity": "place_of_worship",
+                "denomination": "roman_catholic",
+                "name": "Maria Schutz - Oratorio Maria Schutz",
+                "name:de": "Maria Schutz",
+                "name:it": "Oratorio Maria Schutz",
+                "religion": "christian"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4271876,
+                  46.8969042
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1639183811",
+                "osm_type": "node",
+                "lat": 47.0193381,
+                "lon": 11.403424,
+                "ele": "1720",
+                "name": "Kastnerbergalm",
+                "source:ele": "Tiris: contour lines",
+                "tourism": "alpine_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.403424,
+                  47.0193381
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2755885861",
+                "osm_type": "node",
+                "lat": 46.8990172,
+                "lon": 11.1814468,
+                "breakfast": "buffet",
+                "capacity": "68",
+                "contact:email": "schutzhuette@schneeberg.org",
+                "contact:mobile": "+39 371 1909841",
+                "ele": "2355",
+                "internet_access": "wlan",
+                "name": "Schutzhütte Schneeberg - Rifugio Monteneve",
+                "name:de": "Schutzhütte Schneeberg",
+                "name:it": "Rifugio Monteneve",
+                "opening_hours": "2024 Jun-Oct",
+                "operator": "Fam. Alexander Gasser",
+                "rooms": "6",
+                "source:date": "2024-03-24",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 66, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 66, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "tourism": "alpine_hut",
+                "url": "https://www.suedtirolerland.it/it/sport-e-tempo-libero/montagne-ed-escursioni/escursioni-in-val-passiria/a-s-martino-di-monteneve/",
+                "website": "https://www.schneeberg.org/",
+                "wikidata": "Q2247231",
+                "wikipedia": "de:Schneeberghütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1814468,
+                  46.8990172
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2993487641",
+                "osm_type": "node",
+                "lat": 46.874237,
+                "lon": 11.3596683,
+                "name": "Moserhof",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3596683,
+                  46.874237
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3643611422",
+                "osm_type": "node",
+                "lat": 46.8736007,
+                "lon": 11.0320126,
+                "addr:city": "Sölden",
+                "addr:country": "AT",
+                "addr:housenumber": "117",
+                "addr:postcode": "6456",
+                "addr:street": "Gurglerstraße",
+                "addr:suburb": "Obergurgl",
+                "name": "Chalet Christophorus",
+                "tourism": "chalet"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0320126,
+                  46.8736007
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4809608699",
+                "osm_type": "node",
+                "lat": 46.9554668,
+                "lon": 11.2274585,
+                "ele": "2586",
+                "name": "Teplitzerhütte - Rifugio Vedretta Pendente",
+                "name:de": "Teplitzerhütte",
+                "name:it": "Rifugio Vedretta Pendente",
+                "opening_hours": "Jul 01-Sep 30",
+                "phone": "+39 338 1358371",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1393881",
+                "wikipedia": "de:Teplitzer Hütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2274585,
+                  46.9554668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4809620765",
+                "osm_type": "node",
+                "lat": 46.9517195,
+                "lon": 11.2314965,
+                "beds": "10",
+                "ele": "2254",
+                "name": "Grohmannhütte - Rifugio Vedretta Piana",
+                "name:de": "Grohmannhütte",
+                "name:it": "Rifugio Vedretta Piana",
+                "opening_hours": "Jun-Oct",
+                "source": "bing",
+                "tourism": "alpine_hut",
+                "wikidata": "Q1473415",
+                "wikimedia_commons": "Category:Grohmannhütte",
+                "wikipedia": "de:Grohmannhütte"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2314965,
+                  46.9517195
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8735866880",
+                "osm_type": "node",
+                "lat": 46.8996983,
+                "lon": 11.1822823,
+                "name": "Winterraum",
+                "name:de": "Winterraum",
+                "tourism": "wilderness_hut"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1822823,
+                  46.8996983
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8234982751",
+                "osm_type": "node",
+                "lat": 46.8707269,
+                "lon": 11.1502222,
+                "chalet": "agritourism",
+                "contact:email": "guflerjosef@gmail.it",
+                "contact:mobile": "+39 348 3100577",
+                "name": "Gufler Hütte",
+                "operator": "Fam. Gufler",
+                "source:date": "2024-03-28",
+                "source:de": "Unterkunftsverzeichnis Passeiertal  2024, S. 67 schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+                "source:it": "Elenco degli alloggi della Val Passiria 2024, pagina 67, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+                "stars": "2",
+                "tourism": "chalet",
+                "website": "https://www.huettenland.com/huette.php?objekt|D=1022"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1502222,
+                  46.8707269
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

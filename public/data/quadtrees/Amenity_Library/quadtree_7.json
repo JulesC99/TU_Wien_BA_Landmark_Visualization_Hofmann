@@ -1,0 +1,3022 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 116,
+  "leafCount": 0,
+  "averagePosition": [
+    15.785983137931035,
+    47.20842717672414
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 15.253173,
+        "north": 47.36431175,
+        "east": 16.2068765
+      },
+      "poiCount": 77,
+      "leafCount": 0,
+      "averagePosition": [
+        15.506945425974026,
+        47.10594437922077
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.253173,
+            "north": 47.199035125,
+            "east": 15.73002475
+          },
+          "poiCount": 63,
+          "leafCount": 0,
+          "averagePosition": [
+            15.458080126984127,
+            47.0796335015873
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 47.033758500000005,
+                "west": 15.253173,
+                "north": 47.1163968125,
+                "east": 15.491598875000001
+              },
+              "poiCount": 55,
+              "leafCount": 0,
+              "averagePosition": [
+                15.43675282,
+                47.07364529272727
+              ],
+              "data": [],
+              "children": [
+                {
+                  "bbox": {
+                    "south": 47.033758500000005,
+                    "west": 15.253173,
+                    "north": 47.07507765625,
+                    "east": 15.3723859375
+                  },
+                  "poiCount": 1,
+                  "leafCount": 1,
+                  "averagePosition": [
+                    15.3013975,
+                    47.0348376
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "2203233508",
+                        "osm_type": "node",
+                        "lat": 47.0348376,
+                        "lon": 15.3013975,
+                        "amenity": "library"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.3013975,
+                          47.0348376
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "bbox": {
+                    "south": 47.033758500000005,
+                    "west": 15.3723859375,
+                    "north": 47.07507765625,
+                    "east": 15.491598875000001
+                  },
+                  "poiCount": 30,
+                  "leafCount": 30,
+                  "averagePosition": [
+                    15.43962467,
+                    47.06643012999999
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "274089119",
+                        "osm_type": "node",
+                        "lat": 47.0677885,
+                        "lon": 15.4500277,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "4",
+                        "addr:postcode": "8010",
+                        "addr:street": "Technikerstraße",
+                        "air_conditioning": "yes",
+                        "alt_name": "Universitätsbibliothek TU",
+                        "amenity": "library",
+                        "check_date:opening_hours": "2022-07-16",
+                        "contact:email": "service.bibliothek@tugraz.at",
+                        "contact:phone": "+43 316 873 6176",
+                        "internet_access": "wlan",
+                        "level": "3",
+                        "name": "Hauptbibliothek",
+                        "opening_hours": "Mo-Fr 08:00-21:00",
+                        "operator": "Technische Universität Graz",
+                        "ref:isil": "AT-UBTUG-HB",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "website": "https://www.tugraz.at/tu-graz/universitaet/bibliothek-der-tu-graz/bibliothek-der-tu-graz/",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4500277,
+                          47.0677885
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "359589988",
+                        "osm_type": "node",
+                        "lat": 47.0698331,
+                        "lon": 15.431524,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8020",
+                        "addr:street": "Belgiergasse",
+                        "alt_name": "Stadtbibliothek",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "internet_access:fee": "no",
+                        "name": "Hauptbibliothek Zanklhof",
+                        "note": "Internetzugang mit 1GBit/s an stationären Rechnern oder per WLAN mit eigenen Geräten",
+                        "opening_hours": "Mo-Th 10:00-17:00; Tu 10:00-19:00; Fr 08:00-15:00",
+                        "phone": "+43 316 872 4970",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "barrierefreies WC vorhanden im 1.OG",
+                        "wikidata": "Q1669131"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.431524,
+                          47.0698331
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1148917266",
+                        "osm_type": "node",
+                        "lat": 47.0698966,
+                        "lon": 15.4072346,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:full": "Eggenberger Allee 13a, 8020 Graz",
+                        "addr:housenumber": "13a",
+                        "addr:postcode": "8020",
+                        "addr:street": "Eggenberger Allee",
+                        "amenity": "library",
+                        "check_date:opening_hours": "2023-05-11",
+                        "designation": "Bibliothek",
+                        "email": "stadtbibliothek.eggenberg@stadt.graz.at",
+                        "name": "Stadtbibliothek Graz West",
+                        "opening_hours": "Mo,Fr 08:00-14:00; Tu,Th 11:00-17:00; We 11:00-19:00",
+                        "phone": "+43 316 872 7950",
+                        "source": "local_knowledge, HP",
+                        "website": "https://stadtbibliothek.graz.at/index.asp?ref-type=z05",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Barrierefreies WC vorhanden",
+                        "wikidata": "Q55467967"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4072346,
+                          47.0698966
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1148920830",
+                        "osm_type": "node",
+                        "lat": 47.0456722,
+                        "lon": 15.4324008,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "21",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lauzilgasse",
+                        "amenity": "library",
+                        "check_date:opening_hours": "2023-07-02",
+                        "contact:email": "stadtbibliothek.lauzilgasse@stadt.graz.at",
+                        "internet_access": "terminal",
+                        "name": "Stadtbibliothek Graz Süd",
+                        "opening_hours": "Mo,Fr 08:00-14:00; Tu,We 11:00-17:00; Th 11:00-19:00",
+                        "phone": "+43 316 872 7970",
+                        "source": "survey",
+                        "website": "https://stadtbibliothek.graz.at/index.asp?ref-type=z07",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Barrierefreies WC vorhanden",
+                        "wikidata": "Q55467963"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4324008,
+                          47.0456722
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1148936838",
+                        "osm_type": "node",
+                        "lat": 47.0693585,
+                        "lon": 15.4588167,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "53",
+                        "addr:postcode": "8010",
+                        "addr:street": "Schillerstraße",
+                        "amenity": "library",
+                        "check_date:opening_hours": "2024-01-03",
+                        "internet_access": "wlan",
+                        "name": "Stadtbibliothek Graz Ost",
+                        "opening_hours": "Mo,Fr 08:00-14:00; Tu,Th 11:00-17:00; We 11:00-19:00",
+                        "phone": "+43316 872 7980",
+                        "website": "https://stadtbibliothek.graz.at/index.asp?ref-type=z06",
+                        "wheelchair": "yes",
+                        "wheelchair:description": "Barrierefreies WC vorhanden",
+                        "wikidata": "Q55467972"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4588167,
+                          47.0693585
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1600939933",
+                        "osm_type": "node",
+                        "lat": 47.0587237,
+                        "lon": 15.4599935,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "10",
+                        "addr:postcode": "8010",
+                        "addr:street": "Inffeldgasse",
+                        "amenity": "library",
+                        "email": "fbinff.bibliothek@tugraz.at",
+                        "fee": "no",
+                        "name": "Fachbibliothek Inffeld",
+                        "opening_hours": "Jul-Sep: Mo-Fr 08:30-12:30; Oct-Jun: Mo-Th 08:30-16:30; Fr 08:30-12:30",
+                        "phone": "+43 316 873 4165",
+                        "url": "http://www.ub.tugraz.at/fachbibliotheken.html",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4599935,
+                          47.0587237
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824597975",
+                        "osm_type": "node",
+                        "lat": 47.067444,
+                        "lon": 15.4411861,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Joanneumring",
+                        "amenity": "library",
+                        "name": "Bibliothek Frauengesundheitszentrum",
+                        "opening_hours": "Mo-We,Fr 09:00-13:00; Th 15:00-19:00",
+                        "phone": "+43 316 837998",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4411861,
+                          47.067444
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824597982",
+                        "osm_type": "node",
+                        "lat": 47.0718818,
+                        "lon": 15.4417062,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8010",
+                        "addr:street": "Bürgergasse",
+                        "amenity": "library",
+                        "denomination": "roman_catholic",
+                        "name": "Bibliothek des Priesterseminars",
+                        "phone": "+43 316 8042 0",
+                        "religion": "christian",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4417062,
+                          47.0718818
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598029",
+                        "osm_type": "node",
+                        "lat": 47.0743764,
+                        "lon": 15.4406932,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8010",
+                        "addr:street": "Karmeliterplatz",
+                        "alt_name": "Ludothek",
+                        "amenity": "library",
+                        "description": "Brettspielbibliothek und -verleih",
+                        "email": "office@ludovico.at",
+                        "fax": "+43 316 90 370 256",
+                        "level": "0",
+                        "name": "Ludovico",
+                        "opening_hours": "Mo-Fr 15:00-19:00; Tu 10:00-13:00,15:00-19:00; Sa 10:00-14:00",
+                        "operator": "Ludovico - Verein zur Förderung der Spielkultur, des Spielens und der Spielpädagogik",
+                        "phone": "+43 316 90 370 251",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "website": "https://www.ludovico.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4406932,
+                          47.0743764
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598050",
+                        "osm_type": "node",
+                        "lat": 47.068357,
+                        "lon": 15.4385104,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8010",
+                        "addr:street": "Kalchberggasse",
+                        "amenity": "library",
+                        "contact:email": "landesbibliothek@ stmk.gv.at",
+                        "contact:phone": "+43 316 877 4600",
+                        "name": "Steiermärkische Landesbibliothek",
+                        "opening_hours": "Mo-Fr 09:00-17:00; Jul-Aug Mo-Fr 09:00-13:00",
+                        "ref:isil": "AT-LBST",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "website": "https://www.landesbibliothek.steiermark.at/",
+                        "wheelchair": "limited",
+                        "wikidata": "Q114732"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4385104,
+                          47.068357
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598060",
+                        "osm_type": "node",
+                        "lat": 47.0727676,
+                        "lon": 15.4391554,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "23",
+                        "addr:postcode": "8010",
+                        "addr:street": "Sporgasse",
+                        "amenity": "library",
+                        "name": "Steirisches Volksliedwerk",
+                        "phone": "+43 316 908635 52",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4391554,
+                          47.0727676
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598072",
+                        "osm_type": "node",
+                        "lat": 47.0706963,
+                        "lon": 15.4573608,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "70",
+                        "addr:postcode": "8010",
+                        "addr:street": "Merangasse",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Uni-Fachbibliothek",
+                        "operator": "Universität Graz",
+                        "phone": "+43 316 380 3621"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4573608,
+                          47.0706963
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031379",
+                        "osm_type": "node",
+                        "lat": 47.0747008,
+                        "lon": 15.4514907,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "30",
+                        "addr:postcode": "8010",
+                        "addr:street": "Elisabethstraße",
+                        "amenity": "library",
+                        "name": "Franz-Nabl-Institut für Literaturforschung",
+                        "phone": "+43 316 380 8360",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4514907,
+                          47.0747008
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031380",
+                        "osm_type": "node",
+                        "lat": 47.0601164,
+                        "lon": 15.455418,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "37",
+                        "addr:postcode": "8010",
+                        "addr:street": "Moserhofgasse",
+                        "amenity": "library",
+                        "name": "Haus der Baubiologie - Fachbibliothek",
+                        "phone": "+43 316 475363",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.455418,
+                          47.0601164
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031381",
+                        "osm_type": "node",
+                        "lat": 47.0724687,
+                        "lon": 15.4332484,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8020",
+                        "addr:street": "Mariahilferplatz",
+                        "amenity": "library",
+                        "name": "Hörbibliothek Mariahilf",
+                        "opening_hours": "We 14:00-18:30; Fr 08:00-11:00; Su 10:00-11:00",
+                        "phone": "+43 316 713169 40",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wheelchair": "no",
+                        "wikidata": "Q1330200"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4332484,
+                          47.0724687
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031382",
+                        "osm_type": "node",
+                        "lat": 47.0693975,
+                        "lon": 15.428478,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8020",
+                        "addr:street": "Dreihackengasse",
+                        "amenity": "library",
+                        "designation": "I.S.O.P. - Innovative Sozialprojekte",
+                        "name": "Interkulturelle Fachbibliothek ISOP",
+                        "phone": "+43 316 764646 18",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.428478,
+                          47.0693975
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031383",
+                        "osm_type": "node",
+                        "lat": 47.0724491,
+                        "lon": 15.4368771,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8010",
+                        "addr:street": "Sackstraße",
+                        "amenity": "library",
+                        "name": "Neue Galerie Zeitschriftensammlung",
+                        "phone": "+43 316 829155 9313",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4368771,
+                          47.0724491
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "2565961462",
+                        "osm_type": "node",
+                        "lat": 47.0707579,
+                        "lon": 15.4337134,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8020",
+                        "addr:street": "Griesgasse",
+                        "amenity": "library",
+                        "check_date": "2023-04-17",
+                        "club": "religion",
+                        "contact:phone": "+43 699 12151291",
+                        "description": "Buddhistisches Zentrum",
+                        "level": "1",
+                        "name": "She Drup Ling",
+                        "office": "club",
+                        "official_name": "She Drup Ling Graz",
+                        "opening_hours": "Sep 09-Jul 07 Th 13:00-16:00; Sep 09-Jul 07 Fr 10:00-12:00; Jul 08-Sep 08 Th 16:00-18:00",
+                        "operator": "Verein zur Förderung Buddhistischer Werte",
+                        "religion": "buddhist",
+                        "shop": "religion",
+                        "source": "survey",
+                        "sport": "yoga",
+                        "website": "https://www.shedrupling.at/",
+                        "wheelchair": "no"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4337134,
+                          47.0707579
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3096409280",
+                        "osm_type": "node",
+                        "lat": 47.0369744,
+                        "lon": 15.4190726,
+                        "amenity": "library",
+                        "name": "Patientenbibliothek",
+                        "ref": "14",
+                        "source": "survey"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4190726,
+                          47.0369744
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3958179661",
+                        "osm_type": "node",
+                        "lat": 47.070866,
+                        "lon": 15.4301112,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "13",
+                        "addr:street": "Annenstraße",
+                        "amenity": "library",
+                        "name": "Sektion Graz Alpenvereinsbücherei"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4301112,
+                          47.070866
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4078326392",
+                        "osm_type": "node",
+                        "lat": 47.0517879,
+                        "lon": 15.4221378,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "27",
+                        "addr:postcode": "8020",
+                        "addr:street": "Payer-Weyprecht-Straße",
+                        "amenity": "library",
+                        "building": "yes",
+                        "name": "Bibliothek kunstGarten",
+                        "operator": "Verein kunstGarten",
+                        "phone": "+43 316 262787",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4221378,
+                          47.0517879
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4635104143",
+                        "osm_type": "node",
+                        "lat": 47.0721988,
+                        "lon": 15.4522052,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "30",
+                        "addr:postcode": "8010",
+                        "addr:street": "Leonhardstraße",
+                        "amenity": "library",
+                        "description": "ARCA - Biblioteca italiana"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4522052,
+                          47.0721988
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4635104144",
+                        "osm_type": "node",
+                        "lat": 47.0464554,
+                        "lon": 15.4511275,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8041",
+                        "addr:street": "Anton-Lippe-Platz",
+                        "amenity": "library",
+                        "description": "Öffentliche Bibliothek und Mediathek der Pfarre Graz Süd"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4511275,
+                          47.0464554
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "5215989826",
+                        "osm_type": "node",
+                        "lat": 47.0745162,
+                        "lon": 15.4514999,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "30",
+                        "addr:postcode": "8010",
+                        "addr:street": "Elisabethstraße",
+                        "amenity": "library",
+                        "contact:phone": "+43 316 835 074",
+                        "name": "ÖKA-Österreichisches Kabarettarchiv",
+                        "website": "https://www.kabarettarchiv.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4514999,
+                          47.0745162
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "6975145567",
+                        "osm_type": "node",
+                        "lat": 47.0650578,
+                        "lon": 15.4522749,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8010",
+                        "addr:street": "Stremayrgasse",
+                        "amenity": "library",
+                        "building": "yes",
+                        "building:levels": "6",
+                        "contact:email": "fbnawi.bibliothek@tugraz.at",
+                        "contact:phone": "+43 316 873 6167",
+                        "contact:website": "http://ub.tugraz.at/fachbibliotheken.html",
+                        "internet_access": "wlan",
+                        "name": "Fachbibliothek Geodäsie und Mathematik",
+                        "opening_hours": "Oct-Jun: Mo-Th 08:30-17:00; Fr 08:30-12:30; Jul-Sep: Mo-Fr 08:30-12:30",
+                        "operator": "Technische Universität Graz",
+                        "ref:isil": "AT-UBTUG-FBGM",
+                        "wheelchair": "limited"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4522749,
+                          47.0650578
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "6975145568",
+                        "osm_type": "node",
+                        "lat": 47.0651305,
+                        "lon": 15.4523071,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8010",
+                        "addr:street": "Stremayrgasse",
+                        "amenity": "library",
+                        "building": "yes",
+                        "building:levels": "6",
+                        "contact:email": "fbnawi.bibliothek@tugraz.at",
+                        "contact:phone": "+43 316 873 6167",
+                        "contact:website": "http://ub.tugraz.at/fachbibliotheken.html",
+                        "internet_access": "wlan",
+                        "name": "Fachbibliothek Chemie",
+                        "opening_hours": "Oct-Jun: Mo-Th 08:30-17:00; Fr 08:30-12:30; Jul-Sep: Mo-Fr 08:30-12:30",
+                        "operator": "Technische Universität Graz",
+                        "ref:isil": "AT-UBTUG-FBCH1",
+                        "wheelchair": "limited"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4523071,
+                          47.0651305
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "9053461347",
+                        "osm_type": "node",
+                        "lat": 47.0720992,
+                        "lon": 15.4276774,
+                        "amenity": "library",
+                        "name": "KATIB Farsi Bibliothek",
+                        "opening_hours": "Mo,Fr 17:00-19:00"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4276774,
+                          47.0720992
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "9105410503",
+                        "osm_type": "node",
+                        "lat": 47.0685126,
+                        "lon": 15.4379402,
+                        "addr:city": "Graz",
+                        "addr:floor": "2-3",
+                        "addr:housenumber": "1",
+                        "addr:postcode": "8010",
+                        "addr:street": "Joanneumsviertel",
+                        "amenity": "library",
+                        "check_date": "2023-11-19",
+                        "contact:phone": "+43-316/8017-9100",
+                        "internet_access": "yes",
+                        "name": "Neue Galerie Graz",
+                        "opening_hours:covid19": "Voranmeldung",
+                        "operator": "Universalmuseum Joanneum GmbH",
+                        "operator:type": "public",
+                        "toilets:wheelchair": "yes",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4379402,
+                          47.0685126
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "10211976717",
+                        "osm_type": "node",
+                        "lat": 47.0694252,
+                        "lon": 15.4061766,
+                        "amenity": "library",
+                        "name": "FH JOANNEUM Library",
+                        "website": "https://www.fh-joanneum.at/hochschule/services/bibliothek/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4061766,
+                          47.0694252
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "11164837605",
+                        "osm_type": "node",
+                        "lat": 47.0731938,
+                        "lon": 15.4483747,
+                        "addr:postcode": "8010",
+                        "amenity": "library",
+                        "email": "universitaetsarchiv@kug.ac.at",
+                        "internet_access": "wlan",
+                        "name": "Universitätsarchiv der Kunstuniversität Graz",
+                        "name:en": "University Archive of the University of Music and Performing Arts Graz",
+                        "operator": "Kunstuniversität Graz",
+                        "phone": "+433163891175;+433163891173",
+                        "website": "https://archiv.kug.ac.at/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4483747,
+                          47.0731938
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "bbox": {
+                    "south": 47.07507765625,
+                    "west": 15.253173,
+                    "north": 47.1163968125,
+                    "east": 15.3723859375
+                  },
+                  "poiCount": 1,
+                  "leafCount": 1,
+                  "averagePosition": [
+                    15.3366836,
+                    47.1123873
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4635115570",
+                        "osm_type": "node",
+                        "lat": 47.1123873,
+                        "lon": 15.3366836,
+                        "addr:city": "Straßengel",
+                        "addr:country": "AT",
+                        "addr:housename": "Alte Gemeinde",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8111",
+                        "addr:street": "Grazer Straße",
+                        "amenity": "library",
+                        "description": "Gemeindebücherei Ortsteil Judendorf-Straßengel"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.3366836,
+                          47.1123873
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "bbox": {
+                    "south": 47.07507765625,
+                    "west": 15.3723859375,
+                    "north": 47.1163968125,
+                    "east": 15.491598875000001
+                  },
+                  "poiCount": 23,
+                  "leafCount": 23,
+                  "averagePosition": [
+                    15.443242778260869,
+                    47.083059230434785
+                  ],
+                  "data": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "269444694",
+                        "osm_type": "node",
+                        "lat": 47.1026581,
+                        "lon": 15.4213378,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "54",
+                        "addr:postcode": "8045",
+                        "addr:street": "Grazer Straße",
+                        "amenity": "library",
+                        "check_date": "2025-02-13",
+                        "contact:email": "stadtbibliothek.andritz@stadt.graz.at",
+                        "contact:name": "Marina Schmied",
+                        "name": "Stadtbibliothek Andritz",
+                        "opening_hours": "Mo,Fr 08:00-14:00; Tu-Th 11:00-17:00",
+                        "operator:type": "public",
+                        "phone": "+43 316 692175",
+                        "source": "survey",
+                        "website": "https://stadtbibliothek.graz.at/index.asp?ref-type=z09",
+                        "wheelchair": "yes",
+                        "wikidata": "Q55467979"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4213378,
+                          47.1026581
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "566703086",
+                        "osm_type": "node",
+                        "lat": 47.0782306,
+                        "lon": 15.4510647,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "15",
+                        "addr:postcode": "8010",
+                        "addr:street": "Universitätsstraße",
+                        "addr:unit": "K",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Fakultätsbibliothek ReSoWi",
+                        "opening_hours": "Mo-Fr 08:30-24:00, Sa 09:00-22:00; Su 10:00-18:00",
+                        "operator": "Universität Graz",
+                        "phone": "+43 316 380 1259",
+                        "ref": "Bauteil K",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4510647,
+                          47.0782306
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1148947965",
+                        "osm_type": "node",
+                        "lat": 47.0836474,
+                        "lon": 15.4319586,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "59",
+                        "addr:postcode": "8010",
+                        "addr:street": "Theodor-Körner-Straße",
+                        "amenity": "library",
+                        "contact:email": "stadtbibliothek.geidorf@stadt.graz.at",
+                        "contact:phone": "+43 316 872 7990",
+                        "internet_access": "wlan;terminal",
+                        "name": "Stadtbibliothek Graz Nord",
+                        "opening_hours": "Mo,Fr 08:00-14:00; Tu,We 11:00-17:00; Th 11:00-19:00",
+                        "source": "data.graz.gv.at",
+                        "website": "https://stadtbibliothek.graz.at/index.asp?ref-type=z08",
+                        "wheelchair": "yes",
+                        "wikidata": "Q55467965"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4319586,
+                          47.0836474
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824597979",
+                        "osm_type": "node",
+                        "lat": 47.0771637,
+                        "lon": 15.4646785,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "130",
+                        "addr:postcode": "8010",
+                        "addr:street": "Leonhardstraße",
+                        "amenity": "library",
+                        "name": "Bibliothek Odilieninstitut",
+                        "phone": "+43 316 322667 774",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wikidata": "Q55467966"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4646785,
+                          47.0771637
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824597996",
+                        "osm_type": "node",
+                        "lat": 47.0820328,
+                        "lon": 15.4377076,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "amenity": "library",
+                        "name": "Fachbibliothek für Religionspädagogik",
+                        "opening_hours": "Mo,We,Th 09:30-17:00;Tu 13:00-17:00; Fr 09:30-14:00",
+                        "phone": "+43 316 /581670 45",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "website": "https://kph-graz.webopac.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4377076,
+                          47.0820328
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598036",
+                        "osm_type": "node",
+                        "lat": 47.0939572,
+                        "lon": 15.4054085,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "255",
+                        "addr:postcode": "8051",
+                        "addr:street": "Wiener Straße",
+                        "amenity": "library",
+                        "name": "Stadtbibliothek Gösting",
+                        "phone": "+43 316 872 7960",
+                        "source": "Stadt Graz - data.graz.gv.at",
+                        "wikidata": "Q55467980"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4054085,
+                          47.0939572
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1824598065",
+                        "osm_type": "node",
+                        "lat": 47.0812171,
+                        "lon": 15.434126,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "38",
+                        "addr:postcode": "8010",
+                        "addr:street": "Theodor-Körner-Straße",
+                        "amenity": "library",
+                        "name": "Studienbibliothek der Pädagogischen Hochschule",
+                        "phone": "+43 316 8067 3710",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.434126,
+                          47.0812171
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031376",
+                        "osm_type": "node",
+                        "lat": 47.0797682,
+                        "lon": 15.4472926,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "8",
+                        "addr:postcode": "8010",
+                        "addr:street": "Mozartgasse",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Fachbibliothek Germanistik",
+                        "operator": "Universität Graz",
+                        "phone": "+43 316 380 2444",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4472926,
+                          47.0797682
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031377",
+                        "osm_type": "node",
+                        "lat": 47.0785857,
+                        "lon": 15.4475699,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "26",
+                        "addr:postcode": "8010",
+                        "addr:street": "Heinrichstraße",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Fachbibliothek Geschichte",
+                        "operator": "Universität Graz",
+                        "phone": "+43 316 380 2379",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4475699,
+                          47.0785857
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031378",
+                        "osm_type": "node",
+                        "lat": 47.0812414,
+                        "lon": 15.4537588,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "78",
+                        "addr:postcode": "8010",
+                        "addr:street": "Heinrichstraße",
+                        "amenity": "library",
+                        "name": "Fachbibliothek röm.-kath. Theologie",
+                        "operator": "Universität Graz",
+                        "phone": "+43 316 380 1550",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4537588,
+                          47.0812414
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "1826031384",
+                        "osm_type": "node",
+                        "lat": 47.0838397,
+                        "lon": 15.4367913,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "39",
+                        "addr:postcode": "8010",
+                        "addr:street": "Grabenstraße",
+                        "amenity": "library",
+                        "name": "Steirische entwicklungspolitische Mediathek",
+                        "phone": "+43 316 314556",
+                        "source": "Stadt Graz - data.graz.gv.at"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4367913,
+                          47.0838397
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "2127249333",
+                        "osm_type": "node",
+                        "lat": 47.078327,
+                        "lon": 15.4488783,
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "level": "1",
+                        "name": "Fachbibliothek Experimentalphysik",
+                        "room": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4488783,
+                          47.078327
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "2127249334",
+                        "osm_type": "node",
+                        "lat": 47.0781529,
+                        "lon": 15.4485037,
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "level": "1",
+                        "name": "Fachbibliothek Theoretische Physik",
+                        "room": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4485037,
+                          47.0781529
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "2263151552",
+                        "osm_type": "node",
+                        "lat": 47.0784611,
+                        "lon": 15.447649,
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Fachbibliothek Philosophie"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.447649,
+                          47.0784611
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3658659971",
+                        "osm_type": "node",
+                        "lat": 47.0841854,
+                        "lon": 15.4164993,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "62",
+                        "addr:postcode": "8020",
+                        "addr:street": "Kalvariengürtel",
+                        "amenity": "library",
+                        "check_date": "2024-09-15",
+                        "name": "MOSAIK Bibliothek",
+                        "opening_hours": "Mo 13:00-18:00; Tu 09:00-12:00,14:00-16:00; Fr 09:00-13:00; SH off; \"Brückentage geschlossen\"",
+                        "operator": "Mosaik GmbH",
+                        "website": "http://www.mosaik-gmbh.org/bibliothek"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4164993,
+                          47.0841854
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3829104067",
+                        "osm_type": "node",
+                        "lat": 47.077499,
+                        "lon": 15.4502277,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:floor": "2",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Universitätsplatz",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "Institutsbibliothek Kunstgeschichte",
+                        "opening_hours": "Mo,Tu 09:00-18:00; We,Th 09:00-16:00; Fr 09:00-12:00",
+                        "operator": "Institut für Kunstgeschichte"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4502277,
+                          47.077499
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "3829132263",
+                        "osm_type": "node",
+                        "lat": 47.0775784,
+                        "lon": 15.4504056,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:floor": "0",
+                        "addr:housenumber": "3",
+                        "addr:postcode": "8010",
+                        "addr:street": "Universitätsplatz",
+                        "amenity": "library",
+                        "internet_access": "wlan",
+                        "name": "FB Germanistik",
+                        "opening_hours": "Mo,We 09:00-16:30; Th 09:00-16:00; Fr 09:00-13:00",
+                        "operator": "Universitätsbibliothek Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4504056,
+                          47.0775784
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4635103292",
+                        "osm_type": "node",
+                        "lat": 47.0930687,
+                        "lon": 15.466474,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8043",
+                        "addr:street": "Am Rehgrund",
+                        "amenity": "library",
+                        "description": "Öffentliche Bibliothek der Pfarre Kroisbach",
+                        "operator": "Pfarre Kroisbach",
+                        "wikidata": "Q55467971"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.466474,
+                          47.0930687
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "4635103293",
+                        "osm_type": "node",
+                        "lat": 47.0842025,
+                        "lon": 15.4688891,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "34",
+                        "addr:postcode": "8036",
+                        "addr:street": "Auenbruggerplatz",
+                        "amenity": "library",
+                        "description": "Lesehöhle ̶ Kinder- u. Jugendbibliothek im LKH Graz"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4688891,
+                          47.0842025
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "5691423650",
+                        "osm_type": "node",
+                        "lat": 47.0772747,
+                        "lon": 15.4510721,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "2",
+                        "addr:postcode": "8010",
+                        "addr:street": "Universitätsplatz",
+                        "amenity": "library",
+                        "email": "psy.testothek@uni-graz.at",
+                        "internet_access": "wlan",
+                        "level": "3",
+                        "name": "Testothek",
+                        "opening_hours": "Mo, Tu, Fr 09:00-12:00, Mo 16:00-18:00, Th 14:30-16:30; PH off",
+                        "operator": "Institut für Psychologie",
+                        "source": "Staff",
+                        "website": "https://psychologiestudium.uni-graz.at/de/testothek/"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4510721,
+                          47.0772747
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "6975068506",
+                        "osm_type": "node",
+                        "lat": 47.080944,
+                        "lon": 15.4677803,
+                        "addr:city": "Graz",
+                        "addr:housenumber": "24",
+                        "addr:postcode": "8010",
+                        "addr:street": "Stiftingtalstraße",
+                        "amenity": "library",
+                        "check_date": "2025-06-16",
+                        "contact:email": "bibliothek@medunigraz.at",
+                        "contact:phone": "+43 316 38573050",
+                        "contact:website": "https://bibliothek.medunigraz.at/",
+                        "fixme": "Position in building unknown",
+                        "internet_access": "wlan",
+                        "name": "Bibliothek der Med Uni Graz",
+                        "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-13:00; Sa 13:00-22:00 open \"Lernzentrum ohne Bibliothek\"; Su 09:00-22:00 open \"Lernzentrum ohne Bibliothek\"; PH open \"Lernzentrum ohne Bibliothek\"",
+                        "operator": "Medizinische Universität Graz",
+                        "ref:isil": "AT-UBMUG",
+                        "short_name": "UBMUG",
+                        "wheelchair": "yes"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4677803,
+                          47.080944
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "8294731663",
+                        "osm_type": "node",
+                        "lat": 47.0755268,
+                        "lon": 15.430841,
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "38",
+                        "addr:postcode": "8020",
+                        "addr:street": "Lendplatz",
+                        "amenity": "library",
+                        "contact:email": "office@frauenservice.at",
+                        "contact:phone": "+43 316 71 60 22",
+                        "contact:website": "https://www.frauenservice.at/bildung/bibliothek-und-feministischer-denkraum",
+                        "description": "Bibliothek des Frauenservice",
+                        "opening_hours": "We 15:00-18:00",
+                        "operator": "Frauenservice",
+                        "wikidata": "Q55467964"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.430841,
+                          47.0755268
+                        ]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "id": "10727353488",
+                        "osm_type": "node",
+                        "lat": 47.1027999,
+                        "lon": 15.4156695,
+                        "access": "no",
+                        "addr:city": "Graz",
+                        "addr:country": "AT",
+                        "addr:housenumber": "16",
+                        "addr:postcode": "8045",
+                        "addr:street": "Weinzöttlstraße",
+                        "amenity": "library",
+                        "name": "Depotbibliothek der Universität Graz",
+                        "operator": "Universität Graz",
+                        "operator:type": "public"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                          15.4156695,
+                          47.1027999
+                        ]
+                      }
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "bbox": {
+                "south": 47.033758500000005,
+                "west": 15.491598875000001,
+                "north": 47.1163968125,
+                "east": 15.73002475
+              },
+              "poiCount": 3,
+              "leafCount": 3,
+              "averagePosition": [
+                15.613105566666666,
+                47.07012053333333
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4566461664",
+                    "osm_type": "node",
+                    "lat": 47.045778,
+                    "lon": 15.5202469,
+                    "access": "yes",
+                    "addr:city": "Hart bei Graz",
+                    "addr:housenumber": "97",
+                    "addr:postcode": "8075",
+                    "addr:street": "Pachern-Hauptstraße",
+                    "amenity": "library",
+                    "description": "Öffentliche Bibliothek der Gemeinde Hart bei Graz",
+                    "email": "bibliothek@hartbeigraz.at",
+                    "level": "1",
+                    "name": "Bibliothek",
+                    "opening_hours": "Mo 09:00-12:00,14:00-18:00, We,Th 14:00-18:00, Sa 09:00-11:00",
+                    "operator": "Gemeinde Hart bei Graz",
+                    "phone": "+43 316 49116016",
+                    "source": "https://www.hartbeigraz.at/Leben/Bibliothek",
+                    "website": "https://www.hartbeigraz.at/Leben/Bibliothek"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5202469,
+                      47.045778
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "441566750",
+                    "osm_type": "node",
+                    "lat": 47.1057819,
+                    "lon": 15.7088982,
+                    "addr:city": "Gleisdorf",
+                    "addr:country": "AT",
+                    "addr:housenumber": "3",
+                    "addr:postcode": "8200",
+                    "addr:street": "Weizer Straße",
+                    "amenity": "library",
+                    "contact:email": "buecherei@gleisdorf.at",
+                    "name": "Stadtbücherei"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.7088982,
+                      47.1057819
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4566461665",
+                    "osm_type": "node",
+                    "lat": 47.0588017,
+                    "lon": 15.6101716,
+                    "addr:city": "Nestelbach bei Graz",
+                    "addr:housenumber": "4",
+                    "addr:postcode": "8302",
+                    "addr:street": "Schulstraße",
+                    "amenity": "library",
+                    "description": "Öffentliche und Schulbibliothek Nestelbach"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.6101716,
+                      47.0588017
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.1163968125,
+                "west": 15.253173,
+                "north": 47.199035125,
+                "east": 15.491598875000001
+              },
+              "poiCount": 1,
+              "leafCount": 1,
+              "averagePosition": [
+                15.4908651,
+                47.1404631
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4635103291",
+                    "osm_type": "node",
+                    "lat": 47.1404631,
+                    "lon": 15.4908651,
+                    "addr:city": "Weinitzen",
+                    "addr:housenumber": "4",
+                    "addr:postcode": "8044",
+                    "addr:street": "Kirchplatz",
+                    "addr:suburb": "Niederschöckl",
+                    "amenity": "library",
+                    "description": "Öffentliche Bücherei Weinitzen"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.4908651,
+                      47.1404631
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 47.1163968125,
+                "west": 15.491598875000001,
+                "north": 47.199035125,
+                "east": 15.73002475
+              },
+              "poiCount": 4,
+              "leafCount": 4,
+              "averagePosition": [
+                15.626865275,
+                47.1538987
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2278420420",
+                    "osm_type": "node",
+                    "lat": 47.1821332,
+                    "lon": 15.7080113,
+                    "amenity": "library",
+                    "name": "Öffentliche Bücherei"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.7080113,
+                      47.1821332
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4566461662",
+                    "osm_type": "node",
+                    "lat": 47.1507984,
+                    "lon": 15.6638425,
+                    "addr:city": "Sankt Ruprecht an der Raab",
+                    "addr:housenumber": "12",
+                    "addr:postcode": "8181",
+                    "addr:street": "Parkstraße",
+                    "amenity": "library",
+                    "description": "Öffentl. Pfarr- & Gemeindebücherei"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.6638425,
+                      47.1507984
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4566461663",
+                    "osm_type": "node",
+                    "lat": 47.122928,
+                    "lon": 15.6004478,
+                    "addr:city": "Eggersdorf bei Graz",
+                    "addr:housenumber": "2",
+                    "addr:postcode": "8063",
+                    "addr:street": "Kirchplatz",
+                    "amenity": "library",
+                    "description": "Öffentliche Bücherei Eggersdorf"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.6004478,
+                      47.122928
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4756526823",
+                    "osm_type": "node",
+                    "lat": 47.1597352,
+                    "lon": 15.5351595,
+                    "amenity": "library",
+                    "name": "Bibliothek Kumberg",
+                    "opening_hours": "Tu,Sa,Su 09:00-11:00; We,Fr 17:00-19:00",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      15.5351595,
+                      47.1597352
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.73002475,
+            "north": 47.199035125,
+            "east": 16.2068765
+          },
+          "poiCount": 4,
+          "leafCount": 4,
+          "averagePosition": [
+            15.87914845,
+            47.106625050000005
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1799713104",
+                "osm_type": "node",
+                "lat": 47.1701708,
+                "lon": 16.0077144,
+                "amenity": "library",
+                "name": "Öffentliche Bücherei"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0077144,
+                  47.1701708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3402659638",
+                "osm_type": "node",
+                "lat": 47.0533993,
+                "lon": 15.8410798,
+                "addr:city": "Markt Hartmannsdorf",
+                "addr:country": "AT",
+                "addr:postcode": "8311",
+                "amenity": "library",
+                "name": "Bücherei Markt Hartmannsdorf"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8410798,
+                  47.0533993
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4785824399",
+                "osm_type": "node",
+                "lat": 47.0874244,
+                "lon": 15.9255826,
+                "amenity": "library",
+                "name": "Bücherei Ilz"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9255826,
+                  47.0874244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10218159071",
+                "osm_type": "node",
+                "lat": 47.1155057,
+                "lon": 15.742217,
+                "amenity": "library"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.742217,
+                  47.1155057
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.253173,
+            "north": 47.36431175,
+            "east": 15.73002475
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            15.579555357142857,
+            47.26997638571429
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4159425110",
+                "osm_type": "node",
+                "lat": 47.2811477,
+                "lon": 15.5168064,
+                "addr:city": "Passail",
+                "addr:country": "AT",
+                "addr:housenumber": "1",
+                "addr:postcode": "8162",
+                "addr:street": "Untergasse",
+                "amenity": "library",
+                "contact:email": "oebpassail@aon.at",
+                "contact:phone": "+43699 81 31 93 20",
+                "name": "Öffentliche Bücherei Passail",
+                "opening_hours": "We 16:00-18:00; Su 09:00-12:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5168064,
+                  47.2811477
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5324165544",
+                "osm_type": "node",
+                "lat": 47.2706813,
+                "lon": 15.3262,
+                "addr:city": "Frohnleiten",
+                "addr:country": "AT",
+                "addr:housenumber": "22",
+                "addr:postcode": "8130",
+                "addr:street": "Hauptplatz",
+                "amenity": "library",
+                "email": "buecherei.frohnleiten@aon.at",
+                "name": "Buch & Co",
+                "opening_hours": "Mo 17:00-19:00; Tu,Sa 09:00-12:00; Th 15:00-17:00; Fr 09:00-12:00,15:00-17:00",
+                "phone": "+43 664 73325454",
+                "website": "http://www.frohnleiten.bvoe.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3262,
+                  47.2706813
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "844209900",
+                "osm_type": "node",
+                "lat": 47.3194972,
+                "lon": 15.6894607,
+                "amenity": "library",
+                "name": "Bücherei",
+                "opening_hours": "Su \"nach dem Gottesdienst\"",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6894607,
+                  47.3194972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1332187352",
+                "osm_type": "node",
+                "lat": 47.2742403,
+                "lon": 15.68954,
+                "amenity": "library",
+                "name": "Pfarrbücherei"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.68954,
+                  47.2742403
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6271765469",
+                "osm_type": "node",
+                "lat": 47.2244233,
+                "lon": 15.6346124,
+                "addr:city": "Weiz",
+                "addr:housenumber": "13",
+                "addr:postcode": "8160",
+                "addr:street": "Weizberg",
+                "amenity": "library",
+                "name": "Öffentliche Bibliothek Weizberg",
+                "website": "https://weizberg.bvoe.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6346124,
+                  47.2244233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6430676751",
+                "osm_type": "node",
+                "lat": 47.3012775,
+                "lon": 15.5767155,
+                "addr:city": "St. Kathrein am Offenegg",
+                "addr:postcode": "8171",
+                "addr:street": "St. Kathrein am Offenegg 99",
+                "amenity": "library",
+                "name": "Öffentliche Pfarr- u. Gemeindebibliothek"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5767155,
+                  47.3012775
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7625472516",
+                "osm_type": "node",
+                "lat": 47.2185674,
+                "lon": 15.6235525,
+                "addr:city": "Weiz",
+                "addr:housenumber": "1",
+                "addr:postcode": "8160",
+                "addr:street": "Südtiroler Platz",
+                "amenity": "library",
+                "name": "Stadtbücherei Weiz",
+                "opening_hours": "Tu 15:00-18:00;We 9:00-13:00,15:00-18:00;Th 8:30-18:30;Fr 15:00-18:00"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6235525,
+                  47.2185674
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.73002475,
+            "north": 47.36431175,
+            "east": 16.2068765
+          },
+          "poiCount": 3,
+          "leafCount": 3,
+          "averagePosition": [
+            15.867422833333334,
+            47.2748239
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1538366974",
+                "osm_type": "node",
+                "lat": 47.2809172,
+                "lon": 15.9683787,
+                "amenity": "library",
+                "name": "Stadtbücherei",
+                "opening_hours": "Mo 15:00-18:00;Tu 10:00-14:00;We 15:00-18:00; Fr 15:00-18:00;Su 08:00-11:30"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9683787,
+                  47.2809172
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8284342864",
+                "osm_type": "node",
+                "lat": 47.2995861,
+                "lon": 15.8307941,
+                "amenity": "library",
+                "name": "Bibliothek Pöllau",
+                "website": "https://poellau-bibliothek.bvoe.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8307941,
+                  47.2995861
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10574544258",
+                "osm_type": "node",
+                "lat": 47.2439684,
+                "lon": 15.8030957,
+                "addr:city": "Stubenberg am See",
+                "addr:housenumber": "149",
+                "addr:postcode": "8223",
+                "addr:street": "Stubenberg",
+                "amenity": "library",
+                "name": "Öffentliche Bücherei Stubenberg am See",
+                "opening_hours": "We 08:00-11:00; Fr 15:00-18:00; Su 09:00-11:30; PH off"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8030957,
+                  47.2439684
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 16.2068765,
+        "north": 47.36431175,
+        "east": 17.16058
+      },
+      "poiCount": 14,
+      "leafCount": 14,
+      "averagePosition": [
+        16.668528849999998,
+        47.196368407142856
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1348144114",
+            "osm_type": "node",
+            "lat": 47.1657346,
+            "lon": 16.4463153,
+            "amenity": "library",
+            "name": "Deutsch Schützen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4463153,
+              47.1657346
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1777815329",
+            "osm_type": "node",
+            "lat": 47.062472,
+            "lon": 16.3237315,
+            "amenity": "library",
+            "name": "Bücherei",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3237315,
+              47.062472
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4352594393",
+            "osm_type": "node",
+            "lat": 47.2392244,
+            "lon": 16.4610762,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4610762,
+              47.2392244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4710723263",
+            "osm_type": "node",
+            "lat": 47.3236978,
+            "lon": 16.2787411,
+            "amenity": "library",
+            "fixme": "Lage im Gebäude",
+            "name": "Friedensbibliothek",
+            "wikidata": "Q56237591"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2787411,
+              47.3236978
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8348733665",
+            "osm_type": "node",
+            "lat": 47.0387254,
+            "lon": 16.4813586,
+            "amenity": "library",
+            "name": "Községi Könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4813586,
+              47.0387254
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10106228186",
+            "osm_type": "node",
+            "lat": 47.3355909,
+            "lon": 16.2310371,
+            "addr:city": "Bad Tatzmannsdorf",
+            "addr:housenumber": "5",
+            "addr:postcode": "7431",
+            "addr:street": "Am Kurplatz",
+            "amenity": "library",
+            "name": "Öffentliche Bücherei",
+            "phone": "+43 335382780"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2310371,
+              47.3355909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2772162297",
+            "osm_type": "node",
+            "lat": 47.1275637,
+            "lon": 16.8423778,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8423778,
+              47.1275637
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4441061690",
+            "osm_type": "node",
+            "lat": 47.0906565,
+            "lon": 16.6777065,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6777065,
+              47.0906565
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8308249099",
+            "osm_type": "node",
+            "lat": 47.2522981,
+            "lon": 16.828978,
+            "amenity": "library",
+            "name": "Könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.828978,
+              47.2522981
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8340122693",
+            "osm_type": "node",
+            "lat": 47.2954572,
+            "lon": 16.6936342,
+            "amenity": "library",
+            "name": "Könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6936342,
+              47.2954572
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11911751662",
+            "osm_type": "node",
+            "lat": 47.1829919,
+            "lon": 16.7648536,
+            "addr:city": "Vasszécseny",
+            "addr:housenumber": "5",
+            "addr:postcode": "9763",
+            "addr:street": "Táncsics Mihály utca",
+            "amenity": "library",
+            "name": "Könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7648536,
+              47.1829919
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1894966688",
+            "osm_type": "node",
+            "lat": 47.2564078,
+            "lon": 17.1523634,
+            "addr:postcode": "9500",
+            "addr:street": "Dr. Géfin Lajos tér",
+            "amenity": "library",
+            "name": "Kemenesaljai Művelődési Központ és Könyvtár",
+            "phone": "+36 95 779 301",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1523634,
+              47.2564078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2461907442",
+            "osm_type": "node",
+            "lat": 47.0825186,
+            "lon": 17.0441437,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0441437,
+              47.0825186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9164687523",
+            "osm_type": "node",
+            "lat": 47.2958188,
+            "lon": 17.1330869,
+            "amenity": "library",
+            "name": "Községi könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1330869,
+              47.2958188
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 15.253173,
+        "north": 47.694865,
+        "east": 16.2068765
+      },
+      "poiCount": 12,
+      "leafCount": 12,
+      "averagePosition": [
+        15.59786225,
+        47.49133161666666
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1080427194",
+            "osm_type": "node",
+            "lat": 47.4393454,
+            "lon": 15.2882911,
+            "addr:housenumber": "3",
+            "addr:postcode": "8605",
+            "addr:street": "Mürzgasse",
+            "amenity": "library",
+            "name": "Stadtbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2882911,
+              47.4393454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2593647249",
+            "osm_type": "node",
+            "lat": 47.5569864,
+            "lon": 15.3391868,
+            "amenity": "library",
+            "name": "Öffentliche Bücherei Turnau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3391868,
+              47.5569864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4632324382",
+            "osm_type": "node",
+            "lat": 47.4107889,
+            "lon": 15.2651634,
+            "addr:city": "Bruck an der Mur",
+            "addr:housenumber": "22",
+            "addr:postcode": "8600",
+            "addr:street": "Schillerstraße",
+            "amenity": "library",
+            "description": "ÖGB-Bücherei Bruck/Mur"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2651634,
+              47.4107889
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4655343260",
+            "osm_type": "node",
+            "lat": 47.5052445,
+            "lon": 15.450437,
+            "addr:city": "Kindberg",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:postcode": "8650",
+            "addr:street": "Kirchplatz",
+            "amenity": "library",
+            "name": "Stadtbibliothek Kindberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.450437,
+              47.5052445
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4655343261",
+            "osm_type": "node",
+            "lat": 47.4752394,
+            "lon": 15.3730656,
+            "addr:city": "Sankt Marein im Mürztal",
+            "addr:housenumber": "1",
+            "addr:postcode": "8641",
+            "addr:street": "Hauptplatz",
+            "amenity": "library",
+            "description": "Gemeindebücherei der Marktgemeinde St. Marein im Mürztal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3730656,
+              47.4752394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4655343262",
+            "osm_type": "node",
+            "lat": 47.4665805,
+            "lon": 15.4998465,
+            "addr:housenumber": "2",
+            "addr:place": "Stanz im Mürztal",
+            "addr:postcode": "8653",
+            "amenity": "library",
+            "description": "Öffentliche Bücherei Stanz im Mürztal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4998465,
+              47.4665805
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5627457305",
+            "osm_type": "node",
+            "lat": 47.3908308,
+            "lon": 15.4289977,
+            "amenity": "library",
+            "name": "Bücherzelle",
+            "opening_hours": "24/7",
+            "operator": "Gemeinde Breitenau am Hochlantsch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4289977,
+              47.3908308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1545947774",
+            "osm_type": "node",
+            "lat": 47.5455047,
+            "lon": 15.559604,
+            "addr:country": "AT",
+            "addr:postcode": "8670",
+            "amenity": "library",
+            "name": "Gemeindebücherei",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.559604,
+              47.5455047
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2085782911",
+            "osm_type": "node",
+            "lat": 47.4422807,
+            "lon": 15.9540472,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9540472,
+              47.4422807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2857944784",
+            "osm_type": "node",
+            "lat": 47.6076639,
+            "lon": 15.6740776,
+            "addr:city": "Mürzzuschlag",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "8680",
+            "addr:street": "Kirchengasse",
+            "amenity": "library",
+            "name": "Stadtbücherei Mürzzuschlag",
+            "opening_hours": "Mo 08:30-12:00, 15:00-19:00; Th 15:00-18:00; Fr 08:00-13:00",
+            "website": "https://www.muerzzuschlag.bvoe.at/",
+            "wheelchair": "no",
+            "wikidata": "Q55468992"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6740776,
+              47.6076639
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1357432489",
+            "osm_type": "node",
+            "lat": 47.4580695,
+            "lon": 16.1999541,
+            "amenity": "library",
+            "name": "Gemeindebibliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1999541,
+              47.4580695
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1804849715",
+            "osm_type": "node",
+            "lat": 47.5974447,
+            "lon": 16.141676,
+            "amenity": "library",
+            "name": "Pfarrbücherei"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.141676,
+              47.5974447
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 16.2068765,
+        "north": 47.694865,
+        "east": 17.16058
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        16.66196117692308,
+        47.56728447692308
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6402297332",
+            "osm_type": "node",
+            "lat": 47.5785281,
+            "lon": 16.4272567,
+            "addr:city": "Weppersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "7331",
+            "addr:street": "Raiffeisenplatz",
+            "amenity": "library",
+            "email": "weppersdorf@bibliotheken.at",
+            "name": "Gemeindebücherei",
+            "opening_hours": "We 16:15-17:15; Fr 18:00-19:00; PH off",
+            "website": "https://weppersdorf.bvoe.at/",
+            "wikidata": "Q56237720"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4272567,
+              47.5785281
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10126956711",
+            "osm_type": "node",
+            "lat": 47.4458999,
+            "lon": 16.5043318,
+            "amenity": "library",
+            "entrance": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5043318,
+              47.4458999
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12825178615",
+            "osm_type": "node",
+            "lat": 47.4058198,
+            "lon": 16.4174453,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4174453,
+              47.4058198
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1214633526",
+            "osm_type": "node",
+            "lat": 47.6515184,
+            "lon": 16.6654125,
+            "addr:city": "Sopron",
+            "addr:housenumber": "27",
+            "addr:postcode": "9494",
+            "addr:street": "Fő utca",
+            "addr:suburb": "Balf",
+            "amenity": "library",
+            "name": "Balfi Adománykönyvtár",
+            "opening_hours": "We,Fr 17:00-19:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6654125,
+              47.6515184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1391047719",
+            "osm_type": "node",
+            "lat": 47.5271342,
+            "lon": 16.6453449,
+            "amenity": "library",
+            "name": "Bücherei Kroatisch Minihof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6453449,
+              47.5271342
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1518052317",
+            "osm_type": "node",
+            "lat": 47.6788548,
+            "lon": 16.5505206,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5505206,
+              47.6788548
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1893121423",
+            "osm_type": "node",
+            "lat": 47.680453,
+            "lon": 16.5993425,
+            "amenity": "library",
+            "name": "Széchenyi István Fiókkönyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5993425,
+              47.680453
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2312995298",
+            "osm_type": "node",
+            "lat": 47.6190707,
+            "lon": 16.8653252,
+            "addr:city": "Fertőd",
+            "addr:housenumber": "1",
+            "addr:postcode": "9431",
+            "addr:street": "Madách sétány",
+            "amenity": "library",
+            "name": "Fertőd Városi Könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8653252,
+              47.6190707
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3087883945",
+            "osm_type": "node",
+            "lat": 47.5925264,
+            "lon": 17.0265266,
+            "amenity": "library",
+            "name": "Városi könyvtár Kapuvár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0265266,
+              47.5925264
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3465143592",
+            "osm_type": "node",
+            "lat": 47.3896663,
+            "lon": 16.5424527,
+            "addr:city": "Kőszeg",
+            "addr:housenumber": "35",
+            "addr:postcode": "9730",
+            "addr:street": "Várkör",
+            "amenity": "library",
+            "description": "Könyvtár + teleház",
+            "internet_access": "terminal",
+            "internet_access:fee": "yes",
+            "name": "Kőszegi Chernel Kálmán Városi Könyvtár",
+            "operator": "Kőszeg Város Önkormányzata",
+            "operator:type": "government",
+            "source": "turistautak.hu",
+            "source:date": "2011-09-06",
+            "url": "http://turistautak.hu/poi.php?id=12853"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5424527,
+              47.3896663
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761211583",
+            "osm_type": "node",
+            "lat": 47.5848453,
+            "lon": 16.878281,
+            "amenity": "library",
+            "name": "Iskolai könyvtár"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.878281,
+              47.5848453
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761211584",
+            "osm_type": "node",
+            "lat": 47.5861829,
+            "lon": 16.8791915,
+            "amenity": "library",
+            "name": "Városi könyvtár",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8791915,
+              47.5861829
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12600851034",
+            "osm_type": "node",
+            "lat": 47.6341984,
+            "lon": 16.604064,
+            "amenity": "library",
+            "name": "Közösségi tér és könyvtár",
+            "operator": "Harka Község Önkormányzata"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.604064,
+              47.6341984
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

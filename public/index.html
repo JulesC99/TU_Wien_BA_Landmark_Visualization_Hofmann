@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Landmark Visualization</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <!-- MapBox GL CSS -->
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://unpkg.com/threebox-plugin@2.2.7/dist/threebox.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div id="map"></div>
+  <div id="viz-toolbar" style="position:absolute;top:10px;left:10px;z-index:1000;">
+    <button id="viz-btn-text" class="viz-btn active" data-mode="text">Text</button>
+    <button id="viz-btn-icons" class="viz-btn" data-mode="icons">2D Icons</button>
+    <button id="viz-btn-glyph" class="viz-btn" data-mode="glyph">2D Symbols</button>
+    <button id="viz-btn-3d" class="viz-btn" data-mode="3d">3D Icons</button>
+    <button id="viz-btn-heatmap" class="viz-btn" data-mode="heatmap-categorized">Categorized Heatmap</button>
+    <button id="viz-btn-combined" class="viz-btn" data-mode="combined">Combined Mode</button>
+  </div>
+  <div id="jump-controls"
+    style="position:absolute; bottom:10px; left:10px; width:auto; z-index:1000; display:flex; gap:6px; flex-wrap:wrap;">
+    <button id="jump-1" class="viz-btn" aria-label="Go to Location 1">Location 1</button>
+    <button id="jump-2" class="viz-btn" aria-label="Go to Location 2">Location 2</button>
+    <button id="jump-3" class="viz-btn" aria-label="Go to Location 3">Location 3</button>
+  </div>
+  <div id="hq-controls" style="position:absolute;top:10px;right:330px;z-index:1000;">
+    <label>
+      HQ&nbsp;<input id="hq-toggle-control" class="hq-selection" type="checkbox" role="switch">
+    </label>
+  </div>
+  <div id="quick-selection-controls" style="position:absolute;top: 10px;right:50px;width: 250px;z-index:1000;">
+    <button id="quick-selection-hiking" class="quick-selection">Hiking</button>
+    <button id="quick-selection-tourism" class="quick-selection">Tourism</button>
+    <button id="quick-selection-emergency" class="quick-selection">Emergency</button>
+  </div>
+  <div id="radius-control" class="radius-control"
+    style="position:absolute;top: 40px; right: 50px; width: 250px; z-index:1000;">
+    <label for="radius-slider" class="radius-label">Radius: <span id="radius-value">500</span> m</label>
+    <input id="radius-slider" type="range" min="50" max="5000" step="10" value="500" />
+  </div>
+  <div id="poi-controls"></div>
+  <div id="poi-hover-info"></div>
+
+  <!-- Script files -->
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+  <script src="https://unpkg.com/three@0.152.2/build/three.min.js"></script>
+  <script src="https://unpkg.com/threebox-plugin@2.2.7/dist/threebox.min.js"></script>
+  <script src="dist/bundle.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,6485 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 331,
+  "leafCount": 0,
+  "averagePosition": [
+    16.013658936858008,
+    47.434435203021145
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 15.253173,
+        "north": 47.36431175,
+        "east": 16.2068765
+      },
+      "poiCount": 92,
+      "leafCount": 0,
+      "averagePosition": [
+        15.599977989130435,
+        47.21475785326088
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.253173,
+            "north": 47.199035125,
+            "east": 15.73002475
+          },
+          "poiCount": 44,
+          "leafCount": 44,
+          "averagePosition": [
+            15.436729625,
+            47.141414159090914
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "273508066",
+                "osm_type": "node",
+                "lat": 47.0417466,
+                "lon": 15.3811539,
+                "description": "Sage zur Bründlquelle: https://www.sagen.at/texte/sagen/oesterreich/steiermark/div/Bruennlein_St_Martin.html",
+                "name": "Bründlquelle",
+                "natural": "spring",
+                "source": "aerial imagery"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3811539,
+                  47.0417466
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "412974788",
+                "osm_type": "node",
+                "lat": 47.1296164,
+                "lon": 15.4528856,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4528856,
+                  47.1296164
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "597320111",
+                "osm_type": "node",
+                "lat": 47.1795285,
+                "lon": 15.483514,
+                "ele": "737",
+                "name": "Stille Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.483514,
+                  47.1795285
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "766740634",
+                "osm_type": "node",
+                "lat": 47.1021653,
+                "lon": 15.3710564,
+                "intermittent": "yes",
+                "name": "St.Annen Bründl",
+                "natural": "spring",
+                "note": "No drinking water",
+                "start_date": "1964"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3710564,
+                  47.1021653
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1589230802",
+                "osm_type": "node",
+                "lat": 47.1175424,
+                "lon": 15.359254,
+                "denomination": "catholic",
+                "historic": "memorial",
+                "name": "Mariensäule Siebenbründl",
+                "natural": "spring",
+                "religion": "christian"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.359254,
+                  47.1175424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1769747204",
+                "osm_type": "node",
+                "lat": 47.1361646,
+                "lon": 15.4253581,
+                "access": "permissive",
+                "alt_name": "Jakob-Lorber-Quelle",
+                "contact:phone": "+43 316 691353",
+                "karst": "yes",
+                "loc_name": "Andritzquelle",
+                "name": "Andritz-Ursprung",
+                "natural": "spring",
+                "note": "Wasserholer: siehe http://www.andritzquelle.de/quelle/wasserholer/ (derzeit (Jänner 2014) Fr 13:00-16:00)",
+                "operator": "Lorber-Gesellschaft e.V.",
+                "url": "http://www.andritzquelle.de/quelle/",
+                "wikidata": "Q21043686",
+                "wikipedia": "de:Andritz-Ursprung"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4253581,
+                  47.1361646
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2428585335",
+                "osm_type": "node",
+                "lat": 47.0748125,
+                "lon": 15.4717713,
+                "access": "private",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4717713,
+                  47.0748125
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2464739809",
+                "osm_type": "node",
+                "lat": 47.1749173,
+                "lon": 15.4822135,
+                "drinking_water": "yes",
+                "ele": "660",
+                "name": "Willkomm-Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4822135,
+                  47.1749173
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3556954204",
+                "osm_type": "node",
+                "lat": 47.1969412,
+                "lon": 15.3085762,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3085762,
+                  47.1969412
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728402056",
+                "osm_type": "node",
+                "lat": 47.1869603,
+                "lon": 15.4886764,
+                "heritage": "2",
+                "heritage:operator": "bda",
+                "name": "Rosa Quelle",
+                "natural": "spring",
+                "ref:at:bda": "114992",
+                "wikidata": "Q37773111"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4886764,
+                  47.1869603
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728402118",
+                "osm_type": "node",
+                "lat": 47.1878971,
+                "lon": 15.4856966,
+                "name": "Desire Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4856966,
+                  47.1878971
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728402319",
+                "osm_type": "node",
+                "lat": 47.1903904,
+                "lon": 15.4840628,
+                "name": "Berta Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4840628,
+                  47.1903904
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728402362",
+                "osm_type": "node",
+                "lat": 47.1910985,
+                "lon": 15.4866112,
+                "name": "Schindlerquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4866112,
+                  47.1910985
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4728402381",
+                "osm_type": "node",
+                "lat": 47.1924408,
+                "lon": 15.494838,
+                "name": "Albertinenquelle",
+                "natural": "spring",
+                "start_date": "1872"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.494838,
+                  47.1924408
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4906589227",
+                "osm_type": "node",
+                "lat": 47.1850584,
+                "lon": 15.4898308,
+                "heritage": "2",
+                "heritage:operator": "bda",
+                "name": "Demelius Quelle",
+                "natural": "spring",
+                "ref:at:bda": "114991",
+                "wikidata": "Q37773104"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4898308,
+                  47.1850584
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4906592146",
+                "osm_type": "node",
+                "lat": 47.1856105,
+                "lon": 15.4902176,
+                "name": "Pollak Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4902176,
+                  47.1856105
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5221838121",
+                "osm_type": "node",
+                "lat": 47.1963417,
+                "lon": 15.3019401,
+                "description": "Brunnen mit Trinkbecher",
+                "drinking_water": "yes",
+                "name": "Kleine Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3019401,
+                  47.1963417
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5327197510",
+                "osm_type": "node",
+                "lat": 47.1054702,
+                "lon": 15.3401957,
+                "name": "Gruntnerbach",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3401957,
+                  47.1054702
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5327393952",
+                "osm_type": "node",
+                "lat": 47.1022862,
+                "lon": 15.333404,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.333404,
+                  47.1022862
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5327410279",
+                "osm_type": "node",
+                "lat": 47.1058712,
+                "lon": 15.3329548,
+                "name": "Brunnen Toffisgraben",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3329548,
+                  47.1058712
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5622284608",
+                "osm_type": "node",
+                "lat": 47.1008083,
+                "lon": 15.334333,
+                "intermittent": "no",
+                "name": "Toffisbach",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.334333,
+                  47.1008083
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6952723675",
+                "osm_type": "node",
+                "lat": 47.0943348,
+                "lon": 15.3771677,
+                "ele": "465",
+                "name": "Floraquelle",
+                "natural": "spring",
+                "note": "Quellfassung vorhanden, trotzdem fließt Wasser über den natürlichen Lauf ab.",
+                "source": "local knowledge",
+                "wikidata": "Q21879264"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3771677,
+                  47.0943348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7426558051",
+                "osm_type": "node",
+                "lat": 47.1813171,
+                "lon": 15.4807717,
+                "name": "Melanie Quelle",
+                "natural": "spring",
+                "start_date": "1864"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4807717,
+                  47.1813171
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7897053322",
+                "osm_type": "node",
+                "lat": 47.188463,
+                "lon": 15.4881625,
+                "name": "Hannelore-Quell'",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4881625,
+                  47.188463
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7921943385",
+                "osm_type": "node",
+                "lat": 47.1896542,
+                "lon": 15.483995,
+                "name": "Béla Bartók Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.483995,
+                  47.1896542
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8558440071",
+                "osm_type": "node",
+                "lat": 47.0883984,
+                "lon": 15.5123152,
+                "drinking_water": "no",
+                "intermittent": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5123152,
+                  47.0883984
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8618221505",
+                "osm_type": "node",
+                "lat": 47.0762177,
+                "lon": 15.482987,
+                "drinking_water": "no",
+                "natural": "spring",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.482987,
+                  47.0762177
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9098515170",
+                "osm_type": "node",
+                "lat": 47.1783171,
+                "lon": 15.4859887,
+                "name": "Roschker-Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4859887,
+                  47.1783171
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9098515171",
+                "osm_type": "node",
+                "lat": 47.1802521,
+                "lon": 15.4886048,
+                "name": "Kalvarienbergquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4886048,
+                  47.1802521
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9098515172",
+                "osm_type": "node",
+                "lat": 47.1799003,
+                "lon": 15.4883904,
+                "name": "Eremitenquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4883904,
+                  47.1799003
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9098515173",
+                "osm_type": "node",
+                "lat": 47.1838604,
+                "lon": 15.4862441,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4862441,
+                  47.1838604
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9423591336",
+                "osm_type": "node",
+                "lat": 47.1145431,
+                "lon": 15.3505309,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3505309,
+                  47.1145431
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9431447524",
+                "osm_type": "node",
+                "lat": 47.1971884,
+                "lon": 15.486388,
+                "name": "Priessnitz Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.486388,
+                  47.1971884
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9591914533",
+                "osm_type": "node",
+                "lat": 47.1073617,
+                "lon": 15.4478757,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4478757,
+                  47.1073617
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9598003683",
+                "osm_type": "node",
+                "lat": 47.0862473,
+                "lon": 15.4634199,
+                "drinking_water": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4634199,
+                  47.0862473
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10021788378",
+                "osm_type": "node",
+                "lat": 47.1515372,
+                "lon": 15.4353092,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4353092,
+                  47.1515372
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11230073801",
+                "osm_type": "node",
+                "lat": 47.0852605,
+                "lon": 15.5138132,
+                "drinking_water": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5138132,
+                  47.0852605
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11750072878",
+                "osm_type": "node",
+                "lat": 47.1356165,
+                "lon": 15.2602726,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2602726,
+                  47.1356165
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12075897757",
+                "osm_type": "node",
+                "lat": 47.0798283,
+                "lon": 15.5121892,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5121892,
+                  47.0798283
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12311838255",
+                "osm_type": "node",
+                "lat": 47.1129649,
+                "lon": 15.3677072,
+                "access": "private",
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3677072,
+                  47.1129649
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12463793156",
+                "osm_type": "node",
+                "lat": 47.1427615,
+                "lon": 15.2651638,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2651638,
+                  47.1427615
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13037952088",
+                "osm_type": "node",
+                "lat": 47.1548253,
+                "lon": 15.2998124,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2998124,
+                  47.1548253
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1864561287",
+                "osm_type": "node",
+                "lat": 47.1502817,
+                "lon": 15.6508421,
+                "name": "Stefaniequelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6508421,
+                  47.1502817
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6976249189",
+                "osm_type": "node",
+                "lat": 47.0794231,
+                "lon": 15.5896082,
+                "drinking_water": "yes",
+                "name": "Waldquelle",
+                "natural": "spring",
+                "source": "local knowledge;aerial imagery"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5896082,
+                  47.0794231
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 15.73002475,
+            "north": 47.199035125,
+            "east": 16.2068765
+          },
+          "poiCount": 4,
+          "leafCount": 4,
+          "averagePosition": [
+            15.93282955,
+            47.117791625
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5056595307",
+                "osm_type": "node",
+                "lat": 47.1004756,
+                "lon": 15.7696348,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7696348,
+                  47.1004756
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9892105392",
+                "osm_type": "node",
+                "lat": 47.1007247,
+                "lon": 15.8716026,
+                "covered": "yes",
+                "drinking_water": "no",
+                "intermittent": "no",
+                "name": "Köckenbründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8716026,
+                  47.1007247
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2173237744",
+                "osm_type": "node",
+                "lat": 47.1253871,
+                "lon": 16.0460808,
+                "name": "Balthasar Quelle",
+                "natural": "spring",
+                "temperature": "48C"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0460808,
+                  47.1253871
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4926619685",
+                "osm_type": "node",
+                "lat": 47.1445791,
+                "lon": 16.044,
+                "amenity": "place_of_worship",
+                "image": "https://kartaview.org/details/4101753/1",
+                "name": "Maria Brunn",
+                "natural": "spring",
+                "religion": "christian"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.044,
+                  47.1445791
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.253173,
+            "north": 47.36431175,
+            "east": 15.73002475
+          },
+          "poiCount": 18,
+          "leafCount": 18,
+          "averagePosition": [
+            15.486843944444445,
+            47.29435850555555
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1455142331",
+                "osm_type": "node",
+                "lat": 47.2248753,
+                "lon": 15.4256206,
+                "drinking_water": "yes",
+                "heritage": "2",
+                "heritage:operator": "bda",
+                "historic": "wayside_shrine",
+                "name": "Ulrichsbrunn",
+                "natural": "spring",
+                "ref:at:bda": "114901",
+                "religion": "christian",
+                "wikidata": "Q63986411"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4256206,
+                  47.2248753
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3358966849",
+                "osm_type": "node",
+                "lat": 47.2776868,
+                "lon": 15.3223772,
+                "drinking_water": "no",
+                "name": "Lorenz Born Tatkraftsquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3223772,
+                  47.2776868
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3804211026",
+                "osm_type": "node",
+                "lat": 47.3248872,
+                "lon": 15.3953406,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3953406,
+                  47.3248872
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5925864416",
+                "osm_type": "node",
+                "lat": 47.3066311,
+                "lon": 15.5094132,
+                "name": "Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5094132,
+                  47.3066311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6924580532",
+                "osm_type": "node",
+                "lat": 47.2008235,
+                "lon": 15.4047477,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4047477,
+                  47.2008235
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10780522314",
+                "osm_type": "node",
+                "lat": 47.339059,
+                "lon": 15.50051,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.50051,
+                  47.339059
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12162232312",
+                "osm_type": "node",
+                "lat": 47.3590597,
+                "lon": 15.5075518,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5075518,
+                  47.3590597
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12568269759",
+                "osm_type": "node",
+                "lat": 47.3629855,
+                "lon": 15.346287,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.346287,
+                  47.3629855
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12782297706",
+                "osm_type": "node",
+                "lat": 47.3288448,
+                "lon": 15.4040645,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4040645,
+                  47.3288448
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13013780798",
+                "osm_type": "node",
+                "lat": 47.3412636,
+                "lon": 15.2769453,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2769453,
+                  47.3412636
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13140600844",
+                "osm_type": "node",
+                "lat": 47.2017101,
+                "lon": 15.3547253,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3547253,
+                  47.2017101
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "921174310",
+                "osm_type": "node",
+                "lat": 47.2410237,
+                "lon": 15.5429612,
+                "name": "Gösserquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5429612,
+                  47.2410237
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "921467669",
+                "osm_type": "node",
+                "lat": 47.2421669,
+                "lon": 15.5390362,
+                "name": "Kohlquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5390362,
+                  47.2421669
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3488750963",
+                "osm_type": "node",
+                "lat": 47.313568,
+                "lon": 15.7254607,
+                "name": "Kalter Brunn",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7254607,
+                  47.313568
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3566563598",
+                "osm_type": "node",
+                "lat": 47.30197,
+                "lon": 15.6252349,
+                "drinking_water": "yes",
+                "name": "Steinbauer Brunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6252349,
+                  47.30197
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3721409976",
+                "osm_type": "node",
+                "lat": 47.3022763,
+                "lon": 15.6254742,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6254742,
+                  47.3022763
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3871213167",
+                "osm_type": "node",
+                "lat": 47.3066365,
+                "lon": 15.5406024,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5406024,
+                  47.3066365
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11132367030",
+                "osm_type": "node",
+                "lat": 47.3229851,
+                "lon": 15.7168382,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7168382,
+                  47.3229851
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 15.73002475,
+            "north": 47.36431175,
+            "east": 16.2068765
+          },
+          "poiCount": 26,
+          "leafCount": 26,
+          "averagePosition": [
+            15.903360088461538,
+            47.29868768846154
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1210161564",
+                "osm_type": "node",
+                "lat": 47.3039693,
+                "lon": 15.9215093,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9215093,
+                  47.3039693
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5184338585",
+                "osm_type": "node",
+                "lat": 47.2107133,
+                "lon": 15.8476784,
+                "drinking_water": "yes",
+                "drinking_water:legal": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8476784,
+                  47.2107133
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7223739066",
+                "osm_type": "node",
+                "lat": 47.2766859,
+                "lon": 15.774444,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.774444,
+                  47.2766859
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7366723745",
+                "osm_type": "node",
+                "lat": 47.2166423,
+                "lon": 15.7520905,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7520905,
+                  47.2166423
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7541304082",
+                "osm_type": "node",
+                "lat": 47.2954917,
+                "lon": 15.9327358,
+                "name": "Badewanne",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9327358,
+                  47.2954917
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8262243968",
+                "osm_type": "node",
+                "lat": 47.322988,
+                "lon": 15.873042,
+                "drinking_water": "yes",
+                "name": "Trinkbrunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.873042,
+                  47.322988
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8464052336",
+                "osm_type": "node",
+                "lat": 47.3352891,
+                "lon": 15.8611438,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8611438,
+                  47.3352891
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8988518504",
+                "osm_type": "node",
+                "lat": 47.298087,
+                "lon": 15.7995883,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7995883,
+                  47.298087
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9178234793",
+                "osm_type": "node",
+                "lat": 47.2979084,
+                "lon": 15.8820569,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8820569,
+                  47.2979084
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9831403084",
+                "osm_type": "node",
+                "lat": 47.3045165,
+                "lon": 15.7405865,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7405865,
+                  47.3045165
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9848293187",
+                "osm_type": "node",
+                "lat": 47.3629553,
+                "lon": 15.7968351,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7968351,
+                  47.3629553
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11020669601",
+                "osm_type": "node",
+                "lat": 47.3214869,
+                "lon": 15.7387546,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7387546,
+                  47.3214869
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11035907046",
+                "osm_type": "node",
+                "lat": 47.347378,
+                "lon": 15.8912894,
+                "drinking_water": "yes",
+                "name": "Ahnen Brunn",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8912894,
+                  47.347378
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11335915667",
+                "osm_type": "node",
+                "lat": 47.2475479,
+                "lon": 15.8571208,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8571208,
+                  47.2475479
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12022890026",
+                "osm_type": "node",
+                "lat": 47.3035271,
+                "lon": 15.7422635,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7422635,
+                  47.3035271
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12022890046",
+                "osm_type": "node",
+                "lat": 47.2979022,
+                "lon": 15.7591078,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7591078,
+                  47.2979022
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12957200959",
+                "osm_type": "node",
+                "lat": 47.343853,
+                "lon": 15.8410156,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8410156,
+                  47.343853
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12961114462",
+                "osm_type": "node",
+                "lat": 47.3515553,
+                "lon": 15.8360589,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8360589,
+                  47.3515553
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12966443232",
+                "osm_type": "node",
+                "lat": 47.3466591,
+                "lon": 15.8440291,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8440291,
+                  47.3466591
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4262038570",
+                "osm_type": "node",
+                "lat": 47.2231113,
+                "lon": 16.0497816,
+                "name": "Fichtenbründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0497816,
+                  47.2231113
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11514535123",
+                "osm_type": "node",
+                "lat": 47.2997854,
+                "lon": 16.1237684,
+                "name": "Quelle der Strem",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1237684,
+                  47.2997854
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11552025409",
+                "osm_type": "node",
+                "lat": 47.2916109,
+                "lon": 16.1507769,
+                "description": "Kleine Sprudelquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1507769,
+                  47.2916109
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11552025410",
+                "osm_type": "node",
+                "lat": 47.2914317,
+                "lon": 16.1507299,
+                "description": "Kleine Sprudelquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1507299,
+                  47.2914317
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12554991671",
+                "osm_type": "node",
+                "lat": 47.2830831,
+                "lon": 16.1070716,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1070716,
+                  47.2830831
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12554991672",
+                "osm_type": "node",
+                "lat": 47.2829844,
+                "lon": 16.1069572,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1069572,
+                  47.2829844
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12695423471",
+                "osm_type": "node",
+                "lat": 47.3087168,
+                "lon": 16.1069264,
+                "intermittent": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1069264,
+                  47.3087168
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 16.2068765,
+        "north": 47.36431175,
+        "east": 17.16058
+      },
+      "poiCount": 41,
+      "leafCount": 41,
+      "averagePosition": [
+        16.592998817073173,
+        47.26998458292683
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "863057259",
+            "osm_type": "node",
+            "lat": 47.3574714,
+            "lon": 16.4894664,
+            "drinking_water": "conditional",
+            "drinking_water:legal": "no",
+            "ele": "502",
+            "intermittent": "no",
+            "name": "Borha-kút",
+            "natural": "spring",
+            "note": "2025-06-07 - \"működik\"",
+            "url": "http://turistautak.hu/poi.php?id=8061"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4894664,
+              47.3574714
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1068903632",
+            "osm_type": "node",
+            "lat": 47.3589045,
+            "lon": 16.4593902,
+            "description": "Foglalt, kifolyós forrás. Kémiailag tiszta, de bakteriálisan nem.",
+            "drinking_water": "conditional",
+            "drinking_water:legal": "no",
+            "intermittent": "no",
+            "name": "Hörmann-forrás",
+            "natural": "spring",
+            "refitted": "yes",
+            "source": "survey",
+            "survey:date": "2022-08-13",
+            "url": "http://turistautak.hu/poi.php?id=348",
+            "wikidata": "Q26232397",
+            "wikipedia": "hu:Hörmann-forrás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4593902,
+              47.3589045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1718450679",
+            "osm_type": "node",
+            "lat": 47.321035,
+            "lon": 16.429424,
+            "access": "no",
+            "man_made": "water_works",
+            "natural": "spring",
+            "start_date": "1954"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.429424,
+              47.321035
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1718491547",
+            "osm_type": "node",
+            "lat": 47.3190508,
+            "lon": 16.4335904,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4335904,
+              47.3190508
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1718876949",
+            "osm_type": "node",
+            "lat": 47.3055173,
+            "lon": 16.4238435,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4238435,
+              47.3055173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2982821044",
+            "osm_type": "node",
+            "lat": 47.2366741,
+            "lon": 16.5090763,
+            "drinking_water": "no",
+            "drinking_water:legal": "yes",
+            "drinking_water:source": "http://www.dozmat-telkek.hu/rendeletek/Egyeb%20hivatalos%20dokumentumok/Muzsla%20forras%20vizminosege.pdf",
+            "name": "Muzsla-forrás",
+            "natural": "spring",
+            "note": "2023-07-17 - \"Tábla jelzi, hogy nem iható!\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5090763,
+              47.2366741
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3008221215",
+            "osm_type": "node",
+            "lat": 47.3557646,
+            "lon": 16.4711515,
+            "drinking_water": "conditional",
+            "drinking_water:legal": "no",
+            "intermittent": "no",
+            "name": "Gyertyán-kút",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=772"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4711515,
+              47.3557646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3011118921",
+            "osm_type": "node",
+            "lat": 47.3585525,
+            "lon": 16.4845356,
+            "drinking_water": "conditional",
+            "drinking_water:legal": "no",
+            "intermittent": "no",
+            "name": "Jávor-kút",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=8067"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4845356,
+              47.3585525
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3011862246",
+            "osm_type": "node",
+            "lat": 47.362537,
+            "lon": 16.504865,
+            "drinking_water": "conditional",
+            "intermittent": "no",
+            "name": "Elektromos-forrás",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=10440"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.504865,
+              47.362537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3011882742",
+            "osm_type": "node",
+            "lat": 47.346921,
+            "lon": 16.4877334,
+            "drinking_water": "yes",
+            "name": "Vasa-kút",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=68979"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4877334,
+              47.346921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3011908555",
+            "osm_type": "node",
+            "lat": 47.3550954,
+            "lon": 16.5091507,
+            "drinking_water": "yes",
+            "name": "Hordómosó-forrás (Csurgó)",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=10443"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5091507,
+              47.3550954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3244790293",
+            "osm_type": "node",
+            "lat": 47.3474807,
+            "lon": 16.2625386,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2625386,
+              47.3474807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3267442245",
+            "osm_type": "node",
+            "lat": 47.3590617,
+            "lon": 16.4591211,
+            "drinking_water": "yes",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4591211,
+              47.3590617
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3329843997",
+            "osm_type": "node",
+            "lat": 47.347467,
+            "lon": 16.477333,
+            "name": "Péterics-forrás",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=47239"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.477333,
+              47.347467
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3329843998",
+            "osm_type": "node",
+            "lat": 47.3371581,
+            "lon": 16.4748965,
+            "name": "Pütyör-forrás",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=79913"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4748965,
+              47.3371581
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3329843999",
+            "osm_type": "node",
+            "lat": 47.3530379,
+            "lon": 16.4777354,
+            "name": "Szent-kút",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=67480"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4777354,
+              47.3530379
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3336780490",
+            "osm_type": "node",
+            "lat": 47.3518359,
+            "lon": 16.5061304,
+            "natural": "spring",
+            "seasonal": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5061304,
+              47.3518359
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3346514325",
+            "osm_type": "node",
+            "lat": 47.3485893,
+            "lon": 16.4424517,
+            "name": "Ebenspanger János-forrás",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=8069"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4424517,
+              47.3485893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3346514326",
+            "osm_type": "node",
+            "lat": 47.349517,
+            "lon": 16.46885,
+            "name": "Hosszú-völgyi-forrás",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=47240"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.46885,
+              47.349517
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3346514333",
+            "osm_type": "node",
+            "lat": 47.3479039,
+            "lon": 16.4429446,
+            "intermittent": "yes",
+            "name": "Tündér-forrás",
+            "natural": "spring",
+            "note": "Terepi mérés és kérdezősködés alapján áthelyeztem",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=8070"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4429446,
+              47.3479039
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3346514334",
+            "osm_type": "node",
+            "lat": 47.327533,
+            "lon": 16.490767,
+            "name": "Virágos-kút",
+            "natural": "spring",
+            "source": "turistautak.hu",
+            "url": "http://turistautak.hu/poi.php?id=70086"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.490767,
+              47.327533
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3442807276",
+            "osm_type": "node",
+            "lat": 47.3507044,
+            "lon": 16.2685544,
+            "name": "Sauerbrunnen",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2685544,
+              47.3507044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3481107181",
+            "osm_type": "node",
+            "lat": 47.3587846,
+            "lon": 16.4755731,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4755731,
+              47.3587846
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3501566411",
+            "osm_type": "node",
+            "lat": 47.3283065,
+            "lon": 16.4915984,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4915984,
+              47.3283065
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5303725905",
+            "osm_type": "node",
+            "lat": 47.348151,
+            "lon": 16.3343507,
+            "drinking_water": "no",
+            "name": "Königsbrunnen",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3343507,
+              47.348151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5580693162",
+            "osm_type": "node",
+            "lat": 47.1636668,
+            "lon": 16.5211967,
+            "natural": "spring",
+            "seasonal": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5211967,
+              47.1636668
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1018055952",
+            "osm_type": "node",
+            "lat": 47.1665677,
+            "lon": 16.6164139,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6164139,
+              47.1665677
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1028029321",
+            "osm_type": "node",
+            "lat": 47.0898085,
+            "lon": 16.9652731,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9652731,
+              47.0898085
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1112848741",
+            "osm_type": "node",
+            "lat": 47.0468375,
+            "lon": 16.7885142,
+            "name": "Szent-kút",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7885142,
+              47.0468375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2944429756",
+            "osm_type": "node",
+            "lat": 47.2583895,
+            "lon": 16.8964195,
+            "drinking_water": "no",
+            "name": "Álló-kút",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8964195,
+              47.2583895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2948901070",
+            "osm_type": "node",
+            "lat": 47.1750228,
+            "lon": 16.931657,
+            "name": "Hóvirág-forrás",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.931657,
+              47.1750228
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2950455953",
+            "osm_type": "node",
+            "lat": 47.080631,
+            "lon": 16.883852,
+            "name": "Hétforrás",
+            "natural": "spring",
+            "url": "http://turistautak.hu/poi.php?id=22891"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.883852,
+              47.080631
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3032001857",
+            "osm_type": "node",
+            "lat": 47.2516972,
+            "lon": 16.9376184,
+            "drinking_water": "yes",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9376184,
+              47.2516972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3080580628",
+            "osm_type": "node",
+            "lat": 47.0491508,
+            "lon": 16.7910167,
+            "drinking_water": "no",
+            "natural": "spring",
+            "seasonal": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7910167,
+              47.0491508
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3127627760",
+            "osm_type": "node",
+            "lat": 47.1454927,
+            "lon": 16.9706633,
+            "drinking_water": "no",
+            "name": "Mária Terézia-forrás",
+            "natural": "spring",
+            "website": "http://turistautak.hu/poi.php?id=22308"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9706633,
+              47.1454927
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3610968884",
+            "osm_type": "node",
+            "lat": 47.2334406,
+            "lon": 16.9950497,
+            "drinking_water": "no",
+            "name": "Kalapos-kút",
+            "natural": "spring",
+            "old_name": "Kurcon-forrás"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9950497,
+              47.2334406
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549963788",
+            "osm_type": "node",
+            "lat": 47.3589678,
+            "lon": 16.6647542,
+            "check_date": "2024-10-05",
+            "description": "Foglalt, kifolyós forrás.",
+            "drinking_water": "yes",
+            "name": "Gradics-forrás",
+            "natural": "spring",
+            "refitted": "yes",
+            "source": "survey",
+            "survey:date": "2022-08-13"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6647542,
+              47.3589678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5317821860",
+            "osm_type": "node",
+            "lat": 47.2418632,
+            "lon": 17.0211361,
+            "mapillary": "244668120786011",
+            "name": "Bölönt-ér forrása",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0211361,
+              47.2418632
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5580672630",
+            "osm_type": "node",
+            "lat": 47.1390191,
+            "lon": 16.6576847,
+            "natural": "spring",
+            "seasonal": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6576847,
+              47.1390191
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6124859287",
+            "osm_type": "node",
+            "lat": 47.0475754,
+            "lon": 16.7861202,
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7861202,
+              47.0475754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8111734922",
+            "osm_type": "node",
+            "lat": 47.0881827,
+            "lon": 16.6105099,
+            "drinking_water": "yes",
+            "name": "Csorda-forrás",
+            "natural": "spring"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6105099,
+              47.0881827
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 15.253173,
+        "north": 47.694865,
+        "east": 16.2068765
+      },
+      "poiCount": 110,
+      "leafCount": 0,
+      "averagePosition": [
+        15.670011271818183,
+        47.57224290363637
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 15.253173,
+            "north": 47.529588375,
+            "east": 15.73002475
+          },
+          "poiCount": 22,
+          "leafCount": 22,
+          "averagePosition": [
+            15.434139645454547,
+            47.45720200454546
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6699201339",
+                "osm_type": "node",
+                "lat": 47.366378,
+                "lon": 15.2561876,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2561876,
+                  47.366378
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11048478906",
+                "osm_type": "node",
+                "lat": 47.3649465,
+                "lon": 15.7258692,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7258692,
+                  47.3649465
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "961991925",
+                "osm_type": "node",
+                "lat": 47.4255934,
+                "lon": 15.4416915,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4416915,
+                  47.4255934
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1459787553",
+                "osm_type": "node",
+                "lat": 47.4159435,
+                "lon": 15.2554022,
+                "description": "Gefasst aber nur wenig Wasser.",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2554022,
+                  47.4159435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1459787554",
+                "osm_type": "node",
+                "lat": 47.4160713,
+                "lon": 15.255948,
+                "description": "Sehr wenig Wasser.",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.255948,
+                  47.4160713
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3029828051",
+                "osm_type": "node",
+                "lat": 47.4520272,
+                "lon": 15.3037914,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3037914,
+                  47.4520272
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3880710084",
+                "osm_type": "node",
+                "lat": 47.394419,
+                "lon": 15.2726745,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2726745,
+                  47.394419
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3914074614",
+                "osm_type": "node",
+                "lat": 47.511385,
+                "lon": 15.4302905,
+                "name": "Antoni Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4302905,
+                  47.511385
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4783725087",
+                "osm_type": "node",
+                "lat": 47.5012258,
+                "lon": 15.5247532,
+                "drinking_water": "yes",
+                "name": "Riegler Gust Bründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5247532,
+                  47.5012258
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4783725710",
+                "osm_type": "node",
+                "lat": 47.5157768,
+                "lon": 15.5081911,
+                "drinking_water": "yes",
+                "name": "Heinerl Bründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5081911,
+                  47.5157768
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5649052564",
+                "osm_type": "node",
+                "lat": 47.5143489,
+                "lon": 15.445683,
+                "drinking_water": "yes",
+                "name": "Goldbründl",
+                "natural": "spring",
+                "refitted": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.445683,
+                  47.5143489
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6644652510",
+                "osm_type": "node",
+                "lat": 47.5107238,
+                "lon": 15.3403081,
+                "drinking_water": "yes",
+                "name": "Kiabrunn",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3403081,
+                  47.5107238
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6644652526",
+                "osm_type": "node",
+                "lat": 47.5188247,
+                "lon": 15.32414,
+                "drinking_water": "yes",
+                "name": "Marienbründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.32414,
+                  47.5188247
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7509340215",
+                "osm_type": "node",
+                "lat": 47.52186,
+                "lon": 15.3321184,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3321184,
+                  47.52186
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10166556418",
+                "osm_type": "node",
+                "lat": 47.393369,
+                "lon": 15.2605233,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2605233,
+                  47.393369
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12179804875",
+                "osm_type": "node",
+                "lat": 47.4020961,
+                "lon": 15.3500603,
+                "amenity": "watering_place",
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3500603,
+                  47.4020961
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1930427271",
+                "osm_type": "node",
+                "lat": 47.3911224,
+                "lon": 15.640922,
+                "denomination": "catholic",
+                "historic": "wayside_shrine",
+                "name": "Heilbrunn Quelle",
+                "natural": "spring",
+                "religion": "christian",
+                "source": "GPS"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.640922,
+                  47.3911224
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2381621228",
+                "osm_type": "node",
+                "lat": 47.4040148,
+                "lon": 15.5573179,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5573179,
+                  47.4040148
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3890826428",
+                "osm_type": "node",
+                "lat": 47.5208755,
+                "lon": 15.5443456,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5443456,
+                  47.5208755
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4569311242",
+                "osm_type": "node",
+                "lat": 47.491404,
+                "lon": 15.537919,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.537919,
+                  47.491404
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4783724834",
+                "osm_type": "node",
+                "lat": 47.4989053,
+                "lon": 15.5354958,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5354958,
+                  47.4989053
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9186489342",
+                "osm_type": "node",
+                "lat": 47.5271331,
+                "lon": 15.7074396,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7074396,
+                  47.5271331
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 15.73002475,
+            "north": 47.529588375,
+            "east": 16.2068765
+          },
+          "poiCount": 19,
+          "leafCount": 19,
+          "averagePosition": [
+            15.879522568421052,
+            47.45710507894737
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8865120060",
+                "osm_type": "node",
+                "lat": 47.3650315,
+                "lon": 15.8952898,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8952898,
+                  47.3650315
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8865128351",
+                "osm_type": "node",
+                "lat": 47.366053,
+                "lon": 15.8942605,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8942605,
+                  47.366053
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "886688737",
+                "osm_type": "node",
+                "lat": 47.5156206,
+                "lon": 16.0223567,
+                "name": "Schauquellfassung",
+                "natural": "spring",
+                "note": "Themenweg Lebenswasser Station 4"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0223567,
+                  47.5156206
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1834332336",
+                "osm_type": "node",
+                "lat": 47.5255969,
+                "lon": 15.9185992,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9185992,
+                  47.5255969
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1834332343",
+                "osm_type": "node",
+                "lat": 47.5262047,
+                "lon": 15.9193608,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9193608,
+                  47.5262047
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1834332349",
+                "osm_type": "node",
+                "lat": 47.5267298,
+                "lon": 15.9209959,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9209959,
+                  47.5267298
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3690071667",
+                "osm_type": "node",
+                "lat": 47.4673776,
+                "lon": 15.989536,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.989536,
+                  47.4673776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3690071668",
+                "osm_type": "node",
+                "lat": 47.4745114,
+                "lon": 15.9720912,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9720912,
+                  47.4745114
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5225445030",
+                "osm_type": "node",
+                "lat": 47.396628,
+                "lon": 15.792612,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.792612,
+                  47.396628
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5908528296",
+                "osm_type": "node",
+                "lat": 47.5196244,
+                "lon": 15.7914788,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7914788,
+                  47.5196244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6814458534",
+                "osm_type": "node",
+                "lat": 47.4995032,
+                "lon": 15.8661997,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8661997,
+                  47.4995032
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7088028035",
+                "osm_type": "node",
+                "lat": 47.3796189,
+                "lon": 15.8050978,
+                "name": "Lafnitzursprung",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8050978,
+                  47.3796189
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7279498237",
+                "osm_type": "node",
+                "lat": 47.3745961,
+                "lon": 15.8131242,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8131242,
+                  47.3745961
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8560469217",
+                "osm_type": "node",
+                "lat": 47.3805267,
+                "lon": 15.7618075,
+                "name": "Brunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7618075,
+                  47.3805267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8852805082",
+                "osm_type": "node",
+                "lat": 47.5127336,
+                "lon": 15.8904337,
+                "natural": "spring",
+                "source": "BEV"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8904337,
+                  47.5127336
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12103140924",
+                "osm_type": "node",
+                "lat": 47.4631406,
+                "lon": 15.7768343,
+                "drinking_water": "yes",
+                "name": "Jakobibründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7768343,
+                  47.4631406
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12382336410",
+                "osm_type": "node",
+                "lat": 47.5087641,
+                "lon": 15.8906062,
+                "drinking_water": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8906062,
+                  47.5087641
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12550013006",
+                "osm_type": "node",
+                "lat": 47.4317698,
+                "lon": 15.7378213,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7378213,
+                  47.4317698
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8050817878",
+                "osm_type": "node",
+                "lat": 47.4509656,
+                "lon": 16.0524232,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "name": "Rehbründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0524232,
+                  47.4509656
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 15.253173,
+            "north": 47.694865,
+            "east": 15.73002475
+          },
+          "poiCount": 38,
+          "leafCount": 38,
+          "averagePosition": [
+            15.526852260526315,
+            47.650177489473684
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "60274536",
+                "osm_type": "node",
+                "lat": 47.6564267,
+                "lon": 15.4056614,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4056614,
+                  47.6564267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "907902052",
+                "osm_type": "node",
+                "lat": 47.5741951,
+                "lon": 15.4261894,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4261894,
+                  47.5741951
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1382282338",
+                "osm_type": "node",
+                "lat": 47.6217447,
+                "lon": 15.2772783,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2772783,
+                  47.6217447
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2811586912",
+                "osm_type": "node",
+                "lat": 47.5656802,
+                "lon": 15.2636698,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2636698,
+                  47.5656802
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4854326413",
+                "osm_type": "node",
+                "lat": 47.5728696,
+                "lon": 15.3230444,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3230444,
+                  47.5728696
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5912612917",
+                "osm_type": "node",
+                "lat": 47.6323571,
+                "lon": 15.2551677,
+                "name": "Bruchtal Quelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2551677,
+                  47.6323571
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6433097375",
+                "osm_type": "node",
+                "lat": 47.6718068,
+                "lon": 15.4879305,
+                "intermittent": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4879305,
+                  47.6718068
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7809396773",
+                "osm_type": "node",
+                "lat": 47.6478693,
+                "lon": 15.4819456,
+                "name": "Lahner Urquell",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4819456,
+                  47.6478693
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8922760339",
+                "osm_type": "node",
+                "lat": 47.633333,
+                "lon": 15.3969255,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3969255,
+                  47.633333
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8972283697",
+                "osm_type": "node",
+                "lat": 47.676544,
+                "lon": 15.5301028,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5301028,
+                  47.676544
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11918127315",
+                "osm_type": "node",
+                "lat": 47.6024085,
+                "lon": 15.3774255,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3774255,
+                  47.6024085
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12199285127",
+                "osm_type": "node",
+                "lat": 47.6886345,
+                "lon": 15.5289822,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5289822,
+                  47.6886345
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12629054171",
+                "osm_type": "node",
+                "lat": 47.6533948,
+                "lon": 15.487021,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.487021,
+                  47.6533948
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12629054174",
+                "osm_type": "node",
+                "lat": 47.6654419,
+                "lon": 15.515366,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.515366,
+                  47.6654419
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13123612591",
+                "osm_type": "node",
+                "lat": 47.5759838,
+                "lon": 15.2934539,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2934539,
+                  47.5759838
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13123640643",
+                "osm_type": "node",
+                "lat": 47.5819293,
+                "lon": 15.2835651,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2835651,
+                  47.5819293
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "334960902",
+                "osm_type": "node",
+                "lat": 47.5454152,
+                "lon": 15.6562744,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6562744,
+                  47.5454152
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "481423891",
+                "osm_type": "node",
+                "lat": 47.6829044,
+                "lon": 15.5643673,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "name": "Siebenquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5643673,
+                  47.6829044
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "914307402",
+                "osm_type": "node",
+                "lat": 47.6784991,
+                "lon": 15.6786751,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6786751,
+                  47.6784991
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1581520809",
+                "osm_type": "node",
+                "lat": 47.6859582,
+                "lon": 15.7234854,
+                "drinking_water": "yes",
+                "man_made": "drinking_water",
+                "name": "Lendl Quelle",
+                "natural": "spring",
+                "operator": "Gemeinde Mürzzuschlag",
+                "start_date": "1962"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7234854,
+                  47.6859582
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1659733182",
+                "osm_type": "node",
+                "lat": 47.6529643,
+                "lon": 15.7249225,
+                "name": "Paulinenquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7249225,
+                  47.6529643
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1831821748",
+                "osm_type": "node",
+                "lat": 47.6576001,
+                "lon": 15.5783471,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5783471,
+                  47.6576001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2011141039",
+                "osm_type": "node",
+                "lat": 47.679761,
+                "lon": 15.7069942,
+                "alt_name": "Hetzel-Quelle",
+                "drinking_water": "yes",
+                "name": "Hetzelquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7069942,
+                  47.679761
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2012297195",
+                "osm_type": "node",
+                "lat": 47.678946,
+                "lon": 15.7097753,
+                "drinking_water": "yes",
+                "name": "Kainradl-Quelle",
+                "natural": "spring",
+                "website": "https://www.watersupply.at/details.php?id=d07f731d968189c8a4cc38e13295eef4f3ee1d4e"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7097753,
+                  47.678946
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4210392869",
+                "osm_type": "node",
+                "lat": 47.6806754,
+                "lon": 15.6801894,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6801894,
+                  47.6806754
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5166426965",
+                "osm_type": "node",
+                "lat": 47.6918519,
+                "lon": 15.5632348,
+                "drinking_water": "yes",
+                "intermittent": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5632348,
+                  47.6918519
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5594085807",
+                "osm_type": "node",
+                "lat": 47.6907068,
+                "lon": 15.5418226,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5418226,
+                  47.6907068
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5835501994",
+                "osm_type": "node",
+                "lat": 47.6839395,
+                "lon": 15.7178559,
+                "drinking_water": "yes",
+                "man_made": "water_tap",
+                "name": "Helenenquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7178559,
+                  47.6839395
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7510610296",
+                "osm_type": "node",
+                "lat": 47.6822957,
+                "lon": 15.5639698,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5639698,
+                  47.6822957
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7510610297",
+                "osm_type": "node",
+                "lat": 47.6823508,
+                "lon": 15.5639664,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5639664,
+                  47.6823508
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7510610298",
+                "osm_type": "node",
+                "lat": 47.6825061,
+                "lon": 15.5639899,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5639899,
+                  47.6825061
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7510610299",
+                "osm_type": "node",
+                "lat": 47.6826131,
+                "lon": 15.5641307,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5641307,
+                  47.6826131
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7510610338",
+                "osm_type": "node",
+                "lat": 47.6830045,
+                "lon": 15.5644827,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5644827,
+                  47.6830045
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9023900891",
+                "osm_type": "node",
+                "lat": 47.6796662,
+                "lon": 15.5633978,
+                "name": "Siebenquellen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5633978,
+                  47.6796662
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10801720317",
+                "osm_type": "node",
+                "lat": 47.6010593,
+                "lon": 15.6280126,
+                "drinking_water": "no",
+                "drinking_water:legal": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6280126,
+                  47.6010593
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10894262302",
+                "osm_type": "node",
+                "lat": 47.6155407,
+                "lon": 15.6627794,
+                "drinking_water": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6627794,
+                  47.6155407
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11739294689",
+                "osm_type": "node",
+                "lat": 47.6752941,
+                "lon": 15.5915549,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5915549,
+                  47.6752941
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12760313804",
+                "osm_type": "node",
+                "lat": 47.6925729,
+                "lon": 15.5744286,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5744286,
+                  47.6925729
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 15.73002475,
+            "north": 47.694865,
+            "east": 16.2068765
+          },
+          "poiCount": 31,
+          "leafCount": 31,
+          "averagePosition": [
+            15.88447912903226,
+            47.62892045806452
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "334941798",
+                "osm_type": "node",
+                "lat": 47.6239887,
+                "lon": 15.7332626,
+                "drinking_water": "yes",
+                "name": "Franziskaquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7332626,
+                  47.6239887
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "760573284",
+                "osm_type": "node",
+                "lat": 47.5487069,
+                "lon": 15.9826621,
+                "drinking_water": "yes",
+                "name": "Hermannquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9826621,
+                  47.5487069
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "802700566",
+                "osm_type": "node",
+                "lat": 47.6718001,
+                "lon": 15.8758347,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8758347,
+                  47.6718001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "982811077",
+                "osm_type": "node",
+                "lat": 47.6496781,
+                "lon": 15.9295925,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9295925,
+                  47.6496781
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1079601239",
+                "osm_type": "node",
+                "lat": 47.691584,
+                "lon": 15.962306,
+                "intermittent": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.962306,
+                  47.691584
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1581290012",
+                "osm_type": "node",
+                "lat": 47.6355986,
+                "lon": 15.8207924,
+                "natural": "spring",
+                "source": "GPS"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8207924,
+                  47.6355986
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1806547871",
+                "osm_type": "node",
+                "lat": 47.6163215,
+                "lon": 15.9846063,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9846063,
+                  47.6163215
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1814526468",
+                "osm_type": "node",
+                "lat": 47.621064,
+                "lon": 15.967122,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.967122,
+                  47.621064
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1816787966",
+                "osm_type": "node",
+                "lat": 47.5823555,
+                "lon": 15.9823356,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9823356,
+                  47.5823555
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1847858360",
+                "osm_type": "node",
+                "lat": 47.6503,
+                "lon": 15.886403,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.886403,
+                  47.6503
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1976863009",
+                "osm_type": "node",
+                "lat": 47.6408665,
+                "lon": 15.8167285,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8167285,
+                  47.6408665
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2012273495",
+                "osm_type": "node",
+                "lat": 47.689501,
+                "lon": 15.7463095,
+                "alt_name": "Taubenbrünndl",
+                "man_made": "water_tap",
+                "name": "Taubenbründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7463095,
+                  47.689501
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2612562963",
+                "osm_type": "node",
+                "lat": 47.6584565,
+                "lon": 15.8705356,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8705356,
+                  47.6584565
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2612929531",
+                "osm_type": "node",
+                "lat": 47.6403105,
+                "lon": 15.8543302,
+                "amenity": "watering_place",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8543302,
+                  47.6403105
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3006975637",
+                "osm_type": "node",
+                "lat": 47.5821405,
+                "lon": 15.7989304,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7989304,
+                  47.5821405
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3992134133",
+                "osm_type": "node",
+                "lat": 47.5774864,
+                "lon": 15.7956906,
+                "name": "Quelle von A.G.H.",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7956906,
+                  47.5774864
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4172517597",
+                "osm_type": "node",
+                "lat": 47.6134442,
+                "lon": 15.800635,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.800635,
+                  47.6134442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5654580435",
+                "osm_type": "node",
+                "lat": 47.583573,
+                "lon": 15.7369763,
+                "drinking_water": "yes",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7369763,
+                  47.583573
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5747047348",
+                "osm_type": "node",
+                "lat": 47.6516599,
+                "lon": 16.0266669,
+                "name": "Köchbrunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0266669,
+                  47.6516599
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5894482135",
+                "osm_type": "node",
+                "lat": 47.6055088,
+                "lon": 15.8576277,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8576277,
+                  47.6055088
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6053333675",
+                "osm_type": "node",
+                "lat": 47.5663306,
+                "lon": 15.8488754,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8488754,
+                  47.5663306
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6067351355",
+                "osm_type": "node",
+                "lat": 47.6442233,
+                "lon": 15.9437085,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9437085,
+                  47.6442233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7636303385",
+                "osm_type": "node",
+                "lat": 47.5670624,
+                "lon": 15.8671378,
+                "name": "Feistritzursprung",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8671378,
+                  47.5670624
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7994604774",
+                "osm_type": "node",
+                "lat": 47.6923039,
+                "lon": 15.7595909,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7595909,
+                  47.6923039
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11059898245",
+                "osm_type": "node",
+                "lat": 47.5733336,
+                "lon": 15.8497632,
+                "name": "Königsbrünnlein",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8497632,
+                  47.5733336
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11066542401",
+                "osm_type": "node",
+                "lat": 47.6419035,
+                "lon": 15.7863615,
+                "natural": "spring",
+                "source": "ÖK50;https://www.openstreetmap.org/note/2101788"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7863615,
+                  47.6419035
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11882082535",
+                "osm_type": "node",
+                "lat": 47.6415337,
+                "lon": 15.8693896,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "name": "Heilig Bründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8693896,
+                  47.6415337
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12068122735",
+                "osm_type": "node",
+                "lat": 47.6733233,
+                "lon": 15.8558168,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8558168,
+                  47.6733233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12828589516",
+                "osm_type": "node",
+                "lat": 47.6265381,
+                "lon": 15.9306495,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9306495,
+                  47.6265381
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "933674035",
+                "osm_type": "node",
+                "lat": 47.6846981,
+                "lon": 16.1156039,
+                "drinking_water": "no",
+                "name": "Hubertusbrunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1156039,
+                  47.6846981
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1816645513",
+                "osm_type": "node",
+                "lat": 47.650939,
+                "lon": 16.162608,
+                "access": "no",
+                "man_made": "water_works",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.162608,
+                  47.650939
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 16.2068765,
+        "north": 47.694865,
+        "east": 17.16058
+      },
+      "poiCount": 88,
+      "leafCount": 0,
+      "averagePosition": [
+        16.605783428409094,
+        47.5684573
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 16.2068765,
+            "north": 47.529588375,
+            "east": 16.68372825
+          },
+          "poiCount": 22,
+          "leafCount": 22,
+          "averagePosition": [
+            16.46594878181818,
+            47.39539903181819
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2306162609",
+                "osm_type": "node",
+                "lat": 47.3704118,
+                "lon": 16.467291,
+                "drinking_water": "conditional",
+                "drinking_water:legal": "no",
+                "intermittent": "no",
+                "name": "Ciklámen-forrás",
+                "natural": "spring",
+                "wikidata": "Q110194359",
+                "wikipedia": "hu:Ciklámen-forrás"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.467291,
+                  47.3704118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3011118919",
+                "osm_type": "node",
+                "lat": 47.3708586,
+                "lon": 16.500101,
+                "drinking_water": "conditional",
+                "drinking_water:legal": "no",
+                "intermittent": "no",
+                "name": "Enikő-forrás",
+                "natural": "spring",
+                "note": "2020-09-11 - \"működik\" | Korábbi: 2019-09-22 - \"elapadt, bár a forrás foglalata mellet egy kicsit folydogált\"",
+                "url": "http://turistautak.hu/poi.php?id=8058"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.500101,
+                  47.3708586
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3011118922",
+                "osm_type": "node",
+                "lat": 47.3665425,
+                "lon": 16.4754184,
+                "drinking_water": "conditional",
+                "drinking_water:legal": "no",
+                "intermittent": "no",
+                "name": "Sáros-forrás",
+                "natural": "spring",
+                "url": "http://turistautak.hu/poi.php?id=69967"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4754184,
+                  47.3665425
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3329844006",
+                "osm_type": "node",
+                "lat": 47.37163,
+                "lon": 16.48301,
+                "fixme": "position",
+                "name": "Árpád-forrás",
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "url": "http://turistautak.hu/poi.php?id=8063"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.48301,
+                  47.37163
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3465143551",
+                "osm_type": "node",
+                "lat": 47.368133,
+                "lon": 16.512767,
+                "description": "1969-ben kiépített , szabad elfolyású merítős forrás a Pogány pincesoron. A ráfestett felirat szerint a vize iható.",
+                "natural": "spring",
+                "refitted": "yes",
+                "source": "turistautak.hu",
+                "source:date": "2015-03-03",
+                "url": "http://turistautak.hu/poi.php?id=84714"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.512767,
+                  47.368133
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5169349041",
+                "osm_type": "node",
+                "lat": 47.364737,
+                "lon": 16.4564443,
+                "natural": "spring",
+                "seasonal": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4564443,
+                  47.364737
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5183671432",
+                "osm_type": "node",
+                "lat": 47.3697965,
+                "lon": 16.4641601,
+                "natural": "spring",
+                "seasonal": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4641601,
+                  47.3697965
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5183671433",
+                "osm_type": "node",
+                "lat": 47.3697965,
+                "lon": 16.4654539,
+                "natural": "spring",
+                "seasonal": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4654539,
+                  47.3697965
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "863091209",
+                "osm_type": "node",
+                "lat": 47.3871307,
+                "lon": 16.5003175,
+                "drinking_water": "conditional",
+                "drinking_water:legal": "no",
+                "intermittent": "no",
+                "name": "Hétforrás",
+                "name:de": "Siebenbründel",
+                "natural": "spring",
+                "note": "2022-08-25 - \"A szárazság ellenére is bővízű forrás.\"",
+                "source": "survey",
+                "survey:date": "2022-08-13",
+                "url": "http://turistautak.hu/poi.php?id=347",
+                "wikidata": "Q1057468",
+                "wikipedia": "hu:Hétforrás"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5003175,
+                  47.3871307
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2868197144",
+                "osm_type": "node",
+                "lat": 47.3810735,
+                "lon": 16.4832284,
+                "drinking_water": "conditional",
+                "drinking_water:legal": "no",
+                "intermittent": "no",
+                "name": "Szikla-forrás",
+                "natural": "spring",
+                "url": "http://turistautak.hu/poi.php?id=20494"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4832284,
+                  47.3810735
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3329843995",
+                "osm_type": "node",
+                "lat": 47.3812073,
+                "lon": 16.5197212,
+                "name": "József-forrás",
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "url": "http://turistautak.hu/poi.php?id=71742"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5197212,
+                  47.3812073
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4112542167",
+                "osm_type": "node",
+                "lat": 47.4007897,
+                "lon": 16.2487545,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2487545,
+                  47.4007897
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4687695613",
+                "osm_type": "node",
+                "lat": 47.3802677,
+                "lon": 16.3458864,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3458864,
+                  47.3802677
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4855272240",
+                "osm_type": "node",
+                "lat": 47.4596888,
+                "lon": 16.3065475,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3065475,
+                  47.4596888
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5646265524",
+                "osm_type": "node",
+                "lat": 47.4016685,
+                "lon": 16.249769,
+                "natural": "spring",
+                "note": "ehem. Mittelalterstollen"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.249769,
+                  47.4016685
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6918733251",
+                "osm_type": "node",
+                "lat": 47.4661048,
+                "lon": 16.3064489,
+                "intermittent": "no",
+                "name": "Grandl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3064489,
+                  47.4661048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6918733253",
+                "osm_type": "node",
+                "lat": 47.4679464,
+                "lon": 16.3072663,
+                "ele": "500",
+                "intermittent": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3072663,
+                  47.4679464
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2940979733",
+                "osm_type": "node",
+                "lat": 47.3999844,
+                "lon": 16.5860764,
+                "drinking_water": "no",
+                "name": "Őzkút",
+                "natural": "spring",
+                "note": "2020-04-09 - \"nem ivóvíz\"",
+                "url": "http://turistautak.hu/poi.php?id=49986"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5860764,
+                  47.3999844
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3238647693",
+                "osm_type": "node",
+                "lat": 47.3964804,
+                "lon": 16.6810314,
+                "drinking_water": "yes",
+                "name": "Bene-kút",
+                "natural": "spring",
+                "note": "2024-09-21 - \"működik\"",
+                "url": "http://turistautak.hu/poi.php?id=31135"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6810314,
+                  47.3964804
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3346514328",
+                "osm_type": "node",
+                "lat": 47.4084236,
+                "lon": 16.6375239,
+                "name": "Kiszsidányi-forrás",
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "url": "http://turistautak.hu/poi.php?id=71720"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6375239,
+                  47.4084236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8662312008",
+                "osm_type": "node",
+                "lat": 47.3942555,
+                "lon": 16.6503272,
+                "name": "Kecske-kút",
+                "natural": "spring",
+                "note": "2022-08-25 - \"működik\""
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6503272,
+                  47.3942555
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13009266366",
+                "osm_type": "node",
+                "lat": 47.4218515,
+                "lon": 16.6033289,
+                "name": "Eszter-kút",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6033289,
+                  47.4218515
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 16.68372825,
+            "north": 47.529588375,
+            "east": 17.16058
+          },
+          "poiCount": 5,
+          "leafCount": 5,
+          "averagePosition": [
+            16.95627634,
+            47.46758378
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3202214355",
+                "osm_type": "node",
+                "lat": 47.3904157,
+                "lon": 16.6869714,
+                "drinking_water": "yes",
+                "name": "Sajbók-forrás",
+                "natural": "spring",
+                "note": "2024-09-21 - \"nem adott vizet\""
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6869714,
+                  47.3904157
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3355568119",
+                "osm_type": "node",
+                "lat": 47.4777518,
+                "lon": 17.0291707,
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "url": "http://turistautak.hu/poi.php?id=123636",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0291707,
+                  47.4777518
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3439644714",
+                "osm_type": "node",
+                "lat": 47.520916,
+                "lon": 17.013496,
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "source:date": "2012-09-02",
+                "url": "http://turistautak.hu/poi.php?id=144147",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.013496,
+                  47.520916
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4455195540",
+                "osm_type": "node",
+                "lat": 47.4920007,
+                "lon": 17.0210845,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0210845,
+                  47.4920007
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4725776567",
+                "osm_type": "node",
+                "lat": 47.4568347,
+                "lon": 17.0306591,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0306591,
+                  47.4568347
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 16.2068765,
+            "north": 47.694865,
+            "east": 16.68372825
+          },
+          "poiCount": 44,
+          "leafCount": 44,
+          "averagePosition": [
+            16.520171195454544,
+            47.652975693181816
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1993554429",
+                "osm_type": "node",
+                "lat": 47.675833,
+                "lon": 16.2381046,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2381046,
+                  47.675833
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1993560182",
+                "osm_type": "node",
+                "lat": 47.687159,
+                "lon": 16.2256591,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2256591,
+                  47.687159
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2020747989",
+                "osm_type": "node",
+                "lat": 47.6763071,
+                "lon": 16.2619043,
+                "drinking_water": "no",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2619043,
+                  47.6763071
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490067",
+                "osm_type": "node",
+                "lat": 47.665474,
+                "lon": 16.443045,
+                "drinking_water": "no",
+                "name": "Anonym forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.443045,
+                  47.665474
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490069",
+                "osm_type": "node",
+                "lat": 47.6752795,
+                "lon": 16.5231076,
+                "drinking_water": "yes",
+                "name": "Béla-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=11317"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5231076,
+                  47.6752795
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490071",
+                "osm_type": "node",
+                "lat": 47.646008,
+                "lon": 16.513409,
+                "drinking_water": "no",
+                "name": "Kaltes Bründl",
+                "name:de": "Kaltes Bründl",
+                "name:hu": "Büdös-kút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.513409,
+                  47.646008
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490080",
+                "osm_type": "node",
+                "lat": 47.662628,
+                "lon": 16.436287,
+                "drinking_water": "yes",
+                "name": "Hidegvíz-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=1472"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.436287,
+                  47.662628
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490087",
+                "osm_type": "node",
+                "lat": 47.6483659,
+                "lon": 16.5125956,
+                "drinking_water": "no",
+                "name": "Kövesároki szivárgók",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5125956,
+                  47.6483659
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490094",
+                "osm_type": "node",
+                "lat": 47.677765,
+                "lon": 16.521528,
+                "drinking_water": "no",
+                "name": "v. Manninger-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=11318"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.521528,
+                  47.677765
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490097",
+                "osm_type": "node",
+                "lat": 47.633842,
+                "lon": 16.359787,
+                "name": "Maria Bründl",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.359787,
+                  47.633842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490107",
+                "osm_type": "node",
+                "lat": 47.660641,
+                "lon": 16.524607,
+                "drinking_water": "no",
+                "name": "v. Postás-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.524607,
+                  47.660641
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490111",
+                "osm_type": "node",
+                "lat": 47.66,
+                "lon": 16.489555,
+                "drinking_water": "no",
+                "name": "Rámel-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.489555,
+                  47.66
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3764514615",
+                "osm_type": "node",
+                "lat": 47.664842,
+                "lon": 16.449056,
+                "drinking_water": "yes",
+                "name": "Bányász-forrás",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.449056,
+                  47.664842
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4460699087",
+                "osm_type": "node",
+                "lat": 47.6673004,
+                "lon": 16.3705298,
+                "description": "Sickerquelle",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3705298,
+                  47.6673004
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4870392170",
+                "osm_type": "node",
+                "lat": 47.684846,
+                "lon": 16.5152308,
+                "name": "Schneeberg Wiesen Bründl",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5152308,
+                  47.684846
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6225288322",
+                "osm_type": "node",
+                "lat": 47.5941069,
+                "lon": 16.4486971,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4486971,
+                  47.5941069
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7579860667",
+                "osm_type": "node",
+                "lat": 47.6490396,
+                "lon": 16.5005106,
+                "drinking_water": "no",
+                "name": "v. Kovács-kút",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5005106,
+                  47.6490396
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10913947630",
+                "osm_type": "node",
+                "lat": 47.640001,
+                "lon": 16.4963329,
+                "drinking_water": "no",
+                "name": "Pacsirta-forrás",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4963329,
+                  47.640001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12485229599",
+                "osm_type": "node",
+                "lat": 47.6599838,
+                "lon": 16.5161372,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5161372,
+                  47.6599838
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490070",
+                "osm_type": "node",
+                "lat": 47.649632,
+                "lon": 16.569712,
+                "drinking_water": "no",
+                "name": "v. Bögre-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.569712,
+                  47.649632
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490073",
+                "osm_type": "node",
+                "lat": 47.668633,
+                "lon": 16.563705,
+                "disused:natural": "spring",
+                "drinking_water": "no",
+                "inscription": "\"Itt lobogott a deákkúti vármegye zászlaja egykor, szelleme mostan is int, ifjú szeresd a hazát!\"",
+                "name": "Deákkút",
+                "name:de": "Studentenbrunnen",
+                "natural": "spring",
+                "note": "2021-08-05 - \"nem folyik\" | Korábbi: 2019-06-17 - \"Nem ívóvíz!\" (Hatóság által kiírva!)",
+                "source": "IkvaHír"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.563705,
+                  47.668633
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490075",
+                "osm_type": "node",
+                "lat": 47.651134,
+                "lon": 16.538349,
+                "drinking_water": "yes",
+                "name": "Ferenc-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=8880"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.538349,
+                  47.651134
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490076",
+                "osm_type": "node",
+                "lat": 47.6661683,
+                "lon": 16.550695,
+                "drinking_water": "no",
+                "name": "Fáber-réti-kút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.550695,
+                  47.6661683
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490078",
+                "osm_type": "node",
+                "lat": 47.669365,
+                "lon": 16.671091,
+                "name": "Fűzfa kút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=9134"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.671091,
+                  47.669365
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490079",
+                "osm_type": "node",
+                "lat": 47.644695,
+                "lon": 16.533016,
+                "drinking_water": "no",
+                "name": "v. Gyertyánfa-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.533016,
+                  47.644695
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490082",
+                "osm_type": "node",
+                "lat": 47.6610125,
+                "lon": 16.5338242,
+                "drinking_water": "yes",
+                "name": "Hármas-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=8771"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5338242,
+                  47.6610125
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490090",
+                "osm_type": "node",
+                "lat": 47.689171,
+                "lon": 16.663834,
+                "name": "Kräftner kút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.663834,
+                  47.689171
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490101",
+                "osm_type": "node",
+                "lat": 47.6507026,
+                "lon": 16.6632677,
+                "name": "Oroszlános-kút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6632677,
+                  47.6507026
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490103",
+                "osm_type": "node",
+                "lat": 47.661964,
+                "lon": 16.558294,
+                "drinking_water": "no",
+                "name": "Pedagógus-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.558294,
+                  47.661964
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490106",
+                "osm_type": "node",
+                "lat": 47.599247,
+                "lon": 16.602991,
+                "name": "Plattenbrunnen",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.602991,
+                  47.599247
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490108",
+                "osm_type": "node",
+                "lat": 47.64048,
+                "lon": 16.550703,
+                "drinking_water": "no",
+                "name": "v. Rigó-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=8546"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.550703,
+                  47.64048
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490112",
+                "osm_type": "node",
+                "lat": 47.657433,
+                "lon": 16.669067,
+                "disused": "yes",
+                "name": "Régi savanyúkút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=7781"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.669067,
+                  47.657433
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490115",
+                "osm_type": "node",
+                "lat": 47.668728,
+                "lon": 16.537355,
+                "drinking_water": "yes",
+                "name": "Szent György-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=12974"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.537355,
+                  47.668728
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490116",
+                "osm_type": "node",
+                "lat": 47.6670879,
+                "lon": 16.5441147,
+                "drinking_water": "yes",
+                "name": "Természetbarát-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=8545"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5441147,
+                  47.6670879
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490117",
+                "osm_type": "node",
+                "lat": 47.662479,
+                "lon": 16.54797,
+                "drinking_water": "no",
+                "name": "v. Textiles-forrás",
+                "natural": "spring",
+                "note": "2020-09-13 - \"kiszáradt\"",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=8879"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.54797,
+                  47.662479
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490118",
+                "osm_type": "node",
+                "lat": 47.655956,
+                "lon": 16.560408,
+                "drinking_water": "yes",
+                "name": "Ólom-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.560408,
+                  47.655956
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490120",
+                "osm_type": "node",
+                "lat": 47.6581742,
+                "lon": 16.6677153,
+                "drinking_water": "yes",
+                "intermittent": "no",
+                "name": "Balfi Új savanyúkút",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=90495",
+                "water_characteristic": "mineral"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6677153,
+                  47.6581742
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490121",
+                "osm_type": "node",
+                "lat": 47.602299,
+                "lon": 16.541721,
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.541721,
+                  47.602299
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2385524737",
+                "osm_type": "node",
+                "lat": 47.6003948,
+                "lon": 16.5491358,
+                "drinking_water": "no",
+                "historic": "wayside_shrine",
+                "name": "Hl. Johannesquelle",
+                "natural": "spring",
+                "religion": "multifaith"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5491358,
+                  47.6003948
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3346549023",
+                "osm_type": "node",
+                "lat": 47.619487,
+                "lon": 16.619868,
+                "drinking_water": "yes",
+                "name": "Rudolfquelle",
+                "natural": "spring",
+                "source": "turistautak.hu",
+                "url": "http://turistautak.hu/poi.php?id=11906"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.619868,
+                  47.619487
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3764498222",
+                "osm_type": "node",
+                "lat": 47.6528143,
+                "lon": 16.5404529,
+                "drinking_water": "no",
+                "name": "Nagyfüzes-forrás",
+                "natural": "spring",
+                "source": "IkvaHír"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5404529,
+                  47.6528143
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3764508023",
+                "osm_type": "node",
+                "lat": 47.5730831,
+                "lon": 16.6332459,
+                "name": "Frauenbrunnen",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6332459,
+                  47.5730831
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5244598681",
+                "osm_type": "node",
+                "lat": 47.6500854,
+                "lon": 16.554025,
+                "drinking_water": "no",
+                "name": "v. Csalóka-forrás",
+                "natural": "spring",
+                "source": "ikvahir.eu"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.554025,
+                  47.6500854
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12168104137",
+                "osm_type": "node",
+                "lat": 47.6812822,
+                "lon": 16.5768885,
+                "drinking_water": "no",
+                "name": "Erzsébet-forrás",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5768885,
+                  47.6812822
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 16.68372825,
+            "north": 47.694865,
+            "east": 17.16058
+          },
+          "poiCount": 17,
+          "leafCount": 17,
+          "averagePosition": [
+            16.905244364705883,
+            47.60333025294118
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1877473608",
+                "osm_type": "node",
+                "lat": 47.5876462,
+                "lon": 16.9859832,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9859832,
+                  47.5876462
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1877473654",
+                "osm_type": "node",
+                "lat": 47.5867179,
+                "lon": 16.9787746,
+                "drinking_water": "yes",
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9787746,
+                  47.5867179
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490086",
+                "osm_type": "node",
+                "lat": 47.636501,
+                "lon": 16.698225,
+                "drinking_water": "no",
+                "name": "Kis-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.698225,
+                  47.636501
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490092",
+                "osm_type": "node",
+                "lat": 47.6266078,
+                "lon": 16.7414985,
+                "drinking_water": "no",
+                "name": "Községi forrás",
+                "natural": "spring",
+                "note": "2018-08-02: \"Nem iható.\"",
+                "source": "IkvaHír",
+                "url": "http://turistautak.hu/poi.php?id=374"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7414985,
+                  47.6266078
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490099",
+                "osm_type": "node",
+                "lat": 47.6355424,
+                "lon": 16.7006701,
+                "name": "Bence-forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7006701,
+                  47.6355424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2333490119",
+                "osm_type": "node",
+                "lat": 47.636269,
+                "lon": 16.698753,
+                "name": "Óvodai forrás",
+                "natural": "spring",
+                "source": "IkvaHír",
+                "url": "http://sopforras.ikvahir.eu/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.698753,
+                  47.636269
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3075769562",
+                "osm_type": "node",
+                "lat": 47.5652716,
+                "lon": 16.8124002,
+                "name": "Szent Imre-forrás",
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8124002,
+                  47.5652716
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427641",
+                "osm_type": "node",
+                "lat": 47.596678,
+                "lon": 16.8958927,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8958927,
+                  47.596678
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427642",
+                "osm_type": "node",
+                "lat": 47.5986096,
+                "lon": 16.8951155,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8951155,
+                  47.5986096
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427643",
+                "osm_type": "node",
+                "lat": 47.599294,
+                "lon": 16.8976843,
+                "drinking_water": "yes",
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8976843,
+                  47.599294
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4455195538",
+                "osm_type": "node",
+                "lat": 47.5517601,
+                "lon": 17.0209853,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0209853,
+                  47.5517601
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8677285441",
+                "osm_type": "node",
+                "lat": 47.6264278,
+                "lon": 17.0266415,
+                "name": "Egykori Indiamajor artézi-kút",
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0266415,
+                  47.6264278
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12559310318",
+                "osm_type": "node",
+                "lat": 47.6033567,
+                "lon": 16.9085005,
+                "name": "Artézi-kút",
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9085005,
+                  47.6033567
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12591588400",
+                "osm_type": "node",
+                "lat": 47.6590699,
+                "lon": 16.8940363,
+                "natural": "spring"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8940363,
+                  47.6590699
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427640",
+                "osm_type": "node",
+                "lat": 47.5752365,
+                "lon": 17.0760343,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0760343,
+                  47.5752365
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427644",
+                "osm_type": "node",
+                "lat": 47.5864282,
+                "lon": 17.1224322,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1224322,
+                  47.5864282
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4452427646",
+                "osm_type": "node",
+                "lat": 47.5851976,
+                "lon": 17.035527,
+                "natural": "spring",
+                "water_characteristic": "artesian well"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.035527,
+                  47.5851976
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

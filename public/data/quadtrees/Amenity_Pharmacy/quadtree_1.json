@@ -1,0 +1,3250 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 11.438358999999998,
+    "north": 47.033758500000005,
+    "east": 13.345766
+  },
+  "poiCount": 123,
+  "leafCount": 0,
+  "averagePosition": [
+    12.269571649593495,
+    46.592660519512194
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 11.438358999999998,
+        "north": 46.70320525,
+        "east": 12.392062499999998
+      },
+      "poiCount": 44,
+      "leafCount": 44,
+      "averagePosition": [
+        11.8575588,
+        46.51557912954546
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2755940451",
+            "osm_type": "node",
+            "lat": 46.5364917,
+            "lon": 11.4632463,
+            "addr:city": "Ritten - Renon",
+            "addr:city:de": "Ritten",
+            "addr:city:it": "Renon",
+            "addr:hamlet": "Klobenstein - Collalbo",
+            "addr:hamlet:de": "Klobenstein",
+            "addr:hamlet:it": "Collalbo",
+            "addr:housenumber": "21",
+            "addr:postcode": "39054",
+            "addr:street": "Dorfstraße - Via del Paese",
+            "addr:street:de": "Dorfstraße",
+            "addr:street:it": "Via del Paese",
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "email": "farmaciadelrenon@libero.it",
+            "name": "Apotheke Klobenstein - Farmacia del Renon",
+            "name:de": "Apotheke Klobenstein",
+            "name:it": "Farmacia del Renon",
+            "opening_hours": "Mo-Fr 08:00-12:00,15:00-19:00; Sa 08:00-12:00",
+            "operator": "Parafarmacia del Renon",
+            "phone": "+39 0471 356108",
+            "ref:msal": "013664",
+            "ref:vatin": "IT03006760213",
+            "source": "Ministero della Salute",
+            "source:start_date": "2018-09-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4632463,
+              46.5364917
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5704712309",
+            "osm_type": "node",
+            "lat": 46.5986279,
+            "lon": 11.5292132,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "operator": "Fink Ruth",
+            "ref:msal": "18135",
+            "ref:vatin": "IT02555720214"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5292132,
+              46.5986279
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5923773513",
+            "osm_type": "node",
+            "lat": 46.51859,
+            "lon": 11.5045243,
+            "addr:city": "Völs am Schlern - Fiè allo Sciliar",
+            "addr:city:de": "Völs am Schlern",
+            "addr:city:it": "Fiè allo Sciliar",
+            "addr:hamlet": "Obervöls - Fiè di Sopra",
+            "addr:hamlet:de": "Obervöls",
+            "addr:hamlet:it": "Fiè di Sopra",
+            "addr:housenumber": "3",
+            "addr:postcode": "39050",
+            "addr:street": "Bozner Straße - Via Bolzano",
+            "addr:street:de": "Bozner Straße",
+            "addr:street:it": "Via Bolzano",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Marienapotheke - S. Maria",
+            "name:de": "Marienapotheke",
+            "name:it": "S. Maria",
+            "operator": "Runggaldier Eva",
+            "phone": "+39 0471 725373",
+            "ref:msal": "4097",
+            "ref:vatin": "IT01483550214",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5045243,
+              46.51859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "302412631",
+            "osm_type": "node",
+            "lat": 46.6406144,
+            "lon": 11.6843202,
+            "amenity": "pharmacy",
+            "name": "Medikamentenausgabestelle Villnöß",
+            "opening_hours": "Mo 08:30-13:00, 15:00-18:30; Tu, We, Fr 08:30-12:30; Th 15:00-18:30",
+            "ref:msal": "18129",
+            "ref:vatin": "IT02969630215",
+            "start_date": "2018-04-01",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6843202,
+              46.6406144
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "335688718",
+            "osm_type": "node",
+            "lat": 46.5876553,
+            "lon": 11.9033572,
+            "addr:city": "La Villa in Badia",
+            "addr:housenumber": "15",
+            "addr:postcode": "39036",
+            "addr:street": "Strada Colz",
+            "amenity": "pharmacy",
+            "check_date": "2024-01-30",
+            "dispensing": "yes",
+            "fax": "+39 0471 847709",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Dr. Ferigo",
+            "operator": "Farmacia Apotheke Apoteca Alta Badia SNC de dr Marisa Ferigo & C.",
+            "phone": "+39 0471 847152",
+            "ref:vatin": "IT02932630219",
+            "website": "https://apotecaaltabadia.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9033572,
+              46.5876553
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "420205281",
+            "osm_type": "node",
+            "lat": 46.6675149,
+            "lon": 11.5959427,
+            "amenity": "pharmacy",
+            "name": "Arkaden",
+            "opening_hours": "Mo-Fr 08:10-12:30, Mo-We,Fr 15:00-18:50, Sa 09:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5959427,
+              46.6675149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "618765019",
+            "osm_type": "node",
+            "lat": 46.5536343,
+            "lon": 11.7604921,
+            "addr:city": "Sëlva - Wolkenstein in Gröden - Selva di Val Gardena",
+            "addr:housenumber": "246",
+            "addr:postcode": "39048",
+            "addr:street": "Streda Mëisules",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Dolomiten - Dolomiti",
+            "operator": "Berdou Pascal",
+            "ref:msal": "4048",
+            "ref:vatin": "IT02363180213",
+            "source": "Ministero della Salute",
+            "website": "https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/pharmacy-dolomiti-dr-berdou/9B0EE6E52FB0A301F7AD6C84E70AE000/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7604921,
+              46.5536343
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "666122569",
+            "osm_type": "node",
+            "lat": 46.497979,
+            "lon": 11.8736918,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Farmacia di Arabba e Livinallongo snc"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8736918,
+              46.497979
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "939347758",
+            "osm_type": "node",
+            "lat": 46.6409975,
+            "lon": 11.566952,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Stadtapotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-12:00",
+            "operator": "Aichner Jörg",
+            "ref:msal": "4136",
+            "ref:vatin": "IT01385210214",
+            "source": "Ministero della Salute",
+            "source:start_date": "2008-01-01",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.566952,
+              46.6409975
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1538128723",
+            "osm_type": "node",
+            "lat": 46.3767864,
+            "lon": 11.6587752,
+            "addr:city": "Moena",
+            "addr:country": "IT",
+            "addr:housenumber": "2",
+            "addr:street": "Strada Cerilio Dellantonio Bora",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Rigoni"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6587752,
+              46.3767864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1623822121",
+            "osm_type": "node",
+            "lat": 46.5470581,
+            "lon": 11.8747414,
+            "amenity": "pharmacy",
+            "check_date": "2023-09-21",
+            "healthcare": "pharmacy",
+            "name": "Farmacia - Apotheke"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8747414,
+              46.5470581
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1722140780",
+            "osm_type": "node",
+            "lat": 46.5741921,
+            "lon": 11.6740503,
+            "addr:city": "Urtijëi - St.Ulrich - Ortisei",
+            "addr:housenumber": "73B",
+            "addr:postcode": "39046",
+            "addr:street": "Piazza Rezia",
+            "amenity": "pharmacy",
+            "email": "ferdinando.gross@farmarete.it",
+            "healthcare": "pharmacy",
+            "name": "Pharmacy Sella",
+            "name:de": "Apotheke Sella",
+            "name:it": "Farmacia Sella",
+            "phone": "+39 0471 796125",
+            "website": "https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/pharmacy-sella/3FE8730FCED94A9186754E08840FA435/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6740503,
+              46.5741921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1844483768",
+            "osm_type": "node",
+            "lat": 46.6087457,
+            "lon": 11.5651295,
+            "addr:housenumber": "30c",
+            "addr:postcode": "39040",
+            "addr:street": "Walther-von-der-Vogelweide-Straße",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Apotheke Lajen - Farmacia Laion",
+            "name:de": "Apotheke Lajen",
+            "name:it": "Farmacia Laion",
+            "opening_hours": "Mo 09:00-13:00, 14:00-18:30; Tu 09:00-12:30, 13:30-18:00; We 09:00-12:30; Th-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00",
+            "operator": "Ricoldo Christian",
+            "phone": "+39 0471 655864",
+            "ref:msal": "18190",
+            "ref:vatin": "IT02568910216",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5651295,
+              46.6087457
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2454263889",
+            "osm_type": "node",
+            "lat": 46.5710389,
+            "lon": 11.9317115,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9317115,
+              46.5710389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2715433391",
+            "osm_type": "node",
+            "lat": 46.567255,
+            "lon": 11.5601193,
+            "addr:city": "Kastelruth - Castelrotto",
+            "addr:housenumber": "6b",
+            "addr:postcode": "39040",
+            "addr:street": "Oswald-von-Wolkenstein-Straße - Via Oswald von Wolkenstein",
+            "addr:street:de": "Oswald-von-Wolkenstein-Straße",
+            "addr:street:it": "Via Oswald von Wolkenstein",
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2025-06-20",
+            "dispensing": "yes",
+            "fax": "+39 0471 710034",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Schlern",
+            "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00; Su 09:00-12:30",
+            "operator": "Ploner Peter",
+            "phone": "+39 0471 706323",
+            "ref:msal": "4067",
+            "ref:vatin": "IT02334570211",
+            "source": "Ministero della Salute",
+            "source:start_date": "2013-03-01",
+            "website": "https://www.farmaciaschlernapotheke.it/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5601193,
+              46.567255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2749635109",
+            "osm_type": "node",
+            "lat": 46.6992712,
+            "lon": 11.6757996,
+            "addr:city": "Brixen - Bressanone",
+            "addr:city:de": "Brixen",
+            "addr:city:it": "Bressanone",
+            "addr:hamlet": "St. Andrä - Sant'Andrea in Monte",
+            "addr:hamlet:de": "St. Andrä",
+            "addr:hamlet:it": "Sant'Andrea in Monte",
+            "addr:housenumber": "27a",
+            "addr:postcode": "39042",
+            "addr:street": "Dorfstraße - Via Centrale",
+            "addr:street:de": "Dorfstraße",
+            "addr:street:it": "Via Centrale",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Plose-Farmacia Plose",
+            "name:de": "Apotheke Plose",
+            "name:it": "Farmacia Plose",
+            "operator": "Lecis Maurizio",
+            "ref:msal": "20940",
+            "ref:vatin": "IT03161240217",
+            "start_date": "2022-06-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6757996,
+              46.6992712
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2755695708",
+            "osm_type": "node",
+            "lat": 46.5405946,
+            "lon": 11.6192422,
+            "addr:city": "Kastelruth - Castelrotto",
+            "addr:city:de": "Kastelruth",
+            "addr:city:it": "Castelrotto",
+            "addr:hamlet": "Seiser Alm - Alpe di Siusi",
+            "addr:hamlet:de": "Seiser Alm",
+            "addr:hamlet:it": "Alpe di Siusi",
+            "addr:housenumber": "28",
+            "addr:postcode": "39040",
+            "addr:street": "Compatsch",
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "operator": "Parafarmacia Alpenfarma di Dr. Triani Rocco",
+            "ref:msal": "015556",
+            "ref:vatin": "IT03139460210",
+            "source": "Ministero della Salute",
+            "source:start_date": "2022-02-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6192422,
+              46.5405946
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3786688689",
+            "osm_type": "node",
+            "lat": 46.3770566,
+            "lon": 11.6594938,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6594938,
+              46.3770566
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3787675288",
+            "osm_type": "node",
+            "lat": 46.376141,
+            "lon": 11.6609796,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Festa Parafarmacia Profumeria"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6609796,
+              46.376141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4481549745",
+            "osm_type": "node",
+            "lat": 46.4059475,
+            "lon": 12.0202651,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0202651,
+              46.4059475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5085889308",
+            "osm_type": "node",
+            "lat": 46.4381022,
+            "lon": 11.9943606,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Fassa"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9943606,
+              46.4381022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5705065722",
+            "osm_type": "node",
+            "lat": 46.7006121,
+            "lon": 11.9311057,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "fax": "+39 0474 506676",
+            "healthcare": "pharmacy",
+            "name": "Karbacher",
+            "opening_hours": "Mo-Fr 08:15-12:15,15:00-19:00; Sa 08:15-12:15",
+            "operator": "Karbacher Johann e C. S.N.C.",
+            "phone": "+39 0474 501240",
+            "ref:msal": "4149",
+            "ref:vatin": "IT02462720216",
+            "website": "http://www.farmaciasanvigilio.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9311057,
+              46.7006121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5705162473",
+            "osm_type": "node",
+            "lat": 46.5445345,
+            "lon": 11.5612782,
+            "addr:city": "Seis am Schlern - Siusi allo Sciliar",
+            "addr:housenumber": "9b",
+            "addr:postcode": "39040",
+            "addr:street": "Santnerstraße - Via Santner",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Vitalis",
+            "name:de": "Vitalis Apotheke",
+            "name:it": "Farmacia Vitalis",
+            "opening_hours": "Mo-We 08:30-12:30,15:00-19:00; Th 08:30-12:30; Fr 09:00-17:00",
+            "operator": "Dott.ssa Zorzi Patrizia",
+            "phone": "+39 0471 708970",
+            "ref:msal": "4157",
+            "ref:vatin": "IT02304470210",
+            "website": "https://www.farmaciavitalis.it/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5612782,
+              46.5445345
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5771608453",
+            "osm_type": "node",
+            "lat": 46.558662,
+            "lon": 11.7263584,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "S. Elisabeth",
+            "operator": "Grossrubatscher K.",
+            "ref:msal": "4056",
+            "ref:vatin": "IT01145240212"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7263584,
+              46.558662
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5784808766",
+            "osm_type": "node",
+            "lat": 46.4307073,
+            "lon": 11.541854,
+            "addr:city": "Welschnofen - Nova Levante",
+            "addr:city:de": "Welschnofen",
+            "addr:city:it": "Nova Levante",
+            "addr:country": "IT",
+            "addr:housenumber": "1",
+            "addr:postcode": "39056",
+            "addr:street": "Romstraße - Via Roma",
+            "addr:street:de": "Romstraße",
+            "addr:street:it": "Via Roma",
+            "amenity": "pharmacy",
+            "contact:email": "pharmalatemar@gmail.com",
+            "contact:facebook": "https://facebook.com/Farmacia-Latemar-Apotheke-513881718669964",
+            "contact:phone": "+39 0471 613254",
+            "dispensing": "yes",
+            "name": "Apotheke Latemar - Farmacia Latemar",
+            "name:de": "Apotheke Latemar",
+            "name:it": "Farmacia Latemar",
+            "opening_hours": "Mo-Sa 08:00-12:20; Mo-Tu,Th-Fr 15:00-19:00",
+            "operator": "Apotheke Latemar O.H.G. Des Michele Casciaro & C.",
+            "ref:msal": "4061",
+            "ref:vatin": "IT02592000216",
+            "source": "Ministero della Salute",
+            "source:start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.541854,
+              46.4307073
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6256572711",
+            "osm_type": "node",
+            "lat": 46.477323,
+            "lon": 11.7702598,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Parafarmacia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7702598,
+              46.477323
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6589342086",
+            "osm_type": "node",
+            "lat": 46.4200601,
+            "lon": 11.6754117,
+            "addr:housenumber": "24",
+            "addr:postcode": "38036",
+            "addr:street": "Strada Neva",
+            "amenity": "pharmacy",
+            "name": "Farmacia San Giovanni",
+            "opening_hours": "Mo-Sa 08:30-12:30, 15:30-19:30; Su 09:00-12:00, 16:00-19:00",
+            "phone": "+39 0462 764145"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6754117,
+              46.4200601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9383867343",
+            "osm_type": "node",
+            "lat": 46.4823283,
+            "lon": 11.9523327,
+            "addr:city": "Livinallongo del Col di Lana",
+            "addr:housenumber": "78",
+            "addr:postcode": "32020",
+            "addr:street": "Via Pieve",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia di Arabba e Livinallongo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9523327,
+              46.4823283
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9407263390",
+            "osm_type": "node",
+            "lat": 46.4776388,
+            "lon": 11.7687124,
+            "addr:housenumber": "77",
+            "addr:street": "Strèda Dolomites",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Ladina",
+            "operator": "Giovanni Romano & C Snc",
+            "phone": "+39 0462 601262",
+            "ref:vatin": "IT02312850221",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7687124,
+              46.4776388
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10976653821",
+            "osm_type": "node",
+            "lat": 46.5730738,
+            "lon": 11.6750982,
+            "amenity": "pharmacy",
+            "name": "Parafarmacia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6750982,
+              46.5730738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11952065606",
+            "osm_type": "node",
+            "lat": 46.4767414,
+            "lon": 11.7420622,
+            "addr:housenumber": "79",
+            "addr:postcode": "38036",
+            "addr:street": "Strèda Dolomites",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Ladina Campitello",
+            "opening_hours": "Mo-Sa 08:30-12:30, 15:30-19:30",
+            "outdoor_seating": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7420622,
+              46.4767414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "280226713",
+            "osm_type": "node",
+            "lat": 46.3757994,
+            "lon": 12.1242211,
+            "addr:city": "Val di Zoldo",
+            "addr:housenumber": "8",
+            "addr:postcode": "32012",
+            "addr:street": "Via Talinera",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Monte Pelmo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1242211,
+              46.3757994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2119660851",
+            "osm_type": "node",
+            "lat": 46.4223568,
+            "lon": 12.3578597,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3578597,
+              46.4223568
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2570357371",
+            "osm_type": "node",
+            "lat": 46.4285158,
+            "lon": 12.3757222,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3757222,
+              46.4285158
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2721631663",
+            "osm_type": "node",
+            "lat": 46.5392921,
+            "lon": 12.1349548,
+            "amenity": "pharmacy",
+            "check_date": "2025-06-16",
+            "contact:phone": "+39 04362223",
+            "contact:website": "https://farmaciainternazionalecortina.it",
+            "contact:whatsapp": "3667656043",
+            "name": "Farmacia Internazionale Cortina"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1349548,
+              46.5392921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3296657362",
+            "osm_type": "node",
+            "lat": 46.4513768,
+            "lon": 12.0363337,
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0363337,
+              46.4513768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3857674680",
+            "osm_type": "node",
+            "lat": 46.3924138,
+            "lon": 12.2916027,
+            "addr:postcode": "32040",
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2916027,
+              46.3924138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3991019263",
+            "osm_type": "node",
+            "lat": 46.4602041,
+            "lon": 12.2047088,
+            "addr:city": "San Vito di Cadore",
+            "addr:housenumber": "88",
+            "addr:postcode": "32046",
+            "addr:street": "Corso Italia",
+            "amenity": "pharmacy",
+            "contact:email": "farmacia.sanvito@neoapotek.it",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia San Vito",
+            "opening_hours": "Mo-Fr 08:30-19:30, Su 08:30-12:30,15:30-19:30",
+            "phone": "+39 0436 9194"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2047088,
+              46.4602041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4426643639",
+            "osm_type": "node",
+            "lat": 46.5418003,
+            "lon": 12.1356188,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1356188,
+              46.5418003
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5496870718",
+            "osm_type": "node",
+            "lat": 46.4377129,
+            "lon": 12.2219315,
+            "addr:city": "Borca di Cadore",
+            "addr:housenumber": "31",
+            "addr:postcode": "32040",
+            "addr:street": "Via Roma",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "drive_through": "no",
+            "healthcare": "pharmacy",
+            "name": "Farmacia dott. Coppini Giuliano",
+            "opening_hours": "Mo-Sa 08:30-12:30, 15:30-19:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2219315,
+              46.4377129
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5704433607",
+            "osm_type": "node",
+            "lat": 46.7005763,
+            "lon": 12.3514128,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Sexten",
+            "operator": "Farmacia Karbacher Johann e C. S.N.C.",
+            "ref:msal": "4138",
+            "ref:vatin": "IT02462720216"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3514128,
+              46.7005763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5715133593",
+            "osm_type": "node",
+            "lat": 46.5365367,
+            "lon": 12.1390929,
+            "addr:city": "Cortina d'Ampezzo",
+            "addr:housenumber": "25",
+            "addr:postcode": "32043",
+            "addr:street": "Corso Italia",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia San Giorgio"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1390929,
+              46.5365367
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11969203675",
+            "osm_type": "node",
+            "lat": 46.53919,
+            "lon": 12.13554,
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "operator": "Cortina Medica S.R.L.S.",
+            "ref:msal": "014870",
+            "ref:vatin": "IT01230270256",
+            "source": "Ministero della Salute",
+            "source:start_date": "2020-07-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.13554,
+              46.53919
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12058814769",
+            "osm_type": "node",
+            "lat": 46.3937311,
+            "lon": 12.102707,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.102707,
+              46.3937311
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 12.392062499999998,
+        "north": 46.70320525,
+        "east": 13.345766
+      },
+      "poiCount": 41,
+      "leafCount": 41,
+      "averagePosition": [
+        12.846241246341464,
+        46.476734102439025
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "897193880",
+            "osm_type": "node",
+            "lat": 46.4600588,
+            "lon": 12.4152013,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Farmacia San Giorgio"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4152013,
+              46.4600588
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2235471544",
+            "osm_type": "node",
+            "lat": 46.5894419,
+            "lon": 12.5129667,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Comelico"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5129667,
+              46.5894419
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2389603942",
+            "osm_type": "node",
+            "lat": 46.6015002,
+            "lon": 12.4789412,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4789412,
+              46.6015002
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4782887300",
+            "osm_type": "node",
+            "lat": 46.4810492,
+            "lon": 12.458731,
+            "addr:city": "Lorenzago di Cadore",
+            "addr:housenumber": "25",
+            "addr:postcode": "32040",
+            "addr:street": "Via Costola",
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "drive_through": "no",
+            "email": "infolozzo@farmaciedolomiti.it",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Dolomiti",
+            "opening_hours": "Mo,We,Fr 10:30-13:30,17:00-19:00; PH off",
+            "phone": "+39043575033",
+            "website": "https://www.farmaciedolomiti.it/farmacia-dolomiti-lorenzago"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.458731,
+              46.4810492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6461002387",
+            "osm_type": "node",
+            "lat": 46.552646,
+            "lon": 12.4404406,
+            "amenity": "pharmacy",
+            "name": "Erboristeria"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4404406,
+              46.552646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7920356286",
+            "osm_type": "node",
+            "lat": 46.5506175,
+            "lon": 12.4445325,
+            "amenity": "pharmacy",
+            "dispensing": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4445325,
+              46.5506175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8476556938",
+            "osm_type": "node",
+            "lat": 46.4733152,
+            "lon": 12.4334125,
+            "addr:city": "Lozzo di Cadore",
+            "addr:housenumber": "1",
+            "addr:postcode": "32040",
+            "addr:street": "Via Roma",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Dolomiti"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4334125,
+              46.4733152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9907175343",
+            "osm_type": "node",
+            "lat": 46.4995494,
+            "lon": 12.4714042,
+            "amenity": "pharmacy",
+            "dispensing": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4714042,
+              46.4995494
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473519891",
+            "osm_type": "node",
+            "lat": 46.6765743,
+            "lon": 13.0033086,
+            "addr:country": "AT",
+            "addr:housenumber": "425",
+            "addr:postcode": "9640",
+            "addr:street": "Kötschach",
+            "amenity": "pharmacy",
+            "dispensing": "no",
+            "email": "info@apotheke-koetschach.at",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Zum Heiligen Josef",
+            "opening_hours": "Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:00-12:00",
+            "phone": "04715217",
+            "website": "https://www.apotheke-koetschach.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0033086,
+              46.6765743
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1540327350",
+            "osm_type": "node",
+            "lat": 46.5522421,
+            "lon": 12.8525994,
+            "addr:city": "Rigolato",
+            "addr:postcode": "33020",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Secchiero",
+            "operator": "dottoressa Lorena Bizzi",
+            "phone": "+39 0433 618823",
+            "ref:msal": "5612",
+            "ref:vatin": "IT02671670301",
+            "start_date": "2017-07-01",
+            "website": "http://www.amardeclevo.it",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8525994,
+              46.5522421
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1551867340",
+            "osm_type": "node",
+            "lat": 46.4069816,
+            "lon": 13.0141621,
+            "addr:city": "Tolmezzo",
+            "addr:housenumber": "20",
+            "addr:postcode": "33028",
+            "addr:street": "Piazza Giuseppe Garibaldi",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Tosoni",
+            "note": "Ordinaria",
+            "opening_hours": "Mo-Sa 08:30-13:00,15:00-19:00",
+            "operator": "Tosoni Adriano",
+            "phone": "+39 0433 2128",
+            "ref:msal": "5608",
+            "ref:vatin": "IT01639860301",
+            "source": "Ministero della Salute",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0141621,
+              46.4069816
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1883090766",
+            "osm_type": "node",
+            "lat": 46.528118,
+            "lon": 13.015331,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia San Nicolò",
+            "note": "check dispensing: usually italian pharmacies can fill prescriptions",
+            "opening_hours": "Mo-Sa 08:30-12:30, Mo-Fr 15:00-19:00",
+            "operator": "Alberto Morandini & C. Sas",
+            "phone": "+39 0433 775122",
+            "ref:msal": "5619",
+            "ref:vatin": "IT02495100303",
+            "start_date": "2010-09-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.015331,
+              46.528118
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1974345847",
+            "osm_type": "node",
+            "lat": 46.5201011,
+            "lon": 12.8037226,
+            "addr:city": "Prato Carnico",
+            "addr:country": "IT",
+            "addr:housenumber": "97",
+            "addr:place": "Pieria",
+            "addr:postcode": "33020",
+            "addr:province": "Udine",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Borgna Dottor Antonella",
+            "phone": "+39 0433 69066",
+            "ref:msal": "5606",
+            "ref:vatin": "1538440304",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8037226,
+              46.5201011
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2083337719",
+            "osm_type": "node",
+            "lat": 46.5135371,
+            "lon": 12.8672093,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Alfarè Luciana",
+            "phone": "+39 0433 60324",
+            "ref:msal": "5603",
+            "ref:vatin": "IT01258980307",
+            "start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8672093,
+              46.5135371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2252717299",
+            "osm_type": "node",
+            "lat": 46.5137734,
+            "lon": 12.989732,
+            "addr:city": "Sutrio",
+            "addr:country": "IT",
+            "addr:housenumber": "11",
+            "addr:postcode": "33020",
+            "addr:province": "Udine",
+            "addr:street": "Piazza Ventidue Luglio 1944",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Visini",
+            "phone": "+39 0433 778003",
+            "ref:msal": "5604",
+            "ref:vatin": "2872890302",
+            "start_date": "2019-07-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.989732,
+              46.5137734
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2503249233",
+            "osm_type": "node",
+            "lat": 46.424072,
+            "lon": 12.9331876,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "fixme": "check if still open",
+            "name": "Eredi Muzzolini",
+            "ref:msal": "5610",
+            "ref:vatin": "IT00678680307",
+            "start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9331876,
+              46.424072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2599765278",
+            "osm_type": "node",
+            "lat": 46.4657789,
+            "lon": 12.7101994,
+            "amenity": "pharmacy",
+            "fixme": "inserire orario apertura",
+            "name": "Dispensario Farmaceutico"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7101994,
+              46.4657789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2853609134",
+            "osm_type": "node",
+            "lat": 46.4821434,
+            "lon": 12.8658626,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Soravito",
+            "operator": "Soravito dottor Giorgio",
+            "phone": "+39 0433 67035",
+            "ref:msal": "5591",
+            "ref:vatin": "IT00085520302",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8658626,
+              46.4821434
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3725861906",
+            "osm_type": "node",
+            "lat": 46.423923,
+            "lon": 12.5784363,
+            "addr:city": "Forni di Sopra",
+            "addr:housenumber": "164",
+            "addr:postcode": "33024",
+            "addr:street": "Via Nazionale",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Varmost",
+            "operator": "Varmost SAS",
+            "phone": "+39 0433 88093",
+            "ref:msal": "5616",
+            "ref:vatin": "IT02709210302",
+            "start_date": "2017-07-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5784363,
+              46.423923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3734158023",
+            "osm_type": "node",
+            "lat": 46.4162768,
+            "lon": 12.7942003,
+            "addr:city": "Ampezzo",
+            "addr:housenumber": "9",
+            "addr:postcode": "33021",
+            "addr:street": "Piazza Zona Libera 1944",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Ampezzo",
+            "note": "Ordinaria",
+            "operator": "dottoressa Francesca Siega",
+            "phone": "+39 0433 80287",
+            "ref:msal": "5618",
+            "ref:vatin": "IT02538860301",
+            "source": "Ministero della Salute",
+            "start_date": "2017-11-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7942003,
+              46.4162768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3818539246",
+            "osm_type": "node",
+            "lat": 46.4075628,
+            "lon": 13.013429,
+            "addr:city": "Tolmezzo",
+            "addr:country": "IT",
+            "addr:housenumber": "8a",
+            "addr:postcode": "33028",
+            "addr:province": "Udine",
+            "addr:street": "Via Giacomo Matteotti",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Chiussi",
+            "opening_hours": "Mo-Sa 08:00-12:30,15:00-19:00",
+            "operator": "Dottori Paolo e Serena Chiussi",
+            "phone": "+39 0433 2062",
+            "ref:msal": "5596",
+            "ref:vatin": "IT02552930303",
+            "start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.013429,
+              46.4075628
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3832247253",
+            "osm_type": "node",
+            "lat": 46.4207297,
+            "lon": 12.9009018,
+            "addr:city": "Raveo",
+            "addr:country": "IT",
+            "addr:housenumber": "30/1",
+            "addr:place": "Esemon di Sopra",
+            "addr:postcode": "33029",
+            "addr:province": "Udine",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Italia",
+            "operator": "Dottor Rocco Patruno",
+            "phone": "+39 0433 759025",
+            "ref:msal": "18693",
+            "ref:vatin": "2705630305",
+            "start_date": "2013-04-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9009018,
+              46.4207297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3846447909",
+            "osm_type": "node",
+            "lat": 46.4036207,
+            "lon": 12.8233292,
+            "addr:city": "Socchieve",
+            "addr:housenumber": "22a",
+            "addr:postcode": "33020",
+            "addr:street": "Via Roma",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Danelon",
+            "operator": "Danelon Giuditta",
+            "phone": "+39 0433 80137",
+            "ref:msal": "5614",
+            "ref:vatin": "IT01861070306",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8233292,
+              46.4036207
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4071752934",
+            "osm_type": "node",
+            "lat": 46.38981,
+            "lon": 12.9935277,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Guida",
+            "note": "Ordinaria",
+            "operator": "Francesco Ruggero Panatta & C. S.A.S.",
+            "operator_1": "Dottor Pier Luigi Guida",
+            "phone": "+39 0433 44118",
+            "ref:msal": "17753",
+            "ref:vatin": "IT02858990308",
+            "source": "Ministero della Salute",
+            "start_date": "2016-07-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9935277,
+              46.38981
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4071758291",
+            "osm_type": "node",
+            "lat": 46.4096994,
+            "lon": 12.8785111,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Marini Maria Luisa",
+            "note": "Ordinaria",
+            "operator": "Marini Maria Luisa",
+            "phone": "+39 0433 74213",
+            "ref:msal": "5587",
+            "ref:vatin": "IT00478300304",
+            "source": "Ministero della Salute",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8785111,
+              46.4096994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5086470217",
+            "osm_type": "node",
+            "lat": 46.5663186,
+            "lon": 12.6872428,
+            "addr:country": "IT",
+            "addr:housenumber": "67",
+            "addr:postcode": "33012",
+            "addr:province": "Udine",
+            "addr:street": "Borgo Bach",
+            "amenity": "pharmacy",
+            "contact:city": "Sappada",
+            "contact:housenumber": "67",
+            "contact:place": "Borgata Bach",
+            "contact:postcode": "33012",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Loaldi",
+            "opening_hours": "Mo,Tu,Th-Sa 08:30-12:30,15:30-19:00; We 08:30-12:30",
+            "operator": "Loaldi dottor Franco",
+            "phone": "+39 0435 469109",
+            "ref:msal": "4309",
+            "ref:vatin": "14933561004",
+            "start_date": "2019-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6872428,
+              46.5663186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133001",
+            "osm_type": "node",
+            "lat": 46.586105,
+            "lon": 12.7762467,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Palci Gianfranco",
+            "operator": "Palci dottor Gianfranco",
+            "phone": "+39 0433 72111",
+            "ref:msal": "5601",
+            "ref:vatin": "IT00174720300",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7762467,
+              46.586105
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133003",
+            "osm_type": "node",
+            "lat": 46.473042,
+            "lon": 13.0244239,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Somma Maria Vittoria",
+            "phone": "+39 0433 92028",
+            "ref:msal": "5586",
+            "ref:vatin": "IT00052680303",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0244239,
+              46.473042
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133011",
+            "osm_type": "node",
+            "lat": 46.4020924,
+            "lon": 13.019478,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Città Alpina S.N.C.",
+            "operator": "Spangher L.A. e Murer D.",
+            "phone": "+39 0433 40591",
+            "ref:msal": "19915",
+            "ref:vatin": "IT02915420307",
+            "start_date": "2018-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.019478,
+              46.4020924
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133019",
+            "osm_type": "node",
+            "lat": 46.461961,
+            "lon": 13.0260697,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Geatti",
+            "operator": "Geatti Marina",
+            "phone": "+39 0433 890577",
+            "ref:msal": "18655",
+            "ref:vatin": "IT02663070304",
+            "start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0260697,
+              46.461961
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133024",
+            "osm_type": "node",
+            "lat": 46.3936401,
+            "lon": 12.6718342,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Varmost S.A.S.",
+            "operator": "Emanuela Graziani",
+            "phone": "+39 0433 877432",
+            "ref:msal": "17907",
+            "ref:vatin": "IT02709210302",
+            "start_date": "2018-06-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.6718342,
+              46.3936401
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7255513628",
+            "osm_type": "node",
+            "lat": 46.4162966,
+            "lon": 12.9233342,
+            "addr:city": "Villa Santina",
+            "addr:housenumber": "5",
+            "addr:postcode": "33029",
+            "addr:street": "Via Cesare Battisti",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "De Prato",
+            "note": "Ordinaria",
+            "operator": "De Prato Luca & C. S.N.C.",
+            "phone": "+39 0433 74143",
+            "ref:msal": "5599",
+            "ref:vatin": "IT02592540302",
+            "source": "Ministero della Salute",
+            "start_date": "2013-03-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9233342,
+              46.4162966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9047266193",
+            "osm_type": "node",
+            "lat": 46.4241095,
+            "lon": 12.5799,
+            "amenity": "pharmacy",
+            "fixme": "only opening hours in August 2021 known (table on door)",
+            "healthcare": "pharmacy",
+            "opening_hours": "Mo-Sa 08:30-12:30; Mo,Th 15:00-19:30; Tu-We 15:00-19:30; Fr 15:30-19:30; Su 16:00-19:30; Su 10:00-12:00; \"irregular on some days, might be different off-season\"",
+            "phone": "+39 453349294"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5799,
+              46.4241095
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11104807537",
+            "osm_type": "node",
+            "lat": 46.5254763,
+            "lon": 12.9222125,
+            "addr:city": "Ravascletto",
+            "addr:country": "IT",
+            "addr:housenumber": "7",
+            "addr:postcode": "33020",
+            "addr:province": "Udine",
+            "addr:street": "Viale Edelweiss",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Velardita",
+            "phone": "+39 0433 66367",
+            "ref:msal": "5611",
+            "ref:vatin": "821460300",
+            "start_date": "2017-07-01",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9222125,
+              46.5254763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2088822235",
+            "osm_type": "node",
+            "lat": 46.4106375,
+            "lon": 13.1959341,
+            "addr:city": "Moggio Udinese",
+            "addr:housenumber": "13",
+            "addr:street": "Via alla Chiesa",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia San Gallo",
+            "note": "Ordinaria",
+            "operator": "Dr. Lorenzo Miolli e C. S.A.S.",
+            "phone": "+39 0433 51130",
+            "ref:msal": "5589",
+            "ref:vatin": "IT02692250307",
+            "source": "Ministero della Salute",
+            "start_date": "2012-05-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1959341,
+              46.4106375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2422472368",
+            "osm_type": "node",
+            "lat": 46.5302734,
+            "lon": 13.1164047,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Romano Dottor Nives",
+            "phone": "+39 0433 70018",
+            "ref:msal": "5592",
+            "ref:vatin": "IT02768240307",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1164047,
+              46.5302734
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2473461549",
+            "osm_type": "node",
+            "lat": 46.5044528,
+            "lon": 13.3055239,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Candussi",
+            "operator": "Candussi Daniele S.A.S.",
+            "phone": "+39 0428 90159",
+            "ref:msal": "5593",
+            "ref:vatin": "IT02916480300",
+            "start_date": "2018-04-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3055239,
+              46.5044528
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2577261226",
+            "osm_type": "node",
+            "lat": 46.4084859,
+            "lon": 13.31049,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Camagna Serena",
+            "phone": "+39 0433 52028",
+            "ref:msal": "5617",
+            "ref:vatin": "IT10534370019",
+            "start_date": "2013-02-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.31049,
+              46.4084859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3898165172",
+            "osm_type": "node",
+            "lat": 46.3733473,
+            "lon": 13.3050015,
+            "addr:city": "Resia",
+            "addr:housenumber": "17",
+            "addr:postcode": "33010",
+            "addr:street": "Via Roma",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Comunale Resia",
+            "note": "Ordinaria",
+            "operator": "Comune di Resia",
+            "phone": "+39 0433 53004",
+            "ref:msal": "5594",
+            "ref:vatin": "IT00498700301",
+            "source": "Ministero della Salute",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3050015,
+              46.3733473
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4071732333",
+            "osm_type": "node",
+            "lat": 46.373768,
+            "lon": 13.096513,
+            "addr:city": "Amaro",
+            "addr:housenumber": "66b",
+            "addr:postcode": "33020",
+            "addr:street": "Via Roma",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "All'Angelo",
+            "note": "Ordinaria",
+            "operator": "dottor Francesco Piazza",
+            "phone": "+39 0433 466316",
+            "ref:msal": "5600",
+            "ref:vatin": "IT04722250281",
+            "source": "Ministero della Salute",
+            "start_date": "2017-07-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.096513,
+              46.373768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119133000",
+            "osm_type": "node",
+            "lat": 46.5329693,
+            "lon": 13.0420019,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Brunetti Patrizia",
+            "phone": "+39 0433 777166",
+            "ref:msal": "5602",
+            "ref:vatin": "IT01248820308",
+            "start_date": "2005-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0420019,
+              46.5329693
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 11.438358999999998,
+        "north": 47.033758500000005,
+        "east": 12.392062499999998
+      },
+      "poiCount": 28,
+      "leafCount": 28,
+      "averagePosition": [
+        11.881990396428572,
+        46.79469324285714
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "846729689",
+            "osm_type": "node",
+            "lat": 46.9378118,
+            "lon": 11.4433115,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4433115,
+              46.9378118
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "299473860",
+            "osm_type": "node",
+            "lat": 46.918894,
+            "lon": 11.9510464,
+            "addr:city": "Sand in Taufers - Campo Tures",
+            "addr:housenumber": "21",
+            "addr:postcode": "39032",
+            "addr:street": "Ahrntalerstraße - via valle Aurina",
+            "amenity": "pharmacy",
+            "email": "info@apotheke-farmacia.it",
+            "fax": "+39 0474 68 65 70",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Dr. Aichner Apotheke",
+            "name:de": "Apotheke Dr. Aichner",
+            "name:it": "Farmacia Dr. Aichner",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:30; Sa 08:00-12:30,15:00-18:00",
+            "phone": "+39 0474 67 80 35",
+            "ref:vatin": "IT00745390211",
+            "website": "https://www.apotheke-farmacia.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9510464,
+              46.918894
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1824065621",
+            "osm_type": "node",
+            "lat": 46.8990898,
+            "lon": 11.9431014,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Dr. Aichner"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9431014,
+              46.8990898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2417810105",
+            "osm_type": "node",
+            "lat": 46.949208,
+            "lon": 11.9226213,
+            "amenity": "pharmacy",
+            "contact:email": "apotheke.ahrntal@rolmail.net",
+            "contact:phone": "+39 0474 671086",
+            "healthcare": "pharmacy",
+            "name": "Apotheke Ahrntal",
+            "name:de": "Apotheke Ahrntal",
+            "opening_hours": "Mo,Tu,Th,Fr 08:10-12:30,15:00-18:30; Sa 08:10-12:30; We,Su,PH off",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9226213,
+              46.949208
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5812332906",
+            "osm_type": "node",
+            "lat": 46.9491546,
+            "lon": 11.9226607,
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9226607,
+              46.9491546
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "289246661",
+            "osm_type": "node",
+            "lat": 46.8140783,
+            "lon": 11.9351688,
+            "addr:city": "Bruneck - Brunico",
+            "addr:country": "IT",
+            "addr:postcode": "39031",
+            "amenity": "pharmacy",
+            "contact:phone": "+39 0474 551400",
+            "contact:website": "http://www.st-barbara.it/",
+            "lastcheck": "2016-07-18",
+            "name": "St. Barbara Apotheke",
+            "opening_hours": "Mo-Sa 08:30-12:30, Mo-Fr 15:00-19:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9351688,
+              46.8140783
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "471843071",
+            "osm_type": "node",
+            "lat": 46.720913,
+            "lon": 11.652782,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Am Rosslauf",
+            "opening_hours": "Mo-Fr 08:00-12:30,14:00-19:00; Sa 08:00-12:30",
+            "ref:msal": "4131",
+            "ref:vatin": "IT03013630219"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.652782,
+              46.720913
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "621168890",
+            "osm_type": "node",
+            "lat": 46.8168962,
+            "lon": 11.7218979,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Sankt Paulus",
+            "operator": "Zardini Bruno",
+            "ref:msal": "4128",
+            "ref:vatin": "IT01329740219"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7218979,
+              46.8168962
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "767946656",
+            "osm_type": "node",
+            "lat": 46.7092117,
+            "lon": 11.6610688,
+            "addr:city": "Brixen - Bressanone",
+            "addr:city:de": "Brixen",
+            "addr:city:it": "Bressanone",
+            "addr:housenumber": "2b",
+            "addr:postcode": "39042",
+            "addr:street": "Millander Au - Pra Millan",
+            "addr:street:de": "Millander Au",
+            "addr:street:it": "Pra Millan",
+            "amenity": "pharmacy",
+            "contact:phone": "+39 0472 833038",
+            "healthcare": "pharmacy",
+            "name": "Franziskusapotheke - Farmacia Franziskus",
+            "name:de": "Franziskusapotheke",
+            "name:it": "Farmacia Franziskus",
+            "ref:msal": "4134",
+            "ref:vatin": "IT02383410210",
+            "source": "https://www.farmaciafranziskus.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6610688,
+              46.7092117
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1602254899",
+            "osm_type": "node",
+            "lat": 46.8092895,
+            "lon": 11.8823448,
+            "amenity": "pharmacy",
+            "contact:city": "Pfalzen - Falzes",
+            "contact:housenumber": "4",
+            "contact:postcode": "39030",
+            "contact:street": "Pfalzner Straße - Via Falzes",
+            "healthcare": "pharmacy",
+            "name": "Sonnen-Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:30; Sa 08:00-12:00",
+            "operator": "Sonnenapotheke S.R.L.",
+            "ref:msal": "4112",
+            "ref:vatin": "IT03059450217"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8823448,
+              46.8092895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1659559803",
+            "osm_type": "node",
+            "lat": 46.716406,
+            "lon": 11.6553783,
+            "addr:city": "Brixen - Bressanone",
+            "addr:city:de": "Brixen",
+            "addr:city:it": "Bressanone",
+            "addr:housenumber": "2",
+            "addr:postcode": "39042",
+            "addr:street": "Kleine Lauben - Via Portici Minori",
+            "addr:street:de": "Kleine Lauben",
+            "addr:street:it": "Via Portici Minori",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Fürstbischöfliche Hofapotheke - Farmacia Vescovile",
+            "name:de": "Fürstbischöfliche Hofapotheke",
+            "name:it": "Farmacia Vescovile",
+            "opening_hours": "Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30",
+            "ref:msal": "4137",
+            "ref:vatin": "IT02517410219",
+            "website": "https://www.farmaciavescovile.it/la-farmacia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6553783,
+              46.716406
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2015423836",
+            "osm_type": "node",
+            "lat": 46.8063393,
+            "lon": 11.835705,
+            "amenity": "pharmacy",
+            "contact:city": "Kiens - Chienes",
+            "contact:city:de": "Kiens",
+            "contact:city:it": "Chienes",
+            "contact:email": "info@apotheke-kiens.it",
+            "contact:housenumber": "13",
+            "contact:postcode": "39030",
+            "contact:street": "Pustertaler Straße - Via Val Pusteria",
+            "contact:street:de": "Pustertaler Straße",
+            "contact:street:it": "Via Pusteria",
+            "contact:website": "https://www.apotheke-kiens.it",
+            "dispensing": "yes",
+            "name": "Apotheke - Farmacia",
+            "name:de": "Apotheke Kiens",
+            "name:it": "Farmacia Chienes",
+            "opening_hours": "Mo-Fr 08:00-12:00,15:00-18:30; Sa 08:00-12:00",
+            "operator": "Dott. Birgit Pircher",
+            "phone": "+39 0474 564077",
+            "ref:msal": "4153",
+            "ref:vatin": "IT01621540218"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.835705,
+              46.8063393
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2038645572",
+            "osm_type": "node",
+            "lat": 46.7958661,
+            "lon": 11.9379397,
+            "amenity": "pharmacy",
+            "contact:city": "Bruneck - Brunico",
+            "contact:city:de": "Bruneck",
+            "contact:city:it": "Brunico",
+            "contact:housenumber": "43a",
+            "contact:postcode": "39031",
+            "contact:street": "Stadtgasse - Via Centrale",
+            "contact:street:de": "Stadtgasse",
+            "contact:street:it": "Via Centrale",
+            "dispensing": "yes",
+            "name": "Apotheke von Zieglauer Farmacia",
+            "name:de": "Apotheke von Zieglauer Farmacia",
+            "name:it": "Farmacia von Zeiglauer",
+            "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9379397,
+              46.7958661
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2121259377",
+            "osm_type": "node",
+            "lat": 46.7978613,
+            "lon": 11.9378222,
+            "amenity": "pharmacy",
+            "check_date": "2024-03-09",
+            "contact:city": "Bruneck - Brunico",
+            "contact:housenumber": "1b",
+            "contact:postcode": "39031",
+            "contact:street": "Via Josef Seeber",
+            "healthcare": "pharmacy",
+            "name": "Farmacia Sant'Anna Apotheke",
+            "opening_hours": "08:30-12:30,15:00-19:00",
+            "phone": "+39 0474 555264",
+            "website": "https://www.farmaciasantannabrunico.it/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9378222,
+              46.7978613
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2722896907",
+            "osm_type": "node",
+            "lat": 46.7972954,
+            "lon": 11.6680477,
+            "addr:city": "Mühlbach - Rio di Pusteria",
+            "addr:city:de": "Mühlbach",
+            "addr:city:it": "Rio di Pusteria",
+            "addr:housenumber": "75e",
+            "addr:postcode": "39037",
+            "addr:street": "Katharina-Lanz-Straße - Via Katharina Lanz",
+            "addr:street:de": "Katharina-Lanz-Straße",
+            "addr:street:it": "Via Katharina Lanz",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "email": "info@farmaciapeer.it",
+            "level": "0",
+            "name": "Farmacia Peer Apotheke",
+            "name:de": "Peer Apotheke",
+            "name:it": "Farmacia Peer",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-12:00; PH closed",
+            "operator": "Dr. Albrecht Peer",
+            "phone": "+39 0472 849719",
+            "ref:msal": "4125",
+            "ref:vatin": "IT01710770213",
+            "website": "https://www.farmaciapeer.it/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6680477,
+              46.7972954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2749636219",
+            "osm_type": "node",
+            "lat": 46.7166182,
+            "lon": 11.6583402,
+            "addr:city": "Brixen - Bressanone",
+            "addr:city:de": "Brixen",
+            "addr:city:it": "Bressanone",
+            "addr:housenumber": "4",
+            "addr:postcode": "39042",
+            "addr:street": "Adlerbrückengasse - Via Ponte Aquila",
+            "addr:street:de": "Adlerbrückengasse",
+            "addr:street:it": "Via Ponte Aquila",
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2020-10-18",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "lastcheck": "2018-08-30",
+            "name": "Peer",
+            "opening_hours": "Mo-Fr 08:00-13:00,14:00-19:00; Sa 08:00-13:00,14:00-18:00",
+            "ref:msal": "4133",
+            "ref:vatin": "IT02523960215",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6583402,
+              46.7166182
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2755903663",
+            "osm_type": "node",
+            "lat": 46.7614175,
+            "lon": 12.0301187,
+            "amenity": "pharmacy",
+            "check_date": "2023-07-29",
+            "contact:city": "Olang - Valdaora",
+            "contact:city:de": "Olang",
+            "contact:city:it": "Valdaora",
+            "contact:hamlet": "Mitterolang - Valdaora di Mezzo",
+            "contact:hamlet:de": "Mitterolang",
+            "contact:hamlet:it": "Valdaora di Mezzo",
+            "contact:housenumber": "8a",
+            "contact:postcode": "39030",
+            "contact:street": "Florianiplatz - Piazza Floriani",
+            "contact:street:de": "Florianiplatz",
+            "contact:street:it": "Piazza Floriani",
+            "dispensing": "yes",
+            "name": "Apotheke Olang",
+            "opening_hours": "Mo-Fr 08:00-12:00,15:00-19:00; Sa 08:00-12:00,16:00-19:00; Su 09:00-12:00,16:00-18:00",
+            "ref:msal": "4158",
+            "ref:vatin": "IT03058440219",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0301187,
+              46.7614175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2756054324",
+            "osm_type": "node",
+            "lat": 46.7378808,
+            "lon": 11.639994,
+            "addr:city": "Vahrn - Varna",
+            "addr:city:de": "Vahrn",
+            "addr:city:it": "Varna",
+            "addr:housenumber": "101",
+            "addr:postcode": "39040",
+            "addr:street": "Brennerstraße - Via Brennero",
+            "addr:street:de": "Brennerstraße",
+            "addr:street:it": "Via Brennero",
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "email": "farmaciadellerose@gmail.com",
+            "healthcare": "pharmacy",
+            "name": "Rosenapotheke",
+            "name:de": "Rosenapotheke",
+            "name:it": "Farmacia delle Rose",
+            "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00",
+            "operator": "Destefani Barbara",
+            "payment:cash": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+39 0472 201255",
+            "ref:msal": "4130",
+            "ref:vatin": "IT02833650217",
+            "website": "https://www.farmaciadellerose.it/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.639994,
+              46.7378808
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5325714772",
+            "osm_type": "node",
+            "lat": 46.7917016,
+            "lon": 11.9805341,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30",
+            "operator": "Dispensario Dr. Egger",
+            "ref:msal": "17619",
+            "ref:vatin": "IT02556980213"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9805341,
+              46.7917016
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5779057157",
+            "osm_type": "node",
+            "lat": 46.7096905,
+            "lon": 11.6515244,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "level": "0",
+            "name": "Mozart",
+            "name:de": "Mozart-Apotheke",
+            "name:it": "Farmacia Mozart",
+            "opening_hours": "Mo-Fr 08:00-13:00,15:00-19:00; Sa 08:00-13:00, 15:00-18:00; Su off",
+            "ref:msal": "19794",
+            "ref:vatin": "IT02969630215"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6515244,
+              46.7096905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5931785549",
+            "osm_type": "node",
+            "lat": 46.7764124,
+            "lon": 11.9499864,
+            "addr:housenumber": "16b",
+            "addr:street": "Prack-Zu-Asch-Straße - Via Prack Zu Asch",
+            "amenity": "pharmacy",
+            "check_date": "2025-08-10",
+            "contact:city": "Reischach",
+            "contact:facebook": "https://www.facebook.com/farmaciakronapotheke/",
+            "contact:housenumber": "16b",
+            "contact:postcode": "39031",
+            "contact:street": "Prack-Zu-Asch-Straße - Via Pack Zu Asch",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Kron Apotheke - Farmacia Kron",
+            "name:de": "Kron Apotheke",
+            "name:it": "Farmacia Kron",
+            "opening_hours": "Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-12:30; Su off",
+            "phone": "+39 0474 548440",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9499864,
+              46.7764124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9571744993",
+            "osm_type": "node",
+            "lat": 46.7699278,
+            "lon": 11.6649783,
+            "amenity": "pharmacy"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6649783,
+              46.7699278
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2042483078",
+            "osm_type": "node",
+            "lat": 46.7763887,
+            "lon": 12.0441773,
+            "amenity": "pharmacy",
+            "contact:city": "Rasen-Antholz - Rasun Anterselva",
+            "contact:housenumber": "9",
+            "contact:postcode": "39030",
+            "contact:street": "Antholzer Talstraße - Via Valle d'Anterselva",
+            "dispensing": "yes",
+            "fax": "+39 0474 497280",
+            "healthcare": "pharmacy",
+            "name": "Engel Apotheke - Farmacia All'Angelo",
+            "name:de": "Engel Apotheke",
+            "name:it": "Farmacia All'Angelo",
+            "note": "L'indirizzo civico è il 9. Ho chiesto conferma via mail alla farmacia, che ha risposto cosí: \"il nostro numero civico è il 9, siamo proprio accanto alla rotonda di fronte al \"Brunnenhof\"\" Forse bisogna rivedere i numeri civici nella zona.",
+            "operator": "Dr.ssa Roberta Olivotto",
+            "phone": "+39 0474 497076",
+            "ref:msal": "4154",
+            "ref:vatin": "IT03058440219",
+            "website": "https://www.farmaciarasun.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0441773,
+              46.7763887
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2255513666",
+            "osm_type": "node",
+            "lat": 46.8111231,
+            "lon": 12.2271883,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "opening_hours": "Mo-Fr 09:00-12:00; Tu off; Th off",
+            "operator": "Dispensario Dr. Baruchello",
+            "ref:msal": "17618",
+            "ref:vatin": "IT03007910213"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2271883,
+              46.8111231
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2333490951",
+            "osm_type": "node",
+            "lat": 46.7333381,
+            "lon": 12.2805491,
+            "amenity": "pharmacy",
+            "dispensing": "yes",
+            "name": "Farmacia Alta Pusteria - Apotheke Hochpustertal",
+            "name:de": "Apotheke Hochpustertal",
+            "name:it": "Farmacia Alta Pusteria",
+            "operator": "Roberto Slaviero",
+            "phone": "+39 0474 913142",
+            "ref:msal": "4143",
+            "ref:vatin": "IT03057270211",
+            "website": "https://farmaciadellognomo.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2805491,
+              46.7333381
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4596954069",
+            "osm_type": "node",
+            "lat": 46.7331861,
+            "lon": 12.2228788,
+            "amenity": "pharmacy",
+            "check_date": "2025-05-05",
+            "check_date:opening_hours": "2023-11-02",
+            "dispensing": "yes",
+            "name": "Farmacia Dobbiaco",
+            "opening_hours": "Mo-Sa 08:15-12:15,15:30-19:00",
+            "operator": "Dott. Sandro Barbierato",
+            "phone": "+39 0474 972165",
+            "ref:msal": "4140",
+            "ref:vatin": "IT00202830212",
+            "website": "https://www.farmaciadobbiaco.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2228788,
+              46.7331861
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5923779163",
+            "osm_type": "node",
+            "lat": 46.7576251,
+            "lon": 12.1043384,
+            "amenity": "pharmacy",
+            "contact:city": "Welsberg - Monguelfo",
+            "contact:city:de": "Welsberg",
+            "contact:city:it": "Monguelfo",
+            "contact:housenumber": "1a",
+            "contact:postcode": "39035",
+            "contact:street": "Pfarrgasse - Via Parrocchia",
+            "contact:street:de": "Pfarrgasse",
+            "contact:street:it": "Via Parrocchia",
+            "healthcare": "pharmacy",
+            "name": "Schlossapotheke - Al Castello",
+            "name:de": "Schlossapotheke",
+            "name:it": "Al Castello",
+            "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:00",
+            "phone": "+39 0474 944112",
+            "ref:msal": "4141",
+            "ref:vatin": "IT03007910213",
+            "website": "https://www.apothekewelsberg.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1043384,
+              46.7576251
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12434334449",
+            "osm_type": "node",
+            "lat": 46.7377859,
+            "lon": 12.1702266,
+            "amenity": "pharmacy",
+            "contact:city": "Niederdorf - Villabassa",
+            "contact:city:de": "Niederdorf",
+            "contact:city:it": "Villabassa",
+            "contact:housenumber": "8",
+            "contact:postcode": "39039",
+            "contact:street": "Frau-Emma-Straße - Via Frau Emma",
+            "contact:street:de": "Frau-Emma-Straße",
+            "contact:street:it": "Via Frau Emma",
+            "dispensing": "yes",
+            "name": "Apotheke Dr.Barbierato",
+            "phone": "+39 0474 740521",
+            "ref:msal": "17617",
+            "ref:vatin": "IT02661670212"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1702266,
+              46.7377859
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 12.392062499999998,
+        "north": 47.033758500000005,
+        "east": 13.345766
+      },
+      "poiCount": 10,
+      "leafCount": 10,
+      "averagePosition": [
+        12.80331035,
+        46.84142532
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "442255697",
+            "osm_type": "node",
+            "lat": 47.0025468,
+            "lon": 12.5409706,
+            "addr:city": "Matrei in Osttirol",
+            "addr:country": "AT",
+            "addr:housenumber": "5",
+            "addr:postcode": "9971",
+            "addr:street": "Tauerntalstraße",
+            "amenity": "pharmacy",
+            "email": "info@tauernapotheke.at",
+            "fax": "+43 4875 6523 3",
+            "healthcare": "pharmacy",
+            "name": "Tauern Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:30-12:00",
+            "phone": "+43 4875 6523",
+            "website": "https://www.tauernapotheke.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5409706,
+              47.0025468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5303366043",
+            "osm_type": "node",
+            "lat": 46.9323738,
+            "lon": 13.2025789,
+            "addr:city": "Obervellach",
+            "addr:housenumber": "53",
+            "addr:postcode": "9821",
+            "addr:street": "Hauptplatz",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Adler Apotheke",
+            "opening_hours": "Mo-Fr 08:30-13:00, 15:00-18:00; Sa 08:30-12:00; PH off",
+            "phone": "+43 4782 22440",
+            "website": "https://www.adler-apo.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2025789,
+              46.9323738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1361212907",
+            "osm_type": "node",
+            "lat": 46.7476359,
+            "lon": 12.4170405,
+            "amenity": "pharmacy",
+            "contact:email": "apothekesillian@aon.at",
+            "contact:fax": "+43 4842 6329 15",
+            "contact:phone": "+43 4842 63 29",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Marien Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:30; Sa 08:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4170405,
+              46.7476359
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "289204493",
+            "osm_type": "node",
+            "lat": 46.829294,
+            "lon": 12.7645611,
+            "addr:city": "Lienz",
+            "addr:country": "AT",
+            "addr:housenumber": "14",
+            "addr:postcode": "9900",
+            "addr:street": "Rosengasse",
+            "amenity": "pharmacy",
+            "contact:email": "mail@stadtapotheke-zur-madonna.at",
+            "contact:fax": "+43 4852 62042 4",
+            "contact:phone": "+43 4852 64042",
+            "dispensing": "yes",
+            "healthcare": "pharmacy",
+            "name": "Stadtapotheke Zur Madonna",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7645611,
+              46.829294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1403043896",
+            "osm_type": "node",
+            "lat": 46.830375,
+            "lon": 12.7655007,
+            "addr:city": "Lienz",
+            "addr:country": "AT",
+            "addr:housenumber": "13",
+            "addr:postcode": "9900",
+            "addr:street": "Muchargasse",
+            "amenity": "pharmacy",
+            "check_date:opening_hours": "2024-09-02",
+            "contact:email": "office@franziskusapotheke.at",
+            "contact:fax": "+43 4852 62665 14",
+            "contact:phone": "+43 4852 62665",
+            "healthcare": "pharmacy",
+            "name": "Franziskus Apotheke",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "website": "http://franziskusapotheke.at/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7655007,
+              46.830375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1482852438",
+            "osm_type": "node",
+            "lat": 46.8310929,
+            "lon": 12.8130797,
+            "amenity": "pharmacy",
+            "contact:email": "dolomitenapo@hotmail.com",
+            "contact:fax": "+43 4852 65565 4",
+            "contact:phone": "+43 4852 65565",
+            "healthcare": "pharmacy",
+            "name": "Dolomiten Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:00",
+            "website": "https://www.dolomitenapotheke.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8130797,
+              46.8310929
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2408908212",
+            "osm_type": "node",
+            "lat": 46.8286923,
+            "lon": 12.7713113,
+            "amenity": "pharmacy",
+            "contact:fax": "+43 4852 64130 4",
+            "contact:phone": "+43 4852 64130",
+            "healthcare": "pharmacy",
+            "name": "Bahnhofs Apotheke",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7713113,
+              46.8286923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3385670022",
+            "osm_type": "node",
+            "lat": 46.8318792,
+            "lon": 12.7720166,
+            "amenity": "pharmacy",
+            "contact:email": "linden-apotheke@aon.at",
+            "contact:fax": "+43 4852 63306 6",
+            "contact:phone": "+43 4852 63306",
+            "healthcare": "pharmacy",
+            "name": "Linden Apotheke",
+            "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7720166,
+              46.8318792
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4533720309",
+            "osm_type": "node",
+            "lat": 46.8302329,
+            "lon": 12.8048955,
+            "addr:city": "Nußdorf-Debant",
+            "addr:country": "AT",
+            "addr:postcode": "9990",
+            "addr:street": "Florianistraße",
+            "amenity": "pharmacy",
+            "healthcare": "pharmacy",
+            "name": "Sonnen-Apotheke"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8048955,
+              46.8302329
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4460642593",
+            "osm_type": "node",
+            "lat": 46.7501304,
+            "lon": 13.1811486,
+            "amenity": "pharmacy",
+            "check_date": "2024-11-01",
+            "healthcare": "pharmacy",
+            "name": "Laurenzius Apotheke",
+            "name:en": "Chemist Lawrence"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1811486,
+              46.7501304
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

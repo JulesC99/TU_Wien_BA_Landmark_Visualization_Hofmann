@@ -1,0 +1,1527 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 56,
+  "leafCount": 0,
+  "averagePosition": [
+    14.223083585714283,
+    46.65512181607143
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 13.345766,
+        "north": 46.70320525,
+        "east": 14.2994695
+      },
+      "poiCount": 25,
+      "leafCount": 25,
+      "averagePosition": [
+        13.862707711999999,
+        46.581818604
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549572563",
+            "osm_type": "node",
+            "lat": 46.626344,
+            "lon": 13.375574,
+            "ele": "590",
+            "name": "Hermagor",
+            "name:de": "Hermagor",
+            "name:sl": "Šmohor",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "30.7",
+            "railway:position:exact": "30.686",
+            "railway:ref": "Her",
+            "tickets:public_transport": "yes",
+            "uic_name": "Hermagor",
+            "uic_ref": "8100270"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.375574,
+              46.626344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549640198",
+            "osm_type": "node",
+            "lat": 46.623171,
+            "lon": 13.4708026,
+            "ele": "570",
+            "name": "Görtschach-Förolach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "22.2",
+            "railway:position:exact": "22.245",
+            "railway:ref": "Gtf",
+            "uic_name": "Görtschach-Förolach",
+            "uic_ref": "8100862"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4708026,
+              46.623171
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6808018196",
+            "osm_type": "node",
+            "lat": 46.502968,
+            "lon": 13.4951477,
+            "name": "Ugovizza Valbruna",
+            "name:de": "Uggowitz Wolfsbach",
+            "name:fur": "Ugovize Valbrune",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "wikidata": "Q3971214",
+            "wikipedia": "it:Stazione di Ugovizza-Valbruna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4951477,
+              46.502968
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "253636715",
+            "osm_type": "node",
+            "lat": 46.6091891,
+            "lon": 13.8405917,
+            "ele:local": "504.32",
+            "name": "Villach Westbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "379.1",
+            "railway:position:exact": "379.139",
+            "railway:ref": "Vf",
+            "short_name": "Villach Westbf",
+            "source:ele": "commons.wikimedia.org/wiki/File:Villach_Westbahnhof_-_detail.jpg",
+            "uic_ref": "8100148"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8405917,
+              46.6091891
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1372327605",
+            "osm_type": "node",
+            "lat": 46.540334,
+            "lon": 13.6483556,
+            "ele": "643",
+            "name": "Thörl-Maglern",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "400.2",
+            "railway:position:exact": "400.182",
+            "railway:ref": "Th",
+            "uic_name": "Thörl-Maglern",
+            "uic_ref": "8101675",
+            "wheelchair": "yes",
+            "wikidata": "Q117768544"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6483556,
+              46.540334
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1449334256",
+            "osm_type": "node",
+            "lat": 46.5063371,
+            "lon": 13.6071929,
+            "ele": "732",
+            "name": "Tarvisio Boscoverde",
+            "name:de": "Tarvis Grünwald",
+            "name:it": "Tarvisio Boscoverde",
+            "network": "RFI",
+            "network:wikidata": "Q1060049",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "88.8",
+            "railway:position:exact": "88.790",
+            "railway:ref": "Tbv",
+            "railway:ref:DB": "XITB",
+            "railway:ref:ÖBB": "Tbv",
+            "train": "yes",
+            "wikidata": "Q726594",
+            "wikipedia": "it:Stazione di Tarvisio Boscoverde"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6071929,
+              46.5063371
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2507246162",
+            "osm_type": "node",
+            "lat": 46.6186176,
+            "lon": 13.8484445,
+            "name": "Villach Hauptbahnhof",
+            "network": "S1, S2, Regionalverkehr, Fernverkehr",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "164.3 / 377.6",
+            "railway:position:exact": "164.264 / 377.620",
+            "railway:ref": "Vb",
+            "ref:ibnr": "8100147",
+            "short_name": "Villach Hbf",
+            "uic_name": "Villach Hbf",
+            "uic_ref": "8103654",
+            "wheelchair": "yes",
+            "wikidata": "Q699533",
+            "wikipedia": "de:Villach Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8484445,
+              46.6186176
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3872544898",
+            "osm_type": "node",
+            "lat": 46.5632191,
+            "lon": 13.8134429,
+            "ele": "508",
+            "name": "Fürnitz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "386.5",
+            "railway:position:exact": "386.486",
+            "railway:ref": "Fn",
+            "uic_name": "Fürnitz",
+            "uic_ref": "8100368",
+            "wikidata": "Q111166828"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8134429,
+              46.5632191
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3890138854",
+            "osm_type": "node",
+            "lat": 46.6211542,
+            "lon": 13.8663244,
+            "name": "Villach Hbf, Terminal 2, Verladestelle",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "376.2",
+            "railway:position:exact": "376.200",
+            "railway:ref": "Vba"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8663244,
+              46.6211542
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3969502752",
+            "osm_type": "node",
+            "lat": 46.6824407,
+            "lon": 13.9740108,
+            "name": "Ossiach-Bodensdorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Oi",
+            "uic_ref": "8100037",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9740108,
+              46.6824407
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3969503957",
+            "osm_type": "node",
+            "lat": 46.6409836,
+            "lon": 13.8763158,
+            "name": "Villach St. Ruprecht",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Ru",
+            "uic_ref": "8101592"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8763158,
+              46.6409836
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3969505271",
+            "osm_type": "node",
+            "lat": 46.6628524,
+            "lon": 13.9160989,
+            "name": "Sattendorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Saf",
+            "uic_ref": "8100036"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9160989,
+              46.6628524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3969509257",
+            "osm_type": "node",
+            "lat": 46.6982263,
+            "lon": 14.0141174,
+            "alt_name": "Steindorf am Ossiachersee",
+            "name": "Steindorf am Ossiacher See",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Sos",
+            "uic_ref": "8100038"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0141174,
+              46.6982263
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549640199",
+            "osm_type": "node",
+            "lat": 46.5886429,
+            "lon": 13.6255701,
+            "ele": "559",
+            "name": "Nötsch",
+            "name:de": "Nötsch",
+            "name:sl": "Čajna",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "8.8",
+            "railway:position:exact": "8.835",
+            "railway:ref": "Noe",
+            "uic_name": "Nötsch im Gailtal",
+            "uic_ref": "8101284"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6255701,
+              46.5886429
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549640200",
+            "osm_type": "node",
+            "lat": 46.6003852,
+            "lon": 13.5332258,
+            "ele": "561",
+            "name": "St. Stefan-Vorderberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "16.5",
+            "railway:position:exact": "16.462",
+            "railway:ref": "Ssv",
+            "uic_name": "St.Stefan-Vorderberg",
+            "uic_ref": "8101598"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5332258,
+              46.6003852
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4549659206",
+            "osm_type": "node",
+            "lat": 46.5515304,
+            "lon": 13.7075914,
+            "ele": "567",
+            "name": "Arnoldstein",
+            "name:de": "Arnoldstein",
+            "name:sl": "Podklošter",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "yes",
+            "railway": "station",
+            "railway:position": "395.0 / 0.0",
+            "railway:position:exact": "394.953 / 0.000",
+            "railway:ref": "Dr",
+            "uic_ref": "8100056",
+            "wikidata": "Q111166816"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7075914,
+              46.5515304
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5844914041",
+            "osm_type": "node",
+            "lat": 46.5642374,
+            "lon": 13.9115367,
+            "name": "Faak am See",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fas",
+            "uic_name": "Faak am See",
+            "uic_ref": "8100084",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9115367,
+              46.5642374
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5844914042",
+            "osm_type": "node",
+            "lat": 46.6020824,
+            "lon": 13.9592286,
+            "name": "Föderlach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Foe",
+            "uic_ref": "8100797",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9592286,
+              46.6020824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "303394583",
+            "osm_type": "node",
+            "lat": 46.636199,
+            "lon": 14.1463439,
+            "name": "Pörtschach am Wörthersee",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Pow",
+            "uic_name": "Pörtschach/Wörther See",
+            "uic_ref": "8100080",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1463439,
+              46.636199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "472725357",
+            "osm_type": "node",
+            "lat": 46.4102378,
+            "lon": 14.0987832,
+            "name": "Vintgar",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "Js D 1",
+            "train": "yes",
+            "uic_ref": "7900246",
+            "wikidata": "Q12807633",
+            "wikipedia": "sl:Železniško postajališče Vintgar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0987832,
+              46.4102378
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4146224546",
+            "osm_type": "node",
+            "lat": 46.5395221,
+            "lon": 14.2428742,
+            "ele": "432",
+            "name": "Weizelsdorf",
+            "note": "kein Ticketverkauf / no ticket sales",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "public_transport_tickets": "no",
+            "railway": "station",
+            "railway:position": "30.1 / 0.0",
+            "railway:position:exact": "30.079 / 0.000",
+            "railway:ref": "Wef",
+            "uic_ref": "8100347",
+            "wikidata": "Q111167785"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2428742,
+              46.5395221
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5844914040",
+            "osm_type": "node",
+            "lat": 46.5305379,
+            "lon": 14.0350915,
+            "name": "Rosenbach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "47.8",
+            "railway:position:exact": "47.791",
+            "railway:ref": "Rn",
+            "uic_name": "Rosenbach bei Villach",
+            "uic_ref": "8100083",
+            "wikidata": "Q19938283"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0350915,
+              46.5305379
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5844914043",
+            "osm_type": "node",
+            "lat": 46.6264499,
+            "lon": 14.2218498,
+            "name": "Krumpendorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Krd",
+            "ref": "1",
+            "uic_ref": "8100079"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2218498,
+              46.6264499
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9165200969",
+            "osm_type": "node",
+            "lat": 46.4361827,
+            "lon": 14.0548215,
+            "name": "Jesenice",
+            "name:de": "Aßling",
+            "name:ru": "Есенице",
+            "name:sl": "Jesenice",
+            "operator": "SŽ",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "630.2",
+            "railway:position:exact": "630.211",
+            "railway:ref": "Js",
+            "railway:ref:ÖBB": "Js",
+            "uic_name": "Jesenice (SL)",
+            "uic_ref": "7900001",
+            "wheelchair": "limited",
+            "wikidata": "Q6962376",
+            "wikipedia": "sl:Železniška postaja Jesenice"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0548215,
+              46.4361827
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10246468685",
+            "osm_type": "node",
+            "lat": 46.5636203,
+            "lon": 14.2843569,
+            "ele": "521",
+            "name": "Maria Rain",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "25.0",
+            "railway:position:exact": "25.046",
+            "start_date": "2022-12",
+            "uic_ref": "8100470"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2843569,
+              46.5636203
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 14.2994695,
+        "north": 46.70320525,
+        "east": 15.253173
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        14.749528669230768,
+        46.589368507692306
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3558062739",
+            "osm_type": "node",
+            "lat": 46.5741545,
+            "lon": 14.7865943,
+            "ele": "486",
+            "name": "Bleiburg",
+            "name:de": "Bleiburg",
+            "name:sl": "Pliberk",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "86.3",
+            "railway:position:exact": "86.334",
+            "railway:ref": "Ble",
+            "uic_ref": "8100393",
+            "wikidata": "Q32506979"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7865943,
+              46.5741545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3558276958",
+            "osm_type": "node",
+            "lat": 46.5499976,
+            "lon": 14.9217394,
+            "name": "Prevalje",
+            "name:de": "Prävali",
+            "name:sl": "Prevalje",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref:ÖBB": "Prv",
+            "train": "yes",
+            "uic_name": "Prevalje",
+            "uic_ref": "7900023",
+            "wikidata": "Q15727400",
+            "wikipedia": "sl:Železniška postaja Prevalje"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9217394,
+              46.5499976
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5658320713",
+            "osm_type": "node",
+            "lat": 46.5870594,
+            "lon": 15.02661,
+            "name": "Dravograd",
+            "name:de": "Unterdrauburg",
+            "name:sl": "Dravograd",
+            "public_transport": "station",
+            "railway": "station",
+            "wikidata": "Q5305970",
+            "wikipedia": "sl:Železniška postaja Dravograd"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.02661,
+              46.5870594
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6232991009",
+            "osm_type": "node",
+            "lat": 46.6248538,
+            "lon": 14.6208876,
+            "name": "Kühnsdorf-Klopeiner See",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Khd",
+            "train": "yes",
+            "uic_ref": "8100336",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6208876,
+              46.6248538
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6233460685",
+            "osm_type": "node",
+            "lat": 46.5989123,
+            "lon": 14.7144961,
+            "name": "Mittlern",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "1",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mtl",
+            "train": "yes",
+            "uic_ref": "8100418",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7144961,
+              46.5989123
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7529605778",
+            "osm_type": "node",
+            "lat": 46.6207397,
+            "lon": 14.7949151,
+            "name": "Wiederndorf-Aich",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "1",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Wia",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7949151,
+              46.6207397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1304776878",
+            "osm_type": "node",
+            "lat": 46.5936544,
+            "lon": 15.1584454,
+            "name": "Vuzenica",
+            "name:de": "Saldenhofen",
+            "name:ru": "Вузеница",
+            "name:sl": "Vuzenica",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "uic_name": "Vuzenica",
+            "uic_ref": "7900251",
+            "wikidata": "Q12807534",
+            "wikipedia": "sl:Železniška postaja Vuzenica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1584454,
+              46.5936544
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1304777206",
+            "osm_type": "node",
+            "lat": 46.5965283,
+            "lon": 15.2359693,
+            "name": "Vuhred",
+            "name:ru": "Вурхед",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "uic_ref": "7900053",
+            "wikidata": "Q12807530"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2359693,
+              46.5965283
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1867181889",
+            "osm_type": "node",
+            "lat": 46.3767683,
+            "lon": 15.0496982,
+            "name": "Šoštanj",
+            "name:de": "Schönstein",
+            "name:sl": "Šoštanj",
+            "public_transport": "station",
+            "railway": "station",
+            "wikidata": "Q12807540",
+            "wikipedia": "sl:Železniška postaja Šoštanj"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0496982,
+              46.3767683
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3223127800",
+            "osm_type": "node",
+            "lat": 46.6827769,
+            "lon": 14.3393508,
+            "name": "Maria Saal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "3",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Mal",
+            "uic_ref": "8101239",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3393508,
+              46.6827769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3225806968",
+            "osm_type": "node",
+            "lat": 46.6216389,
+            "lon": 14.3219869,
+            "name": "Klagenfurt Ostbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Kto",
+            "short_name": "Klagenfurt Ostbf",
+            "uic_name": "Klagenfurt Ostbahnhof",
+            "uic_ref": "8101094"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3219869,
+              46.6216389
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3225806984",
+            "osm_type": "node",
+            "lat": 46.6156856,
+            "lon": 14.3137028,
+            "ele": "440",
+            "name": "Klagenfurt Hauptbahnhof",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "6",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "125.9 / 18.0",
+            "railway:position:exact": "125.881 / 17.960",
+            "railway:ref": "Kt",
+            "ref:ibnr": "8100085",
+            "short_name": "Klagenfurt Hbf",
+            "train": "yes",
+            "uic_name": "Klagenfurt Hbf",
+            "uic_ref": "8103642",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3137028,
+              46.6156856
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3227895237",
+            "osm_type": "node",
+            "lat": 46.6190209,
+            "lon": 14.4594768,
+            "ele": "418",
+            "name": "Grafenstein",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "114.7",
+            "railway:position:exact": "114.657",
+            "railway:ref": "Gra",
+            "uic_ref": "8100256",
+            "wheelchair": "yes",
+            "wikidata": "Q38078295"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4594768,
+              46.6190209
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 13.345766,
+        "north": 47.033758500000005,
+        "east": 14.2994695
+      },
+      "poiCount": 7,
+      "leafCount": 7,
+      "averagePosition": [
+        13.757909257142858,
+        46.77038352857143
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1638304056",
+            "osm_type": "node",
+            "lat": 46.8309989,
+            "lon": 13.3673077,
+            "name": "Möllbrücke-Sachsenburg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "210.6",
+            "railway:position:exact": "210.639",
+            "railway:ref": "Ssn",
+            "train": "yes",
+            "uic_name": "Möllbrücke-Sachsenburg",
+            "uic_ref": "8100419",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3673077,
+              46.8309989
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2022631287",
+            "osm_type": "node",
+            "lat": 46.7957358,
+            "lon": 13.4875446,
+            "alt_name": "Spittal an der Drau",
+            "name": "Spittal-Millstättersee",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "200.1 / 80.9",
+            "railway:position:exact": "200.135 / 80.897",
+            "railway:ref": "Stt",
+            "uic_name": "Spittal-Millstättersee",
+            "uic_ref": "8100092",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4875446,
+              46.7957358
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4196660158",
+            "osm_type": "node",
+            "lat": 46.835086,
+            "lon": 13.4047877,
+            "name": "Pusarnitz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "72.8",
+            "railway:position:exact": "72.777",
+            "railway:ref": "Uz",
+            "uic_name": "Pusarnitz",
+            "uic_ref": "8101373"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4047877,
+              46.835086
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5844914039",
+            "osm_type": "node",
+            "lat": 46.759543,
+            "lon": 13.5822096,
+            "name": "Rothenthurn",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:ref": "Ro",
+            "uic_name": "Rothenthurn",
+            "uic_ref": "8101447"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5822096,
+              46.759543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4162608870",
+            "osm_type": "node",
+            "lat": 46.7175909,
+            "lon": 14.2113734,
+            "name": "Glanegg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "station",
+            "railway:ref": "Gla",
+            "uic_ref": "8100850"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2113734,
+              46.7175909
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4162613856",
+            "osm_type": "node",
+            "lat": 46.7322174,
+            "lon": 14.1526232,
+            "name": "St. Martin-Sittich",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Sms",
+            "uic_ref": "8100502"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1526232,
+              46.7322174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9942880769",
+            "osm_type": "node",
+            "lat": 46.7215127,
+            "lon": 14.0995186,
+            "name": "Feldkirchen in Kärnten",
+            "operator": "ÖBB",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fel",
+            "train": "yes",
+            "wikidata": "Q9258462"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0995186,
+              46.7215127
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 14.2994695,
+        "north": 47.033758500000005,
+        "east": 15.253173
+      },
+      "poiCount": 11,
+      "leafCount": 11,
+      "averagePosition": [
+        14.71597731818182,
+        46.826080118181814
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1936849742",
+            "osm_type": "node",
+            "lat": 46.7215146,
+            "lon": 14.8558541,
+            "name": "St. Paul im Lavanttal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "4",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Lav",
+            "wikidata": "Q111171387",
+            "wikipedia": "de:Bahnhof St. Paul im Lavanttal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8558541,
+              46.7215146
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3574553580",
+            "osm_type": "node",
+            "lat": 46.8421206,
+            "lon": 14.8385593,
+            "ele": "462",
+            "name": "Wolfsberg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "railway": "station",
+            "railway:position": "50.4",
+            "railway:position:exact": "50.426",
+            "railway:ref": "Wog",
+            "uic_name": "Wolfsberg",
+            "uic_ref": "8100359",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8385593,
+              46.8421206
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3579939702",
+            "osm_type": "node",
+            "lat": 46.8071035,
+            "lon": 14.8462165,
+            "ele": "433",
+            "name": "St. Stefan im Lavanttal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "railway": "station",
+            "railway:position": "54.8",
+            "railway:position:exact": "54.786",
+            "railway:ref": "Ssl",
+            "uic_name": "Sankt Stefan im Lavanttal",
+            "uic_ref": "8100440",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8462165,
+              46.8071035
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3580366915",
+            "osm_type": "node",
+            "lat": 46.7631988,
+            "lon": 14.8416774,
+            "ele": "408",
+            "name": "St. Andrä im Lavanttal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "59.8",
+            "railway:position:exact": "59.775",
+            "railway:ref": "An",
+            "uic_name": "St. Andrä im Lavanttal",
+            "uic_ref": "8100496",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8416774,
+              46.7631988
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7596225651",
+            "osm_type": "node",
+            "lat": 46.8189306,
+            "lon": 15.2184508,
+            "alt_name": "Deutschlandsberg Bahnhof",
+            "name": "Deutschlandsberg Stadt",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "30.4",
+            "railway:position:exact": "30.373",
+            "railway:ref": "Dlb",
+            "ref:IFOPT": "at:46:1497:1:zug",
+            "uic_name": "Deutschlandsberg",
+            "uic_ref": "8100718",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2184508,
+              46.8189306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2815582286",
+            "osm_type": "node",
+            "lat": 46.9535575,
+            "lon": 14.4105171,
+            "name": "Friesach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fi",
+            "uic_ref": "8100076",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4105171,
+              46.9535575
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "286537363",
+            "osm_type": "node",
+            "lat": 47.0099101,
+            "lon": 15.2142649,
+            "alt_name": "Krottendorf bei Ligist Krottendorf-Ligist Bahnhof",
+            "name": "Krottendorf-Ligist",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "2",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "27.3",
+            "railway:position:exact": "27.347",
+            "railway:ref": "Kro",
+            "ref:IFOPT": "at:46:1282:1:zug",
+            "uic_name": "Krottendorf-Ligist",
+            "uic_ref": "8101053"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2142649,
+              47.0099101
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221038767",
+            "osm_type": "node",
+            "lat": 46.7688404,
+            "lon": 14.455425,
+            "ele": "446",
+            "name": "Launsdorf-Hochosterwitz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "platforms": "3",
+            "railway": "station",
+            "railway:position": "319.5 / 0.0",
+            "railway:position:exact": "319.493 / 0.000",
+            "railway:ref": "Lad",
+            "uic_ref": "8100077",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.455425,
+              46.7688404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221096052",
+            "osm_type": "node",
+            "lat": 46.8685518,
+            "lon": 14.4655299,
+            "name": "Treibach-Althofen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Tr",
+            "uic_ref": "8100096",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4655299,
+              46.8685518
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221745556",
+            "osm_type": "node",
+            "lat": 46.7705728,
+            "lon": 14.3672044,
+            "name": "St. Veit a. d. Glan",
+            "note": "Schreibweise des Namens laut ÖBB Stationsverzeichnis!",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Vps",
+            "uic_name": "St. Veit a. d. Glan",
+            "uic_ref": "8100078",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3672044,
+              46.7705728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3221803919",
+            "osm_type": "node",
+            "lat": 46.7625806,
+            "lon": 14.3620511,
+            "name": "St. Veit a. d. Glan West",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Vs",
+            "uic_name": "St. Veit an der Glan Westbf",
+            "uic_ref": "8101624"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3620511,
+              46.7625806
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

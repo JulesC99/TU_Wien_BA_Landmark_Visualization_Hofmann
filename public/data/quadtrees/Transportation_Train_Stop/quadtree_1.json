@@ -1,0 +1,2940 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 11.438358999999998,
+    "north": 47.033758500000005,
+    "east": 13.345766
+  },
+  "poiCount": 112,
+  "leafCount": 0,
+  "averagePosition": [
+    12.372286492857143,
+    46.74731098035714
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 11.438358999999998,
+        "north": 46.70320525,
+        "east": 12.392062499999998
+      },
+      "poiCount": 15,
+      "leafCount": 15,
+      "averagePosition": [
+        11.723553619999999,
+        46.530643186666666
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1752324451",
+            "osm_type": "node",
+            "lat": 46.5363892,
+            "lon": 11.443862,
+            "description:de": "Bedarfshaltestelle",
+            "description:it": "Fermata su richiesta",
+            "light_rail": "yes",
+            "name": "Ebenhof",
+            "on_demand": "yes",
+            "public_transport": "station",
+            "railway": "halt",
+            "request_stop": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.443862,
+              46.5363892
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1752324494",
+            "osm_type": "node",
+            "lat": 46.538362,
+            "lon": 11.4492278,
+            "description:de": "Bedarfshaltestelle",
+            "description:it": "Fermata su richiesta",
+            "light_rail": "yes",
+            "name": "Weidacher",
+            "on_demand": "yes",
+            "public_transport": "station",
+            "railway": "halt",
+            "request_stop": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4492278,
+              46.538362
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1752351137",
+            "osm_type": "node",
+            "lat": 46.5394482,
+            "lon": 11.4593593,
+            "light_rail": "yes",
+            "name": "Klobenstein - Collalbo",
+            "name:de": "Klobenstein",
+            "name:it": "Collalbo",
+            "public_transport": "stop_position",
+            "railway": "stop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4593593,
+              46.5394482
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1752351166",
+            "osm_type": "node",
+            "lat": 46.532591,
+            "lon": 11.4391286,
+            "light_rail": "yes",
+            "name": "Rappersbichl - Colle Renon",
+            "name:de": "Rappersbichl",
+            "name:it": "Colle Renon",
+            "public_transport": "station",
+            "railway": "halt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4391286,
+              46.532591
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7684660354",
+            "osm_type": "node",
+            "lat": 46.5383418,
+            "lon": 11.4492349,
+            "description:de": "Bedarfshaltestelle",
+            "description:it": "Fermata su richiesta",
+            "light_rail": "yes",
+            "name": "Weidacher",
+            "on_demand": "yes",
+            "public_transport": "stop_position",
+            "railway": "stop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4492349,
+              46.5383418
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7684660359",
+            "osm_type": "node",
+            "lat": 46.5363796,
+            "lon": 11.4438846,
+            "description:de": "Bedarfshaltestelle",
+            "description:it": "Fermata su richiesta",
+            "light_rail": "yes",
+            "name": "Ebenhof",
+            "on_demand": "yes",
+            "public_transport": "stop_position",
+            "railway": "stop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4438846,
+              46.5363796
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7684660365",
+            "osm_type": "node",
+            "lat": 46.5325657,
+            "lon": 11.4391435,
+            "light_rail": "yes",
+            "name": "Rappersbichl - Colle Renon",
+            "name:de": "Rappersbichl",
+            "name:it": "Colle Renon",
+            "public_transport": "stop_position",
+            "railway": "stop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4391435,
+              46.5325657
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "245789131",
+            "osm_type": "node",
+            "lat": 46.6425488,
+            "lon": 11.5726895,
+            "name": "Klausen - Chiusa",
+            "name:de": "Klausen",
+            "name:it": "Chiusa",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5726895,
+              46.6425488
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "462275224",
+            "osm_type": "node",
+            "lat": 46.6012037,
+            "lon": 11.5326134,
+            "name": "Waidbruck - Ponte Gardena - Pruca",
+            "name:de": "Waidbruck",
+            "name:it": "Ponte Gardena",
+            "name:lld": "Pruca",
+            "name:rm": "Pruca",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5326134,
+              46.6012037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1451899194",
+            "osm_type": "node",
+            "lat": 46.6012338,
+            "lon": 11.5325036,
+            "name": "Waidbruck - Ponte Gardena - Pruca",
+            "name:de": "Waidbruck",
+            "name:it": "Ponte Gardena",
+            "name:lld": "Pruca",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5325036,
+              46.6012338
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1451899402",
+            "osm_type": "node",
+            "lat": 46.6425891,
+            "lon": 11.5726657,
+            "name": "Klausen - Chiusa",
+            "name:de": "Klausen",
+            "name:it": "Chiusa",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5726657,
+              46.6425891
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1697507531",
+            "osm_type": "node",
+            "lat": 46.4439217,
+            "lon": 12.3887423,
+            "name": "Calalzo - Pieve di Cadore - Cortina",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3887423,
+              46.4439217
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4242019722",
+            "osm_type": "node",
+            "lat": 46.4438745,
+            "lon": 12.3889162,
+            "name": "Calalzo - Pieve di Cadore - Cortina",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3889162,
+              46.4438745
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6817168796",
+            "osm_type": "node",
+            "lat": 46.3862945,
+            "lon": 12.3525335,
+            "name": "Perarolo di Cadore",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3525335,
+              46.3862945
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9105586512",
+            "osm_type": "node",
+            "lat": 46.4439042,
+            "lon": 12.3887994,
+            "name": "Calalzo - Pieve di Cadore - Cortina",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3887994,
+              46.4439042
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 12.392062499999998,
+        "north": 46.70320525,
+        "east": 13.345766
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        13.19452955625,
+        46.56589163125
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473533605",
+            "osm_type": "node",
+            "lat": 46.6712153,
+            "lon": 13.0030862,
+            "name": "Kötschach-Mauthen",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0030862,
+              46.6712153
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2509801781",
+            "osm_type": "node",
+            "lat": 46.6711466,
+            "lon": 13.0031597,
+            "name": "Kötschach-Mauthen",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0031597,
+              46.6711466
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473533657",
+            "osm_type": "node",
+            "lat": 46.659325,
+            "lon": 13.0537333,
+            "ele": "668",
+            "name": "St. Daniel",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "57.3",
+            "railway:position:exact": "57.274",
+            "railway:ref": "Dgt H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "St.Daniel",
+            "uic_ref": "8101485"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0537333,
+              46.659325
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473541806",
+            "osm_type": "node",
+            "lat": 46.6452884,
+            "lon": 13.1186713,
+            "ele": "637",
+            "name": "Gundersheim",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "51.9",
+            "railway:position:exact": "51.915",
+            "railway:ref": "Guh",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Gundersheim im Gailtal",
+            "uic_ref": "8100900"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1186713,
+              46.6452884
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473541900",
+            "osm_type": "node",
+            "lat": 46.6315785,
+            "lon": 13.230137,
+            "name": "Waidegg",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "42.7",
+            "railway:position:exact": "42.730",
+            "railway:ref": "Rdj H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Waidegg",
+            "uic_ref": "8101735"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.230137,
+              46.6315785
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473541941",
+            "osm_type": "node",
+            "lat": 46.6238476,
+            "lon": 13.2862695,
+            "ele": "595",
+            "name": "Tröpolach",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:position": "38.3",
+            "railway:position:exact": "38.292",
+            "railway:ref": "Her H3",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Tröpolach",
+            "uic_ref": "8101681"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2862695,
+              46.6238476
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473551750",
+            "osm_type": "node",
+            "lat": 46.6215262,
+            "lon": 13.3089304,
+            "end_date": "2016-12-10",
+            "name": "Watschig",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "36.6",
+            "railway:position:exact": "36.580",
+            "railway:ref": "Her H2",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Watschig",
+            "uic_ref": "8101739"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3089304,
+              46.6215262
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "473551767",
+            "osm_type": "node",
+            "lat": 46.617433,
+            "lon": 13.3337683,
+            "end_date": "2016-12-10",
+            "name": "Postran",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "34.5",
+            "railway:position:exact": "34.543",
+            "railway:ref": "Her H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Postran",
+            "uic_ref": "8101378"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3337683,
+              46.617433
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1262521009",
+            "osm_type": "node",
+            "lat": 46.6426153,
+            "lon": 13.1545373,
+            "ele": "626",
+            "name": "Reisach",
+            "operator": "Gailtalbahn Betriebs Gmbh",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:position": "49.0",
+            "railway:position:exact": "49.020",
+            "railway:ref": "Kig H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Reisach im Gailtal",
+            "uic_ref": "8101434"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1545373,
+              46.6426153
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550162235",
+            "osm_type": "node",
+            "lat": 46.5084918,
+            "lon": 13.3118117,
+            "name": "Pontebba",
+            "name:de": "Pontafel",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3118117,
+              46.5084918
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550162236",
+            "osm_type": "node",
+            "lat": 46.5085297,
+            "lon": 13.311804,
+            "name": "Pontebba",
+            "name:de": "Pontafel",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.311804,
+              46.5085297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550162237",
+            "osm_type": "node",
+            "lat": 46.5086037,
+            "lon": 13.3117873,
+            "name": "Pontebba",
+            "name:de": "Pontafel",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3117873,
+              46.5086037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550215510",
+            "osm_type": "node",
+            "lat": 46.3735935,
+            "lon": 13.1329152,
+            "name": "Carnia",
+            "name:fur": "Stazion di Cjargne",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1329152,
+              46.3735935
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550215511",
+            "osm_type": "node",
+            "lat": 46.3735991,
+            "lon": 13.1328596,
+            "name": "Carnia",
+            "name:fur": "Stazion di Cjargne",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1328596,
+              46.3735991
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1550215522",
+            "osm_type": "node",
+            "lat": 46.373613,
+            "lon": 13.1327415,
+            "name": "Carnia",
+            "name:fur": "Stazion di Cjargne",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1327415,
+              46.373613
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10599837957",
+            "osm_type": "node",
+            "lat": 46.6238594,
+            "lon": 13.2862606,
+            "name": "Tröpolach",
+            "public_transport": "station",
+            "railway": "halt",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2862606,
+              46.6238594
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 11.438358999999998,
+        "north": 47.033758500000005,
+        "east": 12.392062499999998
+      },
+      "poiCount": 43,
+      "leafCount": 43,
+      "averagePosition": [
+        11.797265374418604,
+        46.82314516744186
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "245787026",
+            "osm_type": "node",
+            "lat": 47.0024421,
+            "lon": 11.50543,
+            "name": "Brenner - Brennero",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "6",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.50543,
+              47.0024421
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "508692007",
+            "osm_type": "node",
+            "lat": 46.9380571,
+            "lon": 11.4412574,
+            "name": "Gossensaß - Colle Isarco",
+            "name:de": "Gossensaß",
+            "name:it": "Colle Isarco",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4412574,
+              46.9380571
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "508692744",
+            "osm_type": "node",
+            "lat": 46.8956979,
+            "lon": 11.4402715,
+            "name": "Sterzing-Pfitsch - Vipiteno-Val di Vizze",
+            "name:de": "Sterzing-Pfitsch",
+            "name:it": "Vipiteno-Val di Vizze",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4402715,
+              46.8956979
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "938875480",
+            "osm_type": "node",
+            "lat": 46.9381053,
+            "lon": 11.4413598,
+            "name": "Gossensaß - Colle Isarco",
+            "name:de": "Gossensaß",
+            "name:it": "Colle Isarco",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4413598,
+              46.9381053
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "941776885",
+            "osm_type": "node",
+            "lat": 46.8957519,
+            "lon": 11.4403607,
+            "name": "Sterzing-Pfitsch - Vipiteno-Val di Vizze",
+            "name:de": "Sterzing-Pfitsch",
+            "name:it": "Vipiteno-Val di Vizze",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4403607,
+              46.8957519
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1553112819",
+            "osm_type": "node",
+            "lat": 47.0025317,
+            "lon": 11.5051407,
+            "name": "Brennero / Brenner",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5051407,
+              47.0025317
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3070034708",
+            "osm_type": "node",
+            "lat": 47.0027445,
+            "lon": 11.505965,
+            "name": "Brenner - Brennero",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "8",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.505965,
+              47.0027445
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3070034710",
+            "osm_type": "node",
+            "lat": 47.0012705,
+            "lon": 11.5047515,
+            "name": "Brenner - Brennero",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "S",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5047515,
+              47.0012705
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3070034712",
+            "osm_type": "node",
+            "lat": 47.0027102,
+            "lon": 11.5060696,
+            "name": "Brenner - Brennero",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "9",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5060696,
+              47.0027102
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3070034719",
+            "osm_type": "node",
+            "lat": 47.0023807,
+            "lon": 11.5056467,
+            "name": "Brenner - Brennero",
+            "name:de": "Brenner",
+            "name:it": "Brennero",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "7",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5056467,
+              47.0023807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6855919981",
+            "osm_type": "node",
+            "lat": 46.8956679,
+            "lon": 11.4402219,
+            "name": "Sterzing-Pfitsch - Vipiteno-Val di Vizze",
+            "name:de": "Sterzing-Pfitsch",
+            "name:it": "Vipiteno-Val di Vizze",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4402219,
+              46.8956679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "462285414",
+            "osm_type": "node",
+            "lat": 46.8690306,
+            "lon": 11.4883722,
+            "name": "Freienfeld - Campo di Trens",
+            "name:de": "Freienfeld",
+            "name:it": "Campo di Trens",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Campo di Trens/Freienfeld",
+            "uic_ref": "8300534"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4883722,
+              46.8690306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454944110",
+            "osm_type": "node",
+            "lat": 46.8690593,
+            "lon": 11.488405,
+            "name": "Freienfeld - Campo di Trens",
+            "name:de": "Freienfeld",
+            "name:it": "Campo di Trens",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Campo di Trens/Freienfeld",
+            "uic_ref": "8300534"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.488405,
+              46.8690593
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "251321399",
+            "osm_type": "node",
+            "lat": 46.7672557,
+            "lon": 12.0303084,
+            "name": "Olang-Antholz - Valdaora-Anterselva",
+            "name:de": "Olang-Antholz",
+            "name:it": "Valdaora-Anterselva",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0303084,
+              46.7672557
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "462275225",
+            "osm_type": "node",
+            "lat": 46.7098975,
+            "lon": 11.6496879,
+            "local_ref": "3",
+            "name": "Brixen - Bressanone",
+            "name:de": "Brixen",
+            "name:it": "Bressanone",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6496879,
+              46.7098975
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "509624498",
+            "osm_type": "node",
+            "lat": 46.7887556,
+            "lon": 11.6099816,
+            "name": "Franzensfeste - Fortezza",
+            "name:de": "Franzensfeste",
+            "name:it": "Fortezza",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6099816,
+              46.7887556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "534703702",
+            "osm_type": "node",
+            "lat": 46.78151,
+            "lon": 11.9031667,
+            "name": "St. Lorenzen - San Lorenzo di Sebato",
+            "name:de": "St. Lorenzen",
+            "name:it": "San Lorenzo di Sebato",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "San Lorenzo/St.Lorenzen",
+            "uic_ref": "8396239"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9031667,
+              46.78151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "534749346",
+            "osm_type": "node",
+            "lat": 46.7976209,
+            "lon": 11.8441665,
+            "name": "Ehrenburg - Casteldarne",
+            "name:de": "Ehrenburg",
+            "name:it": "Casteldarne",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8441665,
+              46.7976209
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "694861436",
+            "osm_type": "node",
+            "lat": 46.7971489,
+            "lon": 11.6699104,
+            "name": "Mühlbach - Rio di Pusteria",
+            "name:de": "Mühlbach",
+            "name:it": "Rio di Pusteria",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6699104,
+              46.7971489
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "934850237",
+            "osm_type": "node",
+            "lat": 46.7887902,
+            "lon": 11.6101015,
+            "name": "Franzensfeste - Fortezza",
+            "name:de": "Franzensfeste",
+            "name:it": "Fortezza",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6101015,
+              46.7887902
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "935319905",
+            "osm_type": "node",
+            "lat": 46.7881692,
+            "lon": 11.6106297,
+            "name": "Fortezza - Franzensfeste",
+            "name:de": "Franzensfeste",
+            "name:it": "Fortezza",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6106297,
+              46.7881692
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "938106502",
+            "osm_type": "node",
+            "lat": 46.7098951,
+            "lon": 11.6497986,
+            "local_ref": "2",
+            "name": "Brixen - Bressanone",
+            "name:de": "Brixen",
+            "name:it": "Bressanone",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6497986,
+              46.7098951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "966133691",
+            "osm_type": "node",
+            "lat": 46.7888038,
+            "lon": 11.6101475,
+            "name": "Fortezza - Franzensfeste",
+            "name:de": "Franzensfeste",
+            "name:it": "Fortezza",
+            "network": "RFI",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6101475,
+              46.7888038
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454701160",
+            "osm_type": "node",
+            "lat": 46.7971299,
+            "lon": 11.6700343,
+            "name": "Mühlbach - Rio di Pusteria",
+            "name:de": "Mühlbach",
+            "name:it": "Rio di Pusteria",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.6700343,
+              46.7971299
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454701167",
+            "osm_type": "node",
+            "lat": 46.8148255,
+            "lon": 11.7231229,
+            "name": "Vintl - Vandoies",
+            "name:de": "Vintl",
+            "name:it": "Vandoies",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7231229,
+              46.8148255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454709966",
+            "osm_type": "node",
+            "lat": 46.7976826,
+            "lon": 11.8442586,
+            "name": "Ehrenburg - Casteldarne",
+            "name:de": "Ehrenburg",
+            "name:it": "Casteldarne",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.8442586,
+              46.7976826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454754993",
+            "osm_type": "node",
+            "lat": 46.794731,
+            "lon": 11.9297485,
+            "name": "Bruneck - Brunico",
+            "name:de": "Bruneck",
+            "name:it": "Brunico",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9297485,
+              46.794731
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1456081047",
+            "osm_type": "node",
+            "lat": 46.7672378,
+            "lon": 12.0302446,
+            "name": "Olang-Antholz - Valdaora-Anterselva",
+            "name:de": "Olang-Antholz",
+            "name:it": "Valdaora-Anterselva",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.0302446,
+              46.7672378
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1644941721",
+            "osm_type": "node",
+            "lat": 46.8006083,
+            "lon": 11.9364843,
+            "alt_name:de": "Bruneck Krankenhaus",
+            "name": "Bruneck Nord - Brunico Nord",
+            "name:de": "Bruneck Nord",
+            "name:it": "Brunico Nord",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9364843,
+              46.8006083
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5943496649",
+            "osm_type": "node",
+            "lat": 46.8148352,
+            "lon": 11.7230082,
+            "name": "Vintl - Vandoies",
+            "name:de": "Vintl",
+            "name:it": "Vandoies",
+            "public_transport": "station",
+            "railway": "halt",
+            "source": "https://github.com/trainline-eu/stations",
+            "uic_name": "Vandoies/Vintl",
+            "uic_ref": "8302103",
+            "wheelchair": "yes",
+            "wikidata": "Q3971243",
+            "wikipedia": "it:Stazione di Vandoies"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.7230082,
+              46.8148352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7435118507",
+            "osm_type": "node",
+            "lat": 46.7904503,
+            "lon": 11.9782873,
+            "name": "Bahnhof Percha/Kronplatz - Stazione di Perca/Plan de Corones",
+            "name:de": "Bahnhof Percha/Kronplatz",
+            "name:it": "Stazione di Perca/Plan de Corones",
+            "operator": "RFI",
+            "public_transport": "station",
+            "railway": "halt",
+            "ref": "1",
+            "short_name": "Percha - Perca",
+            "short_name:de": "Percha",
+            "short_name:it": "Perca",
+            "source": "https://github.com/trainline-eu/stations",
+            "train": "yes",
+            "uic_name": "Perca/Percha",
+            "uic_ref": "8302018",
+            "wheelchair": "yes",
+            "wikidata": "Q16609580",
+            "wikipedia": "it:Stazione di Perca-Plan de Corones"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9782873,
+              46.7904503
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7435118508",
+            "osm_type": "node",
+            "lat": 46.8005267,
+            "lon": 11.9363853,
+            "alt_name:de": "Bruneck Krankenhaus",
+            "internet_access": "no",
+            "name": "Bruneck Nord - Brunico Nord",
+            "name:de": "Bruneck Nord",
+            "name:it": "Brunico Nord",
+            "network": "400 Franzensfeste-Innichen",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "station",
+            "railway": "halt",
+            "shelter": "yes",
+            "source:uic_ref": "https://github.com/trainline-eu/stations",
+            "tactile_paving": "yes",
+            "train": "yes",
+            "uic_ref": "8302060",
+            "waiting_room": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q16608866",
+            "wikipedia": "it:Stazione di Brunico Nord"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9363853,
+              46.8005267
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12395647587",
+            "osm_type": "node",
+            "lat": 46.790411,
+            "lon": 11.9784972,
+            "name": "Percha/Kronplatz - Perca/Plan de Corones",
+            "name:de": "Percha/Kronplatz",
+            "name:it": "Perca/Plan de Corones",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "short_name": "Percha - Perca",
+            "short_name:de": "Percha",
+            "short_name:it": "Perca",
+            "train": "yes",
+            "uic_name": "Perca/Percha",
+            "uic_ref": "8372315",
+            "wikidata": "Q16609580",
+            "wikipedia": "it:Stazione di Perca-Plan de Corones"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.9784972,
+              46.790411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "449437219",
+            "osm_type": "node",
+            "lat": 46.7326469,
+            "lon": 12.2720664,
+            "name": "Innichen - San Candido",
+            "name:de": "Innichen",
+            "name:it": "San Candido",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2720664,
+              46.7326469
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "668985092",
+            "osm_type": "node",
+            "lat": 46.7324256,
+            "lon": 12.3282476,
+            "ele": "1137",
+            "name": "Vierschach-Helm - Versciaco-Elmo",
+            "name:de": "Vierschach-Helm",
+            "name:it": "Versciaco-Elmo",
+            "operator": "RFI",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:position": "69.1",
+            "railway:position:exact": "69.115",
+            "ref": "1",
+            "source:uic_ref": "https://github.com/trainline-eu/stations",
+            "start_date": "2014-12-14",
+            "train": "yes",
+            "uic_name": "Versciaco/Vierschach",
+            "uic_ref": "8302115",
+            "wheelchair": "yes",
+            "wikidata": "Q18785623",
+            "wikipedia": "it:Stazione di Versciaco-Elmo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3282476,
+              46.7324256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1451049874",
+            "osm_type": "node",
+            "lat": 46.7365192,
+            "lon": 12.1670656,
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1670656,
+              46.7365192
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454838071",
+            "osm_type": "node",
+            "lat": 46.7327395,
+            "lon": 12.2719801,
+            "name": "Innichen - San Candido",
+            "name:de": "Innichen",
+            "name:it": "San Candido",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2719801,
+              46.7327395
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1454838077",
+            "osm_type": "node",
+            "lat": 46.732678,
+            "lon": 12.2720385,
+            "name": "Innichen - San Candido",
+            "name:de": "Innichen",
+            "name:it": "San Candido",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2720385,
+              46.732678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1456081045",
+            "osm_type": "node",
+            "lat": 46.7364819,
+            "lon": 12.1670557,
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1670557,
+              46.7364819
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1456081050",
+            "osm_type": "node",
+            "lat": 46.7525468,
+            "lon": 12.1081699,
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1081699,
+              46.7525468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5673125165",
+            "osm_type": "node",
+            "lat": 46.7524727,
+            "lon": 12.1081197,
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1081197,
+              46.7524727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5673125166",
+            "osm_type": "node",
+            "lat": 46.7525822,
+            "lon": 12.1081939,
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.1081939,
+              46.7525822
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13046578988",
+            "osm_type": "node",
+            "lat": 46.7324145,
+            "lon": 12.3282517,
+            "name": "Vierschach-Helm - Versciaco-Elmo",
+            "name:de": "Vierschach-Helm",
+            "name:it": "Versciaco-Elmo",
+            "operator": "RFI",
+            "operator:wikidata": "Q1060049",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Versciaco/Vierschach",
+            "wikidata": "Q18785623"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3282517,
+              46.7324145
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 12.392062499999998,
+        "north": 47.033758500000005,
+        "east": 13.345766
+      },
+      "poiCount": 38,
+      "leafCount": 38,
+      "averagePosition": [
+        12.932839444736842,
+        46.823412465789474
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1804303390",
+            "osm_type": "node",
+            "lat": 46.9809226,
+            "lon": 13.1768757,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1768757,
+              46.9809226
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047430",
+            "osm_type": "node",
+            "lat": 46.9809448,
+            "lon": 13.1769906,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1769906,
+              46.9809448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047435",
+            "osm_type": "node",
+            "lat": 46.9809717,
+            "lon": 13.177074,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.177074,
+              46.9809717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047436",
+            "osm_type": "node",
+            "lat": 46.9817599,
+            "lon": 13.1759501,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "235",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1759501,
+              46.9817599
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047438",
+            "osm_type": "node",
+            "lat": 46.9817738,
+            "lon": 13.1760099,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1760099,
+              46.9817738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047439",
+            "osm_type": "node",
+            "lat": 46.9817866,
+            "lon": 13.1760682,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "419",
+            "ref": "2",
+            "train": "yes",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1760682,
+              46.9817866
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047440",
+            "osm_type": "node",
+            "lat": 46.9818137,
+            "lon": 13.1761795,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "419",
+            "ref": "3",
+            "train": "yes",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1761795,
+              46.9818137
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047441",
+            "osm_type": "node",
+            "lat": 46.9818286,
+            "lon": 13.176243,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.176243,
+              46.9818286
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2095047442",
+            "osm_type": "node",
+            "lat": 46.9818425,
+            "lon": 13.1763025,
+            "name": "Mallnitz-Obervellach",
+            "operator": "ÖBB",
+            "railway": "stop",
+            "uic_name": "Mallnitz-Obervellach",
+            "uic_ref": "8100093"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1763025,
+              46.9818425
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2456738012",
+            "osm_type": "node",
+            "lat": 46.8783191,
+            "lon": 13.3217899,
+            "name": "Kolbnitz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "railway:ref": "Kl",
+            "ref": "1",
+            "train": "yes",
+            "uic_ref": "8100091"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3217899,
+              46.8783191
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "294651209",
+            "osm_type": "node",
+            "lat": 46.7425177,
+            "lon": 12.3955146,
+            "name": "Weitlanbrunn",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:platform_length": "120",
+            "railway:position": "300.9",
+            "railway:position:exact": "300.945",
+            "railway:ref": "Sc H3",
+            "ref": "1",
+            "start_date": "2019-12",
+            "train": "yes",
+            "uic_name": "Weitlanbrunn",
+            "uic_ref": "8101784",
+            "wheelchair": "yes",
+            "wikidata": "Q18283889"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.3955146,
+              46.7425177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "294651227",
+            "osm_type": "node",
+            "lat": 46.7468222,
+            "lon": 12.4657241,
+            "name": "Tassenbach",
+            "network:wikidata": "Q680235",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:platform_length": "120",
+            "railway:position": "295.4",
+            "railway:position:exact": "295.406",
+            "railway:ref": "Sil H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Tassenbach",
+            "uic_ref": "8101646",
+            "wheelchair": "yes",
+            "wikidata": "Q111044942"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4657241,
+              46.7468222
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "670866408",
+            "osm_type": "node",
+            "lat": 46.7455847,
+            "lon": 12.4250401,
+            "name": "Sillian",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "200",
+            "ref": "2",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4250401,
+              46.7455847
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2228922435",
+            "osm_type": "node",
+            "lat": 46.7581659,
+            "lon": 12.5292168,
+            "name": "Abfaltersbach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:position": "289.9",
+            "railway:position:exact": "289.850",
+            "railway:ref": "Abf H1",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5292168,
+              46.7581659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7076563358",
+            "osm_type": "node",
+            "lat": 46.7458976,
+            "lon": 12.4444456,
+            "name": "Heinfels",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:position": "297.1",
+            "railway:position:exact": "297.087",
+            "railway:ref": "Sil H1H",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4444456,
+              46.7458976
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7792677169",
+            "osm_type": "node",
+            "lat": 46.7456602,
+            "lon": 12.4249886,
+            "name": "Sillian",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "230",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.4249886,
+              46.7456602
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1403472196",
+            "osm_type": "node",
+            "lat": 46.828358,
+            "lon": 12.7714059,
+            "name": "Lienz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "336",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7714059,
+              46.828358
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1637376299",
+            "osm_type": "node",
+            "lat": 46.7405444,
+            "lon": 13.0133714,
+            "name": "Irschen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "railway:position": "246.6",
+            "railway:position:exact": "246.640",
+            "railway:ref": "Od H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Irschen",
+            "uic_ref": "8101005",
+            "wikidata": "Q56910909"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0133714,
+              46.7405444
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1637402800",
+            "osm_type": "node",
+            "lat": 46.746302,
+            "lon": 12.9738211,
+            "name": "Oberdrauburg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "250",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9738211,
+              46.746302
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1639419646",
+            "osm_type": "node",
+            "lat": 46.8147482,
+            "lon": 12.8335425,
+            "name": "Dölsach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "15",
+            "railway:platform_length": "176",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8335425,
+              46.8147482
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1639419661",
+            "osm_type": "node",
+            "lat": 46.7791899,
+            "lon": 12.8950332,
+            "name": "Nikolsdorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "38",
+            "railway:platform_length": "156",
+            "railway:position": "257.0",
+            "railway:position:exact": "257.013",
+            "railway:ref": "Doe H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Nikolsdorf",
+            "uic_ref": "8101274"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8950332,
+              46.7791899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1640908095",
+            "osm_type": "node",
+            "lat": 46.8284307,
+            "lon": 12.77136,
+            "name": "Lienz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "336",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.77136,
+              46.8284307
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1642340758",
+            "osm_type": "node",
+            "lat": 46.7693752,
+            "lon": 12.5937827,
+            "name": "Mittewald a. d. Drau",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "123",
+            "ref": "2",
+            "train": "yes",
+            "uic_ref": "8100417",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5937827,
+              46.7693752
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1652534255",
+            "osm_type": "node",
+            "lat": 46.8148265,
+            "lon": 12.8335883,
+            "name": "Dölsach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "15",
+            "railway:platform_length": "176",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8335883,
+              46.8148265
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2378657234",
+            "osm_type": "node",
+            "lat": 46.8284768,
+            "lon": 12.7713309,
+            "name": "Lienz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "192",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7713309,
+              46.8284768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2497968804",
+            "osm_type": "node",
+            "lat": 46.8273416,
+            "lon": 12.7921506,
+            "name": "Lienz Peggetz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "railway:position": "266.7",
+            "railway:position:exact": "266.680",
+            "railway:ref": "Lie H1",
+            "ref": "1",
+            "start_date": "2011-12",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7921506,
+              46.8273416
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2513002416",
+            "osm_type": "node",
+            "lat": 46.7463922,
+            "lon": 12.9737832,
+            "name": "Oberdrauburg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "250",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.9737832,
+              46.7463922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8491311806",
+            "osm_type": "node",
+            "lat": 46.8277058,
+            "lon": 12.7700159,
+            "name": "Lienz",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "ref": "4",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.7700159,
+              46.8277058
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9171295454",
+            "osm_type": "node",
+            "lat": 46.7694616,
+            "lon": 12.5937488,
+            "name": "Mittewald a. d. Drau",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "ref": "1",
+            "train": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5937488,
+              46.7694616
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9171295455",
+            "osm_type": "node",
+            "lat": 46.7694485,
+            "lon": 12.5939222,
+            "name": "Mittewald a. d. Drau",
+            "note": "H-Lst",
+            "operator": "ÖBB-Infrastruktur AG",
+            "railway": "halt",
+            "railway:position": "284.5",
+            "railway:position:exact": "284.497",
+            "railway:ref": "Abf K1",
+            "ref": "1",
+            "uic_name": "Mittewald a. d. Drau",
+            "uic_ref": "8100417"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.5939222,
+              46.7694485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "449389315",
+            "osm_type": "node",
+            "lat": 46.7411651,
+            "lon": 13.1910886,
+            "name": "Greifenburg-Weißensee",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "307",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1910886,
+              46.7411651
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1637349437",
+            "osm_type": "node",
+            "lat": 46.7528484,
+            "lon": 13.259942,
+            "name": "Steinfeld im Drautal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.259942,
+              46.7528484
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1637359543",
+            "osm_type": "node",
+            "lat": 46.7423944,
+            "lon": 13.1277543,
+            "name": "Berg im Drautal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "railway:platform_height": "38",
+            "railway:platform_length": "200",
+            "railway:position": "237.4",
+            "railway:position:exact": "237.365",
+            "railway:ref": "De H1",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Berg im Drautal",
+            "uic_ref": "8100657",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.1277543,
+              46.7423944
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1637364607",
+            "osm_type": "node",
+            "lat": 46.735747,
+            "lon": 13.075427,
+            "name": "Dellach im Drautal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "200",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.075427,
+              46.735747
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1638503127",
+            "osm_type": "node",
+            "lat": 46.7708281,
+            "lon": 13.3415145,
+            "name": "Kleblach-Lind",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3415145,
+              46.7708281
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2512974316",
+            "osm_type": "node",
+            "lat": 46.7708533,
+            "lon": 13.3414244,
+            "name": "Kleblach-Lind",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3414244,
+              46.7708533
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2512999372",
+            "osm_type": "node",
+            "lat": 46.7358318,
+            "lon": 13.0754597,
+            "name": "Dellach im Drautal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "38",
+            "railway:platform_length": "200",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.0754597,
+              46.7358318
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2958245013",
+            "osm_type": "node",
+            "lat": 46.7527926,
+            "lon": 13.2600185,
+            "name": "Steinfeld im Drautal",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:platform_height": "55",
+            "railway:platform_length": "160",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.2600185,
+              46.7527926
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

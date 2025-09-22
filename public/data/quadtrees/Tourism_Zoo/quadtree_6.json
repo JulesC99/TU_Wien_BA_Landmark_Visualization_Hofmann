@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 13.345766,
+    "north": 47.694865,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    13.584507566666666,
+    47.36536256666667
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "534724961",
+        "osm_type": "node",
+        "lat": 47.2996931,
+        "lon": 13.5048641,
+        "name": "Wildpark",
+        "opening_hours": "24/7",
+        "tourism": "zoo",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5048641,
+          47.2996931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5876717223",
+        "osm_type": "node",
+        "lat": 47.3777055,
+        "lon": 13.5452377,
+        "description": "bunnies and chicken",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452377,
+          47.3777055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9193034137",
+        "osm_type": "node",
+        "lat": 47.4186891,
+        "lon": 13.7034209,
+        "operator": "Sattelberghütte",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7034209,
+          47.4186891
+        ]
+      }
+    }
+  ],
+  "children": []
+}

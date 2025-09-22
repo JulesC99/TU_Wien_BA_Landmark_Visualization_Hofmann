@@ -1,0 +1,253 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 9,
+  "leafCount": 9,
+  "averagePosition": [
+    10.765029855555555,
+    48.67335163333334
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1322607335",
+        "osm_type": "node",
+        "lat": 48.4143527,
+        "lon": 9.9194344,
+        "amenity": "hospital",
+        "check_date": "2024-05-21",
+        "designation": "Praxis für Phlebologie",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Venenklinik Blaustein",
+        "source": "www.venenklinik-blaustein.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9194344,
+          48.4143527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1753640827",
+        "osm_type": "node",
+        "lat": 48.5887359,
+        "lon": 9.7020334,
+        "amenity": "hospital",
+        "contact:email": "kontakt@vinzenz.de",
+        "contact:phone": "+49 7334 76-0",
+        "contact:website": "http://www.vinzenzklinik.de",
+        "healthcare": "hospital",
+        "name": "Vinzenzklinik",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7020334,
+          48.5887359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5220462027",
+        "osm_type": "node",
+        "lat": 48.8695156,
+        "lon": 9.6322927,
+        "amenity": "hospital",
+        "check_date": "2025-01-12",
+        "emergency": "no",
+        "healthcare": "rehabilitation",
+        "healthcare:speciality": "geriatrics",
+        "name": "Geriatrische Reha-Klinik Bethel Welzheim",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6322927,
+          48.8695156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3260242811",
+        "osm_type": "node",
+        "lat": 48.3845961,
+        "lon": 10.8396143,
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "86156",
+        "addr:street": "Stenglinstraße",
+        "amenity": "hospital",
+        "check_date": "2024-04-20",
+        "healthcare": "hospital",
+        "name": "Kinderklinik Augsburg Mutter-Kind-Zentrum Schwaben",
+        "operator": "Universitätsklinikum Augsburg",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.uk-augsburg.de/kliniken/kinderklinik-augsburg-mutter-kind-zentrum-schwaben/ueberblick",
+        "wheelchair": "yes",
+        "wikidata": "Q1741832",
+        "wikipedia": "de:Kinderklinik Augsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8396143,
+          48.3845961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "289881748",
+        "osm_type": "node",
+        "lat": 48.7714915,
+        "lon": 11.4328451,
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "85049",
+        "addr:street": "Östliche Ringstraße",
+        "amenity": "hospital",
+        "contact:email": "krankenhaus@klinik-dr-maul.de",
+        "contact:phone": "+49 841 93580",
+        "contact:website": "http://www.klinik-dr-maul.de",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Klinik Dr. Maul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4328451,
+          48.7714915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "366521592",
+        "osm_type": "node",
+        "lat": 48.75996,
+        "lon": 11.4236752,
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "85049",
+        "addr:street": "Preysingstraße",
+        "amenity": "hospital",
+        "contact:email": "info@danuviusklinik.de",
+        "contact:phone": "+49 841 9339-0",
+        "contact:website": "http://www.danuvius-ingolstadt.de",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Danuvius Klinik",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4236752,
+          48.75996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2289549643",
+        "osm_type": "node",
+        "lat": 48.7713033,
+        "lon": 11.3772047,
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "85049",
+        "addr:street": "Levelingstraße",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Diagnosticum Ingolstadt",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.diagnosticum-ingolstadt.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3772047,
+          48.7713033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2983317795",
+        "osm_type": "node",
+        "lat": 48.7301323,
+        "lon": 11.1764662,
+        "addr:city": "Neuburg an der Donau",
+        "addr:country": "DE",
+        "addr:housenumber": "B 107",
+        "addr:postcode": "86633",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "hospital",
+        "healthcare": "rehabilitation",
+        "healthcare:speciality": "geriatrics",
+        "name": "Geriatrisches Rehazentrum Neuburg",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1764662,
+          48.7301323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10074908580",
+        "osm_type": "node",
+        "lat": 48.7700773,
+        "lon": 11.3817027,
+        "addr:city": "Ingolstadt",
+        "addr:housenumber": "38",
+        "addr:postcode": "85049",
+        "addr:street": "Krumenauerstraße",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Passauer Wolf City-Reha Ingolstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3817027,
+          48.7700773
+        ]
+      }
+    }
+  ],
+  "children": []
+}

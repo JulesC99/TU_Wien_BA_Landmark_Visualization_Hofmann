@@ -1,0 +1,92 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 13.345766,
+    "north": 47.694865,
+    "east": 15.253173
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    13.968067833333334,
+    47.400797000000004
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1184554228",
+        "osm_type": "node",
+        "lat": 47.3854043,
+        "lon": 13.4671278,
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4671278,
+          47.3854043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5995778601",
+        "osm_type": "node",
+        "lat": 47.3919391,
+        "lon": 13.6765402,
+        "addr:city": "Schladming",
+        "addr:country": "AT",
+        "addr:housenumber": "777",
+        "addr:postcode": "8970",
+        "addr:street": "Salzburger Straße",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Diakonissenkrankenhaus Schladming",
+        "operator": "Diakonie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6765402,
+          47.3919391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "710894546",
+        "osm_type": "node",
+        "lat": 47.4250476,
+        "lon": 14.7605355,
+        "addr:city": "Kalwang",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "8775",
+        "addr:street": "Rudolf-von-Gutmann-Straße",
+        "amenity": "hospital",
+        "at_bev:addr_date": "2018-10-01",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "trauma",
+        "name": "Unfallkrankenhaus Steiermark, Standort Kalwang",
+        "operator": "Allgemeine Unfallversicherungsanstalt",
+        "website": "https://www.ukh-steiermark.at/",
+        "wikidata": "Q2493163",
+        "wikipedia": "de:Unfallkrankenhaus Kalwang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7605355,
+          47.4250476
+        ]
+      }
+    }
+  ],
+  "children": []
+}

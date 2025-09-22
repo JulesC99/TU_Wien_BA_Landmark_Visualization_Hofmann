@@ -1,0 +1,4395 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 13.345766,
+    "north": 49.017078,
+    "east": 15.253173
+  },
+  "poiCount": 181,
+  "leafCount": 0,
+  "averagePosition": [
+    14.367310498342542,
+    48.77835677624309
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 13.345766,
+        "north": 48.68652475,
+        "east": 14.2994695
+      },
+      "poiCount": 32,
+      "leafCount": 32,
+      "averagePosition": [
+        13.72662315,
+        48.55645258125
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "300822186",
+            "osm_type": "node",
+            "lat": 48.5626216,
+            "lon": 13.4169521,
+            "amenity": "atm",
+            "name": "Geldautomat Sparkasse Passau",
+            "network": "Sparkasse",
+            "operator": "Sparkasse Passau",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4169521,
+              48.5626216
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "333914292",
+            "osm_type": "node",
+            "lat": 48.5843738,
+            "lon": 13.4827082,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2023-10-18",
+            "network": "Bankcard-Servicenetz",
+            "opening_hours": "24/7",
+            "operator": "VR-Bank Passau eG"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4827082,
+              48.5843738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "333915995",
+            "osm_type": "node",
+            "lat": 48.5686375,
+            "lon": 13.4542281,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2023-11-29",
+            "covered": "yes",
+            "direction": "232",
+            "operator": "Sparkasse Passau",
+            "support": "wall",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4542281,
+              48.5686375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "618525085",
+            "osm_type": "node",
+            "lat": 48.5567449,
+            "lon": 13.4144625,
+            "amenity": "atm",
+            "check_date": "2022-11-08",
+            "direction": "N",
+            "operator": "Raiffeisenlandesbank Oberösterreich",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4144625,
+              48.5567449
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "686824446",
+            "osm_type": "node",
+            "lat": 48.4661449,
+            "lon": 13.4404682,
+            "amenity": "atm",
+            "operator": "Volksbank",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4404682,
+              48.4661449
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1769454075",
+            "osm_type": "node",
+            "lat": 48.5667594,
+            "lon": 13.4934836,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4934836,
+              48.5667594
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1769461961",
+            "osm_type": "node",
+            "lat": 48.5204677,
+            "lon": 13.497049,
+            "amenity": "atm",
+            "check_date": "2022-10-24"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.497049,
+              48.5204677
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2387877898",
+            "osm_type": "node",
+            "lat": 48.5717201,
+            "lon": 13.4488382,
+            "amenity": "atm",
+            "operator": "VR-Bank",
+            "wheelchair": "limited",
+            "wheelchair:description": "Abstand von Geldautomat zur Wand sehr gering - könnte schwierig werden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4488382,
+              48.5717201
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2600293974",
+            "osm_type": "node",
+            "lat": 48.4600044,
+            "lon": 13.4196521,
+            "amenity": "atm",
+            "operator": "Sparkasse Passau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4196521,
+              48.4600044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3000609722",
+            "osm_type": "node",
+            "lat": 48.5842719,
+            "lon": 13.3957286,
+            "amenity": "atm",
+            "atm": "yes",
+            "cash_in": "no",
+            "operator": "Sparkasse Passau",
+            "source": "knowledge",
+            "support": "wall",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3957286,
+              48.5842719
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3559450390",
+            "osm_type": "node",
+            "lat": 48.5733016,
+            "lon": 13.4556841,
+            "amenity": "atm",
+            "level": "1",
+            "name": "Geldautomat Sparkasse Passau",
+            "network": "Sparkasse",
+            "operator": "Sparkasse Passau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4556841,
+              48.5733016
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4056041364",
+            "osm_type": "node",
+            "lat": 48.5724143,
+            "lon": 13.4569205,
+            "amenity": "atm",
+            "brand": "Sparda-Bank",
+            "brand:wikidata": "Q2307136",
+            "brand:wikipedia": "de:Sparda-Bank (Deutschland)",
+            "cash_in": "no",
+            "drive_through": "no",
+            "indoor": "yes",
+            "name": "Sparda-Bank",
+            "operator": "Sparda-Bank",
+            "operator:wikidata": "Q2307136",
+            "operator:wikipedia": "de:Sparda-Bank (Deutschland)",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4569205,
+              48.5724143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4905132301",
+            "osm_type": "node",
+            "lat": 48.456507,
+            "lon": 13.431484,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2023-05-06",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.431484,
+              48.456507
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9942688727",
+            "osm_type": "node",
+            "lat": 48.574639,
+            "lon": 13.4596545,
+            "addr:city": "Passau",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "94032",
+            "addr:street": "Ludwigstraße",
+            "amenity": "atm",
+            "cash_in": "yes",
+            "indoor": "yes",
+            "operator": "Sparkasse Passau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4596545,
+              48.574639
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11890882231",
+            "osm_type": "node",
+            "lat": 48.5735026,
+            "lon": 13.4575676,
+            "amenity": "atm",
+            "cash_in": "no",
+            "direction": "308",
+            "operator": "Volks-Raiffeisenbank Passau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4575676,
+              48.5735026
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11980645994",
+            "osm_type": "node",
+            "lat": 48.5576277,
+            "lon": 13.4179367,
+            "amenity": "atm",
+            "brand": "ING",
+            "brand:wikidata": "Q645708",
+            "drive_through": "no",
+            "opening_hours": "Mo-Sa 07:00-20:00",
+            "operator": "ING",
+            "operator:wikidata": "Q645708"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4179367,
+              48.5576277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12057757944",
+            "osm_type": "node",
+            "lat": 48.4562533,
+            "lon": 13.4349808,
+            "amenity": "atm",
+            "branch": "Post Schärding",
+            "cash_in": "yes",
+            "cash_out": "yes",
+            "check_date": "2024-07-16",
+            "currency:EUR": "yes",
+            "currency:XBT": "yes",
+            "indoor": "yes",
+            "manufacturer": "General Bytes",
+            "name": "Kurant Bitcoin ATM",
+            "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:00",
+            "operator": "Kurant",
+            "payment:cash": "yes",
+            "payment:lightning": "yes",
+            "payment:onchain": "yes",
+            "url": "https://coinatmradar.com/bitcoin_atm/80709/bitcoin-atm-general-bytes-schaerding-post-schaerding/",
+            "website": "https://at.kurant.net/de/automat/techline-schulgasse-78-3-1180-wien-oesterreich/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4349808,
+              48.4562533
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "307740207",
+            "osm_type": "node",
+            "lat": 48.545895,
+            "lon": 13.9051288,
+            "addr:city": "Sarleinsbach",
+            "addr:country": "AT",
+            "addr:housenumber": "11",
+            "addr:postcode": "4152",
+            "addr:street": "Marktplatz",
+            "amenity": "atm",
+            "brand": "Sparkasse",
+            "brand:wikidata": "Q2307785",
+            "operator": "Sparkasse",
+            "operator:wikidata": "Q2307785",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9051288,
+              48.545895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "307740250",
+            "osm_type": "node",
+            "lat": 48.5456109,
+            "lon": 13.9049572,
+            "amenity": "atm",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "operator": "Raiffeisen",
+            "operator:wikidata": "Q22093483",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9049572,
+              48.5456109
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "517957836",
+            "osm_type": "node",
+            "lat": 48.5545122,
+            "lon": 13.6359291,
+            "amenity": "atm",
+            "check_date": "2024-09-21",
+            "operator": "Sparkasse",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6359291,
+              48.5545122
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "659918059",
+            "osm_type": "node",
+            "lat": 48.6540944,
+            "lon": 13.6206818,
+            "amenity": "atm",
+            "note": "Raiffeisenbank",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6206818,
+              48.6540944
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3246038613",
+            "osm_type": "node",
+            "lat": 48.4443965,
+            "lon": 13.9373824,
+            "amenity": "atm",
+            "check_date": "2023-03-10",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9373824,
+              48.4443965
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12968846148",
+            "osm_type": "node",
+            "lat": 48.6586286,
+            "lon": 13.86837,
+            "amenity": "atm",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "cash_in": "yes",
+            "operator": "Raiffeisen",
+            "operator:wikidata": "Q22093483",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.86837,
+              48.6586286
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "618293813",
+            "osm_type": "node",
+            "lat": 48.5227858,
+            "lon": 14.2931401,
+            "addr:city": "Bad Leonfelden",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "4190",
+            "addr:street": "Hauptplatz",
+            "amenity": "atm",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "operator": "Raiffeisen",
+            "operator:wikidata": "Q22093483"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2931401,
+              48.5227858
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "618630412",
+            "osm_type": "node",
+            "lat": 48.5146658,
+            "lon": 14.2011849,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2011849,
+              48.5146658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1461581200",
+            "osm_type": "node",
+            "lat": 48.6398824,
+            "lon": 14.2255439,
+            "addr:city": "Lipno nad Vltavou",
+            "addr:conscriptionnumber": "87",
+            "addr:country": "CZ",
+            "addr:housenumber": "87",
+            "addr:place": "Lipno nad Vltavou",
+            "addr:postcode": "38278",
+            "amenity": "atm",
+            "brand": "ČSOB",
+            "brand:wikidata": "Q340135",
+            "cash_in": "yes",
+            "currency:CZK": "yes",
+            "drive_through": "no",
+            "name": "ČSOB",
+            "opening_hours": "24/7",
+            "operator": "ČSOB",
+            "operator:wikidata": "Q340135",
+            "source:addr": "cuzk:ruian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2255439,
+              48.6398824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1461651303",
+            "osm_type": "node",
+            "lat": 48.6626331,
+            "lon": 14.1660215,
+            "addr:city": "Frymburk",
+            "addr:conscriptionnumber": "86",
+            "addr:country": "CZ",
+            "addr:housenumber": "86",
+            "addr:place": "Frymburk",
+            "addr:postcode": "38279",
+            "amenity": "atm",
+            "opening_hours": "24/7",
+            "operator": "KB",
+            "source:addr": "cuzk:ruian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1660215,
+              48.6626331
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1464382882",
+            "osm_type": "node",
+            "lat": 48.6437966,
+            "lon": 14.2208567,
+            "addr:city": "Lipno nad Vltavou",
+            "addr:conscriptionnumber": "307",
+            "addr:country": "CZ",
+            "addr:housenumber": "307",
+            "addr:place": "Lipno nad Vltavou",
+            "addr:postcode": "38278",
+            "amenity": "atm",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "cash_in": "yes",
+            "currency:CZK": "yes",
+            "name": "Česká spořitelna",
+            "opening_hours": "24/7",
+            "operator": "Česká spořitelna",
+            "operator:wikidata": "Q341100",
+            "source:addr": "cuzk:ruian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2208567,
+              48.6437966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1578198414",
+            "osm_type": "node",
+            "lat": 48.4271646,
+            "lon": 14.1620125,
+            "amenity": "atm",
+            "indoor": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1620125,
+              48.4271646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2505304764",
+            "osm_type": "node",
+            "lat": 48.5017533,
+            "lon": 14.0874447,
+            "amenity": "atm",
+            "check_date": "2025-07-16",
+            "currency:EUR": "yes",
+            "indoor": "yes",
+            "operator": "Raiffeisen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0874447,
+              48.5017533
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9048323049",
+            "osm_type": "node",
+            "lat": 48.6411659,
+            "lon": 14.2250737,
+            "amenity": "atm",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "contact:website": "https://www.kb.cz/",
+            "opening_hours": "24/7",
+            "operator": "Komerční banka a.s.",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2250737,
+              48.6411659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9932449215",
+            "osm_type": "node",
+            "lat": 48.6435058,
+            "lon": 14.2204147,
+            "amenity": "atm",
+            "cash_in": "yes",
+            "currency:CZK": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2204147,
+              48.6435058
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 14.2994695,
+        "north": 48.68652475,
+        "east": 15.253173
+      },
+      "poiCount": 27,
+      "leafCount": 27,
+      "averagePosition": [
+        14.720510185185185,
+        48.52413685555556
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10137661263",
+            "osm_type": "node",
+            "lat": 48.3663773,
+            "lon": 15.1191425,
+            "amenity": "atm",
+            "opening_hours": "24/7",
+            "operator": "Sparkasse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1191425,
+              48.3663773
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1352951655",
+            "osm_type": "node",
+            "lat": 48.5094908,
+            "lon": 14.5014165,
+            "amenity": "atm",
+            "check_date": "2025-04-15",
+            "operator": "Oberbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5014165,
+              48.5094908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1352951666",
+            "osm_type": "node",
+            "lat": 48.5114611,
+            "lon": 14.5056585,
+            "amenity": "atm",
+            "check_date": "2022-08-21",
+            "fee": "no",
+            "name": "Bankomat"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5056585,
+              48.5114611
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1352951667",
+            "osm_type": "node",
+            "lat": 48.5114882,
+            "lon": 14.5046664,
+            "amenity": "atm",
+            "check_date": "2024-09-15",
+            "fee": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5046664,
+              48.5114882
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1461736735",
+            "osm_type": "node",
+            "lat": 48.6136278,
+            "lon": 14.3117374,
+            "addr:city": "Vyšší Brod",
+            "addr:country": "CZ",
+            "addr:place": "Vyšší Brod",
+            "addr:postcode": "38273",
+            "amenity": "atm",
+            "brand": "MONETA Money Bank",
+            "brand:wikidata": "Q24282966",
+            "check_date": "2021-05-30",
+            "name": "MONETA Money Bank",
+            "opening_hours": "24/7",
+            "operator": "MONETA Money Bank",
+            "operator:wikidata": "Q24282966"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3117374,
+              48.6136278
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1942641325",
+            "osm_type": "node",
+            "lat": 48.4963892,
+            "lon": 14.5056931,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2025-06-28",
+            "currency:EUR": "yes",
+            "fee": "no",
+            "name": "Bankomat",
+            "operator": "Paylife"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5056931,
+              48.4963892
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2693295860",
+            "osm_type": "node",
+            "lat": 48.5045739,
+            "lon": 14.5035781,
+            "amenity": "atm",
+            "atm": "yes",
+            "name": "Sparkasse OÖ"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5035781,
+              48.5045739
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7001714192",
+            "osm_type": "node",
+            "lat": 48.6159938,
+            "lon": 14.3125859,
+            "amenity": "atm",
+            "check_date": "2022-08-02",
+            "name": "ATM KB bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3125859,
+              48.6159938
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9921288106",
+            "osm_type": "node",
+            "lat": 48.654808,
+            "lon": 14.3670059,
+            "amenity": "atm",
+            "brand": "Euronet",
+            "brand:wikidata": "Q5412010",
+            "currency:CZK": "yes",
+            "currency:EUR": "yes",
+            "drive_through": "no",
+            "name": "Euronet",
+            "opening_hours": "24/7",
+            "operator": "Euronet",
+            "operator:wikidata": "Q5412010"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3670059,
+              48.654808
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11215399356",
+            "osm_type": "node",
+            "lat": 48.6189459,
+            "lon": 14.3097806,
+            "amenity": "atm",
+            "brand": "Česká spořitelna",
+            "brand:wikidata": "Q341100",
+            "opening_hours": "24/7",
+            "operator": "Česká spořitelna",
+            "operator:wikidata": "Q341100"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3097806,
+              48.6189459
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12757305520",
+            "osm_type": "node",
+            "lat": 48.5068397,
+            "lon": 14.5030794,
+            "amenity": "atm",
+            "brand": "Raiffeisen",
+            "brand:wikidata": "Q22093483",
+            "operator": "Raiffeisen",
+            "operator:wikidata": "Q22093483"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5030794,
+              48.5068397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1198741511",
+            "osm_type": "node",
+            "lat": 48.4426795,
+            "lon": 14.5381278,
+            "amenity": "atm",
+            "name": "Bankomat",
+            "opening_hours": "Mo-Su 06:00-24:00",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5381278,
+              48.4426795
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1352972761",
+            "osm_type": "node",
+            "lat": 48.5854174,
+            "lon": 14.5616062,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5616062,
+              48.5854174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1604801808",
+            "osm_type": "node",
+            "lat": 48.4454784,
+            "lon": 14.6797213,
+            "amenity": "atm",
+            "fee": "no",
+            "operator": "Raika St.Leonhard"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6797213,
+              48.4454784
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1950719283",
+            "osm_type": "node",
+            "lat": 48.6536289,
+            "lon": 14.9422941,
+            "amenity": "atm",
+            "check_date": "2023-07-03",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9422941,
+              48.6536289
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3395948735",
+            "osm_type": "node",
+            "lat": 48.5006927,
+            "lon": 14.5912819,
+            "amenity": "atm",
+            "check_date": "2024-03-19",
+            "operator": "Volksbank St. Oswald",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5912819,
+              48.5006927
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3395968498",
+            "osm_type": "node",
+            "lat": 48.5002344,
+            "lon": 14.5891374,
+            "amenity": "atm",
+            "check_date": "2024-05-15",
+            "operator": "Raiffeisenbank St. Oswald"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5891374,
+              48.5002344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4330646824",
+            "osm_type": "node",
+            "lat": 48.4500713,
+            "lon": 14.7766439,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7766439,
+              48.4500713
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4330937121",
+            "osm_type": "node",
+            "lat": 48.4332491,
+            "lon": 14.7818498,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7818498,
+              48.4332491
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4330937122",
+            "osm_type": "node",
+            "lat": 48.4325871,
+            "lon": 14.7804769,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7804769,
+              48.4325871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4330937123",
+            "osm_type": "node",
+            "lat": 48.4354803,
+            "lon": 14.7808745,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7808745,
+              48.4354803
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2397045247",
+            "osm_type": "node",
+            "lat": 48.6040924,
+            "lon": 15.1667786,
+            "amenity": "atm",
+            "drive_through": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1667786,
+              48.6040924
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2397045262",
+            "osm_type": "node",
+            "lat": 48.6045674,
+            "lon": 15.1672444,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1672444,
+              48.6045674
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5130343546",
+            "osm_type": "node",
+            "lat": 48.6023441,
+            "lon": 15.1860741,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2022-07-03",
+            "operator": "Raiffeisen Bank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1860741,
+              48.6023441
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10137483416",
+            "osm_type": "node",
+            "lat": 48.5215394,
+            "lon": 15.0786623,
+            "amenity": "atm",
+            "opening_hours": "24/7",
+            "operator": "Sparkasse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0786623,
+              48.5215394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11039598508",
+            "osm_type": "node",
+            "lat": 48.4254106,
+            "lon": 15.2220709,
+            "amenity": "atm",
+            "cash_in": "no",
+            "check_date": "2024-08-31",
+            "drive_through": "no",
+            "indoor": "yes",
+            "operator": "Finserv"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2220709,
+              48.4254106
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11446540863",
+            "osm_type": "node",
+            "lat": 48.6042264,
+            "lon": 15.1665866,
+            "amenity": "atm",
+            "brand": "bank99",
+            "brand:wikidata": "Q91200481",
+            "cash_in": "no",
+            "check_date": "2023-12-23",
+            "indoor": "yes",
+            "operator": "bank99",
+            "operator:wikidata": "Q91200481"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1665866,
+              48.6042264
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 13.345766,
+        "north": 49.017078,
+        "east": 14.2994695
+      },
+      "poiCount": 12,
+      "leafCount": 12,
+      "averagePosition": [
+        13.917628149999999,
+        48.80112965
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1501237938",
+            "osm_type": "node",
+            "lat": 48.8131203,
+            "lon": 13.5452276,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5452276,
+              48.8131203
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1501270441",
+            "osm_type": "node",
+            "lat": 48.8061397,
+            "lon": 13.5475367,
+            "amenity": "atm",
+            "check_date": "2023-05-30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5475367,
+              48.8061397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9838059309",
+            "osm_type": "node",
+            "lat": 48.6956606,
+            "lon": 13.8799502,
+            "amenity": "atm",
+            "cash_in": "yes",
+            "operator": "Raiffeisenbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8799502,
+              48.6956606
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12237722130",
+            "osm_type": "node",
+            "lat": 48.7473258,
+            "lon": 13.7480571,
+            "amenity": "atm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7480571,
+              48.7473258
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "340176297",
+            "osm_type": "node",
+            "lat": 48.7659769,
+            "lon": 14.0318239,
+            "amenity": "atm",
+            "cash_in": "no",
+            "currency:CZK": "yes",
+            "fee": "195CZK",
+            "indoor": "no",
+            "language:de": "yes",
+            "language:en": "yes",
+            "operator": "Moneta"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0318239,
+              48.7659769
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2408783898",
+            "osm_type": "node",
+            "lat": 48.7393535,
+            "lon": 14.1129536,
+            "amenity": "atm",
+            "brand": "Komerční banka",
+            "brand:wikidata": "Q1541079",
+            "cash_in": "no",
+            "covered": "no",
+            "indoor": "no",
+            "name": "KB",
+            "opening_hours": "24/7",
+            "operator": "Komerční banka",
+            "operator:wikidata": "Q1541079",
+            "source": "Survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1129536,
+              48.7393535
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8677714038",
+            "osm_type": "node",
+            "lat": 48.7756304,
+            "lon": 14.2898081,
+            "amenity": "atm",
+            "brand": "ČSOB",
+            "brand:wikidata": "Q340135",
+            "operator": "ČSOB",
+            "operator:wikidata": "Q340135"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2898081,
+              48.7756304
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11008676955",
+            "osm_type": "node",
+            "lat": 48.8112297,
+            "lon": 14.2588563,
+            "amenity": "atm",
+            "cash_in": "no",
+            "currency:CZK": "yes",
+            "drive_through": "no",
+            "operator": "Moneta"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2588563,
+              48.8112297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13084123743",
+            "osm_type": "node",
+            "lat": 48.7316215,
+            "lon": 14.0940309,
+            "amenity": "atm",
+            "operator": "Euronet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0940309,
+              48.7316215
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1472403831",
+            "osm_type": "node",
+            "lat": 48.9101181,
+            "lon": 13.8916855,
+            "amenity": "atm",
+            "operator": "Česká spořitelna",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8916855,
+              48.9101181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1472403833",
+            "osm_type": "node",
+            "lat": 48.9101872,
+            "lon": 13.8913788,
+            "amenity": "atm",
+            "operator": "Komerční banka",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8913788,
+              48.9101872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10001974763",
+            "osm_type": "node",
+            "lat": 48.9071921,
+            "lon": 13.7202291,
+            "amenity": "atm",
+            "drive_through": "no",
+            "operator": "Euronet Services, spol. s r.o."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7202291,
+              48.9071921
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 14.2994695,
+        "north": 49.017078,
+        "east": 15.253173
+      },
+      "poiCount": 110,
+      "leafCount": 0,
+      "averagePosition": [
+        14.51605406,
+        48.90282584545454
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 14.2994695,
+            "north": 48.851801374999994,
+            "east": 14.77632125
+          },
+          "poiCount": 37,
+          "leafCount": 37,
+          "averagePosition": [
+            14.34316812972973,
+            48.81251462972973
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "440817762",
+                "osm_type": "node",
+                "lat": 48.8105054,
+                "lon": 14.3154637,
+                "addr:city": "Český Krumlov",
+                "addr:conscriptionnumber": "5",
+                "addr:country": "CZ",
+                "addr:housenumber": "5",
+                "addr:place": "Vnitřní Město",
+                "addr:postcode": "38101",
+                "addr:street": "náměstí Svornosti",
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "name": "Česká spořitelna",
+                "opening_hours": "24/7",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100",
+                "ref:ruian:addr": "8760829",
+                "source:addr": "cuzk:ruian",
+                "source:loc": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3154637,
+                  48.8105054
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "836917016",
+                "osm_type": "node",
+                "lat": 48.8097879,
+                "lon": 14.3256464,
+                "amenity": "atm",
+                "brand": "Komerční banka",
+                "brand:wikidata": "Q1541079",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "name": "Komerční banka",
+                "operator": "Komerční banka",
+                "operator:wikidata": "Q1541079"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3256464,
+                  48.8097879
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1324730743",
+                "osm_type": "node",
+                "lat": 48.8265448,
+                "lon": 14.3337187,
+                "amenity": "atm",
+                "brand": "Komerční banka",
+                "brand:wikidata": "Q1541079",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "name": "Komerční banka",
+                "operator": "Komerční banka",
+                "operator:wikidata": "Q1541079"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3337187,
+                  48.8265448
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2409785484",
+                "osm_type": "node",
+                "lat": 48.8109089,
+                "lon": 14.3134477,
+                "addr:city": "Český Krumlov",
+                "addr:conscriptionnumber": "72",
+                "addr:country": "CZ",
+                "addr:housenumber": "72",
+                "addr:place": "Vnitřní Město",
+                "addr:postcode": "38101",
+                "addr:street": "Široká",
+                "amenity": "atm",
+                "brand": "Komerční banka",
+                "brand:wikidata": "Q1541079",
+                "cash_in": "yes",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "level": "0",
+                "name": "Komerční banka",
+                "opening_hours": "24/7",
+                "operator": "Komerční banka",
+                "operator:wikidata": "Q1541079"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3134477,
+                  48.8109089
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2414368312",
+                "osm_type": "node",
+                "lat": 48.8300678,
+                "lon": 14.4621847,
+                "amenity": "atm"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.4621847,
+                  48.8300678
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2465362853",
+                "osm_type": "node",
+                "lat": 48.7386556,
+                "lon": 14.4934565,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "currency:CZK": "yes",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.4934565,
+                  48.7386556
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2503668955",
+                "osm_type": "node",
+                "lat": 48.811056,
+                "lon": 14.3149394,
+                "amenity": "atm",
+                "brand": "Oberbank",
+                "brand:wikidata": "Q2009139",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "name": "Oberbank",
+                "opening_hours": "24/7",
+                "operator": "Oberbank",
+                "operator:wikidata": "Q2009139",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3149394,
+                  48.811056
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2503668961",
+                "osm_type": "node",
+                "lat": 48.8139801,
+                "lon": 14.3173844,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2025-06-30",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "network": "ČSOB",
+                "operator": "Bankomat ČSOB",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3173844,
+                  48.8139801
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3096968243",
+                "osm_type": "node",
+                "lat": 48.7387883,
+                "lon": 14.492921,
+                "amenity": "atm",
+                "brand": "Komerční banka",
+                "brand:wikidata": "Q1541079",
+                "operator": "Komerční banka",
+                "operator:wikidata": "Q1541079"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.492921,
+                  48.7387883
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3755798399",
+                "osm_type": "node",
+                "lat": 48.8157369,
+                "lon": 14.3150235,
+                "addr:city": "Český Krumlov",
+                "addr:conscriptionnumber": "136",
+                "addr:country": "CZ",
+                "addr:housenumber": "136",
+                "addr:place": "Latrán",
+                "addr:postcode": "38101",
+                "addr:street": "třída Míru",
+                "amenity": "atm",
+                "brand": "ČSOB",
+                "brand:wikidata": "Q340135",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "name": "ČSOB",
+                "opening_hours": "24/7",
+                "operator": "ČSOB",
+                "operator:wikidata": "Q340135",
+                "source:addr": "cuzk:ruian"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3150235,
+                  48.8157369
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4401651998",
+                "osm_type": "node",
+                "lat": 48.8122187,
+                "lon": 14.31737,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "yes",
+                "check_date": "2024-09-27",
+                "currency:CZK": "yes",
+                "indoor": "no",
+                "name": "Euronet",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.31737,
+                  48.8122187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4561880303",
+                "osm_type": "node",
+                "lat": 48.8256025,
+                "lon": 14.3348988,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "network": "Raiffaisenbank",
+                "operator": "Raiffaisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3348988,
+                  48.8256025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4561880304",
+                "osm_type": "node",
+                "lat": 48.825588,
+                "lon": 14.3349139,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "network": "Raiffaisenbank",
+                "operator": "Raiffaisenbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3349139,
+                  48.825588
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5513798379",
+                "osm_type": "node",
+                "lat": 48.8110427,
+                "lon": 14.3240811,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "cash_in": "yes",
+                "check_date": "2024-07-05",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "name": "Česká spořitelna",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3240811,
+                  48.8110427
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5924984310",
+                "osm_type": "node",
+                "lat": 48.8129295,
+                "lon": 14.3173897,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2024-07-07",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "lit": "yes",
+                "network": "Moneta",
+                "operator": "Bankomat Moneta",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3173897,
+                  48.8129295
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6958854530",
+                "osm_type": "node",
+                "lat": 48.810442,
+                "lon": 14.3139917,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "cash_in": "yes",
+                "check_date": "2024-06-22",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "level": "0",
+                "lit": "yes",
+                "name": "Česká spořitelna",
+                "opening_hours": "24/7",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3139917,
+                  48.810442
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6983460346",
+                "osm_type": "node",
+                "lat": 48.8102983,
+                "lon": 14.3150366,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "yes",
+                "check_date": "2024-06-30",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "level": "0",
+                "lit": "yes",
+                "name": "Euronet",
+                "network": "Euronet",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3150366,
+                  48.8102983
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7034137204",
+                "osm_type": "node",
+                "lat": 48.8253284,
+                "lon": 14.332014,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "operator": "Česká spořitelna a.s.",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.332014,
+                  48.8253284
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7034137205",
+                "osm_type": "node",
+                "lat": 48.8252407,
+                "lon": 14.3320986,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "operator": "Moneta",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3320986,
+                  48.8252407
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7035909889",
+                "osm_type": "node",
+                "lat": 48.812349,
+                "lon": 14.3176959,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "cash_in": "yes",
+                "check_date": "2025-05-01",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "name": "Česká spořitelna",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3176959,
+                  48.812349
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7069629792",
+                "osm_type": "node",
+                "lat": 48.8236175,
+                "lon": 14.335262,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "yes",
+                "check_date": "2025-05-25",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.335262,
+                  48.8236175
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7089790050",
+                "osm_type": "node",
+                "lat": 48.8155129,
+                "lon": 14.3175684,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2024-07-10",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "operator": "Moneta"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3175684,
+                  48.8155129
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7825930955",
+                "osm_type": "node",
+                "lat": 48.8119203,
+                "lon": 14.3230093,
+                "amenity": "atm",
+                "brand": "UniCredit Bank",
+                "brand:wikidata": "Q45568",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "name": "UniCredit Bank",
+                "network": "Unicredit Bank",
+                "operator": "UniCredit Bank",
+                "operator:wikidata": "Q45568"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3230093,
+                  48.8119203
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8289858486",
+                "osm_type": "node",
+                "lat": 48.8044721,
+                "lon": 14.3118846,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2025-07-29",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3118846,
+                  48.8044721
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9048993822",
+                "osm_type": "node",
+                "lat": 48.8107775,
+                "lon": 14.3146622,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2023-09-23",
+                "currency:CZK": "yes",
+                "drive_through": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3146622,
+                  48.8107775
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9202057181",
+                "osm_type": "node",
+                "lat": 48.8120661,
+                "lon": 14.3162471,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "yes",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3162471,
+                  48.8120661
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9849534716",
+                "osm_type": "node",
+                "lat": 48.8100771,
+                "lon": 14.3197401,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "yes",
+                "check_date": "2024-06-10",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "level": "0",
+                "name": "Euronet",
+                "network": "Euronet",
+                "opening_hours": "24/7",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3197401,
+                  48.8100771
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9850464764",
+                "osm_type": "node",
+                "lat": 48.8118405,
+                "lon": 14.3135977,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "level": "0",
+                "lit": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3135977,
+                  48.8118405
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296951852",
+                "osm_type": "node",
+                "lat": 48.8251076,
+                "lon": 14.3333754,
+                "amenity": "atm",
+                "cash_in": "no",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "operator": "Moneta"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3333754,
+                  48.8251076
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10870226315",
+                "osm_type": "node",
+                "lat": 48.8252105,
+                "lon": 14.332297,
+                "amenity": "atm",
+                "brand": "ČSOB",
+                "brand:wikidata": "Q340135",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "ČSOB",
+                "operator:wikidata": "Q340135",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.332297,
+                  48.8252105
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11705760346",
+                "osm_type": "node",
+                "lat": 48.8252177,
+                "lon": 14.3321266,
+                "amenity": "atm",
+                "brand": "Air Bank",
+                "brand:wikidata": "Q10723691",
+                "cash_in": "no",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "network": "Airbank",
+                "operator": "Air Bank",
+                "operator:wikidata": "Q10723691"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3321266,
+                  48.8252177
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12250713333",
+                "osm_type": "node",
+                "lat": 48.8135922,
+                "lon": 14.3170604,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "cash_in": "no",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "level": "0",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3170604,
+                  48.8135922
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12865287455",
+                "osm_type": "node",
+                "lat": 48.822477,
+                "lon": 14.3151259,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "no",
+                "currency:CZK": "yes",
+                "drive_through": "no",
+                "indoor": "no",
+                "network": "Euronet",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3151259,
+                  48.822477
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12959964973",
+                "osm_type": "node",
+                "lat": 48.8119527,
+                "lon": 14.3144489,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "no",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3144489,
+                  48.8119527
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12959964974",
+                "osm_type": "node",
+                "lat": 48.8103792,
+                "lon": 14.3196348,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "cash_in": "no",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3196348,
+                  48.8103792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13076695677",
+                "osm_type": "node",
+                "lat": 48.8116419,
+                "lon": 14.3146761,
+                "amenity": "atm",
+                "brand": "Euronet",
+                "brand:wikidata": "Q5412010",
+                "covered": "yes",
+                "currency:CZK": "yes",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "indoor": "yes",
+                "level": "0",
+                "name": "Euronet",
+                "network": "Euronet",
+                "operator": "Euronet",
+                "operator:wikidata": "Q5412010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.3146761,
+                  48.8116419
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12048786364",
+                "osm_type": "node",
+                "lat": 48.840107,
+                "lon": 14.642828,
+                "amenity": "atm",
+                "name": "ČSOB"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.642828,
+                  48.840107
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 14.77632125,
+            "north": 48.851801374999994,
+            "east": 15.253173
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            14.972118211111113,
+            48.759412955555554
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2926541822",
+                "osm_type": "node",
+                "lat": 48.7017328,
+                "lon": 14.7915074,
+                "amenity": "atm"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.7915074,
+                  48.7017328
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3138423480",
+                "osm_type": "node",
+                "lat": 48.7660972,
+                "lon": 14.983781,
+                "amenity": "atm",
+                "check_date": "2022-08-25"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.983781,
+                  48.7660972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3504677855",
+                "osm_type": "node",
+                "lat": 48.7010391,
+                "lon": 14.8938701,
+                "amenity": "atm",
+                "cash_in": "no",
+                "check_date": "2025-02-16",
+                "currency:EUR": "yes",
+                "operator": "Raiffeisenbank Weitra",
+                "phone": "0285624010"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.8938701,
+                  48.7010391
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6742198563",
+                "osm_type": "node",
+                "lat": 48.7903296,
+                "lon": 14.7779047,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "check_date": "2023-12-28",
+                "indoor": "no",
+                "name": "Česká spořitelna",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.7779047,
+                  48.7903296
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7666534484",
+                "osm_type": "node",
+                "lat": 48.7727267,
+                "lon": 14.9872152,
+                "addr:city": "Gmünd",
+                "addr:country": "AT",
+                "addr:housenumber": "42",
+                "addr:postcode": "3950",
+                "addr:street": "Stadtplatz",
+                "amenity": "atm",
+                "at_bev:addr_date": "2021-04-01",
+                "cash_in": "no",
+                "check_date": "2023-09-10",
+                "contact:phone": "+43 50 1007 9560",
+                "name": "Waldviertler Sparkasse"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.9872152,
+                  48.7727267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10087476082",
+                "osm_type": "node",
+                "lat": 48.7608198,
+                "lon": 14.9906398,
+                "amenity": "atm",
+                "check_date": "2022-10-09",
+                "covered": "yes",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "PSA"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.9906398,
+                  48.7608198
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1933420713",
+                "osm_type": "node",
+                "lat": 48.7588425,
+                "lon": 15.1823932,
+                "amenity": "atm",
+                "operator": "Waldviertler Sparkasse Vitis"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.1823932,
+                  48.7588425
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4126708256",
+                "osm_type": "node",
+                "lat": 48.7927441,
+                "lon": 15.0715247,
+                "amenity": "atm",
+                "operator": "Volksbank"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.0715247,
+                  48.7927441
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10960217330",
+                "osm_type": "node",
+                "lat": 48.7903848,
+                "lon": 15.0702278,
+                "amenity": "atm",
+                "cash_in": "no",
+                "currency:EUR": "yes",
+                "operator": "Spar"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.0702278,
+                  48.7903848
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 14.2994695,
+            "north": 49.017078,
+            "east": 14.77632125
+          },
+          "poiCount": 59,
+          "leafCount": 0,
+          "averagePosition": [
+            14.513402310169491,
+            48.98157473050848
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 48.851801374999994,
+                "west": 14.2994695,
+                "north": 48.934439687499996,
+                "east": 14.537895375000002
+              },
+              "poiCount": 1,
+              "leafCount": 1,
+              "averagePosition": [
+                14.3717681,
+                48.8531905
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11879615779",
+                    "osm_type": "node",
+                    "lat": 48.8531905,
+                    "lon": 14.3717681,
+                    "amenity": "atm"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.3717681,
+                      48.8531905
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 48.851801374999994,
+                "west": 14.537895375000002,
+                "north": 48.934439687499996,
+                "east": 14.77632125
+              },
+              "poiCount": 1,
+              "leafCount": 1,
+              "averagePosition": [
+                14.6424969,
+                48.9011525
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2384648755",
+                    "osm_type": "node",
+                    "lat": 48.9011525,
+                    "lon": 14.6424969,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "name": "Česká spořitelna",
+                    "opening_hours": "24/7",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "source": "survey",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.6424969,
+                      48.9011525
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 48.934439687499996,
+                "west": 14.2994695,
+                "north": 49.017078,
+                "east": 14.537895375000002
+              },
+              "poiCount": 47,
+              "leafCount": 47,
+              "averagePosition": [
+                14.467126685106383,
+                48.98048333191489
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "629540978",
+                    "osm_type": "node",
+                    "lat": 48.97579,
+                    "lon": 14.4751911,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "brand:wikipedia": "en:Československá obchodní banka",
+                    "cash_in": "yes",
+                    "check_date": "2021-12-20",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "operator:wikipedia": "en:Československá obchodní banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4751911,
+                      48.97579
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "629540980",
+                    "osm_type": "node",
+                    "lat": 48.9757983,
+                    "lon": 14.4752245,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "brand:wikipedia": "en:Československá obchodní banka",
+                    "cash_in": "yes",
+                    "check_date": "2021-12-20",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "operator:wikipedia": "en:Československá obchodní banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4752245,
+                      48.9757983
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1843665979",
+                    "osm_type": "node",
+                    "lat": 48.9718787,
+                    "lon": 14.4778291,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "brand:wikipedia": "en:Komerční banka",
+                    "cash_in": "no",
+                    "indoor": "no",
+                    "name": "Komerční banka",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079",
+                    "operator:wikipedia": "en:Komerční banka",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4778291,
+                      48.9718787
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2016210760",
+                    "osm_type": "node",
+                    "lat": 48.9619588,
+                    "lon": 14.4726561,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "brand:wikipedia": "en:Česká spořitelna",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "operator:wikipedia": "en:Česká spořitelna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4726561,
+                      48.9619588
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2098541665",
+                    "osm_type": "node",
+                    "lat": 48.9743891,
+                    "lon": 14.4874305,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "brand:wikipedia": "en:Komerční banka",
+                    "cash_in": "no",
+                    "name": "Komerční banka",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079",
+                    "operator:wikipedia": "en:Komerční banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4874305,
+                      48.9743891
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2098570135",
+                    "osm_type": "node",
+                    "lat": 48.9763299,
+                    "lon": 14.4736634,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "brand:wikipedia": "en:Komerční banka",
+                    "cash_in": "no",
+                    "check_date": "2024-04-02",
+                    "indoor": "no",
+                    "name": "Komerční banka",
+                    "opening_hours": "24/7",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079",
+                    "operator:wikipedia": "en:Komerční banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4736634,
+                      48.9763299
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2475383792",
+                    "osm_type": "node",
+                    "lat": 48.973085,
+                    "lon": 14.4865667,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "brand:wikipedia": "en:Československá obchodní banka",
+                    "cash_in": "no",
+                    "currency:CZK": "yes",
+                    "drive_through": "no",
+                    "level": "0",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "operator:wikipedia": "en:Československá obchodní banka",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4865667,
+                      48.973085
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2485151109",
+                    "osm_type": "node",
+                    "lat": 48.9743067,
+                    "lon": 14.4835032,
+                    "amenity": "atm",
+                    "brand": "Euronet",
+                    "brand:wikidata": "Q5412010",
+                    "brand:wikipedia": "en:Euronet Worldwide",
+                    "cash_in": "no",
+                    "name": "Euronet",
+                    "operator": "Euronet",
+                    "operator:wikidata": "Q5412010",
+                    "operator:wikipedia": "en:Euronet Worldwide",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4835032,
+                      48.9743067
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2493002826",
+                    "osm_type": "node",
+                    "lat": 48.9710914,
+                    "lon": 14.5038367,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "opening_hours": "24/7",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.5038367,
+                      48.9710914
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2822380526",
+                    "osm_type": "node",
+                    "lat": 48.9898881,
+                    "lon": 14.4558464,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "check_date": "2023-10-04",
+                    "indoor": "no",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4558464,
+                      48.9898881
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2822423138",
+                    "osm_type": "node",
+                    "lat": 49.0018717,
+                    "lon": 14.4511955,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "check_date": "2021-12-14",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4511955,
+                      49.0018717
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2822423143",
+                    "osm_type": "node",
+                    "lat": 49.0010391,
+                    "lon": 14.4508833,
+                    "amenity": "atm",
+                    "brand": "Air Bank",
+                    "brand:wikidata": "Q10723691",
+                    "cash_in": "no",
+                    "opening_hours": "06:00-24:00",
+                    "operator": "Air Bank",
+                    "operator:wikidata": "Q10723691"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4508833,
+                      49.0010391
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2822493810",
+                    "osm_type": "node",
+                    "lat": 48.9741899,
+                    "lon": 14.4818037,
+                    "amenity": "atm",
+                    "cash_in": "no",
+                    "indoor": "no",
+                    "opening_hours": "24/7",
+                    "operator": "Moneta"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4818037,
+                      48.9741899
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3051934475",
+                    "osm_type": "node",
+                    "lat": 48.9788117,
+                    "lon": 14.4487971,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "check_date": "2024-03-19",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4487971,
+                      48.9788117
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3418124995",
+                    "osm_type": "node",
+                    "lat": 49.0000797,
+                    "lon": 14.4514978,
+                    "amenity": "atm",
+                    "brand": "Fio banka",
+                    "brand:wikidata": "Q12016657",
+                    "cash_in": "no",
+                    "description": "NC Géčko - ve středu pasáže",
+                    "name": "Fio banka",
+                    "opening_hours": "Mo-Su 9:00-20:00",
+                    "operator": "Fio banka",
+                    "operator:wikidata": "Q12016657",
+                    "ref": "České Budějovice,České Vrbné 2360",
+                    "source": "fio.cz"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4514978,
+                      49.0000797
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3868680175",
+                    "osm_type": "node",
+                    "lat": 48.9751036,
+                    "lon": 14.4752944,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "brand:wikipedia": "en:Česká spořitelna",
+                    "cash_in": "no",
+                    "check_date": "2024-12-21",
+                    "indoor": "yes",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "operator:wikipedia": "en:Česká spořitelna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4752944,
+                      48.9751036
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3899636830",
+                    "osm_type": "node",
+                    "lat": 48.9746216,
+                    "lon": 14.473352,
+                    "amenity": "atm",
+                    "brand": "Oberbank",
+                    "brand:wikidata": "Q2009139",
+                    "cash_in": "yes",
+                    "indoor": "no",
+                    "name": "Oberbank",
+                    "operator": "Oberbank",
+                    "operator:wikidata": "Q2009139"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.473352,
+                      48.9746216
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4335874479",
+                    "osm_type": "node",
+                    "lat": 48.993605,
+                    "lon": 14.4694788,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4694788,
+                      48.993605
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4364979509",
+                    "osm_type": "node",
+                    "lat": 48.9812935,
+                    "lon": 14.4463046,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "indoor": "yes",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4463046,
+                      48.9812935
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4365266990",
+                    "osm_type": "node",
+                    "lat": 48.982045,
+                    "lon": 14.4452179,
+                    "amenity": "atm",
+                    "brand": "MONETA Money Bank",
+                    "brand:wikidata": "Q24282966",
+                    "cash_in": "no",
+                    "indoor": "yes",
+                    "operator": "MONETA Money Bank",
+                    "operator:wikidata": "Q24282966"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4452179,
+                      48.982045
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4377118702",
+                    "osm_type": "node",
+                    "lat": 48.9830967,
+                    "lon": 14.4414683,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "check_date": "2024-12-22",
+                    "drive_through": "no",
+                    "indoor": "yes",
+                    "level": "0",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4414683,
+                      48.9830967
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4440826290",
+                    "osm_type": "node",
+                    "lat": 48.9881403,
+                    "lon": 14.473038,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "yes",
+                    "indoor": "yes",
+                    "opening_hours": "24/7",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.473038,
+                      48.9881403
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4504462594",
+                    "osm_type": "node",
+                    "lat": 48.9732437,
+                    "lon": 14.4877479,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "brand:wikipedia": "en:Česká spořitelna",
+                    "cash_in": "no",
+                    "currency:CZK": "yes",
+                    "drive_through": "no",
+                    "indoor": "yes",
+                    "level": "0",
+                    "lit": "yes",
+                    "name": "Česká spořitelna",
+                    "opening_hours": "Mo-Fr 04:45-23:45; Sa 10:00-22:00; Su 05:30-21:30",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "operator:wikipedia": "en:Česká spořitelna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4877479,
+                      48.9732437
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4564175894",
+                    "osm_type": "node",
+                    "lat": 48.970056,
+                    "lon": 14.4741674,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "brand:wikipedia": "en:Československá obchodní banka",
+                    "cash_in": "no",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "operator:wikipedia": "en:Československá obchodní banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4741674,
+                      48.970056
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4565781989",
+                    "osm_type": "node",
+                    "lat": 48.9842497,
+                    "lon": 14.4703306,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "currency:CZK": "yes",
+                    "drive_through": "no",
+                    "indoor": "no",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4703306,
+                      48.9842497
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4567101689",
+                    "osm_type": "node",
+                    "lat": 48.9906241,
+                    "lon": 14.4740358,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "check_date": "2025-05-06",
+                    "name": "ČSOB",
+                    "opening_hours": "24/7",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4740358,
+                      48.9906241
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4639508489",
+                    "osm_type": "node",
+                    "lat": 48.9739212,
+                    "lon": 14.4634786,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "indoor": "yes",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4634786,
+                      48.9739212
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6168958387",
+                    "osm_type": "node",
+                    "lat": 48.9818256,
+                    "lon": 14.4462815,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "cash_in": "yes",
+                    "currency:CZK": "yes",
+                    "drive_through": "no",
+                    "indoor": "no",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4462815,
+                      48.9818256
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "7503737253",
+                    "osm_type": "node",
+                    "lat": 48.9739226,
+                    "lon": 14.4738963,
+                    "amenity": "atm",
+                    "brand": "Fio banka",
+                    "brand:wikidata": "Q12016657",
+                    "brand:wikipedia": "cs:Fio banka",
+                    "cash_in": "yes",
+                    "description": "Obchodní Galerie Dvořák",
+                    "name": "Fio banka",
+                    "opening_hours": "07:00-20:00",
+                    "operator": "Fio banka",
+                    "operator:wikidata": "Q12016657",
+                    "operator:wikipedia": "cs:Fio banka",
+                    "ref": "Náměstí Přemysla Otakara II. 123/36"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4738963,
+                      48.9739226
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "7503737254",
+                    "osm_type": "node",
+                    "lat": 48.9731994,
+                    "lon": 14.4749163,
+                    "amenity": "atm",
+                    "brand": "Fio banka",
+                    "brand:wikidata": "Q12016657",
+                    "brand:wikipedia": "cs:Fio banka",
+                    "cash_in": "no",
+                    "description": "výloha pobočky",
+                    "indoor": "yes",
+                    "name": "Fio banka",
+                    "opening_hours": "24/7",
+                    "operator": "Fio banka",
+                    "operator:wikidata": "Q12016657",
+                    "operator:wikipedia": "cs:Fio banka",
+                    "ref": "Dr. Stejskala 11"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4749163,
+                      48.9731994
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "7837418197",
+                    "osm_type": "node",
+                    "lat": 48.9689983,
+                    "lon": 14.4718734,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "check_date": "2023-04-02",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4718734,
+                      48.9689983
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8306524213",
+                    "osm_type": "node",
+                    "lat": 48.9941525,
+                    "lon": 14.4702863,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "yes",
+                    "drive_through": "no",
+                    "indoor": "yes",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4702863,
+                      48.9941525
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9420326352",
+                    "osm_type": "node",
+                    "lat": 48.9740547,
+                    "lon": 14.4634189,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "indoor": "yes",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4634189,
+                      48.9740547
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9423661890",
+                    "osm_type": "node",
+                    "lat": 48.9762693,
+                    "lon": 14.473881,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "brand:wikipedia": "en:Česká spořitelna",
+                    "cash_in": "no",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "operator:wikipedia": "en:Česká spořitelna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.473881,
+                      48.9762693
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9460862581",
+                    "osm_type": "node",
+                    "lat": 48.9838995,
+                    "lon": 14.4380314,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "brand:wikipedia": "en:Československá obchodní banka",
+                    "cash_in": "no",
+                    "name": "ČSOB",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "operator:wikipedia": "en:Československá obchodní banka"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4380314,
+                      48.9838995
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9754216636",
+                    "osm_type": "node",
+                    "lat": 48.9732274,
+                    "lon": 14.4878166,
+                    "amenity": "atm",
+                    "brand": "Air Bank",
+                    "brand:wikidata": "Q10723691",
+                    "cash_in": "no",
+                    "level": "1",
+                    "name": "Airbank",
+                    "operator": "Air Bank",
+                    "operator:wikidata": "Q10723691"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4878166,
+                      48.9732274
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9918705817",
+                    "osm_type": "node",
+                    "lat": 48.9742613,
+                    "lon": 14.4817013,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "brand:wikipedia": "en:Česká spořitelna",
+                    "cash_in": "no",
+                    "indoor": "no",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100",
+                    "operator:wikipedia": "en:Česká spořitelna"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4817013,
+                      48.9742613
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10880771883",
+                    "osm_type": "node",
+                    "lat": 48.9866543,
+                    "lon": 14.4592906,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4592906,
+                      48.9866543
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10880771889",
+                    "osm_type": "node",
+                    "lat": 48.9866532,
+                    "lon": 14.4592452,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4592452,
+                      48.9866532
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10880791309",
+                    "osm_type": "node",
+                    "lat": 48.9866541,
+                    "lon": 14.4592698,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "cash_in": "no",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4592698,
+                      48.9866541
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10880791313",
+                    "osm_type": "node",
+                    "lat": 48.9866555,
+                    "lon": 14.4593121,
+                    "amenity": "atm"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4593121,
+                      48.9866555
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10902018654",
+                    "osm_type": "node",
+                    "lat": 48.9740122,
+                    "lon": 14.4635363,
+                    "amenity": "atm",
+                    "cash_in": "no",
+                    "operator": "Air Bank"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4635363,
+                      48.9740122
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10939571280",
+                    "osm_type": "node",
+                    "lat": 48.9825939,
+                    "lon": 14.4417687,
+                    "amenity": "atm",
+                    "brand": "Raiffeisenbank",
+                    "brand:wikidata": "Q24282825",
+                    "cash_in": "yes",
+                    "indoor": "yes",
+                    "operator": "Raiffeisenbank",
+                    "operator:wikidata": "Q24282825"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4417687,
+                      48.9825939
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10977143377",
+                    "osm_type": "node",
+                    "lat": 48.9780122,
+                    "lon": 14.4928454,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "check_date": "2025-05-11",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4928454,
+                      48.9780122
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11469889329",
+                    "osm_type": "node",
+                    "lat": 48.9739351,
+                    "lon": 14.4738971,
+                    "amenity": "atm",
+                    "brand": "Air Bank",
+                    "brand:wikidata": "Q10723691",
+                    "cash_in": "yes",
+                    "name": "Air Bank",
+                    "operator": "Air Bank",
+                    "operator:wikidata": "Q10723691"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4738971,
+                      48.9739351
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11631827251",
+                    "osm_type": "node",
+                    "lat": 49.0001387,
+                    "lon": 14.4523733,
+                    "address": "České Vrbné 2360, 370 11 České Budejovice, Czech Republic",
+                    "amenity": "atm",
+                    "bench": "Budova Sport Direct",
+                    "branch": "Sport Direct, Ceske Budejovice",
+                    "cash_in": "yes",
+                    "cash_out": "yes",
+                    "cash_withdrawal": "yes",
+                    "check_date": "2024-03-29",
+                    "currency:CZK": "yes",
+                    "currency:XBT": "yes",
+                    "indoor": "yes",
+                    "level": "0",
+                    "manufacturer": "General Bytes",
+                    "name": "BITCOINMAT.sk",
+                    "note": "Budova Sport Direct naproti OC Géčko, na prizemi",
+                    "opening_hours": "Mo-Su 10:00-22:00",
+                    "operator": "Bitcoinmat.sk",
+                    "payment:cash": "yes",
+                    "payment:lightning": "yes",
+                    "payment:onchain": "yes",
+                    "start_date": "2023-09-13",
+                    "url": "https://coinatmradar.com/bitcoin_atm/71371/bitcoin-atm-general-bytes-ceske-budejovice-budova-sportsdirect-naproti-oc-gecko/",
+                    "website": "https://bitcoinmat.org/bitcoinmat/ceske-budejovice-budova-sport-direct-naproti-oc-gecko-na-prizemi"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4523733,
+                      49.0001387
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "12208567002",
+                    "osm_type": "node",
+                    "lat": 48.9830883,
+                    "lon": 14.4414733,
+                    "amenity": "atm",
+                    "cash_in": "no",
+                    "currency:CZK": "yes",
+                    "drive_through": "no",
+                    "indoor": "yes",
+                    "level": "0",
+                    "network": "AirBank",
+                    "operator": "AirBank"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.4414733,
+                      48.9830883
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 48.934439687499996,
+                "west": 14.537895375000002,
+                "north": 49.017078,
+                "east": 14.77632125
+              },
+              "poiCount": 10,
+              "leafCount": 10,
+              "averagePosition": [
+                14.73215171,
+                49.00758495
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1333577134",
+                    "osm_type": "node",
+                    "lat": 49.0159832,
+                    "lon": 14.6102408,
+                    "amenity": "atm",
+                    "operator": "GE Money Bank"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.6102408,
+                      49.0159832
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1334316648",
+                    "osm_type": "node",
+                    "lat": 49.0167861,
+                    "lon": 14.6101044,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.6101044,
+                      49.0167861
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2404901886",
+                    "osm_type": "node",
+                    "lat": 49.0037497,
+                    "lon": 14.7711334,
+                    "addr:city": "Třeboň",
+                    "addr:conscriptionnumber": "104",
+                    "addr:country": "CZ",
+                    "addr:housenumber": "104",
+                    "addr:place": "Třeboň I",
+                    "addr:postcode": "37901",
+                    "addr:street": "Masarykovo nám.",
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "cash_in": "no",
+                    "indoor": "no",
+                    "name": "ČSOB",
+                    "opening_hours": "24/7",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135",
+                    "source:addr": "cuzk:ruian"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7711334,
+                      49.0037497
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2404901895",
+                    "osm_type": "node",
+                    "lat": 49.0035077,
+                    "lon": 14.7611547,
+                    "amenity": "atm",
+                    "brand": "Česká spořitelna",
+                    "brand:wikidata": "Q341100",
+                    "cash_in": "no",
+                    "indoor": "no",
+                    "name": "Česká spořitelna",
+                    "operator": "Česká spořitelna",
+                    "operator:wikidata": "Q341100"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7611547,
+                      49.0035077
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2404901924",
+                    "osm_type": "node",
+                    "lat": 49.0043839,
+                    "lon": 14.7603639,
+                    "amenity": "atm",
+                    "brand": "Komerční banka",
+                    "brand:wikidata": "Q1541079",
+                    "name": "Komerční banka",
+                    "operator": "Komerční banka",
+                    "operator:wikidata": "Q1541079"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7603639,
+                      49.0043839
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3334264397",
+                    "osm_type": "node",
+                    "lat": 49.0024746,
+                    "lon": 14.7509934,
+                    "amenity": "atm",
+                    "operator": "Sparkasse"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7509934,
+                      49.0024746
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4009731115",
+                    "osm_type": "node",
+                    "lat": 49.0101856,
+                    "lon": 14.7596706,
+                    "amenity": "atm",
+                    "brand": "ČSOB",
+                    "brand:wikidata": "Q340135",
+                    "check_date": "2023-05-19",
+                    "operator": "ČSOB",
+                    "operator:wikidata": "Q340135"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7596706,
+                      49.0101856
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5036615911",
+                    "osm_type": "node",
+                    "lat": 49.0043221,
+                    "lon": 14.7661955,
+                    "amenity": "atm",
+                    "name": "Bankomat ČSOB"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7661955,
+                      49.0043221
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5036640214",
+                    "osm_type": "node",
+                    "lat": 49.0102019,
+                    "lon": 14.7595961,
+                    "amenity": "atm",
+                    "check_date": "2023-05-19",
+                    "name": "Bankomat Airbank",
+                    "operator": "Airbank"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7595961,
+                      49.0102019
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8006837047",
+                    "osm_type": "node",
+                    "lat": 49.0042547,
+                    "lon": 14.7720643,
+                    "amenity": "atm",
+                    "brand": "MONETA Money Bank",
+                    "brand:wikidata": "Q24282966",
+                    "cash_in": "yes",
+                    "name": "MONETA Money Bank",
+                    "network": "Moneta",
+                    "operator": "MONETA Money Bank",
+                    "operator:wikidata": "Q24282966"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.7720643,
+                      49.0042547
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 14.77632125,
+            "north": 49.017078,
+            "east": 15.253173
+          },
+          "poiCount": 5,
+          "leafCount": 5,
+          "averagePosition": [
+            15.005785119999999,
+            48.900035200000005
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1418135871",
+                "osm_type": "node",
+                "lat": 48.8655632,
+                "lon": 15.1232194,
+                "amenity": "atm",
+                "cash_in": "yes",
+                "check_date": "2023-09-10",
+                "currency:EUR": "yes",
+                "drive_through": "no",
+                "operator": "Volksbank Niederösterreich"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.1232194,
+                  48.8655632
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1361074942",
+                "osm_type": "node",
+                "lat": 48.8881301,
+                "lon": 14.8750571,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "name": "Česká spořitelna",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.8750571,
+                  48.8881301
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1361074953",
+                "osm_type": "node",
+                "lat": 48.8914964,
+                "lon": 14.8786445,
+                "amenity": "atm",
+                "brand": "MONETA Money Bank",
+                "brand:wikidata": "Q24282966",
+                "check_date": "2025-05-29",
+                "currency:CZK": "yes",
+                "indoor": "no",
+                "name": "MONETA Money Bank",
+                "opening_hours": "24/7",
+                "operator": "MONETA Money Bank",
+                "operator:wikidata": "Q24282966",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.8786445,
+                  48.8914964
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7758306295",
+                "osm_type": "node",
+                "lat": 48.9588469,
+                "lon": 14.9329923,
+                "amenity": "atm",
+                "brand": "Česká spořitelna",
+                "brand:wikidata": "Q341100",
+                "name": "Ceska sporitelna",
+                "opening_hours": "24/7",
+                "operator": "Česká spořitelna",
+                "operator:wikidata": "Q341100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.9329923,
+                  48.9588469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4283890581",
+                "osm_type": "node",
+                "lat": 48.8961394,
+                "lon": 15.2190123,
+                "amenity": "atm",
+                "drive_through": "no",
+                "operator": "Raiffeisenbank Waidhofen/Thaya",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2190123,
+                  48.8961394
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

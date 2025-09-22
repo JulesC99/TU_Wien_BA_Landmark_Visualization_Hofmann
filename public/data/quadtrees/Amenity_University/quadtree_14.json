@@ -1,0 +1,62 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 13.345766,
+    "north": 49.017078,
+    "east": 15.253173
+  },
+  "poiCount": 2,
+  "leafCount": 2,
+  "averagePosition": [
+    14.3963511,
+    48.89006235
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8116579715",
+        "osm_type": "node",
+        "lat": 48.8089609,
+        "lon": 14.3152452,
+        "addr:city": "Český Krumlov",
+        "addr:housenumber": "43",
+        "addr:postcode": "381 01",
+        "addr:street": "Linecká",
+        "amenity": "university",
+        "check_date": "2024-06-23",
+        "name": "CEVRO Institute",
+        "operator": "CEVRO Institute z.ú.",
+        "operator:type": "private",
+        "website": "https://www.cevroinstitut.cz/cs/clanek/stredisko-cesky-krumlov/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3152452,
+          48.8089609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2303302697",
+        "osm_type": "node",
+        "lat": 48.9711638,
+        "lon": 14.477457,
+        "amenity": "university",
+        "contact:website": "http://www.pf.jcu.cz",
+        "name": "Pedagogická fakulta Jihočeské univerzity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.477457,
+          48.9711638
+        ]
+      }
+    }
+  ],
+  "children": []
+}

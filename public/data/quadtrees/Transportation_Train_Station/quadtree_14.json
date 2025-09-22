@@ -1,0 +1,1977 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 13.345766,
+    "north": 49.017078,
+    "east": 15.253173
+  },
+  "poiCount": 78,
+  "leafCount": 0,
+  "averagePosition": [
+    14.304028502564105,
+    48.74242669871795
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 13.345766,
+        "north": 48.68652475,
+        "east": 14.2994695
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        13.7685021,
+        48.51528401875
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5751157441",
+            "osm_type": "node",
+            "lat": 48.3698588,
+            "lon": 13.5657428,
+            "name": "Andorf",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Af",
+            "uic_ref": "8100211",
+            "wheelchair": "yes",
+            "wikidata": "Q111166798"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5657428,
+              48.3698588
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "282298795",
+            "osm_type": "node",
+            "lat": 48.3600564,
+            "lon": 14.1376726,
+            "name": "Rottenegg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "Rog",
+            "train": "yes",
+            "uic_ref": "8100476"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1376726,
+              48.3600564
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "14334692",
+            "osm_type": "node",
+            "lat": 48.5737124,
+            "lon": 13.4504744,
+            "name": "Passau Hbf",
+            "network": "VLP",
+            "operator": "DB Netz AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "81.2 / 0.0",
+            "railway:position:exact": "81.215 / 0.000",
+            "railway:pzb": "yes",
+            "railway:ref": "NPA",
+            "railway:ref:ÖBB": "Pa",
+            "railway:station_category": "3",
+            "train": "yes",
+            "uic_name": "Passau Hbf",
+            "uic_ref": "8000298",
+            "wheelchair": "yes",
+            "wikidata": "Q315801",
+            "wikipedia": "de:Passau Hauptbahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4504744,
+              48.5737124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "383980655",
+            "osm_type": "node",
+            "lat": 48.5668854,
+            "lon": 13.3945217,
+            "name": "Neustift (bei Passau)",
+            "official_name": "Neustift (b Passau)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "NNSP",
+            "railway:station_category": "SOB",
+            "uic_name": "Neustift(b Passau)",
+            "uic_ref": "8084074",
+            "wheelchair": "yes",
+            "wikidata": "Q118823334"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3945217,
+              48.5668854
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "423361774",
+            "osm_type": "node",
+            "lat": 48.4069862,
+            "lon": 13.5223109,
+            "name": "Taufkirchen an der Pram",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Tp",
+            "train": "yes",
+            "uic_name": "Taufkirchen an der Pram",
+            "uic_ref": "8100320"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5223109,
+              48.4069862
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "506236054",
+            "osm_type": "node",
+            "lat": 48.5176923,
+            "lon": 13.3704179,
+            "name": "Neukirchen (Inn)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MNK",
+            "railway:station_category": "SOB",
+            "uic_name": "Neukirchen(Inn)",
+            "uic_ref": "8004298",
+            "wikidata": "Q119854076"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3704179,
+              48.5176923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3274928699",
+            "osm_type": "node",
+            "lat": 48.4547357,
+            "lon": 13.3819099,
+            "name": "Sulzbach (Inn)",
+            "operator": "DB RegioNetz Infrastruktur GmbH;Südostbayernbahn",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "MSBH",
+            "railway:station_category": "SOB",
+            "uic_ref": "8005793",
+            "wikidata": "Q63708107"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3819099,
+              48.4547357
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5545021972",
+            "osm_type": "node",
+            "lat": 48.463815,
+            "lon": 13.4424553,
+            "addr:city": "Schärding",
+            "addr:housenumber": "15",
+            "addr:postcode": "4780",
+            "addr:street": "Bahnhofstraße",
+            "name": "Schärding",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "67.1",
+            "railway:position:exact": "67.136",
+            "railway:ref": "Sch",
+            "uic_ref": "8100024",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4424553,
+              48.463815
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9659868518",
+            "osm_type": "node",
+            "lat": 48.5712829,
+            "lon": 13.4804408,
+            "internet_access": "wlan",
+            "name": "Passau-Rosenau",
+            "operator": "Bayerische Regionaleisenbahn GmbH",
+            "operator:short": "BRE",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "NPAO",
+            "train": "yes",
+            "wikidata": "Q109558120"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4804408,
+              48.5712829
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "282332919",
+            "osm_type": "node",
+            "lat": 48.4838699,
+            "lon": 14.0051139,
+            "name": "Neufelden",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:ref": "Nef",
+            "ref": "2",
+            "train": "yes",
+            "uic_ref": "8100430"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0051139,
+              48.4838699
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9455738127",
+            "osm_type": "node",
+            "lat": 48.5818503,
+            "lon": 13.9870063,
+            "name": "Rohrbach-Berg",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Rob",
+            "train": "yes",
+            "uic_ref": "8100474"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9870063,
+              48.5818503
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9457898052",
+            "osm_type": "node",
+            "lat": 48.5544413,
+            "lon": 14.030866,
+            "name": "Haslach",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Hah",
+            "train": "yes",
+            "uic_name": "Haslach",
+            "uic_ref": "8100976"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.030866,
+              48.5544413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11922128816",
+            "osm_type": "node",
+            "lat": 48.6427237,
+            "lon": 13.9749808,
+            "bus": "yes",
+            "name": "Aigen-Schlägl",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9749808,
+              48.6427237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "265563377",
+            "osm_type": "node",
+            "lat": 48.6340312,
+            "lon": 14.2440397,
+            "name": "Lipno nad Vltavou",
+            "name:cs": "Lipno nad Vltavou",
+            "name:de": "Lippen",
+            "name:pl": "Lipno nad Wełtawą",
+            "operator": "cz:SŽDC",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:position": "22.0",
+            "railway:ref": "748129",
+            "train": "yes",
+            "uic_ref": "5474812",
+            "wikidata": "Q17749936"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2440397,
+              48.6340312
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "282329892",
+            "osm_type": "node",
+            "lat": 48.4419697,
+            "lon": 14.0515123,
+            "name": "Neuhaus-Niederwaldkirchen",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Nen",
+            "train": "yes",
+            "uic_name": "Neuhaus-Niederwaldkirchen",
+            "uic_ref": "8101282"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0515123,
+              48.4419697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4614833927",
+            "osm_type": "node",
+            "lat": 48.6206331,
+            "lon": 14.2565683,
+            "name": "Loučovice",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "19.1",
+            "railway:ref": "747923",
+            "uic_ref": "5474792",
+            "wikidata": "Q18180386"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2565683,
+              48.6206331
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 14.2994695,
+        "north": 48.68652475,
+        "east": 15.253173
+      },
+      "poiCount": 10,
+      "leafCount": 10,
+      "averagePosition": [
+        14.56785417,
+        48.57796801
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "278326216",
+            "osm_type": "node",
+            "lat": 48.557345,
+            "lon": 14.4488515,
+            "ele": "666",
+            "name": "Summerau",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "stop_position",
+            "railway": "station",
+            "railway:position": "55.9",
+            "railway:position:exact": "55.905",
+            "railway:ref": "Smr",
+            "train": "yes",
+            "uic_ref": "8100316"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4488515,
+              48.557345
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "444629957",
+            "osm_type": "node",
+            "lat": 48.6017966,
+            "lon": 14.42194,
+            "name": "Horní Dvořiště",
+            "name:de": "Oberhaid",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "62.5",
+            "railway:position:exact": "62.462",
+            "railway:ref": "752220",
+            "railway:ref:ÖBB": "Hdv",
+            "uic_ref": "5475222",
+            "wikidata": "Q18430535"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.42194,
+              48.6017966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "470820895",
+            "osm_type": "node",
+            "lat": 48.6263864,
+            "lon": 14.3628856,
+            "name": "Rožmberk nad Vltavou",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "7.0",
+            "railway:ref": "747428",
+            "uic_ref": "5474742",
+            "wikidata": "Q18180497"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3628856,
+              48.6263864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3282887061",
+            "osm_type": "node",
+            "lat": 48.6237255,
+            "lon": 14.3088037,
+            "name": "Vyšší Brod klášter",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position": "11.8",
+            "railway:ref": "747725",
+            "uic_ref": "5474772",
+            "wikidata": "Q17750061"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3088037,
+              48.6237255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4616899143",
+            "osm_type": "node",
+            "lat": 48.6495664,
+            "lon": 14.4316793,
+            "name": "Rybník",
+            "name:cs": "Rybník",
+            "name:de": "Zartlesdorf",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "752329",
+            "uic_ref": "5475232",
+            "wheelchair": "yes",
+            "wikidata": "Q19401358"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4316793,
+              48.6495664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6844641422",
+            "osm_type": "node",
+            "lat": 48.4952269,
+            "lon": 14.4814066,
+            "name": "Freistadt",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Fr",
+            "uic_name": "Freistadt",
+            "uic_ref": "8100239"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4814066,
+              48.4952269
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "704389592",
+            "osm_type": "node",
+            "lat": 48.6402895,
+            "lon": 14.8421329,
+            "name": "Steinbach-Bad Großpertholz",
+            "railway": "station",
+            "railway:ref": "Sgp",
+            "uic_ref": "8101508"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8421329,
+              48.6402895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3216800078",
+            "osm_type": "node",
+            "lat": 48.5718175,
+            "lon": 14.9600692,
+            "name": "Groß Gerungs",
+            "operator": "NÖVOG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Grg",
+            "uic_ref": "8100839",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9600692,
+              48.5718175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3216800083",
+            "osm_type": "node",
+            "lat": 48.5769605,
+            "lon": 14.8824193,
+            "name": "Langschlag",
+            "operator": "NÖVOG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Lag",
+            "uic_ref": "8101176"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8824193,
+              48.5769605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6844641423",
+            "osm_type": "node",
+            "lat": 48.4365658,
+            "lon": 14.5383536,
+            "name": "Kefermarkt",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Kf",
+            "uic_name": "Kefermarkt",
+            "uic_ref": "8100536"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5383536,
+              48.4365658
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 13.345766,
+        "north": 49.017078,
+        "east": 14.2994695
+      },
+      "poiCount": 20,
+      "leafCount": 20,
+      "averagePosition": [
+        13.887814299999999,
+        48.842110489999996
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "979259193",
+            "osm_type": "node",
+            "lat": 48.6896211,
+            "lon": 13.453167,
+            "name": "Kalteneck",
+            "operator": "Ilztalbahn GmbH",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position:exact": "20.340",
+            "railway:ref": "NKCK",
+            "shelter": "yes",
+            "train": "yes",
+            "uic_ref": "8070807",
+            "usage": "tourism",
+            "wheelchair": "yes",
+            "wikidata": "Q108421103"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.453167,
+              48.6896211
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4688419452",
+            "osm_type": "node",
+            "lat": 48.8561332,
+            "lon": 13.3935146,
+            "name": "Grafenau",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "NGFU",
+            "railway:station_category": "7",
+            "ref:IFOPT": "de:09272:5047",
+            "train": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q116016901"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.3935146,
+              48.8561332
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "32463980",
+            "osm_type": "node",
+            "lat": 48.8588269,
+            "lon": 13.8207966,
+            "name": "Stožec",
+            "name:de": "Tusset",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "739425",
+            "train": "yes",
+            "uic_ref": "5402937",
+            "wikidata": "Q66888373"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8207966,
+              48.8588269
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "32466321",
+            "osm_type": "node",
+            "lat": 48.7899072,
+            "lon": 13.9534565,
+            "name": "Nová Pec",
+            "name:de": "Neuofen",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "758920",
+            "train": "yes",
+            "uic_ref": "5402166",
+            "wheelchair": "yes",
+            "wikidata": "Q15886947"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9534565,
+              48.7899072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "343630160",
+            "osm_type": "node",
+            "lat": 48.8294433,
+            "lon": 13.7939818,
+            "name": "Nové Údolí",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "739524",
+            "ref": "GW 81xx",
+            "ref_name": "Nove Udoli",
+            "train": "yes",
+            "uic_ref": "5402195",
+            "wikidata": "Q66888444",
+            "wikipedia": "cs:Nové Údolí (nádraží)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7939818,
+              48.8294433
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "977866166",
+            "osm_type": "node",
+            "lat": 48.8031979,
+            "lon": 13.5482983,
+            "addr:city": "Freyung",
+            "addr:country": "DE",
+            "addr:housenumber": "31",
+            "addr:postcode": "94078",
+            "addr:street": "Bahnhofstraße",
+            "height": "636",
+            "name": "Freyung",
+            "operator": "Ilztalbahn GmbH",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position:exact": "49.54",
+            "railway:ref": "NFY",
+            "train": "yes",
+            "uic_name": "Freyung Bf",
+            "uic_ref": "8002094",
+            "usage": "tourism",
+            "wikidata": "Q92191964",
+            "wikipedia": "de:Bahnhof Freyung"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5482983,
+              48.8031979
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "979292966",
+            "osm_type": "node",
+            "lat": 48.7371325,
+            "lon": 13.6067941,
+            "addr:city": "Waldkirchen",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "94065",
+            "addr:street": "Bahnhof",
+            "ele": "516",
+            "name": "Waldkirchen (Niederbay)",
+            "on_demand": "no",
+            "operator": "Ilztalbahn GmbH",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:position:exact": "37,980",
+            "railway:ref": "NWKN",
+            "request_stop": "yes",
+            "train": "yes",
+            "uic_name": "Waldkirchen (Niederbay.)",
+            "uic_ref": "8006160",
+            "usage": "tourism",
+            "wheelchair": "limited",
+            "wikidata": "Q118719918",
+            "wikipedia": "de:Bahnhof Waldkirchen (Niederbay)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.6067941,
+              48.7371325
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5685644781",
+            "osm_type": "node",
+            "lat": 48.7649428,
+            "lon": 14.0263277,
+            "name": "Horní Planá",
+            "name:cs": "Horní Planá",
+            "name:de": "Oberplan",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759126",
+            "train": "yes",
+            "uic_ref": "5401119",
+            "wikidata": "Q15886812"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0263277,
+              48.7649428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5685644782",
+            "osm_type": "node",
+            "lat": 48.8606318,
+            "lon": 13.8609391,
+            "name": "Černý Kříž",
+            "name:cs": "Černý Kříž",
+            "name:de": "Schwarzes Kreuz",
+            "old_name": "U černého kříže",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "739326",
+            "wikidata": "Q66829156"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8609391,
+              48.8606318
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227233071",
+            "osm_type": "node",
+            "lat": 48.7714983,
+            "lon": 14.1828673,
+            "name": "Hořice na Šumavě",
+            "name:cs": "Hořice na Šumavě",
+            "name:de": "Höritz",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759720",
+            "train": "yes",
+            "uic_ref": "5401146",
+            "wikidata": "Q15886817"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1828673,
+              48.7714983
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227233394",
+            "osm_type": "node",
+            "lat": 48.7986248,
+            "lon": 14.1479491,
+            "alt_name:de": "Stein im Böhmerwalde",
+            "name": "Polná na Šumavě",
+            "name:cs": "Polná na Šumavě",
+            "name:de": "Stein im Böhmerwald",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759621",
+            "train": "yes",
+            "uic_ref": "5402442",
+            "wikidata": "Q15886992"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1479491,
+              48.7986248
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "514661246",
+            "osm_type": "node",
+            "lat": 48.813015,
+            "lon": 14.2654059,
+            "name": "Kájov",
+            "name:cs": "Kájov",
+            "name:de": "Gojau",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759928",
+            "train": "yes",
+            "uic_ref": "5401411",
+            "wikidata": "Q15886889"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2654059,
+              48.813015
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "650356773",
+            "osm_type": "node",
+            "lat": 48.7427481,
+            "lon": 14.0868927,
+            "name": "Černá v Pošumaví",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759225",
+            "train": "yes",
+            "uic_ref": "5400722"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0868927,
+              48.7427481
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "959813947",
+            "osm_type": "node",
+            "lat": 48.799448,
+            "lon": 14.1203253,
+            "name": "Polečnice",
+            "name:cs": "Polečnice",
+            "name:de": "Neustift",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "759522",
+            "train": "yes",
+            "uic_ref": "5402434",
+            "wikidata": "Q15886990"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.1203253,
+              48.799448
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "226658426",
+            "osm_type": "node",
+            "lat": 48.9830197,
+            "lon": 13.7746457,
+            "ele": "995",
+            "name": "Kubova Huť",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "751628",
+            "wikidata": "Q66888406"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7746457,
+              48.9830197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4202133891",
+            "osm_type": "node",
+            "lat": 48.937152,
+            "lon": 13.9769518,
+            "name": "Zbytiny",
+            "railway": "station",
+            "wikidata": "Q25411931"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9769518,
+              48.937152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5649021160",
+            "osm_type": "node",
+            "lat": 49.0150407,
+            "lon": 14.0086353,
+            "name": "Prachatice",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "738328",
+            "wikidata": "Q19401288"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0086353,
+              49.0150407
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5685644783",
+            "osm_type": "node",
+            "lat": 48.9070792,
+            "lon": 13.8833385,
+            "name": "Volary",
+            "name:de": "Wallern",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "739128",
+            "wikidata": "Q18180598",
+            "wikipedia": "cs:Volary (nádraží)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.8833385,
+              48.9070792
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5685644784",
+            "osm_type": "node",
+            "lat": 48.9283914,
+            "lon": 13.7969138,
+            "name": "Lenora",
+            "old_name": "Eleonorenhain",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "752022",
+            "wikidata": "Q66888487"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.7969138,
+              48.9283914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "267068480",
+            "osm_type": "node",
+            "lat": 48.9563559,
+            "lon": 14.0550849,
+            "name": "Chroboly",
+            "railway": "station",
+            "wikidata": "Q66888416"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0550849,
+              48.9563559
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 14.2994695,
+        "north": 49.017078,
+        "east": 15.253173
+      },
+      "poiCount": 32,
+      "leafCount": 32,
+      "averagePosition": [
+        14.749480059375,
+        48.845089009375
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "435767956",
+            "osm_type": "node",
+            "lat": 48.8504082,
+            "lon": 14.3514248,
+            "name": "Zlatá Koruna",
+            "name:de": "Goldenkron",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "760223",
+            "wikidata": "Q15887171"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3514248,
+              48.8504082
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "471798031",
+            "osm_type": "node",
+            "lat": 48.8516954,
+            "lon": 14.4477088,
+            "name": "Holkov",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "753129",
+            "uic_ref": "5475312",
+            "wikidata": "Q19400689"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4477088,
+              48.8516954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "811289806",
+            "osm_type": "node",
+            "lat": 48.7751404,
+            "lon": 14.4688272,
+            "name": "Kaplice",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "752725",
+            "uic_ref": "5475272",
+            "wheelchair": "yes",
+            "wikidata": "Q18430693"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4688272,
+              48.7751404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3493042832",
+            "osm_type": "node",
+            "lat": 48.8198981,
+            "lon": 14.4366456,
+            "name": "Velešín",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "752923",
+            "uic_ref": "5475292",
+            "wikidata": "Q18430775"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4366456,
+              48.8198981
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4294224867",
+            "osm_type": "node",
+            "lat": 48.8223895,
+            "lon": 14.3170566,
+            "ele": "542",
+            "name": "Český Krumlov",
+            "name:de": "Krumau",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "760025",
+            "start_date": "1891-11-19",
+            "train": "yes",
+            "uic_ref": "5476002",
+            "wheelchair": "yes",
+            "wikidata": "Q15887199",
+            "wikipedia": "cs:Český Krumlov (nádraží)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3170566,
+              48.8223895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5653051224",
+            "osm_type": "node",
+            "lat": 48.7251811,
+            "lon": 14.447539,
+            "name": "Omlenice",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "752626",
+            "uic_ref": "5475262",
+            "wikidata": "Q18432942"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.447539,
+              48.7251811
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "253330602",
+            "osm_type": "node",
+            "lat": 48.7642168,
+            "lon": 14.9845125,
+            "alt_name": "Gmünd N.Ö.",
+            "ele": "500",
+            "name": "Gmünd NÖ",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gm",
+            "ref:ibnr": "8100129",
+            "train": "yes",
+            "uic_name": "Gmünd NÖ",
+            "uic_ref": "8102451",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9845125,
+              48.7642168
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "585355903",
+            "osm_type": "node",
+            "lat": 48.7225423,
+            "lon": 14.9047927,
+            "name": "Alt Weitra",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Gm K1",
+            "uic_ref": "8100643"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9047927,
+              48.7225423
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "776039824",
+            "osm_type": "node",
+            "lat": 48.7004692,
+            "lon": 14.9015511,
+            "name": "Weitra",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Wra",
+            "uic_ref": "8101808",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9015511,
+              48.7004692
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "776065142",
+            "osm_type": "node",
+            "lat": 48.7649213,
+            "lon": 14.9839592,
+            "name": "Gmünd NÖ (NÖVOG)",
+            "public_transport": "station",
+            "railway": "station",
+            "website": "https://www.waldviertelbahn.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9839592,
+              48.7649213
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "877484994",
+            "osm_type": "node",
+            "lat": 48.8228951,
+            "lon": 14.8090672,
+            "name": "Nové Hrady",
+            "public_transport": "station",
+            "railway": "station",
+            "wikidata": "Q15886954"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8090672,
+              48.8228951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2252288952",
+            "osm_type": "node",
+            "lat": 48.8214197,
+            "lon": 14.9709752,
+            "name": "Neu-Nagelberg",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9709752,
+              48.8214197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2252293173",
+            "osm_type": "node",
+            "lat": 48.8379616,
+            "lon": 14.9899456,
+            "name": "Alt Nagelberg",
+            "operator": "NÖVOG",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9899456,
+              48.8379616
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5667509959",
+            "osm_type": "node",
+            "lat": 48.8118766,
+            "lon": 14.9228467,
+            "name": "Nová Ves nad Lužnicí",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "736421",
+            "train": "yes",
+            "wikidata": "Q15886949"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9228467,
+              48.8118766
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5667509960",
+            "osm_type": "node",
+            "lat": 48.7693855,
+            "lon": 14.9576021,
+            "alt_name:de": "Gmünd-Bahnhof",
+            "ele": "490",
+            "name": "České Velenice",
+            "name:cs": "České Velenice",
+            "name:de": "Tschechisch-Gmünd",
+            "old_name:de": "Unterwielands",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "736322",
+            "railway:ref:ÖBB": "Cv",
+            "start_date": "1869-11-01",
+            "train": "yes",
+            "uic_name": "Ceske Velenice",
+            "uic_ref": "5473632",
+            "wikidata": "Q15887192",
+            "wikipedia": "cs:České Velenice (nádraží)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9576021,
+              48.7693855
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "301327015",
+            "osm_type": "node",
+            "lat": 48.8647097,
+            "lon": 15.1174699,
+            "name": "Heidenreichstein",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "wikidata": "Q111171449"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1174699,
+              48.8647097
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3675803810",
+            "osm_type": "node",
+            "lat": 48.8425467,
+            "lon": 15.0686977,
+            "name": "Aalfang",
+            "public_transport": "station",
+            "railway": "station",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0686977,
+              48.8425467
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4228337305",
+            "osm_type": "node",
+            "lat": 48.7636091,
+            "lon": 15.0843362,
+            "name": "Pürbach-Schrems",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Pue",
+            "ref:ibnr": "8100531",
+            "train": "yes",
+            "uic_name": "Pürbach-Schrems",
+            "uic_ref": "8102449"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0843362,
+              48.7636091
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5371255389",
+            "osm_type": "node",
+            "lat": 48.7530888,
+            "lon": 15.173234,
+            "name": "Vitis",
+            "operator": "ÖBB-Infrastruktur AG",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "Vit",
+            "ref:ibnr": "8100335",
+            "train": "yes",
+            "uic_name": "Vitis",
+            "uic_ref": "8102447"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.173234,
+              48.7530888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7899890302",
+            "osm_type": "node",
+            "lat": 48.8360023,
+            "lon": 15.0517349,
+            "name": "Langegg",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0517349,
+              48.8360023
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "32522559",
+            "osm_type": "node",
+            "lat": 48.9244571,
+            "lon": 14.4495592,
+            "name": "Včelná",
+            "name:cs": "Včelná",
+            "name:de": "Bienendorf",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "753525",
+            "uic_ref": "5475352",
+            "wheelchair": "yes",
+            "wikidata": "Q19401574"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4495592,
+              48.9244571
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "32522591",
+            "osm_type": "node",
+            "lat": 48.9270273,
+            "lon": 14.4440054,
+            "name": "Boršov nad Vltavou",
+            "name:cs": "Boršov nad Vltavou",
+            "name:de": "Payerschau",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "760926",
+            "short_name": "Boršov n. Vlt.",
+            "uic_ref": "5476092",
+            "wheelchair": "limited",
+            "wikidata": "Q15886728"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4440054,
+              48.9270273
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "32522686",
+            "osm_type": "node",
+            "lat": 48.9745823,
+            "lon": 14.4885748,
+            "air_conditioning": "no",
+            "alt_name:de": "Böhmisch Budweis",
+            "ele": "395",
+            "internet_access": "no",
+            "name": "České Budějovice",
+            "name:de": "Budweis",
+            "name:en": "Budweis",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "732826",
+            "start_date": "1868",
+            "uic_ref": "5473282",
+            "wheelchair": "yes",
+            "wikidata": "Q22712112",
+            "wikipedia": "cs:České Budějovice (vlakové nádraží)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4885748,
+              48.9745823
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "206127019",
+            "osm_type": "node",
+            "lat": 48.8911478,
+            "lon": 14.4489301,
+            "name": "Kamenný Újezd u Českých Budějovic",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "753327",
+            "uic_ref": "5475332",
+            "wikidata": "Q18425993"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4489301,
+              48.8911478
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227269094",
+            "osm_type": "node",
+            "lat": 48.9212095,
+            "lon": 14.5295581,
+            "air_conditioning": "no",
+            "internet_access": "no",
+            "name": "Nová Ves u Českých Budějovic",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "source": "local knowledge",
+            "wheelchair": "limited",
+            "wikidata": "Q56325045"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5295581,
+              48.9212095
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6824901325",
+            "osm_type": "node",
+            "lat": 48.9046346,
+            "lon": 14.3313357,
+            "name": "Křemže",
+            "operator": "cz:SŽDC",
+            "railway": "station",
+            "railway:ref": "760629",
+            "wheelchair": "yes",
+            "wikidata": "Q15886891"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3313357,
+              48.9046346
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227268498",
+            "osm_type": "node",
+            "lat": 49.0152957,
+            "lon": 14.760729,
+            "name": "Třeboň",
+            "operator": "Správa železnic",
+            "public_transport": "station",
+            "railway": "station",
+            "train": "yes",
+            "wheelchair": "limited",
+            "wikidata": "Q15887122"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.760729,
+              49.0152957
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227268694",
+            "osm_type": "node",
+            "lat": 48.9022842,
+            "lon": 14.8828247,
+            "name": "Suchdol nad Lužnicí",
+            "old_name:de": "Suchenthal",
+            "operator": "Správa železnic",
+            "public_transport": "station",
+            "railway": "station",
+            "wikidata": "Q15887096"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8828247,
+              48.9022842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "227269551",
+            "osm_type": "node",
+            "lat": 48.8780099,
+            "lon": 14.7033417,
+            "name": "Jílovice",
+            "public_transport": "station",
+            "railway": "station",
+            "wikidata": "Q15886848"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7033417,
+              48.8780099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "877364329",
+            "osm_type": "node",
+            "lat": 48.9505318,
+            "lon": 14.8681909,
+            "name": "Majdalena",
+            "railway": "station",
+            "wikidata": "Q15886753"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8681909,
+              48.9505318
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2422500801",
+            "osm_type": "node",
+            "lat": 48.8914177,
+            "lon": 14.642065,
+            "name": "Borovany",
+            "operator": "cz:SŽDC",
+            "public_transport": "station",
+            "railway": "station",
+            "railway:ref": "741629",
+            "source": "survey",
+            "wikidata": "Q15886723"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.642065,
+              48.8914177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1381810307",
+            "osm_type": "node",
+            "lat": 48.941893,
+            "lon": 15.0443203,
+            "name": "Litschau",
+            "public_transport": "station",
+            "railway": "station"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0443203,
+              48.941893
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

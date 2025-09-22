@@ -1,0 +1,1574 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 9.530952,
+    "north": 47.694865,
+    "east": 11.438358999999998
+  },
+  "poiCount": 78,
+  "leafCount": 0,
+  "averagePosition": [
+    10.605183647435897,
+    47.42311650897436
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 9.530952,
+        "north": 47.36431175,
+        "east": 10.484655499999999
+      },
+      "poiCount": 16,
+      "leafCount": 16,
+      "averagePosition": [
+        9.90028278125,
+        47.29983924375
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "457560751",
+            "osm_type": "node",
+            "lat": 47.3633294,
+            "lon": 9.9401542,
+            "name": "Wetzsteinhöhle",
+            "natural": "cave_entrance",
+            "wikidata": "Q28034876",
+            "wikipedia": "de:Wetzsteinhöhle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9401542,
+              47.3633294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "849957164",
+            "osm_type": "node",
+            "lat": 47.2978664,
+            "lon": 9.7791195,
+            "alt_name": "Bärenhöhle",
+            "cave:ref": "1111/7",
+            "name": "Große Freschenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7791195,
+              47.2978664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1311113900",
+            "osm_type": "node",
+            "lat": 47.317677,
+            "lon": 9.629922,
+            "check_date": "2024-03-03",
+            "description": "Zerstörte Tropfsteinhöhle. Es gibt genau genommen nichts zu sehen!",
+            "name": "Kalkofenhöhle",
+            "natural": "cave_entrance",
+            "source": "vogis.at & Precision Height-Shading-Model 0.5m"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.629922,
+              47.317677
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3718226656",
+            "osm_type": "node",
+            "lat": 47.3318932,
+            "lon": 9.6125407,
+            "cave:length": "32",
+            "ele": "421",
+            "name": "Bruderloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6125407,
+              47.3318932
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7798384807",
+            "osm_type": "node",
+            "lat": 47.3344672,
+            "lon": 9.9352875,
+            "fee": "no",
+            "name": "Steinbockhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9352875,
+              47.3344672
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9670058460",
+            "osm_type": "node",
+            "lat": 47.329432,
+            "lon": 9.658927,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.658927,
+              47.329432
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10221499892",
+            "osm_type": "node",
+            "lat": 47.3494439,
+            "lon": 9.7129283,
+            "access": "yes",
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7129283,
+              47.3494439
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10259477221",
+            "osm_type": "node",
+            "lat": 47.3366404,
+            "lon": 9.6779187,
+            "name": "Witeleloch",
+            "natural": "cave_entrance",
+            "wikidata": "Q108600952"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6779187,
+              47.3366404
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10831608133",
+            "osm_type": "node",
+            "lat": 47.3492974,
+            "lon": 9.7127789,
+            "access": "yes",
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7127789,
+              47.3492974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11764063415",
+            "osm_type": "node",
+            "lat": 47.2022659,
+            "lon": 9.9346245,
+            "name": "Trübbachhöhle",
+            "natural": "cave_entrance",
+            "wikidata": "Q2457215"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9346245,
+              47.2022659
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1857345636",
+            "osm_type": "node",
+            "lat": 47.175266,
+            "lon": 10.1363,
+            "cave:equipment": "light",
+            "description": "Quelle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1363,
+              47.175266
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7702369196",
+            "osm_type": "node",
+            "lat": 47.1107432,
+            "lon": 10.0537777,
+            "access": "yes",
+            "fee": "no",
+            "name": "Bärenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0537777,
+              47.1107432
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8451918245",
+            "osm_type": "node",
+            "lat": 47.3547835,
+            "lon": 10.1095662,
+            "access": "yes",
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1095662,
+              47.3547835
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10175161954",
+            "osm_type": "node",
+            "lat": 47.255871,
+            "lon": 10.1058246,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1058246,
+              47.255871
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12269494075",
+            "osm_type": "node",
+            "lat": 47.3493814,
+            "lon": 10.1132647,
+            "access": "yes",
+            "ele": "2016",
+            "fee": "no",
+            "name": "Rotes Loch",
+            "name:en": "Red Hole",
+            "natural": "cave_entrance",
+            "opening_hours": "24/7",
+            "wheelchair": "no",
+            "wikidata": "Q130569528"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1132647,
+              47.3493814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12351642415",
+            "osm_type": "node",
+            "lat": 47.33907,
+            "lon": 10.29159,
+            "ele": "1720",
+            "fixme": "exact position",
+            "name": "Wurmloch",
+            "natural": "cave_entrance",
+            "note": "mentioned in Alpenvereinsführer Allgäuer Alpen, 15th ed., p. 224",
+            "wikidata": "Q131445007"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.29159,
+              47.33907
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 10.484655499999999,
+        "north": 47.36431175,
+        "east": 11.438358999999998
+      },
+      "poiCount": 13,
+      "leafCount": 13,
+      "averagePosition": [
+        11.057309038461538,
+        47.25464963076923
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1685151584",
+            "osm_type": "node",
+            "lat": 47.2511603,
+            "lon": 10.8703571,
+            "name": "Umholer Höhe",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8703571,
+              47.2511603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8638518453",
+            "osm_type": "node",
+            "lat": 47.2833789,
+            "lon": 10.9640029,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9640029,
+              47.2833789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9281258746",
+            "osm_type": "node",
+            "lat": 47.0749865,
+            "lon": 10.6421122,
+            "name": "Tuffgrotte",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6421122,
+              47.0749865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10964856507",
+            "osm_type": "node",
+            "lat": 47.2793833,
+            "lon": 10.6082139,
+            "disused": "yes",
+            "name": "Historischer Zinkstollen",
+            "natural": "cave_entrance",
+            "resource": "zinc"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6082139,
+              47.2793833
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11646828733",
+            "osm_type": "node",
+            "lat": 47.208524,
+            "lon": 10.6968197,
+            "name": "Eisloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6968197,
+              47.208524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11780304622",
+            "osm_type": "node",
+            "lat": 47.2414207,
+            "lon": 10.7650901,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7650901,
+              47.2414207
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "581832373",
+            "osm_type": "node",
+            "lat": 47.2842814,
+            "lon": 11.3990807,
+            "depth": "15",
+            "height": "3",
+            "historic": "ruins",
+            "name": "Lepsiusstollen",
+            "natural": "cave_entrance",
+            "width": "2",
+            "wikidata": "Q1820129"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3990807,
+              47.2842814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "603729707",
+            "osm_type": "node",
+            "lat": 47.2363722,
+            "lon": 11.287984,
+            "disused:man_made": "adit",
+            "name": "Knappenloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.287984,
+              47.2363722
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1501935763",
+            "osm_type": "node",
+            "lat": 47.3195529,
+            "lon": 11.2263842,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2263842,
+              47.3195529
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5002156004",
+            "osm_type": "node",
+            "lat": 47.2564966,
+            "lon": 11.4360827,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4360827,
+              47.2564966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9905870243",
+            "osm_type": "node",
+            "lat": 47.2962072,
+            "lon": 11.3633361,
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3633361,
+              47.2962072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11748878656",
+            "osm_type": "node",
+            "lat": 47.3227465,
+            "lon": 11.0506183,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0506183,
+              47.3227465
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12277359712",
+            "osm_type": "node",
+            "lat": 47.2559347,
+            "lon": 11.4349356,
+            "description": "Künstlich angelegte Grotte",
+            "name": "Bacchusgrotte",
+            "natural": "cave_entrance",
+            "start_date": "1570"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4349356,
+              47.2559347
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 9.530952,
+        "north": 47.694865,
+        "east": 10.484655499999999
+      },
+      "poiCount": 15,
+      "leafCount": 15,
+      "averagePosition": [
+        9.874366246666666,
+        47.446564513333335
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1998331700",
+            "osm_type": "node",
+            "lat": 47.366772,
+            "lon": 9.696573,
+            "cave:ref": "1111/40",
+            "description": "blau und grün besprayte kleine Höhle",
+            "name": "Fuchsloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.696573,
+              47.366772
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8374566053",
+            "osm_type": "node",
+            "lat": 47.3713654,
+            "lon": 9.8809696,
+            "name": "Bärenhöhle",
+            "natural": "cave_entrance",
+            "wikidata": "Q21881677"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8809696,
+              47.3713654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1998340101",
+            "osm_type": "node",
+            "lat": 47.373492,
+            "lon": 9.7074804,
+            "name": "Stollen",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7074804,
+              47.373492
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1999058958",
+            "osm_type": "node",
+            "lat": 47.3740549,
+            "lon": 9.7075817,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7075817,
+              47.3740549
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2505223521",
+            "osm_type": "node",
+            "lat": 47.4918664,
+            "lon": 9.9705644,
+            "description": "Durchkriechhöhle in Nagelfluh-Schichtausbruch,",
+            "maxheight": "1.2",
+            "name": "Kojenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9705644,
+              47.4918664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2505223522",
+            "osm_type": "node",
+            "lat": 47.491886,
+            "lon": 9.9706424,
+            "description": "Durchkriechhöhle in Nagelfluh-Schichtausbruch,",
+            "maxheight": "1.2",
+            "name": "Kojenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9706424,
+              47.491886
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2823596247",
+            "osm_type": "node",
+            "lat": 47.4071651,
+            "lon": 9.5625612,
+            "access": "yes",
+            "name": "Ramstelhöhle",
+            "natural": "cave_entrance",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5625612,
+              47.4071651
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3748526236",
+            "osm_type": "node",
+            "lat": 47.5595423,
+            "lon": 9.7279109,
+            "fee": "no",
+            "natural": "cave_entrance",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7279109,
+              47.5595423
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8493120872",
+            "osm_type": "node",
+            "lat": 47.4038321,
+            "lon": 9.5427685,
+            "name": "Felsenkeller",
+            "natural": "cave_entrance",
+            "note": "disused cellar in cave"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5427685,
+              47.4038321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9339807117",
+            "osm_type": "node",
+            "lat": 47.4785642,
+            "lon": 9.7629844,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7629844,
+              47.4785642
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9960427625",
+            "osm_type": "node",
+            "lat": 47.640516,
+            "lon": 10.030354,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.030354,
+              47.640516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "923447187",
+            "osm_type": "node",
+            "lat": 47.3778454,
+            "lon": 10.1503983,
+            "depth": "96",
+            "ele": "1438",
+            "name": "Hölloch",
+            "natural": "cave_entrance",
+            "wikidata": "Q1485840",
+            "wikipedia": "de:Hölloch (Deutschland)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1503983,
+              47.3778454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1837736260",
+            "osm_type": "node",
+            "lat": 47.4228151,
+            "lon": 10.2468449,
+            "description:de": "Kleine Höhle mit Steinzeitfunden",
+            "historic": "archaeological_site",
+            "length": "< 5m",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2468449,
+              47.4228151
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4253283429",
+            "osm_type": "node",
+            "lat": 47.5643082,
+            "lon": 10.0898352,
+            "direction": "45",
+            "fee": "no",
+            "name": "Schatzloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0898352,
+              47.5643082
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6850825972",
+            "osm_type": "node",
+            "lat": 47.3744426,
+            "lon": 10.0680248,
+            "access:conditional": "yes @ (Apr - Sep)",
+            "alt_name": "Schneckenloch",
+            "direction": "270",
+            "ele": "1270",
+            "name": "Schneckenlochhöhle",
+            "natural": "cave_entrance",
+            "wikidata": "Q1387054",
+            "wikipedia": "de:Schneckenlochhöhle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0680248,
+              47.3744426
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 10.484655499999999,
+        "north": 47.694865,
+        "east": 11.438358999999998
+      },
+      "poiCount": 34,
+      "leafCount": 34,
+      "averagePosition": [
+        11.086449670588236,
+        47.5351984382353
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "440062301",
+            "osm_type": "node",
+            "lat": 47.5405648,
+            "lon": 10.8086066,
+            "name": "Straussberg - Doline",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8086066,
+              47.5405648
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1864873566",
+            "osm_type": "node",
+            "lat": 47.5524627,
+            "lon": 10.8237117,
+            "description": "Livable Cave for Humid Heatwaves.",
+            "name": "Krähenhöhle, livable during heatwaves",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8237117,
+              47.5524627
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3182307363",
+            "osm_type": "node",
+            "lat": 47.5003229,
+            "lon": 10.6174809,
+            "fixme": "position",
+            "natural": "cave_entrance",
+            "note": "Am Ende der Route Till Ann, 10m rechts auf dem Grat"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6174809,
+              47.5003229
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3596104057",
+            "osm_type": "node",
+            "lat": 47.6755712,
+            "lon": 10.9859846,
+            "access": "yes",
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9859846,
+              47.6755712
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4922555012",
+            "osm_type": "node",
+            "lat": 47.6757224,
+            "lon": 10.9854358,
+            "access": "yes",
+            "fee": "no",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9854358,
+              47.6757224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8401442355",
+            "osm_type": "node",
+            "lat": 47.5588838,
+            "lon": 10.6810089,
+            "length": "< 10m",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6810089,
+              47.5588838
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8911364645",
+            "osm_type": "node",
+            "lat": 47.5640977,
+            "lon": 10.7101044,
+            "name": "Kalksteinhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7101044,
+              47.5640977
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11157702967",
+            "osm_type": "node",
+            "lat": 47.5636037,
+            "lon": 10.6990958,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6990958,
+              47.5636037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12103108001",
+            "osm_type": "node",
+            "lat": 47.4937336,
+            "lon": 10.6252,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.6252,
+              47.4937336
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12533936254",
+            "osm_type": "node",
+            "lat": 47.5524658,
+            "lon": 10.8237318,
+            "name": "Livable cave during heatwaves.",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8237318,
+              47.5524658
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "715720510",
+            "osm_type": "node",
+            "lat": 47.5297813,
+            "lon": 11.140389,
+            "access:conditional": "no @ (Oct-Mar)",
+            "cave:ref": "1271/02",
+            "fee": "no",
+            "name": "Frickenhöhle",
+            "natural": "cave_entrance",
+            "wikidata": "Q1394223",
+            "wikipedia": "de:Frickenhöhle"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.140389,
+              47.5297813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1569667064",
+            "osm_type": "node",
+            "lat": 47.5173342,
+            "lon": 11.2643094,
+            "ele": "930",
+            "name": "Bärenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2643094,
+              47.5173342
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2081262525",
+            "osm_type": "node",
+            "lat": 47.6448042,
+            "lon": 11.3727923,
+            "access:conditional": "no @ (Oct 01-Mar 31)",
+            "cave:ref": "1274/5",
+            "name": "Kiensteinloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3727923,
+              47.6448042
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2404587390",
+            "osm_type": "node",
+            "lat": 47.3875152,
+            "lon": 11.2702945,
+            "description": "Mini-Höhle",
+            "name": "Mini Höhle 8m",
+            "natural": "cave_entrance",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2702945,
+              47.3875152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2909118121",
+            "osm_type": "node",
+            "lat": 47.4054694,
+            "lon": 11.3425875,
+            "fixme": "Lage ungenau, übernommen aus basemap.at",
+            "name": "Anton-Gaugg-Eisschacht",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3425875,
+              47.4054694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2909118122",
+            "osm_type": "node",
+            "lat": 47.4020165,
+            "lon": 11.342964,
+            "name": "Mitterkarhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.342964,
+              47.4020165
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2909118123",
+            "osm_type": "node",
+            "lat": 47.397005,
+            "lon": 11.3314932,
+            "name": "Vorderkarhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3314932,
+              47.397005
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3039486846",
+            "osm_type": "node",
+            "lat": 47.4114821,
+            "lon": 11.1542668,
+            "ele": "1750",
+            "natural": "cave_entrance",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1542668,
+              47.4114821
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3089188392",
+            "osm_type": "node",
+            "lat": 47.5600622,
+            "lon": 11.2870409,
+            "access:conditional": "no@(Oct-Apr)",
+            "alt_name": "Angererloch",
+            "cave:ref": "1271/1",
+            "name": "Angerlloch",
+            "natural": "cave_entrance",
+            "wheelchair": "no",
+            "wikidata": "Q538162",
+            "wikipedia": "de:Angerlloch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2870409,
+              47.5600622
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3741217551",
+            "osm_type": "node",
+            "lat": 47.6338577,
+            "lon": 11.0781113,
+            "fee": "no",
+            "name": "Schatzloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0781113,
+              47.6338577
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6119970983",
+            "osm_type": "node",
+            "lat": 47.515173,
+            "lon": 11.139996,
+            "description": "unschlufbarer Schacht",
+            "name": "Wankröhre",
+            "natural": "cave_entrance",
+            "website": "https://www.kaiser-geotrekking.de/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.139996,
+              47.515173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7551498566",
+            "osm_type": "node",
+            "lat": 47.5839249,
+            "lon": 11.0756475,
+            "access": "no",
+            "name": "Bärenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0756475,
+              47.5839249
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8071102785",
+            "osm_type": "node",
+            "lat": 47.5808625,
+            "lon": 11.3999468,
+            "access": "private",
+            "description": "Wartungszugang",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3999468,
+              47.5808625
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9026928618",
+            "osm_type": "node",
+            "lat": 47.4987232,
+            "lon": 11.0556057,
+            "length": "7",
+            "name": "Blaue Grotte",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0556057,
+              47.4987232
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9490294961",
+            "osm_type": "node",
+            "lat": 47.597113,
+            "lon": 11.1778542,
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1778542,
+              47.597113
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9490294962",
+            "osm_type": "node",
+            "lat": 47.5969231,
+            "lon": 11.177552,
+            "access": "private",
+            "description": "StW München Wasserversorgung",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.177552,
+              47.5969231
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12043317055",
+            "osm_type": "node",
+            "lat": 47.3773606,
+            "lon": 11.3061132,
+            "loc_name": "Höhle Raggin;Höhle Gleirschklamm",
+            "name": "Raggin Gufl",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3061132,
+              47.3773606
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12750154823",
+            "osm_type": "node",
+            "lat": 47.5343335,
+            "lon": 11.1449149,
+            "name": "Gamsloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1449149,
+              47.5343335
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12762879085",
+            "osm_type": "node",
+            "lat": 47.5537333,
+            "lon": 11.2817863,
+            "access:conditional": "no @ (Oct 01-Mar 31)",
+            "ele": "1060",
+            "name": "Rastgrabenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2817863,
+              47.5537333
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12762897023",
+            "osm_type": "node",
+            "lat": 47.5671264,
+            "lon": 11.2881699,
+            "name": "Vorderfallbachhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2881699,
+              47.5671264
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12788061771",
+            "osm_type": "node",
+            "lat": 47.5379701,
+            "lon": 11.1014178,
+            "name": "Wassertalursprungshöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1014178,
+              47.5379701
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12788061773",
+            "osm_type": "node",
+            "lat": 47.5317068,
+            "lon": 11.0998989,
+            "name": "Spielleitenhöhle",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0998989,
+              47.5317068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12843492264",
+            "osm_type": "node",
+            "lat": 47.5404455,
+            "lon": 11.1048081,
+            "ele": "820",
+            "name": "Heubergkluft",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1048081,
+              47.5404455
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12847178970",
+            "osm_type": "node",
+            "lat": 47.6145946,
+            "lon": 11.2409681,
+            "ele": "1435",
+            "name": "Greidaloch",
+            "natural": "cave_entrance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2409681,
+              47.6145946
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

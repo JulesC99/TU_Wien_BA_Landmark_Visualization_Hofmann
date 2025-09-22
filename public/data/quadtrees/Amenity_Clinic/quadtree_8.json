@@ -1,0 +1,954 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 37,
+  "leafCount": 37,
+  "averagePosition": [
+    10.699979651351352,
+    48.08700714324325
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5503079648",
+        "osm_type": "node",
+        "lat": 47.7768292,
+        "lon": 9.6030158,
+        "addr:city": "Ravensburg",
+        "addr:housenumber": "41",
+        "addr:postcode": "88214",
+        "addr:street": "Wilhelm-Hauff-Straße",
+        "amenity": "clinic",
+        "check_date": "2023-04-14",
+        "contact:phone": "+49 751 366500",
+        "contact:website": "http://www.dreilaenderklinik.de/",
+        "healthcare": "clinic",
+        "level": "1;2",
+        "name": "Dreiländerklinik",
+        "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6030158,
+          47.7768292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7264249613",
+        "osm_type": "node",
+        "lat": 47.8258391,
+        "lon": 10.0179514,
+        "amenity": "clinic",
+        "healthcare": "dialysis",
+        "healthcare:speciality": "nephrology",
+        "name": "Dialysezentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0179514,
+          47.8258391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7344407577",
+        "osm_type": "node",
+        "lat": 47.8336013,
+        "lon": 10.024893,
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Gesundheitszentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024893,
+          47.8336013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12875318323",
+        "osm_type": "node",
+        "lat": 47.7889836,
+        "lon": 9.6216085,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "MVZ Oberschwabenklinik Ravensburg",
+        "phone": "+49751873990",
+        "website": "https://www.osk-arztpraxen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6216085,
+          47.7889836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4837601069",
+        "osm_type": "node",
+        "lat": 47.7317019,
+        "lon": 10.3032449,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Psychiatrie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3032449,
+          47.7317019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6328378561",
+        "osm_type": "node",
+        "lat": 47.8639298,
+        "lon": 11.2918976,
+        "amenity": "clinic",
+        "contact:email": "info@cep-hoehenried.de",
+        "contact:phone": "+49 8158 90780",
+        "contact:website": "https://cep-hoehenried.de",
+        "name": "Centrum für Prävention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2918976,
+          47.8639298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9380492655",
+        "osm_type": "node",
+        "lat": 47.8000917,
+        "lon": 11.0720626,
+        "addr:city": "Peißenberg",
+        "addr:country": "DE",
+        "addr:housenumber": "55-57",
+        "addr:postcode": "82380",
+        "addr:street": "Hauptstraße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "kbo-Lech-Mangfall-Klinik Peißenberg",
+        "website": "https://kbo-lmk.de/standorte/kbo-lech-mangfall-klinik-peissenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0720626,
+          47.8000917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10964288208",
+        "osm_type": "node",
+        "lat": 47.8587617,
+        "lon": 11.2796025,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ärztezentrum Bernried",
+        "phone": "+49 8158 2888",
+        "website": "https://www.aerzte-bernried.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2796025,
+          47.8587617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11867150998",
+        "osm_type": "node",
+        "lat": 47.8378079,
+        "lon": 11.1497273,
+        "addr:city": "Weilheim in Oberbayern",
+        "addr:country": "DE",
+        "addr:housenumber": "74",
+        "addr:postcode": "82362",
+        "addr:street": "Obere Stadt",
+        "amenity": "clinic",
+        "email": "info@hausaerzte-oberestadt.de",
+        "fax": "+49 881 3754",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Hausärzte Obere Stadt",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Dr. Johannes Langer, Dr. Gabriela Itzelsberger, Dr. Eva Mandoki, Petra Schweiger",
+        "phone": "+49 881 40401",
+        "website": "https://www.hausaerzte-oberestadt.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1497273,
+          47.8378079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7947648352",
+        "osm_type": "node",
+        "lat": 48.0086335,
+        "lon": 9.6586367,
+        "addr:city": "Bad Schussenried",
+        "addr:housenumber": "29",
+        "addr:postcode": "88427",
+        "addr:street": "Pfarrer-Leube-Straße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "ZfP Südwürttemberg",
+        "website": "https://www.zfp-web.de/fachgebiete/allgemeine-psychiatrie/bad-schussenried/abteilung/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6586367,
+          48.0086335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8210579005",
+        "osm_type": "node",
+        "lat": 48.0100233,
+        "lon": 9.6570258,
+        "addr:city": "Bad Schussenried",
+        "addr:housenumber": "29",
+        "addr:postcode": "88427",
+        "addr:street": "Pfarrer-Leube-Straße",
+        "amenity": "clinic",
+        "description": "Mittelfristige Behandlung für Psychosekranke / Forensisch-Psychiatrische Ambulanz Bad Schussenried",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Klinik für Forensische Psychiatrie und Psychotherapie Donau-Riss",
+        "operator": "Ministerium für Arbeit und Soziales Baden-Württemberg",
+        "operator:type": "government",
+        "website": "https://www.zfp-web.de/fachgebiete/forensische-psychiatrie/bad-schussenried/klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6570258,
+          48.0100233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9123861689",
+        "osm_type": "node",
+        "lat": 48.1116819,
+        "lon": 9.7812968,
+        "addr:city": "Biberach an der Riß",
+        "addr:housenumber": "3",
+        "addr:postcode": "88400",
+        "addr:street": "Paracelsusweg",
+        "amenity": "clinic",
+        "contact:email": "info@zfp-zentrum.de",
+        "contact:fax": "+49 7351 5047190",
+        "contact:phone": "+49 7351 5047113",
+        "contact:website": "https://www.mvz-bc.de",
+        "healthcare": "psychotherapist",
+        "name": "Medizinisches Versorgungszentrum Biberach (MVZ)",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:00; Sa,Su,PH off",
+        "operator": "ZfP Südwürttemberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7812968,
+          48.1116819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9370002104",
+        "osm_type": "node",
+        "lat": 48.0673583,
+        "lon": 9.6080106,
+        "addr:city": "Bad Buchau",
+        "addr:housenumber": "2",
+        "addr:postcode": "88422",
+        "addr:street": "Am Kurpark",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;internal",
+        "name": "Familienpraxis Lipke/Diemer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6080106,
+          48.0673583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10131905501",
+        "osm_type": "node",
+        "lat": 48.2808718,
+        "lon": 9.7187799,
+        "addr:city": "Ehingen (Donau)",
+        "addr:housenumber": "29",
+        "addr:postcode": "89584",
+        "addr:street": "Spitalstraße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Gemeinschaftspraxis Dr. med. Marie-Therese Gast und Holger Gast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7187799,
+          48.2808718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9981420026",
+        "osm_type": "node",
+        "lat": 48.0418241,
+        "lon": 10.4914217,
+        "addr:city": "Mindelheim",
+        "addr:housenumber": "5",
+        "addr:postcode": "87719",
+        "addr:street": "Reinpoldstraße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "KVB-Bereitschaftspraxis",
+        "website": "https://www.kvb.de/service/patienten/aerztlicher-bereitschaftsdienst/bereitschaftspraxen/schwaben/mindelheim/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4914217,
+          48.0418241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11093742310",
+        "osm_type": "node",
+        "lat": 47.9832658,
+        "lon": 10.1829558,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ärztezentrum Neue Schranne",
+        "website": "https://www.aerztezentrum-neue-schranne.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1829558,
+          47.9832658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12010533937",
+        "osm_type": "node",
+        "lat": 48.2783976,
+        "lon": 10.0765201,
+        "amenity": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Augentagesklinik Illertal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0765201,
+          48.2783976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12420565473",
+        "osm_type": "node",
+        "lat": 47.980598,
+        "lon": 10.1735565,
+        "addr:city": "Memmingen",
+        "addr:housenumber": "30",
+        "addr:postcode": "87700",
+        "addr:street": "Hindenburgring",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "level": "1",
+        "name": "Dres. med. Meine & Sperling",
+        "website": "https://www.hausarzt-memmingen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1735565,
+          47.980598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "860534997",
+        "osm_type": "node",
+        "lat": 48.3405631,
+        "lon": 10.8683483,
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "86199",
+        "addr:street": "Bürgermeister-Aurnhammer-Straße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Medizinisches Versorgungszentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8683483,
+          48.3405631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1151276103",
+        "osm_type": "node",
+        "lat": 48.3397667,
+        "lon": 10.9060949,
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "112",
+        "addr:postcode": "86161",
+        "addr:street": "Haunstetter Straße",
+        "amenity": "clinic",
+        "healthcare": "rehabilitation",
+        "healthcare:speciality": "orthopaedics;neurology",
+        "name": "ZAR ProVita Augsburg",
+        "old_name": "Gesundheitszentrum ProVita",
+        "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa, Su, PH off",
+        "phone": "+49 821 59705-0",
+        "website": "https://www.zar.de/augsburg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9060949,
+          48.3397667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1154481912",
+        "osm_type": "node",
+        "lat": 48.3555588,
+        "lon": 10.9486436,
+        "addr:city": "Augsburg",
+        "addr:housenumber": "153",
+        "addr:postcode": "86163",
+        "addr:street": "Friedberger Straße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Moser Klinik Augsburg",
+        "opening_hours": "Mo-Tu 08:00-18:00; Fr 08:00-16:00",
+        "phone": "+49 821 667878",
+        "website": "https://www.moser-kliniken.de/de/augsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9486436,
+          48.3555588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3642994967",
+        "osm_type": "node",
+        "lat": 48.2677717,
+        "lon": 10.9865441,
+        "addr:city": "Mering",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "86415",
+        "addr:street": "Marktplatz",
+        "amenity": "clinic",
+        "contact:phone": "+49 8233 4071",
+        "contact:website": "https://mvz-am-marktplatz.de/team/",
+        "elevator": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;internal",
+        "level": "1",
+        "name": "MVZ am Marktplatz",
+        "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-13:00; ||\"nach Vereinbarung\" Sa,Su,PH off",
+        "operator": "Elvira May;Dr. Christine Falkner;Dr. SebastiAn Zang;Dr. Alexey Trepakov;Daniel HAAS",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9865441,
+          48.2677717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4805532111",
+        "osm_type": "node",
+        "lat": 47.8826753,
+        "lon": 10.6221771,
+        "amenity": "clinic",
+        "email": "ausbildung-mkg@bavamont.com",
+        "healthcare": "clinic",
+        "name": "Ausbildung MKG",
+        "opening_hours": "Mo-Th 07:30-13:00,14:00-17:30; Fr 07:30-12:30",
+        "phone": "+49 8341 74488",
+        "website": "https://www.ausbildung-mkg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6221771,
+          47.8826753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5615653198",
+        "osm_type": "node",
+        "lat": 48.3397996,
+        "lon": 10.9005872,
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "97b",
+        "addr:postcode": "86159",
+        "addr:street": "Alter Postweg",
+        "amenity": "clinic",
+        "healthcare": "physiotherapist;occupational_therapist;speech_therapist;rehabilitation",
+        "level": "1",
+        "name": "salvea Augsburg Alter Postweg",
+        "old_name": "medaktiv",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-18:00",
+        "website": "https://salvea.de/standorte/salvea-augsburg-alter-postweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9005872,
+          48.3397996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7640023274",
+        "osm_type": "node",
+        "lat": 48.3554713,
+        "lon": 10.8532348,
+        "addr:city": "Augsburg",
+        "addr:housenumber": "3a",
+        "addr:postcode": "86157",
+        "addr:street": "Max-Josef-Metzger-Straße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "oncology;haematology",
+        "name": "OnkoMedeor Onkologische Zentren",
+        "operator": "Prof. (SHB) Dr. med. Hempel",
+        "operator:type": "private",
+        "phone": "+49 821 4530 455",
+        "website": "https://www.onko-medeor-augsburg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8532348,
+          48.3554713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12133790854",
+        "osm_type": "node",
+        "lat": 48.048797,
+        "lon": 10.8543412,
+        "addr:city": "Landsberg am Lech",
+        "addr:country": "DE",
+        "addr:housenumber": "50-52",
+        "addr:postcode": "86899",
+        "addr:street": "Bürgermeister-Doktor-Hartmann-Straße",
+        "amenity": "clinic",
+        "email": "klinik.LMK-LAL@kbo.de",
+        "name": "kbo-Lech-Mangfall-Klinik",
+        "phone": "+49 8191 333-2900",
+        "website": "https://kbo-lmk.de/standorte/kbo-lech-mangfall-klinik-landsberg-am-lech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8543412,
+          48.048797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1843083554",
+        "osm_type": "node",
+        "lat": 48.1184333,
+        "lon": 11.4230744,
+        "addr:city": "Gräfelfing",
+        "addr:country": "DE",
+        "addr:housenumber": "3a",
+        "addr:postcode": "82166",
+        "addr:street": "Waldstraße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "RZM Radiologisches Zentrum Gräfelfing",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+        "phone": "+49 89 8960000",
+        "website": "https://rzm.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4230744,
+          48.1184333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1914371620",
+        "osm_type": "node",
+        "lat": 48.2149645,
+        "lon": 11.3184244,
+        "addr:city": "Olching",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "82140",
+        "addr:street": "Senserstraße",
+        "amenity": "clinic",
+        "email": "hausarzt@praxis-olching.de",
+        "fax": "+49 8142 6520521",
+        "healthcare": "doctor",
+        "healthcare:speciality": "allgemeinmedizin;Notfallmedizin;Innere_Medizin;general;internal;emergency",
+        "internet_access": "wlan",
+        "name": "Hausärzte Amperland Praxis Esting",
+        "office": "physician",
+        "opening_hours": "Mo-Tu, Th 07:30-19:30; We 07:30-18:00; Fr 07:30-12:00, 15:00-18:00",
+        "phone": "+49 8142 6 520 520",
+        "website": "https://www.hausarzt.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3184244,
+          48.2149645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4840277751",
+        "osm_type": "node",
+        "lat": 48.0007285,
+        "lon": 11.3441557,
+        "addr:city": "Starnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "82319",
+        "addr:street": "Josef-Jägerhuber-Straße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Augenklinik Starnberg AKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3441557,
+          48.0007285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5543793421",
+        "osm_type": "node",
+        "lat": 48.2147536,
+        "lon": 11.2583989,
+        "addr:city": "Maisach",
+        "addr:housenumber": "23",
+        "addr:postcode": "82216",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "clinic",
+        "email": "maisach@hausaerzte-amperland.de",
+        "fax": "+49 8141 22 56 321",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Hausärzte Amperland Praxis Maisach",
+        "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-13:00",
+        "phone": "+49 8141 22 56 30",
+        "website": "https://www.hausarzt.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2583989,
+          48.2147536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7829050109",
+        "osm_type": "node",
+        "lat": 48.1186403,
+        "lon": 11.4244173,
+        "amenity": "clinic",
+        "email": "chirurgie@wolfartklinik.de",
+        "fax": "+49 89 8587-209",
+        "healthcare": "clinic",
+        "name": "WolfartKlinik Chirurgisches Zentrum",
+        "phone": "+49 89 8587-400",
+        "website": "https://www.chirurgie-wolfartklinik.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4244173,
+          48.1186403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10305176523",
+        "osm_type": "node",
+        "lat": 48.2655928,
+        "lon": 11.4277124,
+        "amenity": "clinic",
+        "emergency_telephone_code": "116 117",
+        "name": "KVB Bereitschaftspraxis Dachau",
+        "opening_hours": "Mo,Tu,Th 18:00-21:00; We,Fr 16:00-21:00; Sa,Su,PH 09:00-21:00",
+        "operator": "Kassenärztliche Vereinigung Bayerns",
+        "website": "https://www.kvb.de/patienten/aerztlicher-bereitschaftsdienst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4277124,
+          48.2655928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10678496287",
+        "osm_type": "node",
+        "lat": 48.2660331,
+        "lon": 11.429019,
+        "addr:city": "Dachau",
+        "addr:housenumber": "27",
+        "addr:postcode": "85221",
+        "addr:street": "Hochstraße",
+        "amenity": "clinic",
+        "description": "Viszeralchirurgie; Handchirurgie; Gefäßchirurgie",
+        "healthcare": "clinic",
+        "healthcare:speciality": "vascular_surgery;abdominal_surgery;hand_surgery",
+        "level": "0",
+        "name": "Amper-MVZ",
+        "operator": "Helios Amper-Klinikum Dachau",
+        "phone": "+49 8131 3185540",
+        "website": "https://www.helios-gesundheit.de/standorte-angebote/ambulant/amper-mvz-dachau/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429019,
+          48.2660331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10678496294",
+        "osm_type": "node",
+        "lat": 48.2659639,
+        "lon": 11.4292559,
+        "addr:city": "Dachau",
+        "addr:housenumber": "27",
+        "addr:postcode": "85221",
+        "addr:street": "Hochstraße",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "otolaryngology",
+        "level": "3",
+        "name": "Abteilung für HNO Heilkunde",
+        "operator": "Helios Amper-Klinikum Dachau",
+        "phone": "+49 8131 76 4900",
+        "website": "https://www.helios-gesundheit.de/standorte-angebote/kliniken/dachau/leistungen/fachbereiche/hno/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4292559,
+          48.2659639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10678496297",
+        "osm_type": "node",
+        "lat": 48.2661291,
+        "lon": 11.4291604,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "level": "2",
+        "name": "kbo-Tagesklinik und Institutsambulanz für Psychiatrie und Psychotherapie Dachau",
+        "operator": "kbo-Isar-Amper-Klinikum gemeinnützige GmbH",
+        "website": "https://kbo-iak.de/standorte/kbo-tagesklinik-und-institutsambulanz-fuer-psychiatrie-und-psychotherapie-dachau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4291604,
+          48.2661291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11942238447",
+        "osm_type": "node",
+        "lat": 48.2113831,
+        "lon": 11.334383,
+        "addr:city": "Olching",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "82140",
+        "addr:street": "Feursstraße",
+        "amenity": "clinic",
+        "email": "mail@hausarzt.org",
+        "name": "Hausärzte Amperland - Praxis Olching",
+        "opening_hours": "Mo-Fr 08:00-12:00; Mo-Th 14:00-18:00",
+        "phone": "+49 8142 6 520 520",
+        "website": "https://www.hausarzt.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.334383,
+          48.2113831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12469839561",
+        "osm_type": "node",
+        "lat": 48.2660381,
+        "lon": 11.429067,
+        "amenity": "clinic",
+        "emergency_telephone_code": "116 117",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "KVB Bereitschaftspraxis Dachau",
+        "official_name": "Allgemeine Ärztliche KVB-Bereitschaftspraxis Dachau",
+        "opening_hours": "Mo,Tu,Th 18:00-21:00; We,Fr 16:00-21:00; Sa,Su,PH 09:00-21:00",
+        "operator": "Kassenärztliche Vereinigung Bayerns",
+        "website": "https://www.kvb.de/patienten/aerztlicher-bereitschaftsdienst",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429067,
+          48.2660381
+        ]
+      }
+    }
+  ],
+  "children": []
+}

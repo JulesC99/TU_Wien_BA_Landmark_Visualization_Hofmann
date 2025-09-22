@@ -1,0 +1,100 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 4,
+  "leafCount": 4,
+  "averagePosition": [
+    10.268896175,
+    48.712738200000004
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1680398093",
+        "osm_type": "node",
+        "lat": 48.7275665,
+        "lon": 9.771316,
+        "name": "Streichelzoo",
+        "tourism": "zoo",
+        "wheelchair": "limited",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.771316,
+          48.7275665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7778481430",
+        "osm_type": "node",
+        "lat": 48.5500729,
+        "lon": 10.3077527,
+        "access": "private",
+        "animal": "Fallow deer",
+        "name": "Wildgehege",
+        "tourism": "zoo",
+        "zoo": "enclosure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3077527,
+          48.5500729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12318378385",
+        "osm_type": "node",
+        "lat": 48.6706322,
+        "lon": 11.340176,
+        "name": "Wisentgehege Donaumoos",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "phone": "+49843157140",
+        "tourism": "zoo",
+        "website": "https://www.wisentgehege-donaumoos.de/",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.340176,
+          48.6706322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11561198183",
+        "osm_type": "node",
+        "lat": 48.9026812,
+        "lon": 9.65634,
+        "fee": "no",
+        "name": "Streichelzoo",
+        "tourism": "zoo",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65634,
+          48.9026812
+        ]
+      }
+    }
+  ],
+  "children": []
+}

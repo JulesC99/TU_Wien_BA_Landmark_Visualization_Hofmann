@@ -1,0 +1,137 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 15.253173,
+    "north": 48.355971499999995,
+    "east": 17.16058
+  },
+  "poiCount": 5,
+  "leafCount": 5,
+  "averagePosition": [
+    16.729746119999998,
+    47.975637920000004
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5267761340",
+        "osm_type": "node",
+        "lat": 47.7958003,
+        "lon": 16.5088275,
+        "amenity": "recycling",
+        "name": "Abfallsammelstelle",
+        "recycling_type": "centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5088275,
+          47.7958003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "587115865",
+        "osm_type": "node",
+        "lat": 47.8552559,
+        "lon": 17.0013426,
+        "amenity": "recycling",
+        "name": "Gemeinde Halbturn Abfallsammelzentrum",
+        "recycling:batteries": "yes",
+        "recycling:cans": "yes",
+        "recycling:clothes": "yes",
+        "recycling:glass": "yes",
+        "recycling:paper": "yes",
+        "recycling:scrap_metal": "yes",
+        "recycling_type": "centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0013426,
+          47.8552559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5284094278",
+        "osm_type": "node",
+        "lat": 48.0167712,
+        "lon": 16.4361477,
+        "access": "private",
+        "addr:city": "Moosbrunn",
+        "addr:country": "AT",
+        "addr:postcode": "2440",
+        "addr:street": "Am Fuchsenhügel",
+        "amenity": "recycling",
+        "name": "Abfallsammelzentrum Moosbrunn",
+        "recycling_type": "centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4361477,
+          48.0167712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8442228571",
+        "osm_type": "node",
+        "lat": 48.059754,
+        "lon": 16.5496695,
+        "couplings:diameters": "C;C;B",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "parking_lot",
+        "fire_hydrant:type": "pillar",
+        "name": "Abfallsammelzentrum",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5496695,
+          48.059754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11612617059",
+        "osm_type": "node",
+        "lat": 48.1506082,
+        "lon": 17.1527433,
+        "addr:city": "Bratislava",
+        "addr:housenumber": "808/16",
+        "addr:postcode": "82101",
+        "addr:street": "Nezábudková",
+        "check_date": "2024-02-12",
+        "currency:XBT": "yes",
+        "email": "info.cascadya@gmail.com",
+        "mobile": "+421944382687",
+        "name": "Cascadya s.r.o.",
+        "office": "estate_agent",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
+        "survey:date": "2024-02-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1527433,
+          48.1506082
+        ]
+      }
+    }
+  ],
+  "children": []
+}

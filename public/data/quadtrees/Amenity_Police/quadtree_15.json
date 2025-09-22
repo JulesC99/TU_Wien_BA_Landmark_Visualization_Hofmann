@@ -1,0 +1,1571 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 57,
+  "leafCount": 0,
+  "averagePosition": [
+    16.248842110526315,
+    48.64852653859649
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 15.253173,
+        "north": 48.68652475,
+        "east": 16.2068765
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        15.714712894736842,
+        48.47351268947369
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1363245776",
+            "osm_type": "node",
+            "lat": 48.365288,
+            "lon": 15.4150502,
+            "addr:city": "Spitz",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "3620",
+            "addr:street": "Marktstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-spitz@polizei.gv.at",
+            "contact:fax": "+43 59133 3451-109",
+            "contact:phone": "+43 59133 351-100",
+            "name": "Polizeiinspektion Spitz",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Spitz",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=4C67684A6E73554E51786F3D",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4150502,
+              48.365288
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "989064273",
+            "osm_type": "node",
+            "lat": 48.3950328,
+            "lon": 15.468521,
+            "addr:city": "Weißenkirchen in der Wachau",
+            "addr:country": "AT",
+            "addr:housenumber": "284",
+            "addr:postcode": "3610",
+            "addr:street": "Landstraße",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "contact:fax": "+43 59133 3452-109",
+            "contact:phone": "+43 59133 3452-100",
+            "email": "pi-n-weissenkirchen@polizei.gv.at",
+            "name": "Polizeiinspektion Weißenkirchen in der Wachau",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Weißenkirchen",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=34504E694679444B714C303D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.468521,
+              48.3950328
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1119993246",
+            "osm_type": "node",
+            "lat": 48.5171848,
+            "lon": 15.4886499,
+            "addr:city": "Gföhl",
+            "addr:country": "AT",
+            "addr:housenumber": "10",
+            "addr:postcode": "3542",
+            "addr:street": "Zwettler Straße",
+            "addr:unit": "1",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "check_date": "2025-02-28",
+            "contact:email": "pi-n-gfoehl@polizei.gv.at",
+            "contact:fax": "+43 59133 3441-109",
+            "contact:phone": "+43 59133 3441-100",
+            "name": "Polizeiinspektion Gföhl",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "operator:wikidata": "Q131363945",
+            "short_name": "PI Gföhl",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=58776439357054574A6E4D3D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4886499,
+              48.5171848
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6285447171",
+            "osm_type": "node",
+            "lat": 48.5744803,
+            "lon": 15.3310493,
+            "addr:city": "Rastenfeld",
+            "addr:country": "AT",
+            "addr:housenumber": "26",
+            "addr:place": "Rastenfeld",
+            "addr:postcode": "3532",
+            "addr:unit": "3",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-n-rastenfeld@polizei.gv.at",
+            "contact:fax": "+43 59133 3449-109",
+            "contact:phone": "+43 59133 3449-100",
+            "name": "Polizeiinspektion Rastenfeld",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Rastenfeld",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=61506B587031424141336B3D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3310493,
+              48.5744803
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7074813320",
+            "osm_type": "node",
+            "lat": 48.5219919,
+            "lon": 15.2606223,
+            "addr:city": "Waldhausen",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:place": "Waldhausen",
+            "addr:postcode": "3914",
+            "amenity": "police",
+            "contact:email": "pi-n-waldhausen@polizei.gv.at",
+            "contact:fax": "+43 59133 3479-109",
+            "contact:phone": "+43 59133 3479-100",
+            "name": "Polizeiinspektion Waldhausen",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Waldhausen",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=7A5161304158487A7464673D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2606223,
+              48.5219919
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "270505250",
+            "osm_type": "node",
+            "lat": 48.5271087,
+            "lon": 15.9287055,
+            "addr:city": "Ziersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "10",
+            "addr:postcode": "3710",
+            "addr:street": "Wiener Straße",
+            "amenity": "police",
+            "contact:email": "pi-n-ziersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3423-109",
+            "contact:phone": "+43 59133 3423-100",
+            "name": "Polizeiinspektion Ziersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Ziersdorf",
+            "website": "hhttps://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=63526848354751435668593D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9287055,
+              48.5271087
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "307406025",
+            "osm_type": "node",
+            "lat": 48.4725616,
+            "lon": 15.9821185,
+            "addr:city": "Großweikersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "16",
+            "addr:postcode": "3701",
+            "addr:street": "Hauptplatz",
+            "amenity": "police",
+            "contact:email": "pi-n-grossweikersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3284-109",
+            "contact:phone": "+43 59133 3284-100",
+            "name": "Polizeiinspektion Großweikersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Großweikersdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=6A4B586E776E2B543567673D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9821185,
+              48.4725616
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1119745134",
+            "osm_type": "node",
+            "lat": 48.434393,
+            "lon": 15.8981138,
+            "addr:city": "Kirchberg am Wagram",
+            "addr:country": "AT",
+            "addr:housenumber": "27",
+            "addr:postcode": "3470",
+            "addr:street": "Marktplatz",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact": "fax=+43 59133 3285-109",
+            "contact:email": "pi-n-kirchberg-am-wagram@polizei.gv.at",
+            "name": "Polizeiinspektion Kirchberg am Wagram",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Kirchberg/Wagram",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=3875492B546E33354969553D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8981138,
+              48.434393
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1363368669",
+            "osm_type": "node",
+            "lat": 48.4072294,
+            "lon": 15.7756302,
+            "addr:city": "Grafenwörth",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "3484",
+            "addr:street": "Mühlplatz",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-n-grafenwoerth@polizei.gv.at",
+            "contact:fax": "+43 59133 3283-109",
+            "contact:phone": "+43 59133 3283-100",
+            "name": "Polizeiinspektion Grafenwörth",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Grafenwörth",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=434E52616B614C6E6A68513D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7756302,
+              48.4072294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5145631303",
+            "osm_type": "node",
+            "lat": 48.410206,
+            "lon": 15.621125,
+            "addr:city": "Krems an der Donau",
+            "addr:country": "AT",
+            "addr:housenumber": "56",
+            "addr:postcode": "3500",
+            "addr:street": "Rechte Kremszeile",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "check_date": "2024-11-27",
+            "contact:email": "pi-n-krems-an-der-donau@polizei.gv.at",
+            "contact:fax": "+43 59133 3440-109",
+            "contact:phone": "+43 59133 3440-100",
+            "name": "Polizeiinspektion Krems an der Donau",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Krems",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=4C673369594262623745733D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.621125,
+              48.410206
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6733316016",
+            "osm_type": "node",
+            "lat": 48.4107366,
+            "lon": 15.5998718,
+            "addr:city": "Krems an der Donau",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "3500",
+            "addr:street": "Dachsberggasse",
+            "amenity": "police",
+            "name": "Polizei-Stützpunkt",
+            "note": "Dieser Stützpunkt ist nie besetzt, hier kommt alle paar Tage mal eine Streife vorbei, das wars.",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5998718,
+              48.4107366
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9992363892",
+            "osm_type": "node",
+            "lat": 48.6633652,
+            "lon": 15.6461604,
+            "addr:city": "Horn",
+            "addr:country": "AT",
+            "addr:housenumber": "32",
+            "addr:postcode": "3580",
+            "addr:street": "Prager Straße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-n-horn@polizei.gv.at",
+            "contact:fax": "+43 59133 3430-109",
+            "contact:phone": "+43 59133 3430-100",
+            "name": "Polizeiinspektion Horn",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Horn",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=7363596C7635324D7171733D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6461604,
+              48.6633652
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10002691733",
+            "osm_type": "node",
+            "lat": 48.4046832,
+            "lon": 15.6106389,
+            "addr:city": "Krems an der Donau",
+            "addr:housenumber": "1",
+            "addr:postcode": "3500",
+            "addr:street": "Am Schutzdamm",
+            "amenity": "police",
+            "contact:fax": "+43 59133 3446-109",
+            "contact:phone": "+43 59133 3446-100",
+            "name": "Strompolizeiinspektion Mautern",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=486542376C316D655770513D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6106389,
+              48.4046832
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10538890150",
+            "osm_type": "node",
+            "lat": 48.4102101,
+            "lon": 15.6208494,
+            "addr:city": "Krems an der Donau",
+            "addr:country": "AT",
+            "addr:housenumber": "56",
+            "addr:postcode": "3500",
+            "addr:street": "Rechte Kremszeile",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "check_date": "2025-01-13",
+            "contact:email": "api-n-krems-an-der-donau@polizei.gv.at",
+            "contact:fax": "+43 59133 3440-209",
+            "contact:phone": "+43 59133 3440-200",
+            "name": "Autobahnpolizeiinspektion Krems an der Donau",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "API Krems"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6208494,
+              48.4102101
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12553365761",
+            "osm_type": "node",
+            "lat": 48.3914208,
+            "lon": 15.5835618,
+            "addr:city": "Mautern an der Donau",
+            "addr:country": "AT",
+            "addr:housenumber": "1a/1",
+            "addr:postcode": "3512",
+            "addr:street": "Am Silberbichl",
+            "addr:unit": "1",
+            "alt_name": "Polizei",
+            "amenity": "police",
+            "contact:email": "pi-n-mautern@polizei.gv.at",
+            "contact:fax": "+43 59133 3446-109",
+            "contact:phone": "+43 59133 3446-100",
+            "name": "Polizeiinspektion Mautern",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "operator:wikidata": "Q131363945",
+            "short_name": "PI Mautern",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=735463657A4E48517A74633D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5835618,
+              48.3914208
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2047737955",
+            "osm_type": "node",
+            "lat": 48.3943499,
+            "lon": 16.0997966,
+            "addr:city": "Hausleiten",
+            "addr:country": "AT",
+            "addr:housenumber": "16",
+            "addr:postcode": "3464",
+            "addr:street": "Kremser Straße",
+            "amenity": "police",
+            "contact:email": "pi-n-hausleiten@polizei.gv.at",
+            "contact:fax": "+43 59133 3245-109",
+            "contact:phone": "+43 59133 3245-100",
+            "name": "Polizeiinspektion Hausleiten",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "operator:wikidata": "Q131363945",
+            "short_name": "PI Hausleiten",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=746C4438755A6D50596A453D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0997966,
+              48.3943499
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2072173213",
+            "osm_type": "node",
+            "lat": 48.4938333,
+            "lon": 16.1198697,
+            "addr:city": "Göllersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "10",
+            "addr:postcode": "2013",
+            "addr:street": "Hauptplatz",
+            "amenity": "police",
+            "contact": "email=pi-n-goellersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3411-109",
+            "contact:phone": "+43 59133 3411-100",
+            "name": "Polizeiinspektion Göllersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Göllersdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=33616F41575663693470453D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1198697,
+              48.4938333
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9992363891",
+            "osm_type": "node",
+            "lat": 48.5552898,
+            "lon": 16.0737129,
+            "addr:city": "Hollabrunn",
+            "addr:country": "AT",
+            "addr:housenumber": "21",
+            "addr:postcode": "2020",
+            "addr:street": "Josef Weisleinstraße",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-n-hollabrunn@polizei.gv.at",
+            "contact:fax": "+43 59133 3410-109",
+            "contact:phone": "+43 59133 3410-100",
+            "name": "Polizeiinspektion Hollabrunn",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Hollabrunn",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=59396D76437068365372553D",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0737129,
+              48.5552898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9992363893",
+            "osm_type": "node",
+            "lat": 48.6473757,
+            "lon": 16.0554978,
+            "addr:city": "Guntersdorf",
+            "addr:housenumber": "299",
+            "addr:postcode": "2042",
+            "addr:street": "Kalladorfer Straße",
+            "amenity": "police",
+            "contact:email": "pi-n-guntersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3412-109",
+            "contact:phone": "+43 59133 3412-100",
+            "name": "Polizeiinspektion Guntersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Guntersdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=7432745358514944514F673D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0554978,
+              48.6473757
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 16.2068765,
+        "north": 48.68652475,
+        "east": 17.16058
+      },
+      "poiCount": 9,
+      "leafCount": 9,
+      "averagePosition": [
+        16.703147644444446,
+        48.534506533333335
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "262854210",
+            "osm_type": "node",
+            "lat": 48.3765752,
+            "lon": 16.506682,
+            "addr:city": "Wolkersdorf im Weinviertel",
+            "addr:country": "AT",
+            "addr:housenumber": "9",
+            "addr:postcode": "2120",
+            "addr:street": "Winzerstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-wolkersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3278-109",
+            "contact:phone": "+43 59133 3278-100",
+            "name": "Polizeiinspektion Wolkersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Wolkersdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=2B456B50476E52785737733D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.506682,
+              48.3765752
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "477785788",
+            "osm_type": "node",
+            "lat": 48.5351857,
+            "lon": 16.4925962,
+            "addr:city": "Ladendorf",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2126",
+            "addr:street": "Kardinal Franz König Straße",
+            "amenity": "police",
+            "contact:email": "pi-n-ladendorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3271-109",
+            "contact:phone": "+43 59133 3271-100",
+            "name": "Polizeiinspektion Ladendorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Ladendorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=546773632B5365352B50633D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4925962,
+              48.5351857
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "635951455",
+            "osm_type": "node",
+            "lat": 48.5269345,
+            "lon": 16.3635904,
+            "addr:city": "Ernstbrunn",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2115",
+            "addr:street": "Johann-Hanngasse",
+            "amenity": "police",
+            "at_bev:addr_date": "2017-04-07",
+            "contact:email": "pi-n-ernstbrunn@polizei.gv.at",
+            "contact:fax": "+43 59133 3241-109",
+            "contact:phone": "+43 59133 3241-100",
+            "name": "Polizeiinspektion Ernstbrunn",
+            "note": "nicht immer besetzt",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Ernstbrunn",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=6C795A4C6567624C7230553D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3635904,
+              48.5269345
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "280498868",
+            "osm_type": "node",
+            "lat": 48.6673914,
+            "lon": 16.6284394,
+            "addr:city": "Poysdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2170",
+            "addr:street": "Wiener Straße",
+            "amenity": "police",
+            "check_date": "2025-04-06",
+            "contact:email": "pi-n-poysdorf@polizei.gv.at",
+            "contact:fax": "Fax: +43 59133 3272-109",
+            "contact:phone": "+43 59133 3272-100",
+            "name": "Polizeiinspektion Poysdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Poysdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=53373932704B2F662F77593D",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6284394,
+              48.6673914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "452905412",
+            "osm_type": "node",
+            "lat": 48.4527537,
+            "lon": 16.6000219,
+            "addr:city": "Bad Pirawarth",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2222",
+            "addr:street": "Prof. Knesl-Platz",
+            "amenity": "police",
+            "contact:email": "pi-n-bad-pirawarth@polizei.gv.at",
+            "contact:fax": "+43 59133 3202-109",
+            "contact:phone": "+43 59133 3202-100",
+            "name": "Polizeiinspektion Bad Pirawarth",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Bad Pirawarth",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=6262732B5A35356872594D3D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6000219,
+              48.4527537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2897479001",
+            "osm_type": "node",
+            "lat": 48.5459076,
+            "lon": 16.7613819,
+            "addr:city": "Zistersdorf",
+            "addr:country": "AT",
+            "addr:housenumber": "17",
+            "addr:postcode": "2225",
+            "addr:street": "Hauptstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-zistersdorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3217-109",
+            "contact:phone": "+43 59133 3217-100",
+            "name": "Polizeiinspektion Zistersdorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Zistersdorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=6E7865734E776A676F34453D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7613819,
+              48.5459076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7605500407",
+            "osm_type": "node",
+            "lat": 48.6063807,
+            "lon": 16.907055,
+            "addr:city": "Hohenau an der March",
+            "addr:country": "AT",
+            "addr:housenumber": "6",
+            "addr:postcode": "2273",
+            "addr:street": "Liechtensteinstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-hohenau-an-der-march@polizei.gv.at",
+            "contact:fax": "Fax: +43 59133 3207-109",
+            "contact:phone": "+43 59133 3207-100",
+            "name": "Polizeiinspektion Hohenau an der March",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "operator:wikidata": "Q131363945",
+            "short_name": "PI Hohenau",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=567142794635416F4D6A773D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.907055,
+              48.6063807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12688799743",
+            "osm_type": "node",
+            "lat": 48.4373951,
+            "lon": 17.0215668,
+            "amenity": "police",
+            "check_date": "2025-03-21",
+            "name": "Policajný zbor - klientské centrum",
+            "opening_hours": "Mo,Tu,Th 8:00-15:00; We 8:00-17:00; Fr 8:00-14:00",
+            "operator": "Policajný zbor",
+            "operator:short": "PZ",
+            "operator:wikidata": "Q55633341",
+            "wheelchair": "yes",
+            "wheelchair:description": "long ramp"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0215668,
+              48.4373951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6918625410",
+            "osm_type": "node",
+            "lat": 48.6620349,
+            "lon": 17.0469952,
+            "amenity": "police",
+            "name": "Železničná polícia",
+            "phone": "+421961102085",
+            "website": "https://www.minv.sk/?policia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0469952,
+              48.6620349
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 15.253173,
+        "north": 49.017078,
+        "east": 16.2068765
+      },
+      "poiCount": 10,
+      "leafCount": 10,
+      "averagePosition": [
+        15.77247442,
+        48.81623553
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1712573793",
+            "osm_type": "node",
+            "lat": 48.6956717,
+            "lon": 15.3281313,
+            "addr:city": "Allentsteig",
+            "addr:country": "AT",
+            "addr:housenumber": "24",
+            "addr:postcode": "3804",
+            "addr:street": "Hauptstraße",
+            "amenity": "police",
+            "check_date": "2025-05-29",
+            "contact:email": "pi-n-allentsteig@polizei.gv.at",
+            "contact:fax": "+43 59133 3471-109",
+            "contact:phone": "+43 59133 3471-100",
+            "name": "Polizeiinspektion Allentsteig",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Allentsteig",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=53582F6742337634394B673D",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3281313,
+              48.6956717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10002106770",
+            "osm_type": "node",
+            "lat": 48.8144734,
+            "lon": 15.2830004,
+            "addr:city": "Waidhofen/Thaya",
+            "addr:country": "AT",
+            "addr:housename": "Raiffeisenpromenade",
+            "addr:housenumber": "2",
+            "addr:postcode": "3830",
+            "addr:street": "Raiffeisenpromenade",
+            "addr:unit": "5",
+            "amenity": "police",
+            "check_date": "2025-03-17",
+            "contact:email": "pi-n-waidhofen-an-der-thaya@polizei.gv.at",
+            "contact:fax": "+43 59 133 3460-109",
+            "contact:phone": "+43 59 133 3460-100",
+            "name": "Polizeiinspektion Waidhofen an der Thaya",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Waidhofen/Thaya",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=55686A732F6538686B63733D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2830004,
+              48.8144734
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "752706647",
+            "osm_type": "node",
+            "lat": 48.6944333,
+            "lon": 15.955149,
+            "addr:city": "Zellerndorf",
+            "addr:country": "AT",
+            "addr:housenumber": "303",
+            "addr:place": "Zellerndorf",
+            "addr:postcode": "2051",
+            "amenity": "police",
+            "at_bev:addr_date": "2021-10-01",
+            "contact:email": "pi-n-zellerndorf@polizei.gv.at",
+            "contact:fax": "+43 59133 3422-109",
+            "contact:phone": "+43 59133 3422-100",
+            "name": "Polizeiinspektion Zellerndorf",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Zellerndorf",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=2F5A35676E7756463450733D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.955149,
+              48.6944333
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8836910956",
+            "osm_type": "node",
+            "lat": 48.7577333,
+            "lon": 15.9517877,
+            "addr:city": "Retz",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "2070",
+            "addr:street": "Schmiedgasse",
+            "amenity": "police",
+            "contact:email": "pi-n-retz@polizei.gv.at",
+            "contact:fax": "+43 59133 3419-109",
+            "contact:phone": "+43 59 133 3419 -00",
+            "name": "Polizeiinspektion Retz",
+            "operator": "Landespolizeidirktion Niederösterreich",
+            "short_name": "PI Retz",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=5362796F544E34654D734D3D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9517877,
+              48.7577333
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11576850611",
+            "osm_type": "node",
+            "lat": 48.7870025,
+            "lon": 15.9794651,
+            "amenity": "police",
+            "name": "Grenzkontrollstelle",
+            "opening_hours": "Mo-Su 05:00-23:00",
+            "operator": "Bundespolizei",
+            "operator:wikidata": "Q700124"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9794651,
+              48.7870025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8281109359",
+            "osm_type": "node",
+            "lat": 48.7545955,
+            "lon": 16.0644948,
+            "amenity": "police",
+            "name": "Grenzkontrollstelle",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0644948,
+              48.7545955
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9282568218",
+            "osm_type": "node",
+            "lat": 48.8624902,
+            "lon": 16.039935,
+            "amenity": "police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.039935,
+              48.8624902
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9283857346",
+            "osm_type": "node",
+            "lat": 48.9157902,
+            "lon": 15.3217729,
+            "addr:city": "Dobersberg",
+            "addr:housenumber": "5",
+            "addr:postcode": "3843",
+            "addr:street": "Waldkirchener Straße",
+            "amenity": "police",
+            "contact:email": "pi-n-dobersberg@polizei.gv.at",
+            "contact:fax": "+43 59133 3461-109",
+            "contact:phone": "+43 59133 3461-100",
+            "name": "Polizeiinspektion Dobersberg",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Dobersberg",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=774D35434B50454D4843303D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3217729,
+              48.9157902
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7741691370",
+            "osm_type": "node",
+            "lat": 48.8971748,
+            "lon": 15.8142566,
+            "amenity": "police",
+            "name": "Obvodní oddělení Vranov nad Dyjí"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8142566,
+              48.8971748
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9282542016",
+            "osm_type": "node",
+            "lat": 48.9829904,
+            "lon": 15.9867514,
+            "amenity": "police",
+            "name": "Obvodní oddělení Jevišovice"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9867514,
+              48.9829904
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 16.2068765,
+        "north": 49.017078,
+        "east": 17.16058
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        16.81849380526316,
+        48.78928197368421
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5782875365",
+            "osm_type": "node",
+            "lat": 48.7179747,
+            "lon": 16.3827187,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "36",
+            "addr:postcode": "2136",
+            "addr:street": "Eichamtsstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-laa-an-der-thaya@polizei.gv.at",
+            "contact:fax": "+43 59133 3268-109",
+            "contact:phone": "+43 59 133 3268-100",
+            "name": "Polizeiinspektion Laa an der Thaya",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Laa",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=62764D366E706D434D4D453D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3827187,
+              48.7179747
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5782926875",
+            "osm_type": "node",
+            "lat": 48.7251831,
+            "lon": 16.3761583,
+            "addr:city": "Laa an der Thaya",
+            "addr:country": "AT",
+            "addr:housenumber": "58",
+            "addr:postcode": "2136",
+            "addr:street": "St. Vitusweg",
+            "amenity": "police",
+            "contact:email": "pi-n-laa-an-der-thaya-fgp@polizei.gv.at",
+            "contact:fax": "+43 59133 3269-209",
+            "contact:phone": "+43 59 133 3269-200",
+            "name": "Polizeiinspektion Laa an der Thaya - FGP",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=627A386D676971784631413D"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3761583,
+              48.7251831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9282568217",
+            "osm_type": "node",
+            "lat": 48.8303752,
+            "lon": 16.4019868,
+            "amenity": "police",
+            "name": "Obvodní oddělení Hrušovany nad Jevišovkou"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4019868,
+              48.8303752
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "249408429",
+            "osm_type": "node",
+            "lat": 48.6916543,
+            "lon": 16.8694788,
+            "addr:city": "Bernhardsthal",
+            "addr:country": "AT",
+            "addr:housenumber": "65",
+            "addr:postcode": "2275",
+            "addr:street": "Hauptstraße",
+            "amenity": "police",
+            "contact:email": "pi-n-bernhardsthal@polizei.gv.at",
+            "contact:fax": "Fax: +43 59133 3261-109",
+            "contact:phone": "+43 59133 3261-100",
+            "contact:website": "https://www.polizei.gv.at/noe/lpd/dst/dienststellen.aspx?org=747345614771645043656B3D",
+            "name": "Polizeiinspektion Bernhardsthal",
+            "operator": "Landespolizeidirektion Niederösterreich",
+            "short_name": "PI Bernhardsthal",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8694788,
+              48.6916543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1569135286",
+            "osm_type": "node",
+            "lat": 48.7412803,
+            "lon": 16.7551899,
+            "addr:city": "Valtice",
+            "addr:housenumber": "21",
+            "addr:postcode": "69142",
+            "addr:street": "nám. Svobody",
+            "amenity": "police",
+            "name": "Městská policie Valtice"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7551899,
+              48.7412803
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1711198199",
+            "osm_type": "node",
+            "lat": 48.7581595,
+            "lon": 16.9927353,
+            "amenity": "police",
+            "name": "Policie ČR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9927353,
+              48.7581595
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2470108289",
+            "osm_type": "node",
+            "lat": 48.7400003,
+            "lon": 16.7619343,
+            "amenity": "police",
+            "name": "Policie ČR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.7619343,
+              48.7400003
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2502005116",
+            "osm_type": "node",
+            "lat": 48.800314,
+            "lon": 16.8015815,
+            "amenity": "police",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8015815,
+              48.800314
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3667914655",
+            "osm_type": "node",
+            "lat": 48.8073754,
+            "lon": 16.6382507,
+            "amenity": "police",
+            "check_date": "2024-06-07",
+            "name": "Městská policie",
+            "source": "survey"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6382507,
+              48.8073754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3975705410",
+            "osm_type": "node",
+            "lat": 48.829732,
+            "lon": 16.8564381,
+            "amenity": "police",
+            "name": "Dálniční oddělení PČR Podivín"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8564381,
+              48.829732
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7526944717",
+            "osm_type": "node",
+            "lat": 48.8498328,
+            "lon": 16.8920759,
+            "addr:city": "Velké Bílovice",
+            "addr:housenumber": "342",
+            "addr:postcode": "69102",
+            "addr:street": "nám. Osvoboditelů",
+            "amenity": "police",
+            "mobile": "+420 721 337 331",
+            "name": "Městská policie Velké Bílovice",
+            "website": "https://www.velkebilovice.cz/mestska-policie-a-bezpecnost-mesta/ds-1073"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8920759,
+              48.8498328
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8543897629",
+            "osm_type": "node",
+            "lat": 48.6921378,
+            "lon": 17.0162424,
+            "addr:city": "Brodské",
+            "addr:housenumber": "999",
+            "addr:postcode": "90885",
+            "addr:street": "Vajanského",
+            "amenity": "police",
+            "description": "Gbely, Brodské, Letničie,\nPetrova Ves, Unín",
+            "name": "OO PZ Brodské",
+            "phone": "+421346591377",
+            "short_name:sk": "OO PZ Brodské",
+            "website": "https://www.minv.sk/?okresne-riaditelstvo-pz-v-skalici"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0162424,
+              48.6921378
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11691036538",
+            "osm_type": "node",
+            "lat": 48.7619949,
+            "lon": 16.8824541,
+            "amenity": "police",
+            "email": "krpb.podatelna@pcr.cz",
+            "name": "Policie ČR - územní odbor Břeclav",
+            "phone": "+420 974 632 905",
+            "website": "https://www.policie.cz/clanek/uzemni-odbor-breclav-509237.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8824541,
+              48.7619949
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11691036539",
+            "osm_type": "node",
+            "lat": 48.7624032,
+            "lon": 16.8827328,
+            "amenity": "police",
+            "email": "krpb.podatelna@pcr.cz",
+            "name": "Policie ČR - obvodní oddelení Břeclav",
+            "phone": "+420 974 632 701",
+            "website": "https://www.policie.cz/clanek/obvodni-oddeleni-breclav.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8827328,
+              48.7624032
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11691036540",
+            "osm_type": "node",
+            "lat": 48.7637583,
+            "lon": 16.8838352,
+            "amenity": "police",
+            "contact:facebook": "https://www.facebook.com/mpbreclav",
+            "email": "info@mpbv.cz",
+            "name": "Městská policie Břeclav",
+            "phone": "+420 519 373 876",
+            "website": "https://www.mpbv.cz/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8838352,
+              48.7637583
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1695233709",
+            "osm_type": "node",
+            "lat": 48.8522076,
+            "lon": 17.12236,
+            "addr:conscriptionnumber": "1052",
+            "addr:country": "CZ",
+            "addr:housenumber": "1052/14",
+            "addr:place": "Hodonín",
+            "addr:postcode": "69501",
+            "addr:street": "Velkomoravská",
+            "addr:streetnumber": "14",
+            "amenity": "police",
+            "name": "Policie ČR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.12236,
+              48.8522076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1695238283",
+            "osm_type": "node",
+            "lat": 48.8549488,
+            "lon": 17.1229513,
+            "addr:conscriptionnumber": "2223",
+            "addr:country": "CZ",
+            "addr:housenumber": "2223/3",
+            "addr:place": "Hodonín",
+            "addr:postcode": "69501",
+            "addr:street": "Dvořákova",
+            "addr:streetnumber": "3",
+            "amenity": "police",
+            "name": "Městká Policie Hodonín",
+            "ref:ruian:addr": "23197668"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.1229513,
+              48.8549488
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6657516586",
+            "osm_type": "node",
+            "lat": 48.8992688,
+            "lon": 16.8166419,
+            "amenity": "police",
+            "name": "Policie",
+            "name:en": "Police"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.8166419,
+              48.8992688
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13004010202",
+            "osm_type": "node",
+            "lat": 48.9177565,
+            "lon": 17.0956163,
+            "addr:city": "Dubňany",
+            "addr:housenumber": "1149",
+            "addr:postcode": "696 03",
+            "addr:street": "náměstí 15. dubna",
+            "amenity": "police",
+            "name": "Městská policie"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0956163,
+              48.9177565
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

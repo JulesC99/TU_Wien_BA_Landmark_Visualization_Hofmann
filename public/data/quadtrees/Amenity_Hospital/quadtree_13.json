@@ -1,0 +1,208 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 15.253173,
+    "north": 48.355971499999995,
+    "east": 17.16058
+  },
+  "poiCount": 7,
+  "leafCount": 7,
+  "averagePosition": [
+    16.54755337142857,
+    48.147176928571426
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "295952591",
+        "osm_type": "node",
+        "lat": 47.8384514,
+        "lon": 16.9224556,
+        "addr:city": "Frauenkirchen",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "7132",
+        "addr:street": "Mühlteich",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Krankenhaus der Barmherzigen Brüder",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "phone": "+43 2682 6014350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9224556,
+          47.8384514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "115160761",
+        "osm_type": "node",
+        "lat": 48.1955792,
+        "lon": 16.3984155,
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "20A",
+        "addr:postcode": "1030",
+        "addr:street": "Baumgasse",
+        "amenity": "hospital",
+        "check_date": "2025-08-20",
+        "email": "office@kh-herzjesu.at",
+        "fax": "+43 (0)1 / 712 26 84-8650",
+        "healthcare": "hospital",
+        "name": "Herz-Jesu-Krankenhaus",
+        "phone": "+43 (0)1 / 712 26 84-0",
+        "website": "https://www.kh-herzjesu.at/",
+        "wheelchair": "limited",
+        "wikidata": "Q26884361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3984155,
+          48.1955792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "252364812",
+        "osm_type": "node",
+        "lat": 48.2050873,
+        "lon": 16.3860573,
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4a",
+        "addr:postcode": "1030",
+        "addr:street": "Landstraßer Hauptstraße",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Franziskus Spital Landstraße",
+        "phone": "+43 1 71126-0",
+        "website": "https://www.franziskusspital.com",
+        "wheelchair": "yes",
+        "wikidata": "Q1606515",
+        "wikipedia": "de:Krankenhaus St. Elisabeth Wien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3860573,
+          48.2050873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "252365711",
+        "osm_type": "node",
+        "lat": 48.1923503,
+        "lon": 16.3454714,
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "1060",
+        "addr:street": "Stumpergasse",
+        "amenity": "hospital",
+        "check_date": "2024-08-13",
+        "contact:website": "https://bhswien.at/",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "urology;oncology;gastroenterology",
+        "name": "Krankenhaus der Barmherzigen Schwestern",
+        "operator": "Vinzenz Gruppe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3454714,
+          48.1923503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9893559167",
+        "osm_type": "node",
+        "lat": 48.3219081,
+        "lon": 16.0649306,
+        "addr:city": "Tulln an der Donau",
+        "addr:housenumber": "10",
+        "addr:postcode": "3430",
+        "addr:street": "Alter Ziegelweg",
+        "amenity": "hospital",
+        "health_specialty": "stroke_unit",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry;child_psychiatry",
+        "name": "Universitätsklinikum Tulln",
+        "operator": "NÖ Landesgesundheitsagentur",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0649306,
+          48.3219081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4715584190",
+        "osm_type": "node",
+        "lat": 48.1216946,
+        "lon": 16.560243,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "level": "1",
+        "name": "Medizinische Ambulanz",
+        "name:en": "Medical emergency ambulance",
+        "opening_hours": "24/7",
+        "phone": "+431700722245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.560243,
+          48.1216946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12840723312",
+        "osm_type": "node",
+        "lat": 48.1551676,
+        "lon": 17.1553002,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "intensive",
+        "name": "AGEL Chronicare",
+        "opening_hours": "Mo-Fr 15:00-17:00; Sa,Su,PH 13:00-17:00",
+        "operator": "AGEL, a.s.",
+        "phone": "+421 902 584 140",
+        "source": "survey",
+        "website": "https://chronicare.agel.sk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1553002,
+          48.1551676
+        ]
+      }
+    }
+  ],
+  "children": []
+}

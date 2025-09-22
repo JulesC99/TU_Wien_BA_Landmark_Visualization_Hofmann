@@ -1,0 +1,82 @@
+{
+  "bbox": {
+    "south": 47.694865,
+    "west": 9.530952,
+    "north": 48.355971499999995,
+    "east": 11.438358999999998
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    10.2598725,
+    47.975604866666664
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6181270071",
+        "osm_type": "node",
+        "lat": 47.7854551,
+        "lon": 10.0630846,
+        "name": "Kinderbauernhof",
+        "opening_hours": "Mo-Su,PH 10:00-12:00,13:00-16:00",
+        "tourism": "zoo",
+        "wheelchair": "limited",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0630846,
+          47.7854551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1937885900",
+        "osm_type": "node",
+        "lat": 47.9140928,
+        "lon": 9.7762204,
+        "name": "Tierpark Tannenbühl",
+        "opening_hours": "24/7",
+        "tourism": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7762204,
+          47.9140928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9453312012",
+        "osm_type": "node",
+        "lat": 48.2272667,
+        "lon": 10.9403125,
+        "addr:city": "Schmiechen",
+        "addr:housenumber": "21",
+        "addr:postcode": "86511",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Unterbergen",
+        "name": "Kistlerhof Erleben&Lernen",
+        "tourism": "zoo",
+        "website": "https://www.kistlerhof-unterbergen.de/",
+        "zoo": "petting_zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9403125,
+          48.2272667
+        ]
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,87 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 9.530952,
+    "north": 49.017078,
+    "east": 11.438358999999998
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    9.883825166666666,
+    48.52533066666666
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1789193077",
+        "osm_type": "node",
+        "lat": 48.4052098,
+        "lon": 9.7907076,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "new_apostolic",
+        "name": "Neuapostolische Kirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7907076,
+          48.4052098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12925561793",
+        "osm_type": "node",
+        "lat": 48.7165093,
+        "lon": 9.5850379,
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Christuskirche",
+        "religion": "christian",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5850379,
+          48.7165093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1262068904",
+        "osm_type": "node",
+        "lat": 48.4542729,
+        "lon": 10.27573,
+        "addr:city": "Günzburg",
+        "addr:housenumber": "5",
+        "addr:postcode": "89312",
+        "addr:street": "Schloßplatz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Hofkirche",
+        "religion": "christian",
+        "wheelchair": "limited",
+        "wikidata": "Q41298519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.27573,
+          48.4542729
+        ]
+      }
+    }
+  ],
+  "children": []
+}

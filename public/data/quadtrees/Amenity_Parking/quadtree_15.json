@@ -1,0 +1,4181 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 15.253173,
+    "north": 49.017078,
+    "east": 17.16058
+  },
+  "poiCount": 209,
+  "leafCount": 0,
+  "averagePosition": [
+    16.213656171770335,
+    48.705717484210524
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 15.253173,
+        "north": 48.68652475,
+        "east": 16.2068765
+      },
+      "poiCount": 51,
+      "leafCount": 0,
+      "averagePosition": [
+        15.751341743137255,
+        48.52710384313725
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 15.253173,
+            "north": 48.521248125,
+            "east": 15.73002475
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            15.551967409090908,
+            48.47434073636364
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1120461330",
+                "osm_type": "node",
+                "lat": 48.5153901,
+                "lon": 15.490711,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.490711,
+                  48.5153901
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1131051778",
+                "osm_type": "node",
+                "lat": 48.5142689,
+                "lon": 15.504587,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.504587,
+                  48.5142689
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6110924188",
+                "osm_type": "node",
+                "lat": 48.5169248,
+                "lon": 15.4933773,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4933773,
+                  48.5169248
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6110981705",
+                "osm_type": "node",
+                "lat": 48.5187955,
+                "lon": 15.497874,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.497874,
+                  48.5187955
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10727645589",
+                "osm_type": "node",
+                "lat": 48.4111167,
+                "lon": 15.6032986,
+                "access": "private",
+                "amenity": "parking",
+                "operator": "Smile Appartments",
+                "operator:type": "private",
+                "parking": "surface",
+                "phone": "+43 664 3476406",
+                "website": "https://www.smileapartments.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6032986,
+                  48.4111167
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12507170117",
+                "osm_type": "node",
+                "lat": 48.4165502,
+                "lon": 15.6194513,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "surface",
+                "surface": "grass"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6194513,
+                  48.4165502
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13048414297",
+                "osm_type": "node",
+                "lat": 48.4502651,
+                "lon": 15.5649233,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5649233,
+                  48.4502651
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13048414298",
+                "osm_type": "node",
+                "lat": 48.4495232,
+                "lon": 15.565213,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.565213,
+                  48.4495232
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13048414299",
+                "osm_type": "node",
+                "lat": 48.4485767,
+                "lon": 15.565378,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.565378,
+                  48.4485767
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13089814139",
+                "osm_type": "node",
+                "lat": 48.4662747,
+                "lon": 15.5597037,
+                "amenity": "parking",
+                "parking": "street_side",
+                "surface": "gravel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5597037,
+                  48.4662747
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13132538721",
+                "osm_type": "node",
+                "lat": 48.5100622,
+                "lon": 15.6071243,
+                "amenity": "parking",
+                "fee": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6071243,
+                  48.5100622
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.355971499999995,
+            "west": 15.73002475,
+            "north": 48.521248125,
+            "east": 16.2068765
+          },
+          "poiCount": 17,
+          "leafCount": 17,
+          "averagePosition": [
+            15.90757844117647,
+            48.45557494705882
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "913321626",
+                "osm_type": "node",
+                "lat": 48.3629299,
+                "lon": 15.7522057,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7522057,
+                  48.3629299
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "568453530",
+                "osm_type": "node",
+                "lat": 48.4726097,
+                "lon": 15.7355143,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7355143,
+                  48.4726097
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "908426219",
+                "osm_type": "node",
+                "lat": 48.4991529,
+                "lon": 15.9634805,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9634805,
+                  48.4991529
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "908426434",
+                "osm_type": "node",
+                "lat": 48.4992769,
+                "lon": 15.9627154,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9627154,
+                  48.4992769
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1012282082",
+                "osm_type": "node",
+                "lat": 48.5025585,
+                "lon": 15.961797,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.961797,
+                  48.5025585
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2108780660",
+                "osm_type": "node",
+                "lat": 48.4395468,
+                "lon": 15.7856162,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7856162,
+                  48.4395468
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4739936372",
+                "osm_type": "node",
+                "lat": 48.4393146,
+                "lon": 15.7853073,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7853073,
+                  48.4393146
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4739942413",
+                "osm_type": "node",
+                "lat": 48.4382576,
+                "lon": 15.7803264,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7803264,
+                  48.4382576
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4739942522",
+                "osm_type": "node",
+                "lat": 48.438133,
+                "lon": 15.7806537,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7806537,
+                  48.438133
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4739943235",
+                "osm_type": "node",
+                "lat": 48.4393769,
+                "lon": 15.7859698,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7859698,
+                  48.4393769
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12092142219",
+                "osm_type": "node",
+                "lat": 48.4415791,
+                "lon": 15.7668976,
+                "amenity": "parking",
+                "disabled": "designated",
+                "fee": "no",
+                "surface": "unpaved"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7668976,
+                  48.4415791
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12092142220",
+                "osm_type": "node",
+                "lat": 48.4401116,
+                "lon": 15.766671,
+                "amenity": "parking",
+                "fee": "no",
+                "surface": "unpaved"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.766671,
+                  48.4401116
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "704499697",
+                "osm_type": "node",
+                "lat": 48.5102687,
+                "lon": 16.0700538,
+                "amenity": "parking",
+                "name": "Heuriger Wasner",
+                "source": "GPS"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0700538,
+                  48.5102687
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "715898198",
+                "osm_type": "node",
+                "lat": 48.4228762,
+                "lon": 16.1574611,
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1574611,
+                  48.4228762
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "732411650",
+                "osm_type": "node",
+                "lat": 48.513851,
+                "lon": 16.0636602,
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0636602,
+                  48.513851
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1489713373",
+                "osm_type": "node",
+                "lat": 48.4943723,
+                "lon": 16.11823,
+                "amenity": "parking",
+                "fee": "no",
+                "lit": "no",
+                "name": "Parkplatz Bouchal"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.11823,
+                  48.4943723
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1501300815",
+                "osm_type": "node",
+                "lat": 48.3905584,
+                "lon": 16.1922735,
+                "access": "yes",
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1922735,
+                  48.3905584
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 15.253173,
+            "north": 48.68652475,
+            "east": 15.73002475
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            15.534411064285715,
+            48.62973006428571
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1030477621",
+                "osm_type": "node",
+                "lat": 48.6023722,
+                "lon": 15.4777097,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4777097,
+                  48.6023722
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1431848666",
+                "osm_type": "node",
+                "lat": 48.6032887,
+                "lon": 15.4249261,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4249261,
+                  48.6032887
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6468471658",
+                "osm_type": "node",
+                "lat": 48.6130091,
+                "lon": 15.4870198,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "9",
+                "fee": "no",
+                "surface": "asphalt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4870198,
+                  48.6130091
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7190867586",
+                "osm_type": "node",
+                "lat": 48.6853905,
+                "lon": 15.3285964,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3285964,
+                  48.6853905
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7190867587",
+                "osm_type": "node",
+                "lat": 48.6857392,
+                "lon": 15.3277028,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3277028,
+                  48.6857392
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7849298239",
+                "osm_type": "node",
+                "lat": 48.5950577,
+                "lon": 15.3875234,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3875234,
+                  48.5950577
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8939733253",
+                "osm_type": "node",
+                "lat": 48.5745645,
+                "lon": 15.3189781,
+                "amenity": "parking",
+                "name": "P2"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3189781,
+                  48.5745645
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1588242657",
+                "osm_type": "node",
+                "lat": 48.6392807,
+                "lon": 15.7060291,
+                "amenity": "parking",
+                "name": "Landgasthaus Knell",
+                "parking": "surface",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7060291,
+                  48.6392807
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1588242658",
+                "osm_type": "node",
+                "lat": 48.6495852,
+                "lon": 15.705038,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.705038,
+                  48.6495852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1588242660",
+                "osm_type": "node",
+                "lat": 48.6487187,
+                "lon": 15.7034314,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7034314,
+                  48.6487187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3318996577",
+                "osm_type": "node",
+                "lat": 48.6628574,
+                "lon": 15.6510874,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6510874,
+                  48.6628574
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3318997572",
+                "osm_type": "node",
+                "lat": 48.6475887,
+                "lon": 15.5975229,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5975229,
+                  48.6475887
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3319129776",
+                "osm_type": "node",
+                "lat": 48.666078,
+                "lon": 15.6719257,
+                "amenity": "parking",
+                "orientation": "perpendicular",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6719257,
+                  48.666078
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7891323875",
+                "osm_type": "node",
+                "lat": 48.5426903,
+                "lon": 15.6942641,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "5",
+                "fee": "no",
+                "parking": "lane",
+                "surface": "asphalt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6942641,
+                  48.5426903
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.521248125,
+            "west": 15.73002475,
+            "north": 48.68652475,
+            "east": 16.2068765
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            16.037355444444444,
+            48.567061433333336
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "340864769",
+                "osm_type": "node",
+                "lat": 48.548408,
+                "lon": 15.9895903,
+                "amenity": "parking",
+                "capacity": "100"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9895903,
+                  48.548408
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "747400087",
+                "osm_type": "node",
+                "lat": 48.6398185,
+                "lon": 15.81761,
+                "amenity": "parking",
+                "maxstay": "2 hours",
+                "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; PH off"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.81761,
+                  48.6398185
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3740920350",
+                "osm_type": "node",
+                "lat": 48.5485397,
+                "lon": 15.9900174,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9900174,
+                  48.5485397
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "401545519",
+                "osm_type": "node",
+                "lat": 48.5711195,
+                "lon": 16.0815879,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0815879,
+                  48.5711195
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "706537559",
+                "osm_type": "node",
+                "lat": 48.5449935,
+                "lon": 16.1349673,
+                "amenity": "parking",
+                "fee": "no",
+                "park_ride": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1349673,
+                  48.5449935
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1163022337",
+                "osm_type": "node",
+                "lat": 48.5544469,
+                "lon": 16.0871972,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "10",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0871972,
+                  48.5544469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1712527421",
+                "osm_type": "node",
+                "lat": 48.5708271,
+                "lon": 16.0813546,
+                "access": "permissive",
+                "amenity": "parking",
+                "covered": "yes",
+                "name": "Kundenparkplatz Verderber",
+                "source": "geoimage.at hires",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0813546,
+                  48.5708271
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3959175060",
+                "osm_type": "node",
+                "lat": 48.5711522,
+                "lon": 16.0660196,
+                "amenity": "parking",
+                "capacity": "3"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0660196,
+                  48.5711522
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10922261580",
+                "osm_type": "node",
+                "lat": 48.5542475,
+                "lon": 16.0878547,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0878547,
+                  48.5542475
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.355971499999995,
+        "west": 16.2068765,
+        "north": 48.68652475,
+        "east": 17.16058
+      },
+      "poiCount": 36,
+      "leafCount": 36,
+      "averagePosition": [
+        16.758522697222222,
+        48.490113313888884
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "886036035",
+            "osm_type": "node",
+            "lat": 48.4763703,
+            "lon": 16.4355253,
+            "access": "customers",
+            "amenity": "parking",
+            "fee": "no",
+            "name": "Klettergarten Kreuzstetten",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4355253,
+              48.4763703
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1038091847",
+            "osm_type": "node",
+            "lat": 48.4067037,
+            "lon": 16.3037561,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3037561,
+              48.4067037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2174005567",
+            "osm_type": "node",
+            "lat": 48.3863949,
+            "lon": 16.2156056,
+            "access": "yes",
+            "amenity": "parking",
+            "fee": "yes",
+            "layer": "-1",
+            "location": "surface",
+            "parking": "underground"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2156056,
+              48.3863949
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2485945749",
+            "osm_type": "node",
+            "lat": 48.4312503,
+            "lon": 16.2095937,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2095937,
+              48.4312503
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2485945751",
+            "osm_type": "node",
+            "lat": 48.4312587,
+            "lon": 16.2086337,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2086337,
+              48.4312587
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2485946175",
+            "osm_type": "node",
+            "lat": 48.4308989,
+            "lon": 16.2133794,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2133794,
+              48.4308989
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6834255667",
+            "osm_type": "node",
+            "lat": 48.4318692,
+            "lon": 16.4783093,
+            "amenity": "parking",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4783093,
+              48.4318692
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7551964448",
+            "osm_type": "node",
+            "lat": 48.5610433,
+            "lon": 16.4386086,
+            "amenity": "parking",
+            "parking": "street_side",
+            "surface": "ground"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4386086,
+              48.5610433
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7717813986",
+            "osm_type": "node",
+            "lat": 48.4833135,
+            "lon": 16.4507208,
+            "access": "customers",
+            "amenity": "parking",
+            "fee": "no",
+            "name": "Parken Ullmann",
+            "parking": "lane"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4507208,
+              48.4833135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7817299940",
+            "osm_type": "node",
+            "lat": 48.4332384,
+            "lon": 16.4732063,
+            "amenity": "parking",
+            "capacity": "2",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.4732063,
+              48.4332384
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1366547796",
+            "osm_type": "node",
+            "lat": 48.5505604,
+            "lon": 17.0122304,
+            "access": "no",
+            "amenity": "parking",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0122304,
+              48.5505604
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1376031669",
+            "osm_type": "node",
+            "lat": 48.5736681,
+            "lon": 16.5675173,
+            "access": "private",
+            "amenity": "parking",
+            "barrier": "entrance",
+            "entrance": "yes",
+            "layer": "-1",
+            "parking": "underground",
+            "surface": "asphalt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5675173,
+              48.5736681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1376031789",
+            "osm_type": "node",
+            "lat": 48.5737313,
+            "lon": 16.5657547,
+            "access": "private",
+            "amenity": "parking",
+            "barrier": "entrance",
+            "entrance": "yes",
+            "layer": "-1",
+            "parking": "underground",
+            "surface": "asphalt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5657547,
+              48.5737313
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1376031830",
+            "osm_type": "node",
+            "lat": 48.5733269,
+            "lon": 16.5660318,
+            "access": "private",
+            "amenity": "parking",
+            "barrier": "entrance",
+            "entrance": "yes",
+            "foot": "yes",
+            "layer": "-1",
+            "parking": "underground",
+            "surface": "asphalt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.5660318,
+              48.5733269
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1859875476",
+            "osm_type": "node",
+            "lat": 48.5393702,
+            "lon": 17.0081245,
+            "amenity": "parking",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0081245,
+              48.5393702
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3270045881",
+            "osm_type": "node",
+            "lat": 48.4451858,
+            "lon": 16.9852783,
+            "access": "yes",
+            "amenity": "parking",
+            "capacity": "3",
+            "fee": "no",
+            "parking": "surface",
+            "source": "Bing"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9852783,
+              48.4451858
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3366753658",
+            "osm_type": "node",
+            "lat": 48.4396064,
+            "lon": 17.016525,
+            "access": "yes",
+            "amenity": "parking",
+            "capacity": "20",
+            "fee": "no",
+            "parking": "surface",
+            "surface": "asphalt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.016525,
+              48.4396064
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3934751127",
+            "osm_type": "node",
+            "lat": 48.4358619,
+            "lon": 17.0207728,
+            "amenity": "parking",
+            "capacity": "3",
+            "orientation": "parallel",
+            "parking": "street_side"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0207728,
+              48.4358619
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4109297503",
+            "osm_type": "node",
+            "lat": 48.6656686,
+            "lon": 16.6166379,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6166379,
+              48.6656686
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4209817920",
+            "osm_type": "node",
+            "lat": 48.4415244,
+            "lon": 17.0143939,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0143939,
+              48.4415244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4818708163",
+            "osm_type": "node",
+            "lat": 48.4459076,
+            "lon": 16.9928308,
+            "access": "yes",
+            "amenity": "parking",
+            "fee": "no",
+            "parking": "surface",
+            "surface": "concrete:plates"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9928308,
+              48.4459076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5017173616",
+            "osm_type": "node",
+            "lat": 48.4318906,
+            "lon": 17.027607,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.027607,
+              48.4318906
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5276289498",
+            "osm_type": "node",
+            "lat": 48.4371875,
+            "lon": 17.0222345,
+            "access": "customers",
+            "amenity": "parking",
+            "capacity": "12",
+            "capacity:disabled": "1"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0222345,
+              48.4371875
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5502562520",
+            "osm_type": "node",
+            "lat": 48.5985872,
+            "lon": 16.9532055,
+            "access": "private",
+            "amenity": "parking",
+            "operator": "Škola v prírode Piesočná",
+            "park_ride": "no",
+            "parking": "surface",
+            "supervised": "yes",
+            "surface": "grass_paver"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9532055,
+              48.5985872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5824579413",
+            "osm_type": "node",
+            "lat": 48.4910125,
+            "lon": 16.9564681,
+            "access": "customers",
+            "amenity": "parking",
+            "fee": "no",
+            "parking": "street_side"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9564681,
+              48.4910125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6547505279",
+            "osm_type": "node",
+            "lat": 48.4179672,
+            "lon": 16.6402678,
+            "amenity": "parking",
+            "fixme": "position",
+            "park_ride": "train"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.6402678,
+              48.4179672
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7572224843",
+            "osm_type": "node",
+            "lat": 48.5502632,
+            "lon": 17.0107345,
+            "access": "no",
+            "amenity": "parking",
+            "parking": "surface"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0107345,
+              48.5502632
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7920621323",
+            "osm_type": "node",
+            "lat": 48.4404181,
+            "lon": 17.0148329,
+            "amenity": "parking"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0148329,
+              48.4404181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9206428417",
+            "osm_type": "node",
+            "lat": 48.43074,
+            "lon": 17.0291492,
+            "amenity": "parking",
+            "capacity": "2",
+            "parking": "street_side"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0291492,
+              48.43074
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9685716452",
+            "osm_type": "node",
+            "lat": 48.5952917,
+            "lon": 17.0043692,
+            "amenity": "parking",
+            "parking": "surface",
+            "source": "Ortofotomozaika SR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0043692,
+              48.5952917
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9893031485",
+            "osm_type": "node",
+            "lat": 48.5441748,
+            "lon": 16.768149,
+            "access": "private",
+            "amenity": "parking",
+            "note": "Busabstellplatz Gachwindl Zistersdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.768149,
+              48.5441748
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11429126971",
+            "osm_type": "node",
+            "lat": 48.6578538,
+            "lon": 17.0206704,
+            "access": "customers",
+            "amenity": "parking",
+            "fee": "no",
+            "parking": "surface",
+            "surface": "gravel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0206704,
+              48.6578538
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11697759755",
+            "osm_type": "node",
+            "lat": 48.5940277,
+            "lon": 16.9888117,
+            "access": "yes",
+            "amenity": "parking",
+            "fee": "yes",
+            "opening_hours": "24/7",
+            "parking": "surface",
+            "supervised": "yes",
+            "surface": "gravel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.9888117,
+              48.5940277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11737238315",
+            "osm_type": "node",
+            "lat": 48.4365938,
+            "lon": 17.0173539,
+            "access": "yes",
+            "amenity": "parking",
+            "capacity": "60",
+            "description": "Fee: 7:00-21:00 1st hour free, then 1,50 eur/h ; 21:00-7:00 0,50 eur/h",
+            "fee": "yes",
+            "layer": "-1",
+            "operator": "Mesto Malacky",
+            "operator:type": "public",
+            "parking": "underground",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "surface": "concrete"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0173539,
+              48.4365938
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12325357165",
+            "osm_type": "node",
+            "lat": 48.4313801,
+            "lon": 17.0278057,
+            "access": "customers",
+            "amenity": "parking",
+            "fee": "no",
+            "parking": "surface",
+            "surface": "paving_stones"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0278057,
+              48.4313801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9206428436",
+            "osm_type": "node",
+            "lat": 48.4299383,
+            "lon": 17.0317215,
+            "amenity": "parking",
+            "capacity": "3",
+            "parking": "street_side"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.0317215,
+              48.4299383
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 15.253173,
+        "north": 49.017078,
+        "east": 16.2068765
+      },
+      "poiCount": 56,
+      "leafCount": 0,
+      "averagePosition": [
+        15.637659925,
+        48.84871641071429
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 15.253173,
+            "north": 48.851801374999994,
+            "east": 15.73002475
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            15.440575686666667,
+            48.79402266666667
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "309921228",
+                "osm_type": "node",
+                "lat": 48.8147755,
+                "lon": 15.2766533,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2766533,
+                  48.8147755
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1562562882",
+                "osm_type": "node",
+                "lat": 48.7907539,
+                "lon": 15.404913,
+                "amenity": "parking",
+                "capacity": "25",
+                "name": "Sparkassenparkplatz"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.404913,
+                  48.7907539
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3534161535",
+                "osm_type": "node",
+                "lat": 48.7893528,
+                "lon": 15.4035681,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4035681,
+                  48.7893528
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3534182300",
+                "osm_type": "node",
+                "lat": 48.7902235,
+                "lon": 15.4086726,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4086726,
+                  48.7902235
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7177414363",
+                "osm_type": "node",
+                "lat": 48.7000102,
+                "lon": 15.3292944,
+                "access": "private",
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3292944,
+                  48.7000102
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10680348919",
+                "osm_type": "node",
+                "lat": 48.8223668,
+                "lon": 15.2794729,
+                "access": "yes",
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2794729,
+                  48.8223668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11576990585",
+                "osm_type": "node",
+                "lat": 48.824151,
+                "lon": 15.3281419,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3281419,
+                  48.824151
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12651893410",
+                "osm_type": "node",
+                "lat": 48.837382,
+                "lon": 15.3774272,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3774272,
+                  48.837382
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12707754525",
+                "osm_type": "node",
+                "lat": 48.7860424,
+                "lon": 15.3911035,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3911035,
+                  48.7860424
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12707754526",
+                "osm_type": "node",
+                "lat": 48.7858449,
+                "lon": 15.390318,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.390318,
+                  48.7858449
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12709929574",
+                "osm_type": "node",
+                "lat": 48.7928867,
+                "lon": 15.3816219,
+                "access": "customers",
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3816219,
+                  48.7928867
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "257076576",
+                "osm_type": "node",
+                "lat": 48.7429874,
+                "lon": 15.6702232,
+                "amenity": "parking",
+                "fee": "no",
+                "park_ride": "train",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6702232,
+                  48.7429874
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1261663900",
+                "osm_type": "node",
+                "lat": 48.7921173,
+                "lon": 15.6631958,
+                "amenity": "parking",
+                "name": "Waldbad Geras",
+                "parking": "surface",
+                "ref": "P1"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6631958,
+                  48.7921173
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2552671076",
+                "osm_type": "node",
+                "lat": 48.8397655,
+                "lon": 15.6300634,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6300634,
+                  48.8397655
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3319016955",
+                "osm_type": "node",
+                "lat": 48.8016801,
+                "lon": 15.6739661,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6739661,
+                  48.8016801
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 15.73002475,
+            "north": 48.851801374999994,
+            "east": 16.2068765
+          },
+          "poiCount": 13,
+          "leafCount": 13,
+          "averagePosition": [
+            15.98230013076923,
+            48.76871675384616
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "546692240",
+                "osm_type": "node",
+                "lat": 48.7471957,
+                "lon": 15.8691148,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8691148,
+                  48.7471957
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "926230639",
+                "osm_type": "node",
+                "lat": 48.6941779,
+                "lon": 15.9603313,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9603313,
+                  48.6941779
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1487384665",
+                "osm_type": "node",
+                "lat": 48.8482329,
+                "lon": 15.9425343,
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9425343,
+                  48.8482329
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1674808701",
+                "osm_type": "node",
+                "lat": 48.73756,
+                "lon": 15.9595784,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9595784,
+                  48.73756
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1726565283",
+                "osm_type": "node",
+                "lat": 48.7194041,
+                "lon": 15.8415273,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "6",
+                "fee": "no",
+                "parking": "street_side",
+                "supervised": "no",
+                "surface": "sett"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8415273,
+                  48.7194041
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2468011427",
+                "osm_type": "node",
+                "lat": 48.7058122,
+                "lon": 15.840797,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.840797,
+                  48.7058122
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7549380312",
+                "osm_type": "node",
+                "lat": 48.7777219,
+                "lon": 15.9094007,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9094007,
+                  48.7777219
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8952229967",
+                "osm_type": "node",
+                "lat": 48.8105163,
+                "lon": 15.9780349,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "3",
+                "capacity:disabled": "3",
+                "fee": "no",
+                "parking": "surface",
+                "surface": "grass"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9780349,
+                  48.8105163
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11429920242",
+                "osm_type": "node",
+                "lat": 48.8138279,
+                "lon": 16.0040753,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0040753,
+                  48.8138279
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "456783617",
+                "osm_type": "node",
+                "lat": 48.8401596,
+                "lon": 16.0653439,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0653439,
+                  48.8401596
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "607003961",
+                "osm_type": "node",
+                "lat": 48.7618029,
+                "lon": 16.0590262,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0590262,
+                  48.7618029
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "870349412",
+                "osm_type": "node",
+                "lat": 48.7832393,
+                "lon": 16.200417,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.200417,
+                  48.7832393
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3357695634",
+                "osm_type": "node",
+                "lat": 48.7536671,
+                "lon": 16.1397206,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.1397206,
+                  48.7536671
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 15.253173,
+            "north": 49.017078,
+            "east": 15.73002475
+          },
+          "poiCount": 18,
+          "leafCount": 18,
+          "averagePosition": [
+            15.416173072222222,
+            48.925418505555555
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4464697847",
+                "osm_type": "node",
+                "lat": 48.8657025,
+                "lon": 15.3878777,
+                "amenity": "parking",
+                "name": "ANWO Schaugarten"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3878777,
+                  48.8657025
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11528275622",
+                "osm_type": "node",
+                "lat": 48.8550947,
+                "lon": 15.2899363,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2899363,
+                  48.8550947
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11534016775",
+                "osm_type": "node",
+                "lat": 48.8519463,
+                "lon": 15.2959506,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2959506,
+                  48.8519463
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11681761265",
+                "osm_type": "node",
+                "lat": 48.8580415,
+                "lon": 15.3937425,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3937425,
+                  48.8580415
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12556665599",
+                "osm_type": "node",
+                "lat": 48.8526484,
+                "lon": 15.4671244,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4671244,
+                  48.8526484
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12598004856",
+                "osm_type": "node",
+                "lat": 48.8650403,
+                "lon": 15.4262058,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4262058,
+                  48.8650403
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "370461374",
+                "osm_type": "node",
+                "lat": 48.9024864,
+                "lon": 15.3306255,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3306255,
+                  48.9024864
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1347782057",
+                "osm_type": "node",
+                "lat": 49.0018883,
+                "lon": 15.3292381,
+                "amenity": "parking",
+                "parking": "surface",
+                "source": "gps;uhul:ortofoto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3292381,
+                  49.0018883
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5290061840",
+                "osm_type": "node",
+                "lat": 49.0071524,
+                "lon": 15.3303668,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "surface",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3303668,
+                  49.0071524
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9152694763",
+                "osm_type": "node",
+                "lat": 49.0038452,
+                "lon": 15.2537998,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2537998,
+                  49.0038452
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9152694764",
+                "osm_type": "node",
+                "lat": 49.0036188,
+                "lon": 15.2538752,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2538752,
+                  49.0036188
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11834620300",
+                "osm_type": "node",
+                "lat": 48.890225,
+                "lon": 15.2776768,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.2776768,
+                  48.890225
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12207018401",
+                "osm_type": "node",
+                "lat": 48.9150469,
+                "lon": 15.3258549,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.3258549,
+                  48.9150469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12351318014",
+                "osm_type": "node",
+                "lat": 48.9312095,
+                "lon": 15.4770837,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.4770837,
+                  48.9312095
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "767442776",
+                "osm_type": "node",
+                "lat": 48.9331273,
+                "lon": 15.715994,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.715994,
+                  48.9331273
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5825769274",
+                "osm_type": "node",
+                "lat": 49.0160733,
+                "lon": 15.5745036,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.5745036,
+                  49.0160733
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7814667003",
+                "osm_type": "node",
+                "lat": 48.928475,
+                "lon": 15.7201101,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.7201101,
+                  48.928475
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13062137045",
+                "osm_type": "node",
+                "lat": 48.9759113,
+                "lon": 15.6411495,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.6411495,
+                  48.9759113
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 15.73002475,
+            "north": 49.017078,
+            "east": 16.2068765
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            15.88393035,
+            48.896692810000005
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1815969088",
+                "osm_type": "node",
+                "lat": 48.8590964,
+                "lon": 15.8643817,
+                "access": "permissive",
+                "amenity": "parking",
+                "capacity:disabled": "yes",
+                "note": "disabled only",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8643817,
+                  48.8590964
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9026989728",
+                "osm_type": "node",
+                "lat": 48.858102,
+                "lon": 15.984516,
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.984516,
+                  48.858102
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11290437519",
+                "osm_type": "node",
+                "lat": 48.8572014,
+                "lon": 15.8576429,
+                "amenity": "parking",
+                "capacity": "10",
+                "parking": "surface",
+                "surface": "gravel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8576429,
+                  48.8572014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12034084169",
+                "osm_type": "node",
+                "lat": 48.8606772,
+                "lon": 16.0303384,
+                "amenity": "parking",
+                "name": "Parkoviště",
+                "name:en": "Parking",
+                "opening_hours": "24/7"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.0303384,
+                  48.8606772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "837859152",
+                "osm_type": "node",
+                "lat": 48.896377,
+                "lon": 15.8089656,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "no",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8089656,
+                  48.896377
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4287422662",
+                "osm_type": "node",
+                "lat": 48.8944449,
+                "lon": 15.8128461,
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "4",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8128461,
+                  48.8944449
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4287422670",
+                "osm_type": "node",
+                "lat": 48.8955634,
+                "lon": 15.8189548,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "2",
+                "fee": "no",
+                "park_ride": "no",
+                "parking": "surface",
+                "smoothness": "good",
+                "surface": "asphalt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8189548,
+                  48.8955634
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7744166212",
+                "osm_type": "node",
+                "lat": 48.9012972,
+                "lon": 15.8144344,
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "maxstay": "30 minutes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.8144344,
+                  48.9012972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10013837129",
+                "osm_type": "node",
+                "lat": 48.9949105,
+                "lon": 15.9267659,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9267659,
+                  48.9949105
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12363470827",
+                "osm_type": "node",
+                "lat": 48.9492581,
+                "lon": 15.9204577,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.9204577,
+                  48.9492581
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 48.68652475,
+        "west": 16.2068765,
+        "north": 49.017078,
+        "east": 17.16058
+      },
+      "poiCount": 66,
+      "leafCount": 0,
+      "averagePosition": [
+        16.762423304545454,
+        48.84000696818182
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 16.2068765,
+            "north": 48.851801374999994,
+            "east": 16.68372825
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            16.589478481818183,
+            48.80043675454545
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10166518636",
+                "osm_type": "node",
+                "lat": 48.8364597,
+                "lon": 16.4939199,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4939199,
+                  48.8364597
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10166574392",
+                "osm_type": "node",
+                "lat": 48.8363537,
+                "lon": 16.4939814,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4939814,
+                  48.8363537
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10166579431",
+                "osm_type": "node",
+                "lat": 48.8343752,
+                "lon": 16.4945137,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4945137,
+                  48.8343752
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1767683799",
+                "osm_type": "node",
+                "lat": 48.6952853,
+                "lon": 16.5550344,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5550344,
+                  48.6952853
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4240391123",
+                "osm_type": "node",
+                "lat": 48.8031047,
+                "lon": 16.6324107,
+                "access": "customers",
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6324107,
+                  48.8031047
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4408712322",
+                "osm_type": "node",
+                "lat": 48.8061487,
+                "lon": 16.6335265,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6335265,
+                  48.8061487
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4408712338",
+                "osm_type": "node",
+                "lat": 48.8124168,
+                "lon": 16.6398062,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6398062,
+                  48.8124168
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5914583562",
+                "osm_type": "node",
+                "lat": 48.689341,
+                "lon": 16.672571,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.672571,
+                  48.689341
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7565939701",
+                "osm_type": "node",
+                "lat": 48.834775,
+                "lon": 16.6418518,
+                "amenity": "parking",
+                "parking": "surface",
+                "surface": "gravel"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6418518,
+                  48.834775
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10541842223",
+                "osm_type": "node",
+                "lat": 48.8097983,
+                "lon": 16.6562873,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6562873,
+                  48.8097983
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11067403082",
+                "osm_type": "node",
+                "lat": 48.8467459,
+                "lon": 16.5703604,
+                "amenity": "parking",
+                "parking": "surface",
+                "surface": "ground"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5703604,
+                  48.8467459
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.68652475,
+            "west": 16.68372825,
+            "north": 48.851801374999994,
+            "east": 17.16058
+          },
+          "poiCount": 24,
+          "leafCount": 24,
+          "averagePosition": [
+            16.888415075,
+            48.74986112083334
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "320969184",
+                "osm_type": "node",
+                "lat": 48.810558,
+                "lon": 16.8934095,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8934095,
+                  48.810558
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "664848688",
+                "osm_type": "node",
+                "lat": 48.7667026,
+                "lon": 16.8838349,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8838349,
+                  48.7667026
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1802122107",
+                "osm_type": "node",
+                "lat": 48.8462867,
+                "lon": 16.895425,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.895425,
+                  48.8462867
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1802122117",
+                "osm_type": "node",
+                "lat": 48.8490132,
+                "lon": 16.8922385,
+                "access": "yes",
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8922385,
+                  48.8490132
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1803987649",
+                "osm_type": "node",
+                "lat": 48.7179659,
+                "lon": 16.8367125,
+                "amenity": "parking",
+                "parking": "surface",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8367125,
+                  48.7179659
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2502005048",
+                "osm_type": "node",
+                "lat": 48.7754778,
+                "lon": 16.7960311,
+                "amenity": "parking",
+                "capacity": "5",
+                "parking": "surface",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7960311,
+                  48.7754778
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2743426122",
+                "osm_type": "node",
+                "lat": 48.7962554,
+                "lon": 16.9631042,
+                "amenity": "parking",
+                "parking": "street_side",
+                "source": "uhul:ortofoto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9631042,
+                  48.7962554
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3646860944",
+                "osm_type": "node",
+                "lat": 48.7429336,
+                "lon": 16.7585676,
+                "access": "customers",
+                "amenity": "parking",
+                "operator": "COOP",
+                "smoothness": "good",
+                "surface": "paved"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7585676,
+                  48.7429336
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3786239028",
+                "osm_type": "node",
+                "lat": 48.8094091,
+                "lon": 16.8932492,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8932492,
+                  48.8094091
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4349745718",
+                "osm_type": "node",
+                "lat": 48.7962283,
+                "lon": 16.9624781,
+                "amenity": "parking",
+                "source": "uhul:ortofoto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9624781,
+                  48.7962283
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4884950485",
+                "osm_type": "node",
+                "lat": 48.8377772,
+                "lon": 17.008326,
+                "addr:city": "Josefov",
+                "addr:street": "Hlavní",
+                "amenity": "parking",
+                "capacity": "4",
+                "fee": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.008326,
+                  48.8377772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5146124505",
+                "osm_type": "node",
+                "lat": 48.7980717,
+                "lon": 16.8081835,
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8081835,
+                  48.7980717
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6432890810",
+                "osm_type": "node",
+                "lat": 48.6935514,
+                "lon": 16.874145,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.874145,
+                  48.6935514
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6433665068",
+                "osm_type": "node",
+                "lat": 48.6899607,
+                "lon": 16.8743656,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8743656,
+                  48.6899607
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6433665069",
+                "osm_type": "node",
+                "lat": 48.6917128,
+                "lon": 16.8702055,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8702055,
+                  48.6917128
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6433665070",
+                "osm_type": "node",
+                "lat": 48.6917331,
+                "lon": 16.86913,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.86913,
+                  48.6917331
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6433665071",
+                "osm_type": "node",
+                "lat": 48.692375,
+                "lon": 16.8703341,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8703341,
+                  48.692375
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6446384864",
+                "osm_type": "node",
+                "lat": 48.6904118,
+                "lon": 16.8764137,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8764137,
+                  48.6904118
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6465452638",
+                "osm_type": "node",
+                "lat": 48.6894395,
+                "lon": 16.8734396,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8734396,
+                  48.6894395
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6465452639",
+                "osm_type": "node",
+                "lat": 48.689248,
+                "lon": 16.873314,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.873314,
+                  48.689248
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6465452640",
+                "osm_type": "node",
+                "lat": 48.6895539,
+                "lon": 16.8739016,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8739016,
+                  48.6895539
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6465452641",
+                "osm_type": "node",
+                "lat": 48.6897676,
+                "lon": 16.8734452,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8734452,
+                  48.6897676
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6465545094",
+                "osm_type": "node",
+                "lat": 48.6936329,
+                "lon": 16.8730153,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8730153,
+                  48.6936329
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2763837856",
+                "osm_type": "node",
+                "lat": 48.8486007,
+                "lon": 17.1286921,
+                "access:conditional": "yes @ (17:00-07:00)",
+                "amenity": "parking",
+                "capacity:disabled": "1",
+                "fee": "no",
+                "parking": "surface",
+                "supervised": "no",
+                "surface": "paving_stones"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1286921,
+                  48.8486007
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 16.2068765,
+            "north": 49.017078,
+            "east": 16.68372825
+          },
+          "poiCount": 15,
+          "leafCount": 15,
+          "averagePosition": [
+            16.52063907333333,
+            48.908532126666664
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6033949272",
+                "osm_type": "node",
+                "lat": 48.8724961,
+                "lon": 16.2252104,
+                "amenity": "parking",
+                "name": "Parking for restaurant guests"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2252104,
+                  48.8724961
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9901169371",
+                "osm_type": "node",
+                "lat": 48.8600271,
+                "lon": 16.6488867,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6488867,
+                  48.8600271
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10859832041",
+                "osm_type": "node",
+                "lat": 48.854886,
+                "lon": 16.6443781,
+                "amenity": "parking",
+                "fee": "yes",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6443781,
+                  48.854886
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "601757235",
+                "osm_type": "node",
+                "lat": 48.8748352,
+                "lon": 16.236207,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.236207,
+                  48.8748352
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7119722805",
+                "osm_type": "node",
+                "lat": 48.9837446,
+                "lon": 16.3731832,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "50",
+                "fee": "no",
+                "operator": "no",
+                "operator:type": "public",
+                "parking": "surface",
+                "stargazing-capable": "yes",
+                "surface": "concrete"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3731832,
+                  48.9837446
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7793680893",
+                "osm_type": "node",
+                "lat": 48.9337298,
+                "lon": 16.3623073,
+                "amenity": "parking",
+                "fee": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3623073,
+                  48.9337298
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7793680894",
+                "osm_type": "node",
+                "lat": 48.9339554,
+                "lon": 16.362652,
+                "amenity": "parking",
+                "park_ride": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.362652,
+                  48.9339554
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "259570368",
+                "osm_type": "node",
+                "lat": 48.8870776,
+                "lon": 16.6547703,
+                "amenity": "parking",
+                "created_by": "JOSM"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6547703,
+                  48.8870776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4861606095",
+                "osm_type": "node",
+                "lat": 49.005473,
+                "lon": 16.6712274,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6712274,
+                  49.005473
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5189090595",
+                "osm_type": "node",
+                "lat": 48.9027609,
+                "lon": 16.5430167,
+                "access": "yes",
+                "amenity": "parking",
+                "parking": "surface",
+                "source": "uhul:ortofoto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5430167,
+                  48.9027609
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5235332729",
+                "osm_type": "node",
+                "lat": 48.8739221,
+                "lon": 16.6680084,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6680084,
+                  48.8739221
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9197983146",
+                "osm_type": "node",
+                "lat": 49.0030547,
+                "lon": 16.613531,
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "1",
+                "fee": "no",
+                "opening_hours": "24/7",
+                "parking": "surface",
+                "surface": "cobblestone"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.613531,
+                  49.0030547
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11662393178",
+                "osm_type": "node",
+                "lat": 48.8764151,
+                "lon": 16.5371481,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5371481,
+                  48.8764151
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11780448174",
+                "osm_type": "node",
+                "lat": 48.889552,
+                "lon": 16.6436348,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6436348,
+                  48.889552
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11829084585",
+                "osm_type": "node",
+                "lat": 48.8760523,
+                "lon": 16.6254247,
+                "amenity": "parking",
+                "capacity": "5",
+                "capacity:women": "1",
+                "parking": "surface",
+                "surface": "paved"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6254247,
+                  48.8760523
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 48.851801374999994,
+            "west": 16.68372825,
+            "north": 49.017078,
+            "east": 17.16058
+          },
+          "poiCount": 16,
+          "leafCount": 16,
+          "averagePosition": [
+            16.91900793125,
+            48.938187925
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1822957768",
+                "osm_type": "node",
+                "lat": 48.8637772,
+                "lon": 16.7765899,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7765899,
+                  48.8637772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2020229464",
+                "osm_type": "node",
+                "lat": 48.869652,
+                "lon": 16.7512933,
+                "access": "customers",
+                "amenity": "parking",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7512933,
+                  48.869652
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10797371348",
+                "osm_type": "node",
+                "lat": 48.8533715,
+                "lon": 16.8210727,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8210727,
+                  48.8533715
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3450283214",
+                "osm_type": "node",
+                "lat": 48.8596718,
+                "lon": 17.139551,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.139551,
+                  48.8596718
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1320765311",
+                "osm_type": "node",
+                "lat": 48.9018774,
+                "lon": 16.8222548,
+                "access": "yes",
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8222548,
+                  48.9018774
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2377241524",
+                "osm_type": "node",
+                "lat": 48.9176706,
+                "lon": 16.8980367,
+                "amenity": "parking",
+                "source": "survey"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8980367,
+                  48.9176706
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5385389203",
+                "osm_type": "node",
+                "lat": 48.9738295,
+                "lon": 16.9778467,
+                "amenity": "parking",
+                "source": "uhul:ortofoto"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9778467,
+                  48.9738295
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6300897474",
+                "osm_type": "node",
+                "lat": 48.9045435,
+                "lon": 16.816471,
+                "access": "yes",
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.816471,
+                  48.9045435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6814284444",
+                "osm_type": "node",
+                "lat": 48.9504433,
+                "lon": 16.7063517,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7063517,
+                  48.9504433
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8191678118",
+                "osm_type": "node",
+                "lat": 48.9888642,
+                "lon": 16.7910699,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "6",
+                "capacity:disabled": "1",
+                "fee": "no",
+                "parking": "surface",
+                "supervised": "no",
+                "surface": "cobblestone"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7910699,
+                  48.9888642
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11896724406",
+                "osm_type": "node",
+                "lat": 49.00367,
+                "lon": 17.006729,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.006729,
+                  49.00367
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11962110669",
+                "osm_type": "node",
+                "lat": 48.9071947,
+                "lon": 16.9415412,
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "parking": "surface"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9415412,
+                  48.9071947
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "986832857",
+                "osm_type": "node",
+                "lat": 48.9780495,
+                "lon": 17.0908706,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0908706,
+                  48.9780495
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3991221932",
+                "osm_type": "node",
+                "lat": 49.0099427,
+                "lon": 17.0435772,
+                "amenity": "parking"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0435772,
+                  49.0099427
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3991221933",
+                "osm_type": "node",
+                "lat": 49.0114144,
+                "lon": 17.0407666,
+                "amenity": "parking",
+                "parking": "street_side"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0407666,
+                  49.0114144
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10705303067",
+                "osm_type": "node",
+                "lat": 49.0170345,
+                "lon": 17.0801046,
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "4",
+                "fee": "no",
+                "opening_hours": "24/7",
+                "parking": "surface",
+                "supervised": "no",
+                "surface": "paved"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0801046,
+                  49.0170345
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

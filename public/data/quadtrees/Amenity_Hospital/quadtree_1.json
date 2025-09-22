@@ -1,0 +1,80 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 11.438358999999998,
+    "north": 47.033758500000005,
+    "east": 13.345766
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    12.607939633333332,
+    46.537297599999995
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4782887301",
+        "osm_type": "node",
+        "lat": 46.4810344,
+        "lon": 12.4586947,
+        "addr:city": "Lorenzago di Cadore",
+        "addr:postcode": "32040",
+        "addr:street": "Via Costola",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Ambulatorio dott.sa Vizzini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4586947,
+          46.4810344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5228876725",
+        "osm_type": "node",
+        "lat": 46.4313582,
+        "lon": 12.3763845,
+        "addr:city": "Pieve di Cadore",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Pronto Soccorso Ospedale del Cadore \"Giovanni Paolo II\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3763845,
+          46.4313582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "702520462",
+        "osm_type": "node",
+        "lat": 46.6995002,
+        "lon": 12.9887397,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Landeskrankenhaus Laas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9887397,
+          46.6995002
+        ]
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,3579 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 13.345766,
+    "north": 47.033758500000005,
+    "east": 15.253173
+  },
+  "poiCount": 145,
+  "leafCount": 0,
+  "averagePosition": [
+    14.156038822758621,
+    46.65947843586207
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 13.345766,
+        "north": 46.70320525,
+        "east": 14.2994695
+      },
+      "poiCount": 65,
+      "leafCount": 0,
+      "averagePosition": [
+        13.942211901538462,
+        46.610539955384624
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 13.345766,
+            "north": 46.537928625000006,
+            "east": 13.82261775
+          },
+          "poiCount": 1,
+          "leafCount": 1,
+          "averagePosition": [
+            13.7835905,
+            46.4841466
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4938727440",
+                "osm_type": "node",
+                "lat": 46.4841466,
+                "lon": 13.7835905,
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "name": "Alebon",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.7835905,
+                  46.4841466
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 13.82261775,
+            "north": 46.537928625000006,
+            "east": 14.2994695
+          },
+          "poiCount": 3,
+          "leafCount": 3,
+          "averagePosition": [
+            14.106853166666667,
+            46.46868106666667
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "471786715",
+                "osm_type": "node",
+                "lat": 46.4363744,
+                "lon": 14.0554244,
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Benys food",
+                "outdoor_seating": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0554244,
+                  46.4363744
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5812702691",
+                "osm_type": "node",
+                "lat": 46.5327776,
+                "lon": 14.2128043,
+                "amenity": "fast_food",
+                "name": "Seeterrasse",
+                "opening_hours": "May-Sep: Mo-Su,PH 09:00-18:00+"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.2128043,
+                  46.5327776
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11194697753",
+                "osm_type": "node",
+                "lat": 46.4368912,
+                "lon": 14.0523308,
+                "amenity": "fast_food",
+                "cuisine": "kebab;turkish",
+                "name": "Karavanke"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.0523308,
+                  46.4368912
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 13.345766,
+            "north": 46.70320525,
+            "east": 13.82261775
+          },
+          "poiCount": 7,
+          "leafCount": 7,
+          "averagePosition": [
+            13.560250214285714,
+            46.64432268571428
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8808424771",
+                "osm_type": "node",
+                "lat": 46.6273557,
+                "lon": 13.3738078,
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "name": "Istanbul Kebap",
+                "outdoor_seating": "yes",
+                "takeaway": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.3738078,
+                  46.6273557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10816708843",
+                "osm_type": "node",
+                "lat": 46.6272908,
+                "lon": 13.3689746,
+                "addr:city": "Hermagor",
+                "addr:country": "AT",
+                "addr:housenumber": "15",
+                "addr:postcode": "9620",
+                "addr:street": "Hauptstraße",
+                "amenity": "fast_food",
+                "contact:facebook": "https://www.facebook.com/people/Meckis-KEBAB/100054384406867/",
+                "cuisine": "kebab;pizza",
+                "mobile": "+43 650 521 1934",
+                "name": "Meckis Imbiss",
+                "opening_hours": "Tu-Su 11:00-22:00",
+                "takeaway": "yes",
+                "website": "https://www.meckis-imbiss-hermagor.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.3689746,
+                  46.6272908
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12949582321",
+                "osm_type": "node",
+                "lat": 46.699695,
+                "lon": 13.4142797,
+                "amenity": "fast_food",
+                "cuisine": "burger;regional",
+                "indoor_seating": "no",
+                "name": "Alex Genuss Truck",
+                "opening_hours": "Mo-Th 11:00-17:00; Fr-Su 11:00-20:00",
+                "opening_hours:kitchen": "Mo-Th 11:00-17:00; Fr-Su 11:00-19:00",
+                "outdoor_seating": "yes",
+                "takeaway": "yes",
+                "toilets": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.4142797,
+                  46.699695
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5046600234",
+                "osm_type": "node",
+                "lat": 46.7024433,
+                "lon": 13.6627853,
+                "addr:city": "Feistritz An Der Drau",
+                "addr:housenumber": "1",
+                "addr:postcode": "9710",
+                "addr:street": "Villacher Straße",
+                "amenity": "fast_food",
+                "contact:facebook": "https://www.facebook.com/VINS.VEGAN/",
+                "contact:instagram": "vins_vegan",
+                "diet:vegan": "only",
+                "email": "hallo@vinsvegan.at",
+                "name": "Vins Vegan",
+                "opening_hours": "We-Sa 12:00-20:00",
+                "phone": "+43 650 5257117",
+                "takeaway": "yes",
+                "website": "https://www.vinsvegan.at/"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.6627853,
+                  46.7024433
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10076342437",
+                "osm_type": "node",
+                "lat": 46.5901948,
+                "lon": 13.6226963,
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "name": "Jausenstation"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.6226963,
+                  46.5901948
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11775562904",
+                "osm_type": "node",
+                "lat": 46.5611085,
+                "lon": 13.8159775,
+                "addr:city": "Fürnitz",
+                "addr:country": "AT",
+                "addr:housenumber": "10",
+                "addr:postcode": "9586",
+                "addr:street": "Rosentalstraße",
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "mobile": "+43 660 272 7733",
+                "name": "König Kebap 3",
+                "opening_hours": "Mo-Su 11:00-22:00",
+                "takeaway": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.8159775,
+                  46.5611085
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13036886241",
+                "osm_type": "node",
+                "lat": 46.7021707,
+                "lon": 13.6632303,
+                "addr:city": "Feistritz An Der Drau",
+                "addr:housenumber": "31",
+                "addr:postcode": "9710",
+                "addr:street": "Bahnhofstraße (Feistritz/Drau)",
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "drive_through": "no",
+                "name": "Onkel Kebab",
+                "phone": "+43699 17142262"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  13.6632303,
+                  46.7021707
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 13.82261775,
+            "north": 46.70320525,
+            "east": 14.2994695
+          },
+          "poiCount": 54,
+          "leafCount": 0,
+          "averagePosition": [
+            13.98551615,
+            46.61638237962964
+          ],
+          "data": [],
+          "children": [
+            {
+              "bbox": {
+                "south": 46.537928625000006,
+                "west": 13.82261775,
+                "north": 46.6205669375,
+                "east": 14.061043625
+              },
+              "poiCount": 31,
+              "leafCount": 31,
+              "averagePosition": [
+                13.865119558064517,
+                46.60799246129032
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "77811550",
+                    "osm_type": "node",
+                    "lat": 46.6146857,
+                    "lon": 13.8470588,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "8",
+                    "addr:postcode": "9500",
+                    "addr:street": "Hauptplatz",
+                    "alt_name": "Kentucky Fried Chicken",
+                    "amenity": "fast_food",
+                    "brand": "KFC",
+                    "brand:wikidata": "Q524757",
+                    "check_date": "2025-07-24",
+                    "cuisine": "chicken",
+                    "name": "KFC",
+                    "opening_hours": "11:00-21:00",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+436763026160",
+                    "takeaway": "yes",
+                    "website": "https://www.kfc.co.at/",
+                    "wheelchair": "limited"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8470588,
+                      46.6146857
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "417009048",
+                    "osm_type": "node",
+                    "lat": 46.6176366,
+                    "lon": 13.8485879,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "5",
+                    "addr:postcode": "9500",
+                    "addr:street": "Bahnhofplatz",
+                    "amenity": "fast_food",
+                    "check_date": "2023-09-26",
+                    "cuisine": "turkish;kebab",
+                    "indoor_seating": "yes",
+                    "level": "0",
+                    "name": "City Pizza Kebap",
+                    "outdoor_seating": "yes",
+                    "phone": "069919345607",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8485879,
+                      46.6176366
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "579812118",
+                    "osm_type": "node",
+                    "lat": 46.6119425,
+                    "lon": 13.8442115,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "3",
+                    "addr:postcode": "9500",
+                    "addr:street": "Italiener Straße",
+                    "amenity": "fast_food",
+                    "name": "König Kebap"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8442115,
+                      46.6119425
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1237062186",
+                    "osm_type": "node",
+                    "lat": 46.6131985,
+                    "lon": 13.8461878,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "31",
+                    "addr:postcode": "9500",
+                    "addr:street": "Hauptplatz",
+                    "amenity": "fast_food",
+                    "check_date": "2025-04-16",
+                    "check_date:opening_hours": "2025-04-16",
+                    "name": "Hanschur",
+                    "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-13:00",
+                    "phone": "+43 4242 24698",
+                    "snack": "yes",
+                    "website": "https://www.hanschur.at/",
+                    "wheelchair": "limited"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8461878,
+                      46.6131985
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1237073926",
+                    "osm_type": "node",
+                    "lat": 46.6138336,
+                    "lon": 13.8466855,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "19",
+                    "addr:postcode": "9500",
+                    "addr:street": "Hauptplatz",
+                    "amenity": "fast_food",
+                    "diet:vegetarian": "yes",
+                    "indoor_seating": "yes",
+                    "name": "Chickis",
+                    "opening_hours": "Mo-Su 09:00-21:00",
+                    "outdoor_seating": "yes",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8466855,
+                      46.6138336
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1280023337",
+                    "osm_type": "node",
+                    "lat": 46.6036143,
+                    "lon": 13.8634657,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "33",
+                    "addr:postcode": "9500",
+                    "addr:street": "Bruno-Kreisky-Straße",
+                    "amenity": "fast_food",
+                    "name": "Döneria",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8634657,
+                      46.6036143
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1312148132",
+                    "osm_type": "node",
+                    "lat": 46.6181333,
+                    "lon": 13.8677892,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "15",
+                    "addr:postcode": "9500",
+                    "addr:street": "Reitschulgasse",
+                    "amenity": "fast_food",
+                    "at_bev:addr_date": "2017-04-07",
+                    "name": "Industriestraße"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8677892,
+                      46.6181333
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4037020566",
+                    "osm_type": "node",
+                    "lat": 46.6166862,
+                    "lon": 13.8494087,
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "name": "Alem Kebab"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8494087,
+                      46.6166862
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4309631429",
+                    "osm_type": "node",
+                    "lat": 46.6102246,
+                    "lon": 13.8436698,
+                    "addr:city": "Villach",
+                    "addr:postcode": "9500",
+                    "addr:street": "Italiener Straße",
+                    "amenity": "fast_food",
+                    "name": "Onkel Kebap"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8436698,
+                      46.6102246
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4309673906",
+                    "osm_type": "node",
+                    "lat": 46.6147142,
+                    "lon": 13.8481066,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "9",
+                    "addr:postcode": "9500",
+                    "addr:street": "Gerbergasse",
+                    "amenity": "fast_food"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8481066,
+                      46.6147142
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4355934645",
+                    "osm_type": "node",
+                    "lat": 46.5841827,
+                    "lon": 13.9193029,
+                    "amenity": "fast_food",
+                    "name": "Panorama Beach Faaker See",
+                    "opening_hours": "Mo-Su,PH 09:00-20:00",
+                    "outdoor_seating": "yes",
+                    "toilets:wheelchair": "yes",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.9193029,
+                      46.5841827
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4395969416",
+                    "osm_type": "node",
+                    "lat": 46.6137681,
+                    "lon": 13.8432415,
+                    "amenity": "fast_food",
+                    "name": "Hartl's Imbiss",
+                    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8432415,
+                      46.6137681
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4633167090",
+                    "osm_type": "node",
+                    "lat": 46.6155006,
+                    "lon": 13.8499928,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "5",
+                    "addr:postcode": "9500",
+                    "addr:street": "Nikolaigasse",
+                    "amenity": "fast_food",
+                    "cuisine": "turkish",
+                    "name": "Hunger Haus",
+                    "opening_hours": "Mo-Tu 10:00-00:00; Fr-Sa 10:00-04:00",
+                    "takeaway": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8499928,
+                      46.6155006
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4975662121",
+                    "osm_type": "node",
+                    "lat": 46.6173815,
+                    "lon": 13.848963,
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "indoor_seating": "yes",
+                    "name": "Star Kebap",
+                    "outdoor_seating": "no",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.848963,
+                      46.6173815
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5109759889",
+                    "osm_type": "node",
+                    "lat": 46.6133375,
+                    "lon": 13.8579122,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "54",
+                    "addr:postcode": "9500",
+                    "addr:street": "Ossiacher Zeile",
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "name": "Ossi Kebap",
+                    "phone": "+436604499360",
+                    "website": "https://ossi-kebap-villach.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8579122,
+                      46.6133375
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5171794340",
+                    "osm_type": "node",
+                    "lat": 46.6122328,
+                    "lon": 13.8432869,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "3",
+                    "addr:postcode": "9500",
+                    "addr:street": "Hans-Gasser-Platz",
+                    "amenity": "fast_food",
+                    "cuisine": "hot_dog",
+                    "name": "The Daft Dog",
+                    "phone": "+436767357799",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8432869,
+                      46.6122328
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5297870163",
+                    "osm_type": "node",
+                    "lat": 46.612903,
+                    "lon": 13.8410927,
+                    "addr:city": "Villach",
+                    "addr:postcode": "9500",
+                    "amenity": "fast_food",
+                    "cuisine": "pizza;kebab",
+                    "name": "Pizza Kebab Arin"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8410927,
+                      46.612903
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5499226122",
+                    "osm_type": "node",
+                    "lat": 46.610134,
+                    "lon": 13.843634,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "19",
+                    "addr:postcode": "9500",
+                    "addr:street": "Italiener Straße",
+                    "amenity": "fast_food",
+                    "cuisine": "burger",
+                    "name": "Fifty Fifty Burger Bar",
+                    "opening_hours": "Mo-We 16:30-22:00; Th-Sa 12:00-22:00; Su, PH off",
+                    "phone": "+43 677 64889340",
+                    "website": "https://www.fiftyfiftyvillach.at"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.843634,
+                      46.610134
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "6427882986",
+                    "osm_type": "node",
+                    "lat": 46.6051203,
+                    "lon": 13.861616,
+                    "amenity": "fast_food",
+                    "brand": "Subway",
+                    "brand:wikidata": "Q244457",
+                    "brand:wikipedia": "en:Subway (restaurant)",
+                    "cuisine": "sandwich",
+                    "name": "Subway",
+                    "opening_hours": "Mo-Su 08:30-24:00",
+                    "phone": "+43 660 7823108",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.861616,
+                      46.6051203
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8127088106",
+                    "osm_type": "node",
+                    "lat": 46.6117196,
+                    "lon": 13.8539233,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "27",
+                    "addr:postcode": "9500",
+                    "addr:street": "Trattengasse",
+                    "amenity": "fast_food",
+                    "check_date": "2024-08-14",
+                    "cuisine": "kebab",
+                    "diet:halal": "yes",
+                    "indoor_seating": "yes",
+                    "name": "BRRA",
+                    "outdoor_seating": "terrace",
+                    "phone": "+43 664 1374611",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8539233,
+                      46.6117196
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "8631973878",
+                    "osm_type": "node",
+                    "lat": 46.5956794,
+                    "lon": 13.8368914,
+                    "addr:city": "Villach",
+                    "addr:country": "AT",
+                    "addr:housenumber": "34",
+                    "addr:postcode": "9500",
+                    "addr:street": "Kärntner Straße",
+                    "alt_name": "Dunkin' Donuts",
+                    "amenity": "fast_food",
+                    "brand": "Dunkin'",
+                    "brand:wikidata": "Q847743",
+                    "brand:wikipedia": "en:Dunkin' Donuts",
+                    "check_date": "2019-10-06",
+                    "cuisine": "donut;coffee_shop",
+                    "diet:vegetarian": "yes",
+                    "name": "Dunkin'",
+                    "old_name": "Hut & Mode",
+                    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH closed",
+                    "payment:apple_pay": "yes",
+                    "source": "survey",
+                    "start_date": "2021-04",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8368914,
+                      46.5956794
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9216597794",
+                    "osm_type": "node",
+                    "lat": 46.5968234,
+                    "lon": 13.8490567,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "22",
+                    "addr:postcode": "9500",
+                    "addr:street": "Handwerkstraße",
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "name": "Kebab House Villach",
+                    "opening_hours": "Mo-Sa 10:00-21:00",
+                    "phone": "+4369917146556",
+                    "website": "http://www.kebabhouse.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8490567,
+                      46.5968234
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9910430365",
+                    "osm_type": "node",
+                    "lat": 46.6028647,
+                    "lon": 13.8680631,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "37",
+                    "addr:postcode": "9500",
+                    "addr:street": "Bruno-Kreisky Straße",
+                    "amenity": "fast_food",
+                    "cuisine": "german",
+                    "name": "KAXi's Imbiss - Bamberger Rostbratwörschd",
+                    "phone": "+4367763676213"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8680631,
+                      46.6028647
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9922508762",
+                    "osm_type": "node",
+                    "lat": 46.5956331,
+                    "lon": 13.8361472,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "34",
+                    "addr:postcode": "9500",
+                    "addr:street": "Kärntner Straße",
+                    "amenity": "fast_food",
+                    "cuisine": "juice",
+                    "email": "info@pepjuicebar.com",
+                    "name": "pep juice bar",
+                    "phone": "+43 664 34 10 831"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8361472,
+                      46.5956331
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9922508775",
+                    "osm_type": "node",
+                    "lat": 46.5961755,
+                    "lon": 13.8363583,
+                    "amenity": "fast_food",
+                    "indoor_seating": "yes",
+                    "name": "Franz Streetfood",
+                    "outdoor_seating": "no",
+                    "phone": "+43 4242 33565"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8363583,
+                      46.5961755
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10766785077",
+                    "osm_type": "node",
+                    "lat": 46.6145085,
+                    "lon": 13.8468551,
+                    "addr:city": "Villach",
+                    "addr:housenumber": "12",
+                    "addr:postcode": "9500",
+                    "addr:street": "Hauptplatz",
+                    "amenity": "fast_food",
+                    "cuisine": "burger",
+                    "email": "villach@leburger.at",
+                    "name": "Le Burger",
+                    "opening_hours": "Mo-Su 11:00-22:00",
+                    "opening_hours:kitchen": "Mo-Su 11:00-21:00",
+                    "phone": "+43 4242 30833",
+                    "website": "https://www.leburger.at/standorte/villach"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8468551,
+                      46.6145085
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10857956089",
+                    "osm_type": "node",
+                    "lat": 46.569823,
+                    "lon": 13.9067655,
+                    "amenity": "fast_food",
+                    "check_date": "2023-04-30",
+                    "payment:cards": "no",
+                    "payment:credit_cards": "no",
+                    "payment:debit_cards": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.9067655,
+                      46.569823
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11239888133",
+                    "osm_type": "node",
+                    "lat": 46.6151233,
+                    "lon": 13.8472931,
+                    "amenity": "fast_food",
+                    "name": "Royal Foods"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8472931,
+                      46.6151233
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "12881158974",
+                    "osm_type": "node",
+                    "lat": 46.6013456,
+                    "lon": 13.8381345,
+                    "amenity": "fast_food"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8381345,
+                      46.6013456
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5354229381",
+                    "osm_type": "node",
+                    "lat": 46.614538,
+                    "lon": 14.0423028,
+                    "addr:city": "Velden am Wörther See",
+                    "addr:housenumber": "2",
+                    "addr:postcode": "9220",
+                    "addr:street": "Koschatpromenade",
+                    "amenity": "fast_food",
+                    "name": "Rocket Bistro",
+                    "website": "https://www.rocket-rooms.at/de/restaurant.html"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.0423028,
+                      46.614538
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5354229392",
+                    "osm_type": "node",
+                    "lat": 46.6143022,
+                    "lon": 14.0427018,
+                    "addr:city": "Velden am Wörther See",
+                    "addr:housenumber": "25",
+                    "addr:postcode": "9220",
+                    "addr:street": "Am Corso",
+                    "amenity": "fast_food",
+                    "email": "info@boerserl.net",
+                    "fax": "+43 4274 24 35 15",
+                    "name": "Börserl Bistro-Café",
+                    "opening_hours": "8:00-2:00",
+                    "outdoor_seating": "yes",
+                    "phone": "+43 (0) 4274 50 635",
+                    "website": "http://www.boerserl.net/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.0427018,
+                      46.6143022
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 46.537928625000006,
+                "west": 14.061043625,
+                "north": 46.6205669375,
+                "east": 14.2994695
+              },
+              "poiCount": 11,
+              "leafCount": 11,
+              "averagePosition": [
+                14.25244301818182,
+                46.60280087272727
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "444601246",
+                    "osm_type": "node",
+                    "lat": 46.6179861,
+                    "lon": 14.2679324,
+                    "addr:city": "Klagenfurt am Wörthersee",
+                    "addr:country": "AT",
+                    "amenity": "fast_food",
+                    "check_date": "2025-08-06",
+                    "cuisine": "kebab;turkish",
+                    "diet:vegetarian": "yes",
+                    "drive_through": "no",
+                    "name": "UNI KEBAP",
+                    "opening_hours": "Mo-Sa 10:00-22:00; Su; PH 12:00-22:00",
+                    "outdoor_seating": "yes",
+                    "payment:cards": "no",
+                    "payment:cash": "yes",
+                    "payment:credit_cards": "no",
+                    "payment:debit_cards": "no",
+                    "source": "local knowledge",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2679324,
+                      46.6179861
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1013703300",
+                    "osm_type": "node",
+                    "lat": 46.5941434,
+                    "lon": 14.2696659,
+                    "addr:city": "Klagenfurt am Wörthersee",
+                    "addr:country": "AT",
+                    "addr:housenumber": "13",
+                    "addr:postcode": "9073",
+                    "addr:street": "Viktringer Platz",
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "diet:vegetarian": "no",
+                    "name": "Kebap Kitchen",
+                    "opening_hours": "Mo-Su,PH 11:00-20:30",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2696659,
+                      46.5941434
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1243805883",
+                    "osm_type": "node",
+                    "lat": 46.6164691,
+                    "lon": 14.2563411,
+                    "amenity": "fast_food",
+                    "check_date": "2025-02-05",
+                    "name": "Tramway"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2563411,
+                      46.6164691
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1414761849",
+                    "osm_type": "node",
+                    "lat": 46.544476,
+                    "lon": 14.2862816,
+                    "amenity": "fast_food",
+                    "name": "Strandbuffet Plasch",
+                    "opening_hours": "Jul-Sep",
+                    "operator": "Michael Plasch"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2862816,
+                      46.544476
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1432759200",
+                    "osm_type": "node",
+                    "lat": 46.608441,
+                    "lon": 14.2918341,
+                    "addr:city": "Klagenfurt am Wörthersee",
+                    "addr:country": "AT",
+                    "addr:housenumber": "133",
+                    "addr:postcode": "9020",
+                    "addr:street": "Waidmannsdorfer Straße",
+                    "amenity": "fast_food",
+                    "name": "Schnitzelwelt",
+                    "opening_hours": "10:00-22:00",
+                    "phone": "+43 463 219 170",
+                    "website": "https://www.schnitzelwelt.at/",
+                    "wheelchair": "limited"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2918341,
+                      46.608441
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3429154998",
+                    "osm_type": "node",
+                    "lat": 46.599209,
+                    "lon": 14.242961,
+                    "amenity": "fast_food",
+                    "fast_food:type": "Jausenstation",
+                    "name": "Schrottbauer"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.242961,
+                      46.599209
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "4350090910",
+                    "osm_type": "node",
+                    "lat": 46.5868394,
+                    "lon": 14.2206575,
+                    "amenity": "fast_food",
+                    "name": "Radlertreff",
+                    "source": "survey"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2206575,
+                      46.5868394
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10082250166",
+                    "osm_type": "node",
+                    "lat": 46.6119493,
+                    "lon": 14.2828392,
+                    "addr:housenumber": "69",
+                    "addr:street": "Siebenhügelstraße",
+                    "amenity": "fast_food",
+                    "check_date": "2022-10-07",
+                    "cuisine": "kebab",
+                    "name": "Orient Kebap",
+                    "wheelchair": "no"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2828392,
+                      46.6119493
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "10082250179",
+                    "osm_type": "node",
+                    "lat": 46.6131265,
+                    "lon": 14.2887537,
+                    "addr:housenumber": "25",
+                    "addr:street": "Siebenhügelstraße",
+                    "amenity": "fast_food",
+                    "check_date": "2023-04-10",
+                    "cuisine": "burger",
+                    "level": "0",
+                    "name": "Jack's Burger",
+                    "phone": "0676 7043073"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2887537,
+                      46.6131265
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "11244235900",
+                    "osm_type": "node",
+                    "lat": 46.6201954,
+                    "lon": 14.2653596,
+                    "amenity": "fast_food",
+                    "check_date": "2023-10-06",
+                    "cuisine": "burger;hot_dog;ice_cream",
+                    "name": "Magic Imbiss"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2653596,
+                      46.6201954
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "12025780590",
+                    "osm_type": "node",
+                    "lat": 46.6179744,
+                    "lon": 14.1042471,
+                    "amenity": "fast_food",
+                    "cuisine": "pizza",
+                    "name": "Pizza Rotolino",
+                    "opening_hours": "Sa 17:00-19:30"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.1042471,
+                      46.6179744
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 46.6205669375,
+                "west": 13.82261775,
+                "north": 46.70320525,
+                "east": 14.061043625
+              },
+              "poiCount": 6,
+              "leafCount": 6,
+              "averagePosition": [
+                13.902567966666666,
+                46.65765183333334
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "894367059",
+                    "osm_type": "node",
+                    "lat": 46.6819411,
+                    "lon": 13.971665,
+                    "amenity": "fast_food",
+                    "name": "Fastfood Bodensdorf"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.971665,
+                      46.6819411
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1280260746",
+                    "osm_type": "node",
+                    "lat": 46.6678812,
+                    "lon": 13.855001,
+                    "amenity": "fast_food",
+                    "cuisine": "kebab;pizza",
+                    "name": "House Treffen Street Food",
+                    "opening_hours": "Tu-Fr 10:00-20:00; Sa-Su 11:00-20:00",
+                    "operator": "Mustafa Öztürk",
+                    "phone": "+43 664 88 96 92 11",
+                    "website": "https://house-treffen.at/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.855001,
+                      46.6678812
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "2022860459",
+                    "osm_type": "node",
+                    "lat": 46.6439326,
+                    "lon": 13.8994626,
+                    "amenity": "fast_food",
+                    "operator": "Affenberg Landskron",
+                    "outdoor_seating": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8994626,
+                      46.6439326
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "3180437261",
+                    "osm_type": "node",
+                    "lat": 46.6297379,
+                    "lon": 13.8251936,
+                    "amenity": "fast_food",
+                    "name": "Hendlkönig",
+                    "operator": "Stefan Wochnitz GmbH",
+                    "phone": "+43 664 3575403",
+                    "website": "https://www.hendlkoenig.at/",
+                    "wheelchair": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8251936,
+                      46.6297379
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "7791770741",
+                    "osm_type": "node",
+                    "lat": 46.6425071,
+                    "lon": 13.8963608,
+                    "amenity": "fast_food"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.8963608,
+                      46.6425071
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "9911737099",
+                    "osm_type": "node",
+                    "lat": 46.6799111,
+                    "lon": 13.9677248,
+                    "amenity": "fast_food",
+                    "name": "Der Treffpunkt",
+                    "opening_hours": "We-Fr 16:00-20:00; Sa-Mo 12:00-20:00",
+                    "outdoor_seating": "yes",
+                    "website": "https://treffpunkt.nullroutes.nl/"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      13.9677248,
+                      46.6799111
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            },
+            {
+              "bbox": {
+                "south": 46.6205669375,
+                "west": 14.061043625,
+                "north": 46.70320525,
+                "east": 14.2994695
+              },
+              "poiCount": 6,
+              "leafCount": 6,
+              "averagePosition": [
+                14.201147466666667,
+                46.64336026666667
+              ],
+              "data": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "20824969",
+                    "osm_type": "node",
+                    "lat": 46.6297596,
+                    "lon": 14.0955857,
+                    "addr:city": "Raststation Wörthersee A2",
+                    "amenity": "fast_food",
+                    "brand": "Burger King",
+                    "brand:wikidata": "Q177054",
+                    "brand:wikipedia": "en:Burger King",
+                    "cuisine": "burger",
+                    "name": "Burger King",
+                    "name:pl": "Burger King",
+                    "operator": "Burger King",
+                    "takeaway": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.0955857,
+                      46.6297596
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1388322578",
+                    "osm_type": "node",
+                    "lat": 46.626187,
+                    "lon": 14.2139055,
+                    "amenity": "fast_food"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2139055,
+                      46.626187
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "1388322583",
+                    "osm_type": "node",
+                    "lat": 46.6268736,
+                    "lon": 14.2104596,
+                    "amenity": "fast_food",
+                    "name": "Koschu",
+                    "opening_hours": "Mo-Tu, Th-Fr 06:30-18:30; We 06:30-12:00; Sa 07:00-13:00",
+                    "shop": "butcher"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2104596,
+                      46.6268736
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "5716147914",
+                    "osm_type": "node",
+                    "lat": 46.6360483,
+                    "lon": 14.141363,
+                    "addr:city": "Pörtschach am Wörther See",
+                    "addr:country": "AT",
+                    "addr:housenumber": "199",
+                    "addr:postcode": "9210",
+                    "addr:street": "Hauptstraße",
+                    "amenity": "fast_food",
+                    "cuisine": "kebab",
+                    "name": "Seaside Döner",
+                    "organic": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.141363,
+                      46.6360483
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "12196479025",
+                    "osm_type": "node",
+                    "lat": 46.7027613,
+                    "lon": 14.2513168,
+                    "amenity": "fast_food",
+                    "description": "nur bei Badewetter geöffnet"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2513168,
+                      46.7027613
+                    ]
+                  }
+                },
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "id": "12919252602",
+                    "osm_type": "node",
+                    "lat": 46.6385318,
+                    "lon": 14.2942542,
+                    "amenity": "fast_food",
+                    "brand": "McDonald's",
+                    "brand:wikidata": "Q38076",
+                    "check_date": "2025-06-16",
+                    "cuisine": "burger",
+                    "name": "McDonald's",
+                    "takeaway": "yes"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      14.2942542,
+                      46.6385318
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 14.2994695,
+        "north": 46.70320525,
+        "east": 15.253173
+      },
+      "poiCount": 50,
+      "leafCount": 50,
+      "averagePosition": [
+        14.476883608000001,
+        46.61038091
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1086298267",
+            "osm_type": "node",
+            "lat": 46.6825114,
+            "lon": 14.6764824,
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "drive_through": "yes",
+            "int_name": "McDonalds",
+            "name": "McDonald's",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.at/restaurant/igp-19-sued-a-9100-voelkermarkt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6764824,
+              46.6825114
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3057642800",
+            "osm_type": "node",
+            "lat": 46.6663065,
+            "lon": 15.0054456,
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Bikertreff Kärntnerblick"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0054456,
+              46.6663065
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3129239645",
+            "osm_type": "node",
+            "lat": 46.5904277,
+            "lon": 14.6404705,
+            "amenity": "fast_food",
+            "name": "Kebabhaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.6404705,
+              46.5904277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9947938819",
+            "osm_type": "node",
+            "lat": 46.6072995,
+            "lon": 14.5741804,
+            "amenity": "fast_food",
+            "check_date": "2022-08-11",
+            "cuisine": "kebab",
+            "name": "Derin Imbiss"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.5741804,
+              46.6072995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11191071021",
+            "osm_type": "node",
+            "lat": 46.5876335,
+            "lon": 14.7957281,
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "cuisine": "kebab;pizza;burger",
+            "delivery": "yes",
+            "indoor_seating": "yes",
+            "name": "Pizza & Kebap Haus Bleiburg",
+            "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-22:00",
+            "outdoor_seating": "yes",
+            "phone": "+43 664 99483190"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7957281,
+              46.5876335
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11656069048",
+            "osm_type": "node",
+            "lat": 46.6415136,
+            "lon": 14.9421139,
+            "amenity": "fast_food",
+            "cuisine": "pizza;kebab"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9421139,
+              46.6415136
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12056791364",
+            "osm_type": "node",
+            "lat": 46.5210498,
+            "lon": 14.8528819,
+            "amenity": "fast_food",
+            "check_date": "2024-07-17",
+            "cuisine": "burger;pizza",
+            "description": "Fast food",
+            "image": "https://i.imgur.com/7HpMMm9.jpg",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8528819,
+              46.5210498
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12063512218",
+            "osm_type": "node",
+            "lat": 46.5451286,
+            "lon": 14.9629417,
+            "amenity": "fast_food",
+            "name": "Super Grill"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.9629417,
+              46.5451286
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "307529644",
+            "osm_type": "node",
+            "lat": 46.5029365,
+            "lon": 15.2115377,
+            "amenity": "fast_food",
+            "name": "Okrepčevalnica Zajc"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2115377,
+              46.5029365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "313383912",
+            "osm_type": "node",
+            "lat": 46.5077375,
+            "lon": 15.1950492,
+            "amenity": "fast_food",
+            "name": "Zajc"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1950492,
+              46.5077375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1499382383",
+            "osm_type": "node",
+            "lat": 46.599258,
+            "lon": 15.1488176,
+            "amenity": "fast_food",
+            "name": "Lovec"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.1488176,
+              46.599258
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7065732977",
+            "osm_type": "node",
+            "lat": 46.5029485,
+            "lon": 15.0859173,
+            "addr:city": "Slovenj Gradec",
+            "addr:postcode": "2380",
+            "addr:street": "Celjska cesta",
+            "amenity": "fast_food",
+            "delivery": "yes",
+            "name": "Okrepčevalnica Katica Gala Kebap Zeqir Mavriqi s.p.",
+            "phone": "+386 41 309 040",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0859173,
+              46.5029485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10778232059",
+            "osm_type": "node",
+            "lat": 46.532299,
+            "lon": 15.0952665,
+            "amenity": "fast_food",
+            "cuisine": "cake",
+            "name": "Cupcakes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.0952665,
+              46.532299
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "269592444",
+            "osm_type": "node",
+            "lat": 46.6294937,
+            "lon": 14.3548,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "268",
+            "addr:postcode": "9020",
+            "addr:street": "Völkermarkter Straße",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "name": "McDonald's",
+            "outdoor_seating": "yes",
+            "smoking": "no",
+            "takeaway": "yes",
+            "wheelchair": "limited"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3548,
+              46.6294937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "528106796",
+            "osm_type": "node",
+            "lat": 46.6244428,
+            "lon": 14.3073469,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:postcode": "9020",
+            "addr:street": "Kramergasse",
+            "amenity": "fast_food",
+            "brand": "Nordsee",
+            "brand:wikidata": "Q74866",
+            "brand:wikipedia": "de:Nordsee (Restaurantkette)",
+            "check_date": "2025-07-13",
+            "cuisine": "seafood",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Nordsee",
+            "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH off",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "takeaway": "yes",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited",
+            "wheelchair:access": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3073469,
+              46.6244428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "528115433",
+            "osm_type": "node",
+            "lat": 46.6263163,
+            "lon": 14.3087852,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2022-11-05",
+            "cuisine": "burger;dessert",
+            "delivery": "yes",
+            "drive_through": "no",
+            "email": "at-store0200@restaurant.at.mcd.com",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "level": "0",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Th 07:00-23:00; Fr 07:00-24:00; Sa 07:00-24:00; PH,Su 09:00-23:00",
+            "outdoor_seating": "yes",
+            "phone": "0676 898388803",
+            "smoking": "no",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3087852,
+              46.6263163
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "528115442",
+            "osm_type": "node",
+            "lat": 46.6230334,
+            "lon": 14.3123523,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "40",
+            "addr:street": "8.-Mai-Straße",
+            "amenity": "fast_food",
+            "name": "Kebap Angora",
+            "opening_hours": "Mo-Fr 10:45-14:00,17:00-24:00; Su 16:00-24:00; Sa off",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3123523,
+              46.6230334
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "528170297",
+            "osm_type": "node",
+            "lat": 46.6235712,
+            "lon": 14.3114757,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Istanbul 1",
+            "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 11:00-22:00; Su 11:00-21:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3114757,
+              46.6235712
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "528218887",
+            "osm_type": "node",
+            "lat": 46.6238016,
+            "lon": 14.3045826,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "8",
+            "addr:street": "Stauderplatz",
+            "amenity": "fast_food",
+            "check_date:opening_hours": "2024-07-24",
+            "cuisine": "turkish",
+            "name": "Kebap Sonne",
+            "opening_hours": "Mo-Su 10:00-20:00",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3045826,
+              46.6238016
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "764934438",
+            "osm_type": "node",
+            "lat": 46.6248868,
+            "lon": 14.3050903,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "1",
+            "addr:street": "Ursulinengasse",
+            "amenity": "fast_food",
+            "check_date:opening_hours": "2024-02-16",
+            "cuisine": "kebab",
+            "indoor_seating": "yes",
+            "name": "Zado City Doener",
+            "opening_hours:signed": "no",
+            "outdoor_seating": "no",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3050903,
+              46.6248868
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "764934442",
+            "osm_type": "node",
+            "lat": 46.6237893,
+            "lon": 14.3036948,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:street": "Villacher Straße",
+            "amenity": "fast_food",
+            "check_date": "2024-07-25",
+            "check_date:opening_hours": "2024-07-25",
+            "cuisine": "kebab",
+            "level": "0",
+            "name": "Best of Kebab",
+            "opening_hours": "Mo 08:00-17:30; Tu-Sa 08:00-22:00; Su off",
+            "payment:debit_cards": "yes",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3036948,
+              46.6237893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "764934476",
+            "osm_type": "node",
+            "lat": 46.6238219,
+            "lon": 14.3039489,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "3",
+            "addr:street": "Stauderplatz",
+            "amenity": "fast_food",
+            "check_date": "2025-04-25",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "level": "0",
+            "name": "JACK'S Burger",
+            "opening_hours": "Mo-Th 11:00-23:00, Fr 11:00-06:30, Sa 11:00-06:30, Su 11:00-22:00",
+            "phone": "0676 7029522"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3039489,
+              46.6238219
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "797098626",
+            "osm_type": "node",
+            "lat": 46.6244665,
+            "lon": 14.307044,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "9020",
+            "addr:street": "Neuer Platz",
+            "amenity": "fast_food",
+            "brand": "Nordsee",
+            "brand:wikidata": "Q74866",
+            "brand:wikipedia": "de:Nordsee (Restaurantkette)",
+            "check_date": "2023-11-01",
+            "cuisine": "seafood",
+            "name": "Nordsee",
+            "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su off",
+            "operator": "Nordsee GmbH",
+            "phone": "+43 463 511483",
+            "ref:vatin": "ATU36787205",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.307044,
+              46.6244665
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "871701146",
+            "osm_type": "node",
+            "lat": 46.6259753,
+            "lon": 14.3438363,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:housenumber": "156",
+            "addr:postcode": "9020",
+            "addr:street": "Völkermarkter Straße",
+            "amenity": "fast_food",
+            "name": "Schnitzelwelt",
+            "opening_hours": "10:00-22:00",
+            "phone": "+43 463 410 971",
+            "website": "https://www.schnitzelwelt.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3438363,
+              46.6259753
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1387768974",
+            "osm_type": "node",
+            "lat": 46.624742,
+            "lon": 14.3098591,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Kebap King"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3098591,
+              46.624742
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1402325056",
+            "osm_type": "node",
+            "lat": 46.6396598,
+            "lon": 14.3695875,
+            "amenity": "fast_food",
+            "brand": "IKEA",
+            "brand:wikidata": "Q54078",
+            "brand:wikipedia": "en:IKEA",
+            "check_date": "2022-12-16",
+            "cuisine": "swedish",
+            "level": "1",
+            "name": "IKEA Restaurant",
+            "name:ru": "Ресторан ИКЕА",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:30",
+            "smoking": "no",
+            "source": "survey",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3695875,
+              46.6396598
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1417308403",
+            "osm_type": "node",
+            "lat": 46.6191558,
+            "lon": 14.3117466,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "38",
+            "addr:street": "Bahnhofstraße",
+            "amenity": "fast_food",
+            "name": "Abou HasaB Alla Essam Awad Abd",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3117466,
+              46.6191558
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3122261554",
+            "osm_type": "node",
+            "lat": 46.6421408,
+            "lon": 14.3150401,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "156",
+            "addr:postcode": "9020",
+            "addr:street": "St. Veiter Straße",
+            "amenity": "fast_food",
+            "cuisine": "pizza",
+            "name": "Pizza & Schnitzel Service GmbH",
+            "opening_hours": "Mo-Su 10:00-22:30 \"Bestellannahme\"; Mo-Su 10:00-23:00 \"Zustellung\"",
+            "website": "http://www.pizzaschnitzelservice.at/mehr-ueber-uns.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3150401,
+              46.6421408
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3888490379",
+            "osm_type": "node",
+            "lat": 46.6287405,
+            "lon": 14.3591601,
+            "amenity": "fast_food",
+            "brand": "Subway",
+            "brand:wikidata": "Q244457",
+            "brand:wikipedia": "en:Subway (restaurant)",
+            "cuisine": "sandwich",
+            "name": "Subway",
+            "opening_hours": "Mo-Sa 09:00-24:00; Su 10:00-24:00",
+            "payment:coins": "yes",
+            "payment:maestro": "yes",
+            "payment:notes": "yes",
+            "phone": "+43463319029",
+            "smoking": "outside",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3591601,
+              46.6287405
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5168967044",
+            "osm_type": "node",
+            "lat": 46.6257822,
+            "lon": 14.3074165,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Schnitzel Kebap Bar",
+            "opening_hours": "Mo-Su 11:30-22:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3074165,
+              46.6257822
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5491243157",
+            "osm_type": "node",
+            "lat": 46.625088,
+            "lon": 14.3266185,
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "drive_through": "no",
+            "name": "kebabella",
+            "opening_hours": "Mo-Fr 8:00-22:00; Su 11:00-22:00",
+            "phone": "0463 269686"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3266185,
+              46.625088
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5948605755",
+            "osm_type": "node",
+            "lat": 46.6274001,
+            "lon": 14.3091012,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "4",
+            "addr:postcode": "9020",
+            "addr:street": "St. Veiter Straße",
+            "amenity": "fast_food",
+            "brand": "Subway",
+            "brand:wikidata": "Q244457",
+            "brand:wikipedia": "en:Subway (restaurant)",
+            "cuisine": "sandwich",
+            "level": "-1",
+            "name": "Subway",
+            "opening_hours": "Mo-Su 09:00-07:30",
+            "phone": "+43 463 501 404",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3091012,
+              46.6274001
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6710112990",
+            "osm_type": "node",
+            "lat": 46.6357616,
+            "lon": 14.3151816,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:housenumber": "4A",
+            "addr:postcode": "9020",
+            "addr:street": "Durchlaßstraße",
+            "amenity": "fast_food",
+            "name": "Schnitzelwelt",
+            "opening_hours": "10:00-22:00",
+            "phone": "+43 463 410 971",
+            "website": "https://www.schnitzelwelt.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3151816,
+              46.6357616
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7043596531",
+            "osm_type": "node",
+            "lat": 46.6228907,
+            "lon": 14.3087536,
+            "addr:city": "Klagenfurt am Wörthersee",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "9020",
+            "addr:street": "Karfreitstraße",
+            "amenity": "fast_food",
+            "check_date": "2023-02-16",
+            "cuisine": "pizza;burger;kebab",
+            "level": "0",
+            "name": "Testarossa",
+            "opening_hours": "Tu-Su 11:00-22:00",
+            "phone": "+43 690 10053499",
+            "start_date": "2019-12",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3087536,
+              46.6228907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9359156880",
+            "osm_type": "node",
+            "lat": 46.5263792,
+            "lon": 14.2998229,
+            "addr:city": "Ferlach",
+            "addr:country": "AT",
+            "addr:postcode": "9170",
+            "amenity": "fast_food",
+            "contact:phone": "+43 650 683 9608",
+            "cuisine": "kebab",
+            "name": "Antalya Kebap 2",
+            "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-21:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2998229,
+              46.5263792
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9724841244",
+            "osm_type": "node",
+            "lat": 46.600664,
+            "lon": 14.3118605,
+            "amenity": "fast_food",
+            "name": "Sattnitz Stüberl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3118605,
+              46.600664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9799166071",
+            "osm_type": "node",
+            "lat": 46.6402119,
+            "lon": 14.3139303,
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Anatolia",
+            "phone": "0463 99 22 97"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3139303,
+              46.6402119
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10084870787",
+            "osm_type": "node",
+            "lat": 46.6273297,
+            "lon": 14.309188,
+            "alt_name": "Dunkin' Donuts",
+            "amenity": "fast_food",
+            "brand": "Dunkin'",
+            "brand:wikidata": "Q847743",
+            "cuisine": "donut;coffee_shop",
+            "level": "-1",
+            "name": "Dunkin'",
+            "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-18:00",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.309188,
+              46.6273297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10084870798",
+            "osm_type": "node",
+            "lat": 46.6274244,
+            "lon": 14.3106741,
+            "amenity": "fast_food",
+            "cuisine": "mexican",
+            "level": "-1",
+            "name": "Paco's Tacos"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3106741,
+              46.6274244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10084870804",
+            "osm_type": "node",
+            "lat": 46.6274737,
+            "lon": 14.3097482,
+            "amenity": "fast_food",
+            "check_date": "2022-11-03",
+            "cuisine": "pizza;kebab",
+            "level": "-1",
+            "name": "Turkuaz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3097482,
+              46.6274737
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10087452818",
+            "osm_type": "node",
+            "lat": 46.6269369,
+            "lon": 14.3084515,
+            "amenity": "fast_food",
+            "level": "0",
+            "name": "Leberkas-Pepi",
+            "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-18:00",
+            "phone": "0664/10 13 983"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3084515,
+              46.6269369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10284557522",
+            "osm_type": "node",
+            "lat": 46.6166083,
+            "lon": 14.3138643,
+            "amenity": "fast_food",
+            "check_date": "2022-12-24",
+            "cuisine": "pizza;kebab;burger",
+            "level": "0",
+            "name": "Lamore",
+            "opening_hours": "09:00-22:00",
+            "phone": "+43 463 319888",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3138643,
+              46.6166083
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10893667853",
+            "osm_type": "node",
+            "lat": 46.6201601,
+            "lon": 14.3035723,
+            "amenity": "fast_food",
+            "cuisine": "burger;pizza;tex-mex",
+            "delivery": "yes",
+            "name": "Tex Mex"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3035723,
+              46.6201601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11329186882",
+            "osm_type": "node",
+            "lat": 46.6144668,
+            "lon": 14.3087535,
+            "amenity": "fast_food",
+            "check_date": "2023-11-06",
+            "cuisine": "kebab",
+            "level": "0",
+            "name": "Antalya"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3087535,
+              46.6144668
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11360043863",
+            "osm_type": "node",
+            "lat": 46.6229408,
+            "lon": 14.3106092,
+            "amenity": "fast_food",
+            "check_date": "2023-11-18",
+            "cuisine": "kebab",
+            "level": "0",
+            "name": "Royal Döner",
+            "opening_hours": "08:00-21:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3106092,
+              46.6229408
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11400938516",
+            "osm_type": "node",
+            "lat": 46.621175,
+            "lon": 14.3282134,
+            "amenity": "fast_food",
+            "check_date": "2023-11-19",
+            "cuisine": "pizza;kebab",
+            "name": "Karavanke",
+            "payment:cards": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3282134,
+              46.621175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11662427618",
+            "osm_type": "node",
+            "lat": 46.6229406,
+            "lon": 14.30604,
+            "amenity": "fast_food",
+            "cuisine": "juice",
+            "name": "Olivers Saftladen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.30604,
+              46.6229406
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11809783928",
+            "osm_type": "node",
+            "lat": 46.6145833,
+            "lon": 14.3195844,
+            "amenity": "fast_food",
+            "cuisine": "sushi",
+            "name": "Running Asia",
+            "phone": "0463-330968",
+            "website": "https://suedpark.at/shop/running-asia/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3195844,
+              46.6145833
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12136324452",
+            "osm_type": "node",
+            "lat": 46.6328586,
+            "lon": 14.2998216,
+            "addr:housenumber": "36",
+            "addr:street": "Feldkirchner Straße",
+            "amenity": "fast_food",
+            "check_date": "2024-12-27",
+            "cuisine": "kebab",
+            "delivery": "yes",
+            "name": "Chef's Döner",
+            "opening_hours": "Mo-Th,Su 11:00-21:00; Fr-Sa off",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.2998216,
+              46.6328586
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12202172159",
+            "osm_type": "node",
+            "lat": 46.6248818,
+            "lon": 14.3077916,
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "check_date": "2024-09-26",
+            "cuisine": "chicken",
+            "name": "KFC",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.3077916,
+              46.6248818
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 13.345766,
+        "north": 47.033758500000005,
+        "east": 14.2994695
+      },
+      "poiCount": 19,
+      "leafCount": 19,
+      "averagePosition": [
+        13.657478836842104,
+        46.81411268947369
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11165558714",
+            "osm_type": "node",
+            "lat": 46.9346387,
+            "lon": 13.5215682,
+            "air_conditioning": "no",
+            "amenity": "fast_food",
+            "diet:vegetarian": "no",
+            "indoor_seating": "yes",
+            "name:signed": "no",
+            "opening_hours": "Mo-Sa 16:00-22:00",
+            "outdoor_seating": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5215682,
+              46.9346387
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11486513823",
+            "osm_type": "node",
+            "lat": 46.9183385,
+            "lon": 13.5802573,
+            "amenity": "fast_food",
+            "brand": "Nordsee",
+            "brand:wikidata": "Q74866",
+            "cuisine": "seafood",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "indoor_seating": "yes",
+            "name": "Nordsee",
+            "opening_hours": "Mo-Su,PH 11:00-18:00",
+            "outdoor_seating": "no",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5802573,
+              46.9183385
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11486549953",
+            "osm_type": "node",
+            "lat": 46.9183694,
+            "lon": 13.5803654,
+            "amenity": "fast_food",
+            "brand": "Burger King",
+            "brand:wikidata": "Q177054",
+            "cuisine": "burger",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "indoor_seating": "yes",
+            "name": "Burger King",
+            "opening_hours": "Mo-Su,PH 09:00-22:00",
+            "outdoor_seating": "no",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5803654,
+              46.9183694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11486580520",
+            "osm_type": "node",
+            "lat": 46.918284,
+            "lon": 13.5800452,
+            "amenity": "fast_food",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "indoor_seating": "yes",
+            "name": "Fast and fresh",
+            "opening_hours": "Mo-Su,PH 11:00-18:00",
+            "outdoor_seating": "no",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5800452,
+              46.918284
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "426532335",
+            "osm_type": "node",
+            "lat": 46.8173344,
+            "lon": 13.514218,
+            "addr:postcode": "9871",
+            "addr:street": "Hauptstraße",
+            "amenity": "fast_food",
+            "cuisine": "kebab;pizza",
+            "name": "Onur"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.514218,
+              46.8173344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4313022608",
+            "osm_type": "node",
+            "lat": 46.7959291,
+            "lon": 13.4886851,
+            "amenity": "fast_food",
+            "name": "Serky's Kebap"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4886851,
+              46.7959291
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4399568907",
+            "osm_type": "node",
+            "lat": 46.7920629,
+            "lon": 13.5099919,
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Schnitzelwelt",
+            "opening_hours": "10:00-22:00",
+            "takeaway": "yes",
+            "website": "https://www.schnitzelwelt.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5099919,
+              46.7920629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4425519291",
+            "osm_type": "node",
+            "lat": 46.7976503,
+            "lon": 13.4963509,
+            "addr:postcode": "9800",
+            "addr:street": "Ortenburger Straße",
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Kepab Istanbul",
+            "name:de": "Kepab Istanbul",
+            "name:en": "Kepab Istanbul"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4963509,
+              46.7976503
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5829611735",
+            "osm_type": "node",
+            "lat": 46.7685417,
+            "lon": 13.355525,
+            "amenity": "fast_food",
+            "name": "Rossstall"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.355525,
+              46.7685417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5948563313",
+            "osm_type": "node",
+            "lat": 46.7919491,
+            "lon": 13.5081222,
+            "addr:city": "Spittal an der Drau",
+            "addr:housenumber": "44",
+            "addr:postcode": "9800",
+            "addr:street": "Villacher Straße",
+            "amenity": "fast_food",
+            "brand": "Subway",
+            "brand:wikidata": "Q244457",
+            "brand:wikipedia": "en:Subway (restaurant)",
+            "cuisine": "sandwich",
+            "name": "Subway",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5081222,
+              46.7919491
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6448610674",
+            "osm_type": "node",
+            "lat": 46.8152285,
+            "lon": 13.51923,
+            "amenity": "fast_food",
+            "outdoor_seating": "yes",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.51923,
+              46.8152285
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7058395500",
+            "osm_type": "node",
+            "lat": 46.7975183,
+            "lon": 13.4972142,
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Alem"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.4972142,
+              46.7975183
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8911455581",
+            "osm_type": "node",
+            "lat": 46.8186878,
+            "lon": 13.5175368,
+            "amenity": "fast_food",
+            "cuisine": "chicken"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5175368,
+              46.8186878
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13049673074",
+            "osm_type": "node",
+            "lat": 46.792256,
+            "lon": 13.5091635,
+            "addr:city": "Spittal an der Drau",
+            "addr:housenumber": "51a",
+            "addr:postcode": "9800",
+            "addr:street": "Villacher Straße",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "cuisine": "chicken",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "takeaway": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.5091635,
+              46.792256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3350677918",
+            "osm_type": "node",
+            "lat": 46.8653524,
+            "lon": 13.9975107,
+            "amenity": "fast_food",
+            "indoor_seating": "yes",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.9975107,
+              46.8653524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4775020189",
+            "osm_type": "node",
+            "lat": 46.7236159,
+            "lon": 14.092784,
+            "addr:city": "Feldkirchen in Kärnten",
+            "addr:housenumber": "3",
+            "addr:postcode": "9560",
+            "addr:street": "Hauptplatz",
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "delivery": "no",
+            "drive_through": "no",
+            "name": "Buci´s Kebap",
+            "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su,PH 15:00-23:00",
+            "operator": "Sick Basri",
+            "outdoor_seating": "yes",
+            "smoking": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.092784,
+              46.7236159
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6544867200",
+            "osm_type": "node",
+            "lat": 46.7307723,
+            "lon": 14.0921303,
+            "amenity": "fast_food",
+            "cuisine": "pizza",
+            "name": "Pizzamax"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0921303,
+              46.7307723
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6568741018",
+            "osm_type": "node",
+            "lat": 46.7478321,
+            "lon": 14.0375152,
+            "amenity": "fast_food",
+            "name": "Willi's Schmankerlwerkstatt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.0375152,
+              46.7478321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12749473238",
+            "osm_type": "node",
+            "lat": 46.7237797,
+            "lon": 14.093884,
+            "amenity": "fast_food"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.093884,
+              46.7237797
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 14.2994695,
+        "north": 47.033758500000005,
+        "east": 15.253173
+      },
+      "poiCount": 11,
+      "leafCount": 11,
+      "averagePosition": [
+        14.822325218181819,
+        46.90473540909091
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7728568800",
+            "osm_type": "node",
+            "lat": 46.8387,
+            "lon": 14.8458,
+            "amenity": "fast_food",
+            "name": "Kebap Wolfsberger Pizza"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8458,
+              46.8387
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10053033317",
+            "osm_type": "node",
+            "lat": 46.8349042,
+            "lon": 14.8438367,
+            "addr:postcode": "9400",
+            "amenity": "fast_food",
+            "cuisine": "kebab;regional;turkish",
+            "name": "Zuckerhäusl Imbiss",
+            "opening_hours": "Tu-Sa 11:00-19:00",
+            "phone": "06642147496",
+            "website": "http://facebook.com/Zuckerhäusl-Imbiss-569785893173004/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8438367,
+              46.8349042
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11682610779",
+            "osm_type": "node",
+            "lat": 46.7675596,
+            "lon": 14.8222404,
+            "amenity": "fast_food",
+            "cuisine": "kebab;pizza"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8222404,
+              46.7675596
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10781266594",
+            "osm_type": "node",
+            "lat": 46.8202133,
+            "lon": 15.2361802,
+            "addr:city": "Deutschlandsberg",
+            "addr:country": "AT",
+            "addr:housenumber": "120",
+            "addr:postcode": "8530",
+            "addr:street": "Frauentaler Straße",
+            "amenity": "fast_food",
+            "cuisine": "chicken",
+            "name": "Hendl Baron",
+            "opening_hours": "Tu-Sa 09:30-18:30",
+            "phone": "0660 5210984",
+            "website": "https://www.hendlbaron.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2361802,
+              46.8202133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5859167581",
+            "osm_type": "node",
+            "lat": 46.9202677,
+            "lon": 14.4314197,
+            "amenity": "fast_food"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4314197,
+              46.9202677
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12749874501",
+            "osm_type": "node",
+            "lat": 46.9521273,
+            "lon": 14.4143238,
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "indoor_seating": "yes",
+            "outdoor_seating": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.4143238,
+              46.9521273
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1948914437",
+            "osm_type": "node",
+            "lat": 46.9451346,
+            "lon": 14.8176966,
+            "amenity": "fast_food",
+            "name": "Brummistation-Bikerstop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.8176966,
+              46.9451346
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2449206652",
+            "osm_type": "node",
+            "lat": 46.9773266,
+            "lon": 15.008236,
+            "amenity": "fast_food",
+            "name": "Imbiss",
+            "snack": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.008236,
+              46.9773266
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7839350134",
+            "osm_type": "node",
+            "lat": 46.9622685,
+            "lon": 14.7942529,
+            "amenity": "fast_food",
+            "cuisine": "kebab",
+            "name": "Tigris Kebap"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7942529,
+              46.9622685
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7839350139",
+            "osm_type": "node",
+            "lat": 46.9600815,
+            "lon": 14.7938891,
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Grillhütte",
+            "operator": "SV Bad St. Leonhrad"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.7938891,
+              46.9600815
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2449206940",
+            "osm_type": "node",
+            "lat": 46.9735062,
+            "lon": 15.037702,
+            "amenity": "fast_food",
+            "name": "Strandbuffet \"Seeblick\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.037702,
+              46.9735062
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

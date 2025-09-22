@@ -1,0 +1,2696 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 111,
+  "leafCount": 0,
+  "averagePosition": [
+    10.521497897297298,
+    46.657835817117125
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 9.530952,
+        "north": 46.70320525,
+        "east": 10.484655499999999
+      },
+      "poiCount": 22,
+      "leafCount": 22,
+      "averagePosition": [
+        9.934105595454545,
+        46.54005377727273
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1618073116",
+            "osm_type": "node",
+            "lat": 46.404245,
+            "lon": 9.6949981,
+            "addr:city": "Bregaglia",
+            "addr:housenumber": "386",
+            "addr:postcode": "7516",
+            "addr:street": "Strada Cantonale",
+            "air_conditioning": "yes",
+            "amenity": "library",
+            "email": "biblio.maloggia@bluewin.ch",
+            "internet_access": "yes",
+            "name": "Biblioteca pubblica di Maloja",
+            "name:de": "Öffentliche Bibliothek Maloja",
+            "operator": "Comune di Bregaglia",
+            "operator:type": "public",
+            "phone": "+41818243704"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6949981,
+              46.404245
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1652167125",
+            "osm_type": "node",
+            "lat": 46.4987094,
+            "lon": 9.8385535,
+            "addr:city": "St. Moritz",
+            "addr:country": "CH",
+            "addr:postcode": "7500",
+            "addr:street": "Plazza da Scoula",
+            "amenity": "library",
+            "contact:phone": "+41 81 834 40 02",
+            "contact:website": "http://biblio-stmoritz.ch/dokumentationsbibliothek/aktuell/",
+            "email": "doku@biblio-stmoritz.ch",
+            "name": "Dokumentationsbibliothek St. Moritz",
+            "operator": "Gemeinde St. Moritz",
+            "ref:isil": "CH-000147-X",
+            "website": "https://www.biblio-stmoritz.ch/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8385535,
+              46.4987094
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2586343599",
+            "osm_type": "node",
+            "lat": 46.4986374,
+            "lon": 9.8384757,
+            "addr:city": "St. Moritz",
+            "addr:country": "CH",
+            "addr:postcode": "7500",
+            "addr:street": "Plazza da Scoula",
+            "amenity": "library",
+            "contact:phone": "+41 81 834 40 00",
+            "contact:website": "http://biblio-stmoritz.ch/leihbibliothek/",
+            "email": "leih@biblio-stmoritz.ch",
+            "name": "Leihbibliothek St.Moritz",
+            "operator": "Gemeinde St. Moritz",
+            "ref:isil": "CH-000147-X",
+            "website": "https://www.biblio-stmoritz.ch/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8384757,
+              46.4986374
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3029931553",
+            "osm_type": "node",
+            "lat": 46.5128964,
+            "lon": 9.8621578,
+            "addr:city": "Celerina / Schlarigna",
+            "addr:postcode": "7505",
+            "addr:street": "Straglia da Sar Josef",
+            "amenity": "library",
+            "contact:email": "udg.vendita@rumantsch.ch",
+            "contact:phone": "+41 81 833 18 12",
+            "contact:website": "http://www.udg.ch/index.php?id=chesin_manella",
+            "name": "Chesin Manella",
+            "opening_hours": "We,Th 14:00-17:00",
+            "operator": "Gemeinde Schlarigna",
+            "shop": "books",
+            "website": "http://www.udg.ch/index.php?id=chesin_manella"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8621578,
+              46.5128964
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761183282",
+            "osm_type": "node",
+            "lat": 46.4915921,
+            "lon": 9.9046844,
+            "addr:city": "Pontresina",
+            "addr:country": "CH",
+            "addr:housenumber": "5",
+            "addr:postcode": "7504",
+            "addr:street": "Via Cruscheda",
+            "amenity": "library",
+            "contact:email": "schule-p-sina@bluewin.ch",
+            "contact:phone": "+41 81 834 56 20",
+            "contact:website": "http://www.schulepontresina.ch/informationen/spezielle-schulangebote/schulbibliothek.html",
+            "name": "Schulbibliothek Pontresina",
+            "operator": "Gemeinde Pontresina"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9046844,
+              46.4915921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761204566",
+            "osm_type": "node",
+            "lat": 46.5356139,
+            "lon": 9.8707273,
+            "addr:city": "Samedan",
+            "addr:country": "CH",
+            "addr:housenumber": "2",
+            "addr:postcode": "7503",
+            "addr:street": "Puoz",
+            "amenity": "library",
+            "contact:email": "biblioteca@samedan.ch",
+            "contact:phone": "+41 81 851 10 17",
+            "contact:website": "www.biblioteca-samedan.ch",
+            "name": "Biblioteca Samedan / Bever",
+            "name:de": "Gemeinde- und Schulbibliothek Samedan / Bever",
+            "operator": "Gemeinde Samedan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8707273,
+              46.5356139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761207215",
+            "osm_type": "node",
+            "lat": 46.5368875,
+            "lon": 9.8752199,
+            "amenity": "library",
+            "name": "Academia Engiadina Mediathek Chesa Naira",
+            "operator": "Academia Engiadina",
+            "phone": "+41 81 851 06 24",
+            "website": "https://www.academia-engiadina.ch/campus/angebote-auf-dem-campus/mediathek/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8752199,
+              46.5368875
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761215286",
+            "osm_type": "node",
+            "lat": 46.5342786,
+            "lon": 9.871686,
+            "amenity": "library",
+            "email": "biblioteca@chesaplanta.ch",
+            "name": "Bibliothek Salis-Planta",
+            "operator": "Gemeinnützige Stiftung Fundaziun de Planta",
+            "phone": "+41 81 852 52 68",
+            "ref:isil": "CH-001264-0",
+            "website": "https://www.chesaplanta.ch/biblioteca",
+            "wikidata": "Q14565345"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.871686,
+              46.5342786
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761235669",
+            "osm_type": "node",
+            "lat": 46.5958161,
+            "lon": 9.594717,
+            "amenity": "library",
+            "contact:email": "biblioteca@savognin-gr.ch",
+            "contact:phone": "+41 81 637 14 77",
+            "contact:website": "https://surses.ch/DE/surses/kultur/bibliotheken.html",
+            "name": "Biblioteca Sala Segantini",
+            "opening_hours": "Mo 14:00-18:00; Fr 14:00-18:00",
+            "operator": "Gemeinde Savognin",
+            "website": "https://savognin.ch/urlaub-mit-kind/serviceleistungen.html",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.594717,
+              46.5958161
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761262642",
+            "osm_type": "node",
+            "lat": 46.4324393,
+            "lon": 9.7573527,
+            "addr:city": "Sils/Segl Baselgia",
+            "addr:country": "CH",
+            "addr:housenumber": "46",
+            "addr:postcode": "7515",
+            "addr:street": "Via da Baselgia",
+            "amenity": "library",
+            "contact:email": "info@bibliotecasegl.ch",
+            "contact:phone": "+41 81 826 53 77",
+            "contact:website": "http://www.bibliotecasegl.ch",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Biblioteca Engiadinaisa",
+            "opening_hours": "Mo-We,Fr 10:00-11:30,15:00-18:00; Th 10:00-11:30,15:00-21:00",
+            "operator": "Stiftung Biblioteca Engiadinaisa",
+            "ref:isil": "CH-000115-6"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7573527,
+              46.4324393
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761266354",
+            "osm_type": "node",
+            "lat": 46.45977,
+            "lon": 9.7941518,
+            "addr:city": "Silvaplana",
+            "addr:country": "CH",
+            "addr:housenumber": "7",
+            "addr:postcode": "7513",
+            "addr:street": "Via dal Chanel",
+            "amenity": "library",
+            "contact:email": "madlen.hofstetter@bluewin.ch",
+            "contact:phone": "+41 81 834 30 63",
+            "contact:website": "http://www.silvaplana.ch/gemeinde-politik/dienststellen/schule/schul-bibliothek.html",
+            "name": "Biblioteca da Scoula Silvaplauna",
+            "name:de": "Schulbibliothek Silvaplana"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7941518,
+              46.45977
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761357747",
+            "osm_type": "node",
+            "lat": 46.6026066,
+            "lon": 9.9598572,
+            "amenity": "library",
+            "contact:email": "biblioteca@zuoz.ch",
+            "contact:phone": "+41 81 854 05 20",
+            "contact:website": "http://www.bibliothek-zuoz.ch",
+            "name": "Biblioteca La Plaiv",
+            "operator": "Gemeinde Zuoz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9598572,
+              46.6026066
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761366157",
+            "osm_type": "node",
+            "lat": 46.6051776,
+            "lon": 9.9602271,
+            "amenity": "library",
+            "contact:email": "mediathek@lyceum-alpinum.ch",
+            "contact:phone": "+41 81 851 30 18",
+            "contact:website": "https://www.lyceum-alpinum.ch/de/leben-im-internat/dienstleistungen/#mediathek",
+            "name": "Mediathek Lyceum Alpinum Zuoz",
+            "operator": "Lyceum Alpinum Zuoz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9602271,
+              46.6051776
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5867539106",
+            "osm_type": "node",
+            "lat": 46.4679818,
+            "lon": 9.6509895,
+            "addr:city": "Bivio",
+            "addr:country": "CH",
+            "addr:housenumber": "225",
+            "addr:postcode": "7457",
+            "addr:street": "Vea Jerts",
+            "amenity": "library",
+            "contact:phone": "+41 79 304 47 57",
+            "contact:website": "https://www.surses.ch/DE/surses/kultur/bibliotheken.html",
+            "name": "Biblioteca Bivio-Surgôt",
+            "wikidata": "Q56877382"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6509895,
+              46.4679818
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11237886070",
+            "osm_type": "node",
+            "lat": 46.6279853,
+            "lon": 9.747126,
+            "amenity": "library",
+            "name": "Bibliothek Bergün",
+            "opening_hours": "Mo 09:00-11:00; We 16:00-18:00; Fr 17:00-19:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.747126,
+              46.6279853
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11238168647",
+            "osm_type": "node",
+            "lat": 46.5344078,
+            "lon": 9.8716524,
+            "amenity": "library",
+            "name": "Archiv culturel d'Engiadin'Ota",
+            "name:de": "Kulturarchiv Oberengadin",
+            "name:rm": "Archiv culturel d'Engiadin'Ota",
+            "phone": "+41 81 852 35 31",
+            "website": "https://www.kulturarchiv.ch",
+            "wikidata": "Q14847059"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8716524,
+              46.5344078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "864641392",
+            "osm_type": "node",
+            "lat": 46.6991876,
+            "lon": 10.0935301,
+            "amenity": "library",
+            "check_date": "2024-03-11",
+            "contact:phone": "+41 76 594 79 48",
+            "contact:website": "www.biblio-zernez.ch",
+            "email": "info@biblio-zernez.ch",
+            "level": "-1",
+            "name": "Biblioteca publica Zernez",
+            "opening_hours": "Mo,We,Fr-Su off; Tu 16:00-17:30; Th 17:00-19:00",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0935301,
+              46.6991876
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3187511303",
+            "osm_type": "node",
+            "lat": 46.64555,
+            "lon": 10.463773,
+            "addr:city": "Taufers im Münstertal - Tubre",
+            "addr:city:de": "Taufers im Münstertal",
+            "addr:city:it": "Tubre",
+            "addr:housenumber": "32",
+            "addr:postcode": "39020",
+            "addr:street": "St. Johann-Straße - Via S. Giovanni",
+            "addr:street:de": "St. Johann-Straße",
+            "addr:street:it": "Via S. Giovanni",
+            "amenity": "library",
+            "email": "bibliothek@taufers.it",
+            "fax": "+39 0473 832350",
+            "name": "Öffentliche Bibliothek - Biblioteca pubblica",
+            "name:de": "Öffentliche Bibliothek",
+            "name:it": "Biblioteca pubblica",
+            "opening_hours": "Tu 08:30-10:30; Th 18:00-20:00; Sa 15:00-17:00; Mo,We,Fr,Su off",
+            "phone": "+39 0473 833054"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.463773,
+              46.64555
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8846621781",
+            "osm_type": "node",
+            "lat": 46.4890527,
+            "lon": 10.2952417,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2952417,
+              46.4890527
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9221876383",
+            "osm_type": "node",
+            "lat": 46.6971411,
+            "lon": 10.0864453,
+            "amenity": "library",
+            "name": "Aufenthaltsraum/Bibliothek mit Steckdosen",
+            "opening_hours": "24/7"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0864453,
+              46.6971411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12022847469",
+            "osm_type": "node",
+            "lat": 46.4673835,
+            "lon": 10.3776911,
+            "addr:city": "Bormio",
+            "addr:housenumber": "22",
+            "addr:postcode": "23032",
+            "addr:street": "Piazza Camillo Benso Conte di Cavour",
+            "air_conditioning": "yes",
+            "amenity": "library",
+            "check_date": "2025-07-15",
+            "name": "Biblioteca Sertorio",
+            "toilets": "yes",
+            "toilets:access": "customers"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3776911,
+              46.4673835
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13022394987",
+            "osm_type": "node",
+            "lat": 46.5438234,
+            "lon": 10.1410655,
+            "amenity": "library",
+            "level": "1",
+            "name": "Biblioteca Civica",
+            "opening_hours": "Mo, Tu, Th, Fr 09:00-12:00, 14:00-18:00; We 09:00-21:00; Sa 14:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.1410655,
+              46.5438234
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 10.484655499999999,
+        "north": 46.70320525,
+        "east": 11.438358999999998
+      },
+      "poiCount": 50,
+      "leafCount": 50,
+      "averagePosition": [
+        11.181368364,
+        46.552754456
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1801573747",
+            "osm_type": "node",
+            "lat": 46.6151899,
+            "lon": 10.8567499,
+            "addr:city": "Latsch",
+            "addr:housenumber": "1",
+            "addr:postcode": "39021",
+            "addr:street": "Puintweg",
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Latsch",
+            "opening_hours": "Mo,Tu,Th,Fr 09:00-11:00, Mo 15:30-19:30, Tu,Fr 14:00-18:00",
+            "phone": "+39 0473 623633",
+            "wikidata": "Q112944379"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8567499,
+              46.6151899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1927913397",
+            "osm_type": "node",
+            "lat": 46.6490088,
+            "lon": 11.0039144,
+            "addr:city": "Naturns - Naturno",
+            "addr:city:de": "Naturns",
+            "addr:city:it": "Naturno",
+            "addr:housenumber": "15",
+            "addr:postcode": "39025",
+            "addr:street": "Bahnhofstraße - Via Stazione",
+            "addr:street:de": "Bahnhofstraße",
+            "addr:street:it": "Via Stazione",
+            "amenity": "library",
+            "email": "bibliothek.naturns@rolmail.net",
+            "fax": "+39 0473 672633",
+            "name": "Öffentliche Bibliothek Naturns - Biblioteca Pubblica di Naturno",
+            "name:de": "Öffentliche Bibliothek Naturns",
+            "name:it": "Biblioteca Pubblica di Naturno",
+            "opening_hours": "Tu,We 09:00-11:30,14:00-18:00; Th 09:00-12:30; Fr 14:00-18:00; Sa-Mo off",
+            "phone": "+39 0473 667057",
+            "website": "http://bibliothek-naturns.it/",
+            "wikidata": "Q112944529"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0039144,
+              46.6490088
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2063020768",
+            "osm_type": "node",
+            "lat": 46.6218972,
+            "lon": 10.8262274,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8262274,
+              46.6218972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3204697882",
+            "osm_type": "node",
+            "lat": 46.6902362,
+            "lon": 10.5453769,
+            "addr:city": "Mals - Malles Venosta",
+            "addr:city:de": "Mals",
+            "addr:city:it": "Malles Venosta",
+            "addr:housenumber": "36",
+            "addr:postcode": "39024",
+            "addr:street": "Gen.-I.-Verdross-Straße - Via Gen. I. Verdross",
+            "addr:street:de": "Gen.-I.-Verdross-Straße",
+            "addr:street:it": "Via Gen. I. Verdross",
+            "amenity": "library",
+            "email": "bibliothek.mals@gemeinde.mals.bz.it",
+            "fax": "+39 0473 835255",
+            "name": "Gemeindebibliothek - Biblioteca comunale",
+            "name:de": "Gemeindebibliothek",
+            "name:it": "Biblioteca comunale",
+            "opening_hours": "Mo,We 08:00-11:00,14:30-17:30; Tu,Th 08:00-11:00; Fr 08:00-11:00,14:30-18:30; Sa,Su off",
+            "phone": "+39 0473 835255"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5453769,
+              46.6902362
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4424225501",
+            "osm_type": "node",
+            "lat": 46.6901981,
+            "lon": 10.5453698,
+            "addr:city": "Mals - Malles Venosta",
+            "addr:housenumber": "36",
+            "addr:postcode": "39024",
+            "addr:street": "Gen.-I.-Verdross-Straße - Via Gen. I. Verdross",
+            "amenity": "library",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Bibliothek Mals",
+            "opening_hours": "Mo-Fr 08:00-11:00; Mo,We 14:30-17:30; Fr 14:30-18:30"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5453698,
+              46.6901981
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4487003751",
+            "osm_type": "node",
+            "lat": 46.5481174,
+            "lon": 11.0061051,
+            "amenity": "library",
+            "name": "BIbliothek St. Walburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0061051,
+              46.5481174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4492465796",
+            "osm_type": "node",
+            "lat": 46.6402937,
+            "lon": 10.9402366,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Tschars"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.9402366,
+              46.6402937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4517348658",
+            "osm_type": "node",
+            "lat": 46.6180011,
+            "lon": 10.5905212,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Prad"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.5905212,
+              46.6180011
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13095107251",
+            "osm_type": "node",
+            "lat": 46.6076817,
+            "lon": 10.8766007,
+            "addr:city": "Tarsch - Tarres",
+            "addr:housenumber": "13",
+            "addr:postcode": "39021",
+            "addr:street": "Schulweg - Via della Scuola",
+            "amenity": "library",
+            "email": "tarsch@bibliothek.latsch.bz.it",
+            "name": "Bibliothek Tarsch",
+            "opening_hours": "Tu 15:00-17:00; Th 09:00-11:00; Fr 17:30-19:30",
+            "website": "https://biblio.bz.it/latsch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.8766007,
+              46.6076817
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "394794485",
+            "osm_type": "node",
+            "lat": 46.4893175,
+            "lon": 11.3250088,
+            "amenity": "library",
+            "name": "Sandro Amadori"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3250088,
+              46.4893175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "394892480",
+            "osm_type": "node",
+            "lat": 46.4910618,
+            "lon": 11.3141061,
+            "addr:city": "Bolzano - Bozen",
+            "addr:postcode": "39100",
+            "addr:street": "Piazza Maria Montessori - Maria-Montessori-Platz",
+            "amenity": "library",
+            "internet_access": "yes",
+            "name": "Biblioteca Firmian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3141061,
+              46.4910618
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "418670673",
+            "osm_type": "node",
+            "lat": 46.6904807,
+            "lon": 11.1531034,
+            "addr:city": "Tirol - Tirolo",
+            "addr:city:de": "Tirol",
+            "addr:city:it": "Tirolo",
+            "addr:housenumber": "13a",
+            "addr:postcode": "39019",
+            "addr:street": "Hauptstraße - Via Principale",
+            "addr:street:de": "Hauptstraße",
+            "addr:street:it": "Via Principale",
+            "amenity": "library",
+            "email": "bibliothek@gemeinde.tirol.bz.it",
+            "name": "Öffentliche Bibliothek Tirol - Biblioteca di Tirolo",
+            "name:de": "Öffentliche Bibliothek Tirol",
+            "name:it": "Biblioteca di Tirolo",
+            "opening_hours": "Mo,Fr 16:00-18:00,Tu,Th 14:00-18:00,We-Sa 10:00-12:00;Su off",
+            "operator": "Gemeinde Tirol",
+            "phone": "+39 0473 923809",
+            "website": "http://bibliothek-tirol.blogspot.de",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1531034,
+              46.6904807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "538292896",
+            "osm_type": "node",
+            "lat": 46.4870907,
+            "lon": 11.3506189,
+            "amenity": "library",
+            "name": "Biblio Haslach",
+            "name:de": "Bibliothek Haslach",
+            "name:it": "Biblioteca Haslach",
+            "website": "https://biblio.bz.it/bibliotheksdienst/Haslach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3506189,
+              46.4870907
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "617137554",
+            "osm_type": "node",
+            "lat": 46.4562183,
+            "lon": 11.2570924,
+            "amenity": "library",
+            "name": "Mittelpunktsbibliothek Überetsch - Biblioteca di Appiano",
+            "name:de": "Mittelpunktsbibliothek Überetsch",
+            "name:it": "Biblioteca di Appiano",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2570924,
+              46.4562183
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "631685666",
+            "osm_type": "node",
+            "lat": 46.4051889,
+            "lon": 11.3206977,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3206977,
+              46.4051889
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "695806024",
+            "osm_type": "node",
+            "lat": 46.3952797,
+            "lon": 11.121074,
+            "amenity": "library",
+            "name": "Biblioteca Don Fabio Fattor"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.121074,
+              46.3952797
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "768139553",
+            "osm_type": "node",
+            "lat": 46.5438536,
+            "lon": 11.2036701,
+            "amenity": "library",
+            "name": "Bilbliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2036701,
+              46.5438536
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "831311228",
+            "osm_type": "node",
+            "lat": 46.6710138,
+            "lon": 11.1593781,
+            "amenity": "library",
+            "check_date:opening_hours": "2025-05-23",
+            "internet_access": "wlan",
+            "level": "0",
+            "name": "Stadtbibliothek - Biblioteca Civica",
+            "name:de": "Stadtbibliothek",
+            "name:it": "Biblioteca Civica",
+            "opening_hours": "Mo,Th 13:00-19:00; Tu,We,Fr 10:00-19:00; Sa 10:00-12:30",
+            "operator": "Stadtgemeinde Meran",
+            "phone": "+390473236911",
+            "website": "https://www.gemeinde.meran.bz.it/de/verwaltung/einrichtungen/stadtbibliothek",
+            "wheelchair": "yes",
+            "wikidata": "Q112944384"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1593781,
+              46.6710138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "835169343",
+            "osm_type": "node",
+            "lat": 46.4945158,
+            "lon": 11.3462576,
+            "amenity": "library",
+            "name": "EURAC Library",
+            "opening_hours": "Mo-Fr 09:00-18:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3462576,
+              46.4945158
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1066202297",
+            "osm_type": "node",
+            "lat": 46.5041244,
+            "lon": 11.3347376,
+            "amenity": "library",
+            "name": "Biblioteca Pubblica di Gries - Öffentliche Bibliothek Gries",
+            "name:de": "Öffentliche Bibliothek Gries",
+            "name:it": "Biblioteca Pubblica di Gries",
+            "phone": "+39 0471 288285",
+            "website": "https://biblio.bz.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3347376,
+              46.5041244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1076786289",
+            "osm_type": "node",
+            "lat": 46.4999175,
+            "lon": 11.3485064,
+            "amenity": "library",
+            "name": "Biblioteca civica \"Cesare Battisti\" - Stadtbibliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3485064,
+              46.4999175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1298651379",
+            "osm_type": "node",
+            "lat": 46.498419,
+            "lon": 11.3367514,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3367514,
+              46.498419
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1578148513",
+            "osm_type": "node",
+            "lat": 46.6443112,
+            "lon": 11.1815102,
+            "addr:city": "Meran - Merano",
+            "addr:housenumber": "1",
+            "addr:postcode": "39012",
+            "addr:street": "Am Berg - Via Piedimonte",
+            "amenity": "library",
+            "name": "Biblioteca combinata di Sinigo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1815102,
+              46.6443112
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1643152058",
+            "osm_type": "node",
+            "lat": 46.4983164,
+            "lon": 11.3368495,
+            "amenity": "library",
+            "name": "Libreria civica Roen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3368495,
+              46.4983164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1658998049",
+            "osm_type": "node",
+            "lat": 46.498294,
+            "lon": 11.350667,
+            "amenity": "library",
+            "name": "Biblioteca universitaria - Universitätsbibliothek",
+            "name:de": "Universitätsbibliothek",
+            "name:en": "University Library",
+            "name:it": "Biblioteca universitaria",
+            "opening_hours": "Mo-Fr 08:00-23:00; Sa 09:00-20:00",
+            "wheelchair": "yes",
+            "wikidata": "Q856496",
+            "wikimedia_commons": "Category:Biblioteca della Libera Università di Bolzano",
+            "wikipedia": "de:Bibliothek der Freien Universität Bozen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.350667,
+              46.498294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1677520588",
+            "osm_type": "node",
+            "lat": 46.4817987,
+            "lon": 11.3178385,
+            "addr:city": "Bolzano - Bozen",
+            "addr:city:de": "Bozen",
+            "addr:city:it": "Bolzano",
+            "addr:housenumber": "23",
+            "addr:postcode": "39100",
+            "addr:street": "Piazzetta Anne Frank - Anne-Frank-Platz",
+            "addr:street:de": "Anne-Frank-Platz",
+            "addr:street:it": "Piazzetta Anne Frank",
+            "amenity": "library",
+            "email": "bibliothek.ortler@gemeinde.bozen.it",
+            "name": "Bibliothek Ortler - Biblioteca Ortles",
+            "name:de": "Bibliothek Ortler",
+            "name:it": "Biblioteca Ortles",
+            "phone": "+39 471 204994",
+            "tourism": "museum",
+            "website": "https://bibliotheken.gemeinde.bozen.it/Ueber-uns/Bibliotheken/Bibliothek-Ortler"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3178385,
+              46.4817987
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1741127626",
+            "osm_type": "node",
+            "lat": 46.6836093,
+            "lon": 11.1213971,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1213971,
+              46.6836093
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1828421099",
+            "osm_type": "node",
+            "lat": 46.4716862,
+            "lon": 11.2627377,
+            "amenity": "library",
+            "name": "Bibliothek St. Pauls"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2627377,
+              46.4716862
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2158771378",
+            "osm_type": "node",
+            "lat": 46.5588058,
+            "lon": 11.2245979,
+            "amenity": "library",
+            "name": "Bibliothek Vilpian"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2245979,
+              46.5588058
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2455560217",
+            "osm_type": "node",
+            "lat": 46.4284133,
+            "lon": 11.3392029,
+            "amenity": "library",
+            "contact:website": "http://www.bibliolaives.it/",
+            "name": "Don Bosco",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3392029,
+              46.4284133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2707262619",
+            "osm_type": "node",
+            "lat": 46.6847071,
+            "lon": 11.0737315,
+            "amenity": "library",
+            "contact:phone": "+39 0473 967137",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Bibliothek Partschins",
+            "source": "http://www.partschins.com/de/ortsinfo/gut-zu-wissen-a-z.html",
+            "source:date": "2016-08-28"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0737315,
+              46.6847071
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2755759634",
+            "osm_type": "node",
+            "lat": 46.4250181,
+            "lon": 11.3398586,
+            "addr:city": "Laives - Leifers",
+            "addr:city:de": "Leifers",
+            "addr:city:it": "Laives",
+            "addr:housenumber": "8",
+            "addr:postcode": "39055",
+            "addr:street": "Passaggio Zona Scolastica Maria Damian - Schuldurchgang Maria Damian",
+            "addr:street:de": "Schuldurchgang Maria Damian",
+            "addr:street:it": "Passaggio Zona Scolastica Maria Damian",
+            "amenity": "library",
+            "name": "Deutsche Bibliothek Leifers"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3398586,
+              46.4250181
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3206591693",
+            "osm_type": "node",
+            "lat": 46.424417,
+            "lon": 11.3384384,
+            "amenity": "library",
+            "name": "Biblioteca interscolastica di Laives",
+            "name:de": "Interschullische Bibliothek Leifers",
+            "website": "http://www.ipclaives.it/wp/?page_id=314",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3384384,
+              46.424417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3662065288",
+            "osm_type": "node",
+            "lat": 46.7024117,
+            "lon": 11.1804902,
+            "amenity": "library",
+            "contact:email": "bibliothek.riffian@gemeinde.riffian.bz.it",
+            "contact:phone": "+39 0473 240 913",
+            "name": "Bibliothek Riffian",
+            "opening_hours": "Mo 15:00-17:00; Tu 09:00-11:00; We 18:00-20:00; Th 09:00-11:00; Fr 17:00-19:00; Sa 09:00-11:00; Su off",
+            "source": "personal_visit",
+            "source:date": "2015-07-22",
+            "website": "https://www.gemeinde.riffian.bz.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1804902,
+              46.7024117
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3683425258",
+            "osm_type": "node",
+            "lat": 46.6698434,
+            "lon": 11.0595515,
+            "amenity": "library",
+            "contact:phone": "+39 0473 968 391",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Bibliothek Rabland",
+            "source": "http://www.partschins.com/de/ortsinfo/gut-zu-wissen-a-z.html",
+            "source:date": "2016-08-28"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0595515,
+              46.6698434
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3711329269",
+            "osm_type": "node",
+            "lat": 46.6545724,
+            "lon": 11.1413863,
+            "amenity": "library",
+            "contact:phone": "+39 0473 420952",
+            "name": "Bibliothek Marling - Biblioteca Marlengo",
+            "name:de": "Bibliothek Marling",
+            "name:it": "Biblioteca Marlengo",
+            "source": "Gastgeberverzeichnis Marling 2023, S. 39",
+            "source:date": "2022-12-08"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1413863,
+              46.6545724
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4265841677",
+            "osm_type": "node",
+            "lat": 46.495089,
+            "lon": 11.3573986,
+            "addr:city": "Bolzano - Bozen",
+            "addr:housenumber": "50",
+            "addr:postcode": "39100",
+            "addr:street": "Via del Macello - Schlachthofstraße",
+            "amenity": "library",
+            "email": "mail@bibmondo.it",
+            "name": "Bibliothek Kulturen der Welt - Biblioteca Culture del Mondo",
+            "name:de": "Bibliothek Kulturen der Welt",
+            "name:it": "Biblioteca Culture del Mondo",
+            "opening_hours": "Mo,Tu,We,Fr 09:00-13:00, 15:00-18:00; Th 09:00-18:00",
+            "phone": "+39 0471 974643",
+            "website": "https://www.bibmondo.it/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3573986,
+              46.495089
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4477163457",
+            "osm_type": "node",
+            "lat": 46.535638,
+            "lon": 11.3314834,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Jenesien",
+            "name:de": "Öffentliche Bibliothek Jenesien",
+            "name:it": "Biblioteca pubblica di San Genesio",
+            "opening_hours": "We,Fr 09:00-11:00, Tu 16:00-17:00,18:30-20:00, We 14:30-16:30, Su 09:15-11:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3314834,
+              46.535638
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4487084635",
+            "osm_type": "node",
+            "lat": 46.6123914,
+            "lon": 11.1943043,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Burgstall - Biblioteca pubblica Postal",
+            "name:de": "Öffentliche Bibliothek Burgstall",
+            "name:it": "Biblioteca pubblica Postal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1943043,
+              46.6123914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4506131778",
+            "osm_type": "node",
+            "lat": 46.6321582,
+            "lon": 11.145307,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Tscherms"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.145307,
+              46.6321582
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4517309294",
+            "osm_type": "node",
+            "lat": 46.4144341,
+            "lon": 11.4273335,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Deutschnofen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4273335,
+              46.4144341
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4517324931",
+            "osm_type": "node",
+            "lat": 46.6168283,
+            "lon": 11.1453582,
+            "addr:city": "Lana",
+            "addr:housenumber": "2",
+            "addr:postcode": "39011",
+            "addr:street": "Hofmannplatz - Piazza Hofmann",
+            "addr:street:de": "Hofmannplatz",
+            "addr:street:it": "Piazza Hofmann",
+            "amenity": "library",
+            "email": "info@bibliothek-lana.bz.it",
+            "name": "Öffentliche Bibliothek Lana",
+            "name:de": "Öffentliche Bibliothek Lana",
+            "name:it": "Biblioteca pubblica Lana",
+            "opening_hours": "Tu-Sa 09:00-12:00; Tu-Fr 14:30-18:30",
+            "phone": "+39 0473 564511",
+            "website": "http://www.bibliothek-lana.bz.it/",
+            "wheelchair": "yes",
+            "wheelchair:description:de": "Toilette im Untergeschoss - Aufzug vorhanden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1453582,
+              46.6168283
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4517421963",
+            "osm_type": "node",
+            "lat": 46.644281,
+            "lon": 11.3558433,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Sarnthein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3558433,
+              46.644281
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4533906568",
+            "osm_type": "node",
+            "lat": 46.5869032,
+            "lon": 11.2538979,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Mölten",
+            "website": "https://biblio.bz.it/meltina/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2538979,
+              46.5869032
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4644804497",
+            "osm_type": "node",
+            "lat": 46.604997,
+            "lon": 11.2264795,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Vöran"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2264795,
+              46.604997
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5376279336",
+            "osm_type": "node",
+            "lat": 46.4922853,
+            "lon": 11.3278677,
+            "addr:city": "Bolzano - Bozen",
+            "addr:postcode": "39100",
+            "addr:street": "Passaggio Nazim Hikmet - Nazim-Hikmet-Weg",
+            "amenity": "library",
+            "name": "Biblioteca \"Schweitzer\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3278677,
+              46.4922853
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5653827585",
+            "osm_type": "node",
+            "lat": 46.4638388,
+            "lon": 11.2810113,
+            "amenity": "library",
+            "name": "Bibliothek Girlan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2810113,
+              46.4638388
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5998637226",
+            "osm_type": "node",
+            "lat": 46.4047563,
+            "lon": 11.322312,
+            "amenity": "library",
+            "name": "Biblioteca Vivaldi",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.322312,
+              46.4047563
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12290391059",
+            "osm_type": "node",
+            "lat": 46.4921629,
+            "lon": 11.3265298,
+            "amenity": "library",
+            "name": "Europa",
+            "phone": "+39 0471 508666",
+            "website": "https://biblioteche.comune.bolzano.it/Chi-siamo/Biblioteche/Biblioteca-Europa-F.-Concer"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3265298,
+              46.4921629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12996290119",
+            "osm_type": "node",
+            "lat": 46.5086489,
+            "lon": 11.3429299,
+            "amenity": "library",
+            "contact:email": "adriana.rasa@schule.suedtirol.it",
+            "contact:website": "https://osz-fagen.openportal.siag.it/",
+            "fixme": "Check location",
+            "library:type": "school",
+            "name": "Biblioteca scolastica Liceo scientifico Bolzano e Istituto Tecnico per le Costruzioni Peter Anich - Schulbibliothek Realgymnasium Bozen und Fachoberschule für Bauwesen Peter Anich",
+            "name:de": "Schulbibliothek Realgymnasium Bozen und Fachoberschule für Bauwesen Peter Anich",
+            "name:it": "Biblioteca scolastica Liceo scientifico Bolzano e Istituto Tecnico per le Costruzioni Peter Anich",
+            "note": "There are two locations of this library",
+            "short_name:de": "Schulbibliothek RG & FOB"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3429299,
+              46.5086489
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 9.530952,
+        "north": 47.033758500000005,
+        "east": 10.484655499999999
+      },
+      "poiCount": 32,
+      "leafCount": 32,
+      "averagePosition": [
+        9.73655399375,
+        46.85737563125
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1352911640",
+            "osm_type": "node",
+            "lat": 46.8506618,
+            "lon": 9.5327021,
+            "amenity": "library",
+            "contact:email": "info@vossa-lingua.ch",
+            "contact:phone": "+41 81 250 72 91",
+            "contact:website": "http://www.freieferse.com/vl/",
+            "name": "Vossa Lingua - Interkulturelle Bibliothek Graubünden",
+            "operator": "Verein Vossa Lingua"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5327021,
+              46.8506618
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2579654629",
+            "osm_type": "node",
+            "lat": 46.8672152,
+            "lon": 9.5369769,
+            "amenity": "library",
+            "email": "bibliothek@phgr.ch",
+            "name": "Bibliothek PHGR",
+            "opening_hours": "Mo-Th 08:30-17:00; Fr 08:30-13:00",
+            "operator": "Pädagogischen Hochschule Graubünden",
+            "operator:type": "university",
+            "phone": "+41 81 354 03 32",
+            "ref:isil": "CH-001820-9",
+            "toilets:wheelchair": "yes",
+            "website": "https://phgr.ch/campus/bibliothek",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5369769,
+              46.8672152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3759950766",
+            "osm_type": "node",
+            "lat": 46.8567753,
+            "lon": 9.5315004,
+            "addr:city": "Chur",
+            "addr:housenumber": "89",
+            "addr:postcode": "7000",
+            "addr:street": "Gürtelstrasse",
+            "amenity": "library",
+            "contact:email": "info@anu.gr.ch",
+            "contact:phone": "+41 81 257 29 46",
+            "contact:website": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/Seiten/home.aspx",
+            "name": "Amt für Natur und Umwelt Graubünden Bibliothek",
+            "operator": "Amt für Natur und Umwelt GR",
+            "website": "http://aleph.gr.ch/F/?func=library&sub_library=afu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5315004,
+              46.8567753
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3759952521",
+            "osm_type": "node",
+            "lat": 46.8538638,
+            "lon": 9.5378604,
+            "amenity": "library",
+            "contact:email": "info@awn.gr.ch",
+            "contact:phone": "+41 81 257 38 61",
+            "contact:website": "https://www.gr.ch/DE/institutionen/verwaltung/bvfd/awn/Seiten/welcome.aspx",
+            "name": "Amt für Wald und Naturgefahren Graubünden Bibliothek",
+            "operator": "Amt für Wald und Naturgefahren GR",
+            "ref:isil": "CH-001615-8",
+            "wikidata": "Q33121238"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5378604,
+              46.8538638
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3759967783",
+            "osm_type": "node",
+            "lat": 46.8541957,
+            "lon": 9.538206,
+            "amenity": "library",
+            "contact:email": "info@adg.gr.ch",
+            "contact:phone": "+41 81 257 48 50",
+            "contact:website": "http://www.gr.ch/DE/institutionen/verwaltung/ekud/afk/adg/dienstleistungen/vermitteln/Seiten/publikationen.aspx",
+            "name": "Archäologischer Dienst Graubünden Bibliothek",
+            "operator": "Amt für Kultur des Kantons Graubünden",
+            "website": "http://aleph.gr.ch/F?func=file&file_name=login&local_base=adg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.538206,
+              46.8541957
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760063875",
+            "osm_type": "node",
+            "lat": 46.851288,
+            "lon": 9.5323137,
+            "amenity": "library",
+            "contact:email": "barbara.straub@kbg.gr.ch",
+            "contact:phone": "+41 81 257 28 70",
+            "contact:website": "http://www.buendner-kunstmuseum.ch/de/besuch/bibliothek/Seiten/Bibliothek.aspx",
+            "name": "Bündner Kunstmuseum Bibliothek",
+            "operator": "Kunstmuseum GR"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5323137,
+              46.851288
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760069319",
+            "osm_type": "node",
+            "lat": 46.8542267,
+            "lon": 9.5343478,
+            "amenity": "library",
+            "contact:email": "bibliothek@bnm.gr.ch",
+            "contact:phone": "+41 81 257 28 41",
+            "contact:website": "https://naturmuseum.gr.ch",
+            "name": "Bündner Naturmuseum Bibliothek",
+            "opening_hours": "We 14:00-17:00",
+            "operator": "Amt für Kultur des Kantons Graubünden",
+            "ref:isil": "CH-000959-4"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5343478,
+              46.8542267
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760075975",
+            "osm_type": "node",
+            "lat": 46.8539059,
+            "lon": 9.5377822,
+            "amenity": "library",
+            "contact:email": "info@dpg.gr.ch",
+            "contact:phone": "+41 81 257 27 92",
+            "contact:website": "http://aleph.gr.ch/F/?func=library&sub_library=DPG",
+            "name": "Denkmalpflege Graubünden Bibliothek",
+            "operator": "Amt für Kultur des Kantons Graubünden",
+            "website": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/afk/dpg/ueberuns/Seiten/start.aspx"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5377822,
+              46.8539059
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760158704",
+            "osm_type": "node",
+            "lat": 46.8644634,
+            "lon": 9.5391412,
+            "addr:city": "Chur",
+            "addr:country": "CH",
+            "addr:housenumber": "170",
+            "addr:postcode": "7000",
+            "addr:street": "Loëstrasse",
+            "amenity": "library",
+            "contact:email": "info@ksgr.ch",
+            "contact:phone": "+41 81 256 61 11",
+            "name": "Patientenbibliothek Kantonsspital Graubünden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5391412,
+              46.8644634
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760327380",
+            "osm_type": "node",
+            "lat": 46.8479954,
+            "lon": 9.5372762,
+            "addr:city": "Chur",
+            "addr:housenumber": "7",
+            "addr:postcode": "7000",
+            "addr:street": "Alte Schanfiggerstrasse",
+            "amenity": "library",
+            "contact:email": "bibliothek@thchur.ch",
+            "contact:phone": "+41 81 254 99 44",
+            "contact:website": "http://www.thchur.ch/bibliothek/",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Theologische Hochschule Chur Bibliothek",
+            "opening_hours": "\"Termine nach Vereinbarung\"",
+            "operator": "Priesterseminar St. Luzi",
+            "ref:isil": "CH-001105-4",
+            "wikidata": "Q2418967",
+            "wikipedia": "de:Theologische Hochschule Chur"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5372762,
+              46.8479954
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760332794",
+            "osm_type": "node",
+            "lat": 46.7820988,
+            "lon": 9.5429471,
+            "amenity": "library",
+            "contact:email": "bib.churwalden@bluewin.ch",
+            "contact:phone": "+41 81 382 10 55",
+            "contact:website": "http://www.bibliothek-churwalden.ch/",
+            "name": "Bibliothek Churwalden",
+            "opening_hours": "Mo,Th 16:00-17:30; Tu 18:30-20:00",
+            "operator": "Gemeinde Churwalden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5429471,
+              46.7820988
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760371631",
+            "osm_type": "node",
+            "lat": 46.7950002,
+            "lon": 9.8223997,
+            "addr:city": "Davos Platz",
+            "addr:country": "CH",
+            "addr:housenumber": "2",
+            "addr:postcode": "7270",
+            "addr:street": "Guggerbachstrasse",
+            "amenity": "library",
+            "contact:email": "mediathek@samd.ch",
+            "contact:phone": "+41 81 410 03 11",
+            "contact:website": "http://www.samd.ch/SAMD/Mediathek/Mediathek.html",
+            "name": "SAMD Mediathek",
+            "operator": "SAMD",
+            "ref:isil": "CH-001593-9",
+            "website": "http://www.bibliotheken-gr.ch/Davos_SAM/?view=klassik#Start1",
+            "wikidata": "Q1516924",
+            "wikipedia": "de:Schweizerische Alpine Mittelschule Davos"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8223997,
+              46.7950002
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760388849",
+            "osm_type": "node",
+            "lat": 46.7934256,
+            "lon": 9.8206105,
+            "addr:city": "Davos Platz",
+            "addr:country": "CH",
+            "addr:housenumber": "43",
+            "addr:postcode": "7270",
+            "addr:street": "Promenade",
+            "amenity": "library",
+            "contact:email": "dokbibliothek@davos.gr.ch",
+            "contact:phone": "+41 81 414 33 55",
+            "description": "Der Bestand umfasst über 22'000 Medien sowie eine Fotosammlung mit mehr als 10'000 Fotografien mit Bezug zu Davos. Die drei wichtigsten Davoser Zeitschriften (Davoser Blätter, Davoser Revue und Davoser Zeitung) sind in der Sammlung vollständig vorhanden.",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Dokumentationsbibliothek Davos",
+            "opening_hours": "Mi-Fr 16.00-18.00",
+            "operator": "Gemeinde Davos",
+            "operator:type": "public",
+            "ref:isil": "CH-001110-4",
+            "start_date": "Am neuen Standort im Spätsommer",
+            "website": "https://www.gemeindedavos.ch/dokumentationsbibliothek",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8206105,
+              46.7934256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760680874",
+            "osm_type": "node",
+            "lat": 46.8703868,
+            "lon": 9.8825627,
+            "addr:city": "Klosters",
+            "addr:country": "CH",
+            "addr:housenumber": "1",
+            "addr:postcode": "7250",
+            "addr:street": "Talgasse",
+            "amenity": "library",
+            "contact:email": "gb.klosters@bluewin.ch",
+            "contact:phone": "+41 81 422 49 89",
+            "contact:website": "http://www.bibliothek-klosters.ch/de/",
+            "name": "Gemeindebibliothek Klosters-Serneus",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8825627,
+              46.8703868
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3844228207",
+            "osm_type": "node",
+            "lat": 46.7774469,
+            "lon": 9.6747287,
+            "addr:city": "Arosa",
+            "addr:postcode": "7050",
+            "addr:street": "Schulhausstrasse",
+            "amenity": "library",
+            "contact:email": "bibliothek.arosa@bluewin.ch",
+            "contact:phone": "+41 81 374 21 23",
+            "contact:website": "https://www.gemeindearosa.ch/institutionen-vereine/institutionen/bibliothek.html",
+            "country": "CH",
+            "name": "Gemeinde & Schulbibliothek Arosa",
+            "operator": "Gemeinde Arosa",
+            "website": "http://www.winmedio.net/arosa/#Start1"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6747287,
+              46.7774469
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5420548405",
+            "osm_type": "node",
+            "lat": 46.7298056,
+            "lon": 9.5542085,
+            "addr:city": "Lenzerheide",
+            "addr:country": "CH",
+            "addr:housenumber": "4a",
+            "addr:postcode": "7078",
+            "addr:street": "Via Sporz",
+            "amenity": "library",
+            "contact:email": "bibliothek@vazobervaz.ch",
+            "contact:phone": "+41 81 385 21 43",
+            "contact:website": "https://www.bibliothek-lenzerheide.ch/",
+            "name": "Schul- und Gemeindebibliothek Obervaz/Lenzerheide",
+            "operator": "Gemeinden Obervaz/Lenzerheide"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5542085,
+              46.7298056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6207167844",
+            "osm_type": "node",
+            "lat": 46.8499689,
+            "lon": 9.5341441,
+            "amenity": "library",
+            "contact:email": "info@kbg.gr.ch",
+            "contact:phone": "+41 81 257 28 28",
+            "contact:website": "http://kantonsbibliothek.gr.ch",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "KBG-WLAN",
+            "name": "Kantonsbibliothek Graubünden",
+            "opening_hours": "Mo-Fr 09:00-17:30, Sa 09:00-16:00",
+            "operator": "Kanton GR",
+            "ref:isil": "CH-000070-2",
+            "website": "http://kantonsbibliothek.gr.ch",
+            "wheelchair": "yes",
+            "wikidata": "Q1728089",
+            "wikipedia": "de:Kantonsbibliothek Graubünden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5341441,
+              46.8499689
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "6397741290",
+            "osm_type": "node",
+            "lat": 46.8505322,
+            "lon": 9.5310755,
+            "addr:city": "Chur",
+            "addr:housenumber": "28",
+            "addr:postcode": "7000",
+            "addr:street": "Grabenstrasse",
+            "amenity": "library",
+            "email": "info@bibliochur.ch",
+            "internet_access": "yes",
+            "level": "0",
+            "name": "Stadtbibliothek Chur",
+            "operator": "Stadt Chur",
+            "phone": "+41 81 254 50 10",
+            "website": "https://www.bibliochur.ch",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5310755,
+              46.8505322
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12834653560",
+            "osm_type": "node",
+            "lat": 46.7935071,
+            "lon": 9.8206528,
+            "addr:city": "Davos",
+            "addr:housenumber": "43",
+            "addr:postcode": "7270",
+            "addr:street": "Promenade",
+            "amenity": "library",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Bibliothek Davos",
+            "operator": "Gemeinde Davos",
+            "operator:type": "public",
+            "website": "https://www.gemeindedavos.ch/bibliothek",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8206528,
+              46.7935071
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1908531687",
+            "osm_type": "node",
+            "lat": 46.7748855,
+            "lon": 10.2013316,
+            "amenity": "library"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2013316,
+              46.7748855
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760569767",
+            "osm_type": "node",
+            "lat": 46.7924058,
+            "lon": 10.2384269,
+            "addr:city": "Ftan",
+            "addr:country": "CH",
+            "addr:housenumber": "154",
+            "addr:postcode": "7551",
+            "addr:street": "Chalchera",
+            "amenity": "library",
+            "contact:email": "info@hif.ch",
+            "contact:phone": "+41 81 861 22 11",
+            "contact:website": "http://www.hif.ch/internat/freizeitint/mediothek/",
+            "name": "Mediothek HIF",
+            "operator": "Hochalpines Institut Ftan AG"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.2384269,
+              46.7924058
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761252053",
+            "osm_type": "node",
+            "lat": 46.7960972,
+            "lon": 10.3011023,
+            "addr:city": "Scuol",
+            "addr:country": "CH",
+            "addr:housenumber": "161",
+            "addr:postcode": "7550",
+            "addr:street": "Via dals Bogns",
+            "amenity": "library",
+            "contact:email": "biblioteca.scuol@bluewin.ch",
+            "contact:phone": "+41 81 860 03 55",
+            "contact:website": "http://www.bibliotecascuol.ch",
+            "name": "Biblioteca populara Scuol",
+            "operator": "Gemeinde Scuol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3011023,
+              46.7960972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761256672",
+            "osm_type": "node",
+            "lat": 46.8159122,
+            "lon": 10.3364432,
+            "addr:city": "Sent",
+            "addr:country": "CH",
+            "addr:postcode": "7554",
+            "amenity": "library",
+            "contact:email": "bibliosent@bluewin.ch",
+            "contact:website": "http://www.sent-online.ch/biblioteca/index.html",
+            "name": "Biblioteca cumünala da Sent",
+            "opening_hours": "Sep-Jun: Mo,Th,Sa 16:30-17:30; Jul-Aug: Mo,Th 19:30-20:30; Jul-Aug: Sa 16:30-17:30",
+            "operator": "Società d'Ütil public"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.3364432,
+              46.8159122
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7830722160",
+            "osm_type": "node",
+            "lat": 46.7939679,
+            "lon": 10.246599,
+            "alt_name": "La biblioteca cumünala",
+            "amenity": "library",
+            "email": "biblioteca.ftan@bluewin.ch",
+            "name": "Biblioteca cumünala da Ftan",
+            "opening_hours": "Tu,Sa 16:00-17:30; Th 19:00-20:00",
+            "operator": "Cumün da Scuol",
+            "phone": "+41 81 860 02 46"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.246599,
+              46.7939679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760580553",
+            "osm_type": "node",
+            "lat": 46.9823139,
+            "lon": 9.6476266,
+            "addr:city": "Grüsch",
+            "addr:country": "CH",
+            "addr:housenumber": "5",
+            "addr:postcode": "7214",
+            "addr:street": "Landstrasse",
+            "amenity": "library",
+            "contact:email": "bibliogruesch@gmx.ch",
+            "contact:phone": "+41 81 325 33 10",
+            "contact:website": "http://www.bibliogruesch.ch/",
+            "name": "Bibliothek Rosengarten Grüsch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6476266,
+              46.9823139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760678699",
+            "osm_type": "node",
+            "lat": 46.9677693,
+            "lon": 9.5560858,
+            "amenity": "library",
+            "check_date": "2024-01-29",
+            "contact:email": "bibliothek-landquart@ilnet.ch",
+            "contact:phone": "+41 81 322 47 30",
+            "contact:website": "http://www.bibliothek-landquart.ch/",
+            "name": "Bibliothek Landquart und Umgebung",
+            "operator": "Gemeinde Landquart und Malans",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5560858,
+              46.9677693
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760705513",
+            "osm_type": "node",
+            "lat": 46.9142593,
+            "lon": 9.7787027,
+            "addr:city": "Küblis",
+            "addr:country": "CH",
+            "addr:housenumber": "98A",
+            "addr:postcode": "7240",
+            "addr:street": "Conterserstrasse",
+            "amenity": "library",
+            "contact:email": "mediothek-mittelpraettigau@bluewin.ch",
+            "contact:phone": "+41 81 332 39 15",
+            "contact:website": "http://www.kueblis.ch/de/bildung/bibliotheken/",
+            "name": "Mediothek Mittelprättigau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7787027,
+              46.9142593
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3760728993",
+            "osm_type": "node",
+            "lat": 47.0069235,
+            "lon": 9.5314305,
+            "addr:city": "Maienfeld",
+            "addr:housenumber": "2",
+            "addr:postcode": "7304",
+            "addr:street": "Stutz",
+            "amenity": "library",
+            "contact:email": "bibliothek.maienfeld@spin.ch",
+            "contact:phone": "+41 81 330 72 80",
+            "contact:website": "http://www.maienfeld.ch/de/bildung/bibliotheken/",
+            "name": "Schul- und Gemeindebibliothek Maienfeld",
+            "operator": "Verein Schul- und Gemeindebibliothek Maienfeld",
+            "ref:isil": "CH-001577-5"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5314305,
+              47.0069235
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761234980",
+            "osm_type": "node",
+            "lat": 46.9712044,
+            "lon": 9.6880667,
+            "addr:city": "Schiers",
+            "addr:country": "CH",
+            "addr:postcode": "7220",
+            "addr:street": "Schuderserstrasse",
+            "amenity": "library",
+            "contact:email": "bibliothek@ems-schiers.ch",
+            "contact:phone": "+41 81 308 04 35",
+            "contact:website": "http://www.ems-schiers.ch/freizeit/bibliothek/",
+            "name": "Bibliothek der Evangelischen Mittelschule Schiers",
+            "operator": "Evangelische Mittelschule Schiers"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6880667,
+              46.9712044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761357774",
+            "osm_type": "node",
+            "lat": 46.9355784,
+            "lon": 9.5664398,
+            "amenity": "library",
+            "contact:email": "edwin.zinsli@schule.zizers.ch",
+            "contact:phone": "+41 81 322 11 65",
+            "contact:website": "http://www.schule.zizers.ch/index.php?id=1118&display=1",
+            "name": "Schulbibliothek Zizers"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5664398,
+              46.9355784
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5212196474",
+            "osm_type": "node",
+            "lat": 46.9280922,
+            "lon": 9.5347842,
+            "amenity": "library",
+            "contact:email": "bibliothek@untervaz.ch",
+            "contact:phone": "+41 81 330 06 75",
+            "contact:website": "http://www.untervaz.ch/de/bildung/bibliotheken/",
+            "name": "Gemeindebibliothek Untervaz",
+            "operator": "Gemeinde Untervaz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5347842,
+              46.9280922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3761223063",
+            "osm_type": "node",
+            "lat": 46.9598473,
+            "lon": 10.401252,
+            "addr:city": "Samnaun-Compatsch",
+            "addr:country": "CH",
+            "addr:housenumber": "14",
+            "addr:postcode": "7562",
+            "addr:street": "Schulstrasse",
+            "amenity": "library",
+            "contact:email": "bibliothek@schulesamnaun.ch",
+            "contact:phone": "+41 81 868 55 79",
+            "contact:website": "https://www.schulesamnaun.ch",
+            "name": "Öffentliche Bibliothek Samnaun-Compatsch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.401252,
+              46.9598473
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 10.484655499999999,
+        "north": 47.033758500000005,
+        "east": 11.438358999999998
+      },
+      "poiCount": 7,
+      "leafCount": 7,
+      "averagePosition": [
+        11.2425425,
+        46.866407085714286
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2631324834",
+            "osm_type": "node",
+            "lat": 46.9675933,
+            "lon": 11.0067848,
+            "amenity": "library",
+            "name": "Bibliothek Sölden",
+            "phone": "+43 5254 239713",
+            "website": "http://www.bibliothek.soelden.at"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.0067848,
+              46.9675933
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1324584586",
+            "osm_type": "node",
+            "lat": 46.8974826,
+            "lon": 11.4338761,
+            "addr:city": "Sterzing - Vipiteno",
+            "addr:city:de": "Sterzing",
+            "addr:city:it": "Vipiteno",
+            "addr:country": "IT",
+            "addr:housenumber": "9",
+            "addr:postcode": "39049",
+            "addr:street": "Dantestraße - Via Dante",
+            "addr:street:de": "Dantestraße",
+            "addr:street:it": "Via Dante",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "name:it": "Biblioteca civica",
+            "opening_hours": "Mo-Fr 08:30-19:00",
+            "wikidata": "Q112944425"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.4338761,
+              46.8974826
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9919803601",
+            "osm_type": "node",
+            "lat": 46.9101788,
+            "lon": 11.3049993,
+            "amenity": "library",
+            "opening_hours": "We 17:00-18:30; Su 9:15-10:00"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3049993,
+              46.9101788
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "123394953",
+            "osm_type": "node",
+            "lat": 46.7831642,
+            "lon": 11.2273998,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek St. Martin in Passeier"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2273998,
+              46.7831642
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3347042765",
+            "osm_type": "node",
+            "lat": 46.8312145,
+            "lon": 11.1674172,
+            "amenity": "library",
+            "contact:email": "bibliothek.moos@yahoo.de",
+            "contact:phone": "+39 0473 643 603",
+            "name": "Bibliothek",
+            "opening_hours": "We 09:00-11:00; Th 18:00-20:00; Su 11:00-12:00",
+            "source": "http://www.passeier.it/gemeinden/moos/bibliotheken.html",
+            "source:date": "2015-09-04"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.1674172,
+              46.8312145
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4533905068",
+            "osm_type": "node",
+            "lat": 46.8098463,
+            "lon": 11.2460422,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek St. Leonhard in Passeier"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.2460422,
+              46.8098463
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5860720670",
+            "osm_type": "node",
+            "lat": 46.8653699,
+            "lon": 11.3112781,
+            "amenity": "library",
+            "name": "Öffentliche Bibliothek Innerratschings"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.3112781,
+              46.8653699
+            ]
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

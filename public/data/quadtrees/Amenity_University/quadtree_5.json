@@ -1,0 +1,411 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 15.253173,
+    "north": 47.033758500000005,
+    "east": 17.16058
+  },
+  "poiCount": 15,
+  "leafCount": 15,
+  "averagePosition": [
+    15.914192719999999,
+    46.554955113333335
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2352419888",
+        "osm_type": "node",
+        "lat": 46.5590902,
+        "lon": 15.6380781,
+        "addr:city": "Maribor",
+        "addr:housenumber": "46",
+        "addr:postcode": "2000",
+        "addr:street": "Koroška cesta",
+        "amenity": "university",
+        "email": "feri@um.si",
+        "fax": "+386 2 220 7272",
+        "internet_access": "wlan",
+        "internet_access:ssid": "Eduroam",
+        "name": "Fakulteta za elektrotehniko, računalništvo in informatiko Maribor",
+        "name:en": "Faculty of Electrical Engineering and Computer Science",
+        "phone": "+386 2 220 7000",
+        "website": "https://feri.um.si/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6380781,
+          46.5590902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2779346792",
+        "osm_type": "node",
+        "lat": 46.3929766,
+        "lon": 15.5705979,
+        "addr:city": "Slovenska Bistrica",
+        "addr:housenumber": "22",
+        "addr:postcode": "2310",
+        "addr:street": "Partizanska ulica",
+        "amenity": "university",
+        "name": "Ljudska univerza Slovenska Bistrica",
+        "website": "http://www.lu-sb.si/predstavitev.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5705979,
+          46.3929766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2922122895",
+        "osm_type": "node",
+        "lat": 46.5637439,
+        "lon": 15.6241238,
+        "addr:city": "Maribor",
+        "addr:housenumber": "160",
+        "addr:postcode": "2000",
+        "addr:street": "Koroška cesta",
+        "amenity": "university",
+        "email": "boris.munisic@um.si",
+        "fax": "+386 2 25 18 180",
+        "name": "Fakulteta za naravoslovje in matematiko",
+        "phone": "+386 2 22 93 844",
+        "website": "https://www.fnm.um.si/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6241238,
+          46.5637439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3159016061",
+        "osm_type": "node",
+        "lat": 46.4196185,
+        "lon": 15.8715114,
+        "addr:city": "Ptuj",
+        "addr:housenumber": "2",
+        "addr:postcode": "2250",
+        "addr:street": "Mestni trg",
+        "amenity": "university",
+        "email": "info@lu-ptuj.si",
+        "name": "Ljudska univerza Ptuj",
+        "operator": "Mestna občina Ptuj",
+        "operator:type": "local_authority",
+        "website": "https://www.lu-ptuj.si/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8715114,
+          46.4196185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3671535878",
+        "osm_type": "node",
+        "lat": 46.5638713,
+        "lon": 15.6235642,
+        "addr:city": "Maribor",
+        "addr:housenumber": "160",
+        "addr:postcode": "2000",
+        "addr:street": "Koroška cesta",
+        "amenity": "university",
+        "email": "ff@um.si",
+        "fax": "+386 2 22 93 625",
+        "name": "Filozofska fakulteta",
+        "phone": "+386 2 22 93 840",
+        "website": "https://ff.um.si/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6235642,
+          46.5638713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3671535879",
+        "osm_type": "node",
+        "lat": 46.5634784,
+        "lon": 15.6245943,
+        "addr:city": "Maribor",
+        "addr:housenumber": "160",
+        "addr:postcode": "2000",
+        "addr:street": "Koroška cesta",
+        "amenity": "university",
+        "email": "dekanat.pef@um.si",
+        "fax": "+386 2 22 93 760",
+        "name": "Pedagoška fakulteta",
+        "phone": "+386 2 22 93 600",
+        "website": "https://pef.um.si/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6245943,
+          46.5634784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5223581368",
+        "osm_type": "node",
+        "lat": 46.5591185,
+        "lon": 15.6401029,
+        "addr:city": "Maribor",
+        "addr:housenumber": "17",
+        "addr:postcode": "2000",
+        "addr:street": "Smetanova ulica",
+        "amenity": "university",
+        "email": "fs@um.si",
+        "fax": "+386 2 220 7990",
+        "name": "Fakulteta za strojništvo Maribor",
+        "phone": "+386 2 220 7500",
+        "website": "http://www.fs.um.si/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6401029,
+          46.5591185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5223581369",
+        "osm_type": "node",
+        "lat": 46.5594173,
+        "lon": 15.6392875,
+        "addr:city": "Maribor",
+        "addr:housenumber": "17",
+        "addr:postcode": "2000",
+        "addr:street": "Smetanova ulica",
+        "amenity": "university",
+        "email": "fkkt@um.si",
+        "fax": "+386 2 2527 774",
+        "name": "Fakulteta za kemijo in kemijsko tehnologijo Maribor",
+        "phone": "+386 2 2294 400",
+        "website": "https://www.fkkt.um.si/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6392875,
+          46.5594173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5223581370",
+        "osm_type": "node",
+        "lat": 46.5590189,
+        "lon": 15.6406072,
+        "addr:city": "Maribor",
+        "addr:housenumber": "17",
+        "addr:postcode": "2000",
+        "addr:street": "Smetanova ulica",
+        "amenity": "university",
+        "email": "fgpa@um.si",
+        "fax": "+386 2 2524 179",
+        "name": "Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Maribor",
+        "phone": "+386 2 2294 300",
+        "website": "https://www.fgpa.um.si/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6406072,
+          46.5590189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5499120150",
+        "osm_type": "node",
+        "lat": 46.5577463,
+        "lon": 15.6464021,
+        "addr:city": "Maribor",
+        "addr:housenumber": "17b",
+        "addr:postcode": "2000",
+        "addr:street": "Glavni Trg",
+        "amenity": "university",
+        "check_date": "2025-09-05",
+        "email": "info@academia.si",
+        "name": "Višja strokovna šola Academia",
+        "phone": "+386 2 228 3535",
+        "website": "https://www.academia.si/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6464021,
+          46.5577463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11591318022",
+        "osm_type": "node",
+        "lat": 46.5601809,
+        "lon": 15.6451354,
+        "addr:city": "Maribor",
+        "addr:housenumber": "17",
+        "addr:postcode": "2000",
+        "addr:street": "Slovenska ulica",
+        "amenity": "university",
+        "name": "Alma Mater Europaea - ECM",
+        "website": "https://almamater.si/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6451354,
+          46.5601809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6681757425",
+        "osm_type": "node",
+        "lat": 46.3911302,
+        "lon": 16.4480516,
+        "addr:city": "Čakovec",
+        "addr:housenumber": "22A",
+        "addr:postcode": "40000",
+        "addr:street": "Ulica bana Josipa Jelačića",
+        "amenity": "university",
+        "email": "veleuciliste@mev.hr",
+        "name": "Međimursko veleučilište u Čakovcu",
+        "phone": "+385 40 396 999",
+        "short_name": "MEV",
+        "website": "https://www.mev.hr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4480516,
+          46.3911302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6732328240",
+        "osm_type": "node",
+        "lat": 46.3846566,
+        "lon": 16.446125,
+        "addr:city": "Čakovec",
+        "addr:housenumber": "55",
+        "addr:postcode": "40000",
+        "addr:street": "Ulica dr. Ante Starčevića",
+        "amenity": "university",
+        "branch": "Odsjek u Čakovcu",
+        "name": "Učiteljski fakultet",
+        "name:en": "Faculty of Teacher Education",
+        "operator": "Sveučilište u Zagrebu",
+        "operator:type": "public",
+        "website": "https://www.ufzg.unizg.hr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.446125,
+          46.3846566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3479932392",
+        "osm_type": "node",
+        "lat": 46.8459393,
+        "lon": 16.8258208,
+        "addr:city": "Zalaegerszeg",
+        "addr:housenumber": "18/a",
+        "addr:postcode": "8900",
+        "addr:street": "Gasparich Márk utca",
+        "amenity": "university",
+        "name": "Pannon Egyetem Mérnöki Kar, Zalaegerszeg",
+        "phone": "+3692509900",
+        "source": "turistautak.hu",
+        "source:date": "2012-01-20",
+        "url": "http://turistautak.hu/poi.php?id=44011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8258208,
+          46.8459393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9723422790",
+        "osm_type": "node",
+        "lat": 46.8443398,
+        "lon": 16.8288886,
+        "addr:city": "Zalaegerszeg",
+        "addr:housenumber": "18/a",
+        "addr:postcode": "8900",
+        "addr:street": "Gasparich Márk utca",
+        "amenity": "university",
+        "name": "Pannon Egyetem Gazdálkodási Kar, Zalaegerszeg",
+        "phone": "+3692509900",
+        "source": "turistautak.hu",
+        "source:date": "2012-01-20",
+        "url": "http://turistautak.hu/poi.php?id=44011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8288886,
+          46.8443398
+        ]
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,5227 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 9.530952,
+    "north": 47.033758500000005,
+    "east": 11.438358999999998
+  },
+  "poiCount": 210,
+  "leafCount": 0,
+  "averagePosition": [
+    10.364988120476193,
+    46.666884326190484
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 9.530952,
+        "north": 46.70320525,
+        "east": 10.484655499999999
+      },
+      "poiCount": 47,
+      "leafCount": 47,
+      "averagePosition": [
+        9.88367464680851,
+        46.56506146170213
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "256445984",
+            "osm_type": "node",
+            "lat": 46.5073943,
+            "lon": 9.8804847,
+            "ele": "1736",
+            "name": "Punt Muragl Staz",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "railway": "halt",
+            "railway:ref": "PTMS",
+            "shelter": "no",
+            "train": "yes",
+            "uic_name": "Punt Muragl Staz",
+            "uic_ref": "8509351",
+            "website": "https://kisqr.rhb.ch/stationDisplay/RGA-PTMS",
+            "wikidata": "Q7260495",
+            "wikipedia": "en:Punt Muragl Staz (Rhaetian Railway station)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8804847,
+              46.5073943
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "256451525",
+            "osm_type": "node",
+            "lat": 46.4417268,
+            "lon": 9.9824285,
+            "ele": "2082",
+            "name": "Bernina Diavolezza",
+            "operator": "RhB",
+            "railway": "halt",
+            "railway:ref": "BEDI",
+            "uic_name": "Bernina Diavolezza",
+            "uic_ref": "8519370",
+            "wikidata": "Q4894537",
+            "wikipedia": "en:Bernina Diavolezza (Rhaetian Railway station)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9824285,
+              46.4417268
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "266199255",
+            "osm_type": "node",
+            "lat": 46.5869736,
+            "lon": 9.9383287,
+            "ele": "1697",
+            "name": "Madulain",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "railway": "halt",
+            "railway:ref": "MADU",
+            "uic_name": "Madulain",
+            "uic_ref": "8509257",
+            "wikidata": "Q6728777",
+            "wikimedia_commons": "Category:Madulain railway station",
+            "wikipedia": "en:Madulain (Rhaetian Railway station)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9383287,
+              46.5869736
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "266203327",
+            "osm_type": "node",
+            "lat": 46.6374964,
+            "lon": 10.0216487,
+            "name": "Cinuos-chel-Brail",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0216487,
+              46.6374964
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "346921241",
+            "osm_type": "node",
+            "lat": 46.5090554,
+            "lon": 9.8828461,
+            "bench": "yes",
+            "bin": "yes",
+            "departures_board": "timetable",
+            "ele": "1738",
+            "name": "Punt Muragl (Talstation)",
+            "operator": "BEST-mmb",
+            "public_transport": "station",
+            "railway": "halt",
+            "shelter": "yes",
+            "station": "funicular",
+            "tactile_paving": "no",
+            "uic_name": "Punt Muragl (Talstation)",
+            "uic_ref": "8509275"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8828461,
+              46.5090554
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "346921247",
+            "osm_type": "node",
+            "lat": 46.5216568,
+            "lon": 9.9018419,
+            "name": "Muottas Muragl",
+            "operator": "BEST-mmb",
+            "public_transport": "stop_position",
+            "railway": "halt",
+            "station": "funicular",
+            "uic_name": "Muottas Muragl",
+            "uic_ref": "8509276"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9018419,
+              46.5216568
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "984712525",
+            "osm_type": "node",
+            "lat": 46.6197299,
+            "lon": 9.9970092,
+            "ele": "1668",
+            "name": "S-chanf Marathon",
+            "note": "only served one day each year for Engadin Marathon event",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "platform",
+            "railway": "halt",
+            "railway:ref": "SFM",
+            "train": "yes",
+            "uic_name": "S-chanf Marathon",
+            "uic_ref": "8517481",
+            "wikidata": "Q33512132"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9970092,
+              46.6197299
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2206406828",
+            "osm_type": "node",
+            "lat": 46.612142,
+            "lon": 9.9822228,
+            "name": "S-chanf",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9822228,
+              46.612142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2269872464",
+            "osm_type": "node",
+            "lat": 46.599789,
+            "lon": 9.9613326,
+            "name": "Zuoz",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9613326,
+              46.599789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "2338253433",
+            "osm_type": "node",
+            "lat": 46.4450606,
+            "lon": 9.9690549,
+            "name": "Bernina Suot",
+            "operator": "RhB",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9690549,
+              46.4450606
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5403413275",
+            "osm_type": "node",
+            "lat": 46.4450097,
+            "lon": 9.969096,
+            "name": "Bernina Suot",
+            "operator": "RhB",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.969096,
+              46.4450097
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8977739008",
+            "osm_type": "node",
+            "lat": 46.6711211,
+            "lon": 9.6523526,
+            "name": "Alvaneu",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6523526,
+              46.6711211
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9137400821",
+            "osm_type": "node",
+            "lat": 46.533809,
+            "lon": 9.8739041,
+            "local_ref": "5",
+            "name": "Samedan",
+            "old_name:de": "Samaden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Samedan",
+            "uic_ref": "8509251"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8739041,
+              46.533809
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9151217528",
+            "osm_type": "node",
+            "lat": 46.4975969,
+            "lon": 9.8454594,
+            "local_ref": "1",
+            "name": "St. Moritz",
+            "name:de": "St. Moritz",
+            "name:fr": "Saint-Moritz",
+            "name:rm": "San Murezzan",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8454594,
+              46.4975969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9151217529",
+            "osm_type": "node",
+            "lat": 46.4975688,
+            "lon": 9.8454938,
+            "local_ref": "2",
+            "name": "St. Moritz",
+            "name:de": "St. Moritz",
+            "name:fr": "Saint-Moritz",
+            "name:rm": "San Murezzan",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8454938,
+              46.4975688
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9151217539",
+            "osm_type": "node",
+            "lat": 46.4974951,
+            "lon": 9.8455822,
+            "local_ref": "3",
+            "name": "St. Moritz",
+            "name:de": "St. Moritz",
+            "name:fr": "Saint-Moritz",
+            "name:rm": "San Murezzan",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8455822,
+              46.4974951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9151217542",
+            "osm_type": "node",
+            "lat": 46.4973958,
+            "lon": 9.8457044,
+            "local_ref": "6",
+            "name": "St. Moritz",
+            "name:de": "St. Moritz",
+            "name:fr": "Saint-Moritz",
+            "name:rm": "San Murezzan",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8457044,
+              46.4973958
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996467",
+            "osm_type": "node",
+            "lat": 46.6640243,
+            "lon": 9.5728991,
+            "name": "Tiefencastel",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.5728991,
+              46.6640243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996470",
+            "osm_type": "node",
+            "lat": 46.6753608,
+            "lon": 9.6822574,
+            "local_ref": "3",
+            "name": "Filisur",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6822574,
+              46.6753608
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996471",
+            "osm_type": "node",
+            "lat": 46.6752724,
+            "lon": 9.6822751,
+            "local_ref": "2",
+            "name": "Filisur",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6822751,
+              46.6752724
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996472",
+            "osm_type": "node",
+            "lat": 46.6752349,
+            "lon": 9.6822844,
+            "local_ref": "1",
+            "name": "Filisur",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6822844,
+              46.6752349
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996473",
+            "osm_type": "node",
+            "lat": 46.5339184,
+            "lon": 9.8736205,
+            "local_ref": "2",
+            "name": "Samedan",
+            "old_name:de": "Samaden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Samedan",
+            "uic_ref": "8509251"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8736205,
+              46.5339184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996474",
+            "osm_type": "node",
+            "lat": 46.5338443,
+            "lon": 9.8737129,
+            "local_ref": "3",
+            "name": "Samedan",
+            "old_name:de": "Samaden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Samedan",
+            "uic_ref": "8509251"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8737129,
+              46.5338443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10048996475",
+            "osm_type": "node",
+            "lat": 46.5338796,
+            "lon": 9.8738127,
+            "local_ref": "4",
+            "name": "Samedan",
+            "old_name:de": "Samaden",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes",
+            "uic_name": "Samedan",
+            "uic_ref": "8509251"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8738127,
+              46.5338796
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10312822660",
+            "osm_type": "node",
+            "lat": 46.5494573,
+            "lon": 9.888499,
+            "name": "Bever",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes",
+            "uic_ref": "8509250"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.888499,
+              46.5494573
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10312822661",
+            "osm_type": "node",
+            "lat": 46.5494926,
+            "lon": 9.8883648,
+            "name": "Bever",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes",
+            "uic_ref": "8509250"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8883648,
+              46.5494926
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10712038280",
+            "osm_type": "node",
+            "lat": 46.4973233,
+            "lon": 9.8457762,
+            "local_ref": "7",
+            "name": "St. Moritz",
+            "name:de": "St. Moritz",
+            "name:fr": "Saint-Moritz",
+            "name:rm": "San Murezzan",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8457762,
+              46.4973233
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10712113420",
+            "osm_type": "node",
+            "lat": 46.5138109,
+            "lon": 9.8581313,
+            "name": "Celerina/Schlarigna",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8581313,
+              46.5138109
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11533995832",
+            "osm_type": "node",
+            "lat": 46.4908713,
+            "lon": 9.8959985,
+            "local_ref": "1",
+            "name": "Pontresina",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Pontresina",
+            "uic_ref": "8509255"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8959985,
+              46.4908713
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11533995833",
+            "osm_type": "node",
+            "lat": 46.4904897,
+            "lon": 9.8962437,
+            "local_ref": "3",
+            "name": "Pontresina",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes",
+            "uic_name": "Pontresina",
+            "uic_ref": "8509255"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8962437,
+              46.4904897
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11533995834",
+            "osm_type": "node",
+            "lat": 46.4904463,
+            "lon": 9.8961208,
+            "local_ref": "4",
+            "name": "Pontresina",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "4",
+            "train": "yes",
+            "uic_name": "Pontresina",
+            "uic_ref": "8509255"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8961208,
+              46.4904463
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11653020445",
+            "osm_type": "node",
+            "lat": 46.6955531,
+            "lon": 9.7160927,
+            "name": "Davos Wiesen",
+            "operator": "RhB",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7160927,
+              46.6955531
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11847002058",
+            "osm_type": "node",
+            "lat": 46.5788219,
+            "lon": 9.9237894,
+            "name": "La Punt Chamues-ch",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9237894,
+              46.5788219
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12549142755",
+            "osm_type": "node",
+            "lat": 46.6802842,
+            "lon": 9.6720991,
+            "name": "Schmitten GR Landwasserviadukt",
+            "operator": "RhB",
+            "railway": "halt",
+            "source": "https://tickets.rhb.ch/de/pages/viaduktshuttle",
+            "start_date": "2025-05-17"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6720991,
+              46.6802842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12549142761",
+            "osm_type": "node",
+            "lat": 46.6802581,
+            "lon": 9.6721029,
+            "name": "Schmitten GR Landwasserviadukt",
+            "operator": "RhB",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.6721029,
+              46.6802581
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12571010402",
+            "osm_type": "node",
+            "lat": 46.6315685,
+            "lon": 9.7465539,
+            "name": "Bergün/Bravuogn",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.7465539,
+              46.6315685
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13026595608",
+            "osm_type": "node",
+            "lat": 46.5098006,
+            "lon": 9.8810395,
+            "name": "Punt Muragl",
+            "network": "ch-integral;Engadin mobil",
+            "network:wikidata": "Q55503992",
+            "operator": "Viafier retica",
+            "operator:de": "Rhätische Bahn",
+            "operator:it": "Ferrovia retica",
+            "operator:rm": "Viafier retica",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8810395,
+              46.5098006
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13026676754",
+            "osm_type": "node",
+            "lat": 46.5998094,
+            "lon": 9.9612818,
+            "name": "Zuoz",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9612818,
+              46.5998094
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13026677139",
+            "osm_type": "node",
+            "lat": 46.5870394,
+            "lon": 9.9382036,
+            "name": "Madulain",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9382036,
+              46.5870394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13027123858",
+            "osm_type": "node",
+            "lat": 46.6375111,
+            "lon": 10.0215982,
+            "name": "Cinuos-chel-Brail",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0215982,
+              46.6375111
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13027139441",
+            "osm_type": "node",
+            "lat": 46.6121141,
+            "lon": 9.9822712,
+            "name": "S-chanf",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.9822712,
+              46.6121141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13074188619",
+            "osm_type": "node",
+            "lat": 46.5073391,
+            "lon": 9.8804841,
+            "name": "Punt Muragl Staz",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "railway:ref": "PTMS",
+            "ref": "1",
+            "train": "yes",
+            "uic_name": "Punt Muragl Staz",
+            "uic_ref": "8509351"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.8804841,
+              46.5073391
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9164120795",
+            "osm_type": "node",
+            "lat": 46.3744926,
+            "lon": 10.0314175,
+            "name": "Alp Grüm",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0314175,
+              46.3744926
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11032391001",
+            "osm_type": "node",
+            "lat": 46.3745143,
+            "lon": 10.0314699,
+            "name": "Alp Grüm",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0314699,
+              46.3745143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11783622787",
+            "osm_type": "node",
+            "lat": 46.6982938,
+            "lon": 10.0899058,
+            "name": "Zernez",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "1",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0899058,
+              46.6982938
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11783622788",
+            "osm_type": "node",
+            "lat": 46.698025,
+            "lon": 10.0898722,
+            "name": "Zernez",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "2",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0898722,
+              46.698025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11783622789",
+            "osm_type": "node",
+            "lat": 46.6980162,
+            "lon": 10.0897396,
+            "name": "Zernez",
+            "network": "RhB",
+            "network:wikidata": "Q2204412",
+            "operator": "RhB",
+            "operator:wikidata": "Q177598",
+            "public_transport": "stop_position",
+            "railway": "stop",
+            "ref": "3",
+            "train": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.0897396,
+              46.6980162
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 46.372652,
+        "west": 10.484655499999999,
+        "north": 46.70320525,
+        "east": 11.438358999999998
+      },
+      "poiCount": 88,
+      "leafCount": 0,
+      "averagePosition": [
+        11.107685517045455,
+        46.560981662500005
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.372652,
+            "west": 10.961507249999999,
+            "north": 46.537928625000006,
+            "east": 11.438358999999998
+          },
+          "poiCount": 41,
+          "leafCount": 41,
+          "averagePosition": [
+            11.283420192682927,
+            46.46933942926829
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "335604391",
+                "osm_type": "node",
+                "lat": 46.3811641,
+                "lon": 10.9718977,
+                "departures_board": "realtime",
+                "name": "Tozzaga",
+                "network": "Ferrovia Trento-Malé-Mezzana",
+                "operator": "Trentino Trasporti",
+                "public_transport": "station",
+                "railway": "halt",
+                "request_stop": "yes",
+                "train": "yes",
+                "wikidata": "Q42839674"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9718977,
+                  46.3811641
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "600596907",
+                "osm_type": "node",
+                "lat": 46.3752482,
+                "lon": 10.9627166,
+                "departures_board": "realtime",
+                "name": "Cassana",
+                "network": "Ferrovia Trento-Malé-Mezzana",
+                "operator": "Trentino Trasporti",
+                "public_transport": "station",
+                "railway": "halt",
+                "request_stop": "yes",
+                "train": "yes",
+                "wikidata": "Q42839049"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9627166,
+                  46.3752482
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10241950773",
+                "osm_type": "node",
+                "lat": 46.37527,
+                "lon": 10.9627374,
+                "name": "Cassana",
+                "operator": "Trentino Trasporti",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9627374,
+                  46.37527
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10241950774",
+                "osm_type": "node",
+                "lat": 46.3811572,
+                "lon": 10.9718808,
+                "name": "Tozzaga",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9718808,
+                  46.3811572
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10241950779",
+                "osm_type": "node",
+                "lat": 46.3947803,
+                "lon": 11.0097775,
+                "local_ref": "2",
+                "name": "Mostizzolo",
+                "operator": "Trentino Trasporti",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0097775,
+                  46.3947803
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10241950780",
+                "osm_type": "node",
+                "lat": 46.3948087,
+                "lon": 11.0097884,
+                "local_ref": "1",
+                "name": "Mostizzolo",
+                "operator": "Trentino Trasporti",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0097884,
+                  46.3948087
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "279694185",
+                "osm_type": "node",
+                "lat": 46.4735137,
+                "lon": 11.3265576,
+                "name": "Bolzano Sud - Bozen Süd",
+                "name:de": "Bozen Süd",
+                "name:it": "Bolzano Sud",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Bolzano Sud/Bozen Süd",
+                "uic_ref": "8301251",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3265576,
+                  46.4735137
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "353729654",
+                "osm_type": "node",
+                "lat": 46.4346165,
+                "lon": 11.3237268,
+                "name": "Laives - Leifers",
+                "name:de": "Leifers",
+                "name:it": "Laives",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3237268,
+                  46.4346165
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "371506527",
+                "osm_type": "node",
+                "lat": 46.5289184,
+                "lon": 11.4201171,
+                "description:de": "Bedarfshaltestelle",
+                "description:it": "Fermata a richiesta",
+                "light_rail": "yes",
+                "name": "Rinner",
+                "name:de": "Rinner",
+                "name:it": "Rinner",
+                "on_demand": "yes",
+                "public_transport": "station",
+                "railway": "halt",
+                "request_stop": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4201171,
+                  46.5289184
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "387219924",
+                "osm_type": "node",
+                "lat": 46.508421,
+                "lon": 11.2648137,
+                "name": "Siebeneich - Settequerce",
+                "name:de": "Siebeneich",
+                "name:it": "Settequerce",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2648137,
+                  46.508421
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "556402511",
+                "osm_type": "node",
+                "lat": 46.4857126,
+                "lon": 11.297153,
+                "name": "Ponte d'Adige - Sigmundskron",
+                "name:de": "Sigmundskron",
+                "name:it": "Ponte d'Adige",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.297153,
+                  46.4857126
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "582637738",
+                "osm_type": "node",
+                "lat": 46.5284062,
+                "lon": 11.2485058,
+                "name": "Terlan - Terlano",
+                "name:de": "Terlan",
+                "name:it": "Terlano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2485058,
+                  46.5284062
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "632998553",
+                "osm_type": "node",
+                "lat": 46.4964152,
+                "lon": 11.3586773,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3586773,
+                  46.4964152
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "633176457",
+                "osm_type": "node",
+                "lat": 46.4964971,
+                "lon": 11.3585733,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3585733,
+                  46.4964971
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "633177724",
+                "osm_type": "node",
+                "lat": 46.4959452,
+                "lon": 11.3574929,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1A",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3574929,
+                  46.4959452
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1096692776",
+                "osm_type": "node",
+                "lat": 46.4116244,
+                "lon": 11.2239961,
+                "funicular": "yes",
+                "name": "Kalterer Höhenweg - Alta Via di Caldaro",
+                "name:de": "Kalterer Höhenweg",
+                "name:it": "Alta Via di Caldaro",
+                "note": "Exit only",
+                "public_transport": "station",
+                "railway": "halt",
+                "source:name": "https://de.wikipedia.org/wiki/Mendelbahn",
+                "station": "funicular"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2239961,
+                  46.4116244
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1444852254",
+                "osm_type": "node",
+                "lat": 46.4048693,
+                "lon": 11.3159245,
+                "name": "Bronzolo - Branzoll",
+                "name:de": "Branzoll",
+                "name:it": "Bronzolo",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3159245,
+                  46.4048693
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1444852265",
+                "osm_type": "node",
+                "lat": 46.4048799,
+                "lon": 11.3157922,
+                "name": "Bronzolo - Branzoll",
+                "name:de": "Branzoll",
+                "name:it": "Bronzolo",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3157922,
+                  46.4048799
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1444852266",
+                "osm_type": "node",
+                "lat": 46.404894,
+                "lon": 11.3156759,
+                "name": "Bronzolo - Branzoll",
+                "name:de": "Branzoll",
+                "name:it": "Bronzolo",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "Q1060049",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:wikipedia": "en:Rete Ferroviaria Italiana",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3156759,
+                  46.404894
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1444852442",
+                "osm_type": "node",
+                "lat": 46.4346204,
+                "lon": 11.3236826,
+                "name": "Laives - Leifers",
+                "name:de": "Leifers",
+                "name:it": "Laives",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3236826,
+                  46.4346204
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1451124559",
+                "osm_type": "node",
+                "lat": 46.496226,
+                "lon": 11.358876,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.358876,
+                  46.496226
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1451124563",
+                "osm_type": "node",
+                "lat": 46.496299,
+                "lon": 11.3587888,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3587888,
+                  46.496299
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1451124565",
+                "osm_type": "node",
+                "lat": 46.4963328,
+                "lon": 11.3587507,
+                "name": "Bolzano - Bozen",
+                "name:de": "Bozen",
+                "name:it": "Bolzano",
+                "network": "RFI",
+                "operator": "RFI",
+                "operator:wikidata": "Q1060049",
+                "operator:wikipedia": "en:Rete Ferroviaria Italiana",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3587507,
+                  46.4963328
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1455273163",
+                "osm_type": "node",
+                "lat": 46.4735199,
+                "lon": 11.3264409,
+                "layer": "1",
+                "name": "Bolzano Sud - Bozen Süd",
+                "name:de": "Bozen Süd",
+                "name:it": "Bolzano Sud",
+                "network": "RFI",
+                "network:wikidata": "Q1060049",
+                "operator": "RFI",
+                "public_transport": "station",
+                "railway": "halt",
+                "source": "https://github.com/trainline-eu/stations",
+                "train": "yes",
+                "uic_name": "Bolzano Sud/Bozen Süd",
+                "uic_ref": "8302226",
+                "wheelchair": "yes",
+                "wikidata": "Q3969068",
+                "wikipedia": "it:Stazione di Bolzano Sud"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3264409,
+                  46.4735199
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1455273180",
+                "osm_type": "node",
+                "lat": 46.5084851,
+                "lon": 11.2649395,
+                "name": "Siebeneich - Settequerce",
+                "name:de": "Siebeneich",
+                "name:it": "Settequerce",
+                "operator": "RFI",
+                "public_transport": "station",
+                "railway": "halt",
+                "source": "https://github.com/trainline-eu/stations",
+                "uic_name": "Settequerce/Siebeneich",
+                "uic_ref": "8302224",
+                "wikidata": "Q16609902",
+                "wikipedia": "it:Stazione di Settequerce"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2649395,
+                  46.5084851
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1521325264",
+                "osm_type": "node",
+                "lat": 46.5284311,
+                "lon": 11.2485939,
+                "name": "Terlan - Terlano",
+                "name:de": "Terlan",
+                "name:it": "Terlano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2485939,
+                  46.5284311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1752324319",
+                "osm_type": "node",
+                "lat": 46.530107,
+                "lon": 11.4148174,
+                "light_rail": "yes",
+                "name": "Linzbach",
+                "public_transport": "station",
+                "railway": "halt",
+                "station": "light_rail"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4148174,
+                  46.530107
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1752351171",
+                "osm_type": "node",
+                "lat": 46.5258246,
+                "lon": 11.4244857,
+                "light_rail": "yes",
+                "name": "Wolfsgruben - Costalovara",
+                "name:de": "Wolfsgruben",
+                "name:it": "Costalovara",
+                "public_transport": "station",
+                "railway": "halt"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4244857,
+                  46.5258246
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1876413506",
+                "osm_type": "node",
+                "lat": 46.4800156,
+                "lon": 11.315272,
+                "name": "Casanova - Kaiserau",
+                "name:de": "Kaiserau",
+                "name:it": "Casanova",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "source": "http://www.provinz.bz.it/lpa/285.asp?aktuelles_action=4&aktuelles_article_id=417456",
+                "start_date": "2013-12-15",
+                "train": "yes",
+                "uic_name": "Bolzano Casanova/Bozen Kaiserau",
+                "uic_ref": "8303945"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.315272,
+                  46.4800156
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1876413516",
+                "osm_type": "node",
+                "lat": 46.4799747,
+                "lon": 11.3154174,
+                "name": "Casanova - Kaiserau",
+                "name:de": "Kaiserau",
+                "name:it": "Casanova",
+                "public_transport": "station",
+                "railway": "halt",
+                "source": "http://www.provinz.bz.it/lpa/285.asp?aktuelles_action=4&aktuelles_article_id=417456",
+                "start_date": "2013-12-15",
+                "wikidata": "Q16608835",
+                "wikipedia": "it:Stazione di Bolzano Casanova"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3154174,
+                  46.4799747
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6362926548",
+                "osm_type": "node",
+                "lat": 46.5243981,
+                "lon": 11.3941105,
+                "light_rail": "yes",
+                "name": "Himmelfahrt - L'Assunta",
+                "name:de": "Himmelfahrt",
+                "name:it": "L'Assunta",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.3941105,
+                  46.5243981
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389711048",
+                "osm_type": "node",
+                "lat": 46.4856592,
+                "lon": 11.2971256,
+                "name": "Ponte d'Adige - Sigmundskron",
+                "name:de": "Sigmundskron",
+                "name:it": "Ponte d'Adige",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2971256,
+                  46.4856592
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684660381",
+                "osm_type": "node",
+                "lat": 46.5289378,
+                "lon": 11.4351703,
+                "light_rail": "yes",
+                "name": "Lichtenstern - Stella",
+                "name:de": "Lichtenstern",
+                "name:it": "Stella",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4351703,
+                  46.5289378
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684660382",
+                "osm_type": "node",
+                "lat": 46.5289095,
+                "lon": 11.4352133,
+                "light_rail": "yes",
+                "name": "Lichtenstern - Stella",
+                "name:de": "Lichtenstern",
+                "name:it": "Stella",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4352133,
+                  46.5289095
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684691215",
+                "osm_type": "node",
+                "lat": 46.5258481,
+                "lon": 11.4244937,
+                "light_rail": "yes",
+                "name": "Wolfsgruben - Costalovara",
+                "name:de": "Wolfsgruben",
+                "name:it": "Costalovara",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4244937,
+                  46.5258481
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684691229",
+                "osm_type": "node",
+                "lat": 46.5289063,
+                "lon": 11.420081,
+                "description:de": "Bedarfshaltestelle",
+                "description:it": "Fermata a richiesta",
+                "light_rail": "yes",
+                "name": "Rinner",
+                "name:de": "Rinner",
+                "name:it": "Rinner",
+                "on_demand": "yes",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.420081,
+                  46.5289063
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684691252",
+                "osm_type": "node",
+                "lat": 46.5301311,
+                "lon": 11.4148064,
+                "light_rail": "yes",
+                "name": "Linzbach",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4148064,
+                  46.5301311
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7684691275",
+                "osm_type": "node",
+                "lat": 46.5280698,
+                "lon": 11.4056137,
+                "light_rail": "yes",
+                "name": "Oberbozen - Soprabolzano",
+                "name:de": "Oberbozen",
+                "name:it": "Soprabolzano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.4056137,
+                  46.5280698
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13046550559",
+                "osm_type": "node",
+                "lat": 46.4116323,
+                "lon": 11.2240004,
+                "funicular": "yes",
+                "name": "Kalterer Höhenweg - Alta Via di Caldaro",
+                "name:de": "Kalterer Höhenweg",
+                "name:it": "Alta Via di Caldaro",
+                "public_transport": "stop_position",
+                "railway": "stop"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2240004,
+                  46.4116323
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13046550560",
+                "osm_type": "node",
+                "lat": 46.4080014,
+                "lon": 11.2347265,
+                "funicular": "yes",
+                "name": "St.Anton - Sant'Antonio frazione di Caldaro",
+                "name:de": "St.Anton",
+                "name:it": "Sant'Antonio frazione di Caldaro",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "wikidata": "Q24272473"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2347265,
+                  46.4080014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13046550561",
+                "osm_type": "node",
+                "lat": 46.4154448,
+                "lon": 11.209017,
+                "funicular": "yes",
+                "name": "Mendelpass - Passo della Mendola",
+                "name:de": "Mendelpass",
+                "name:it": "Passo della Mendola",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "wikidata": "Q1801335"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.209017,
+                  46.4154448
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 10.484655499999999,
+            "north": 46.70320525,
+            "east": 10.961507249999999
+          },
+          "poiCount": 20,
+          "leafCount": 20,
+          "averagePosition": [
+            10.736918435,
+            46.635424025
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "94907799",
+                "osm_type": "node",
+                "lat": 46.6182404,
+                "lon": 10.6953841,
+                "name": "Laas - Lasa",
+                "name:de": "Laas",
+                "name:it": "Lasa",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6953841,
+                  46.6182404
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "94907802",
+                "osm_type": "node",
+                "lat": 46.664817,
+                "lon": 10.5815946,
+                "ele": "919",
+                "name": "Schluderns-Glurns - Sluderno-Glorenza",
+                "name:de": "Schluderns-Glurns",
+                "name:it": "Sluderno-Glorenza",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "87.6",
+                "railway:position:exact": "87.628",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Sluderno/Schluderns",
+                "uic_ref": "8342780",
+                "wheelchair": "yes",
+                "wikidata": "Q23065787",
+                "wikipedia": "it:Stazione di Sluderno"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5815946,
+                  46.664817
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "290221368",
+                "osm_type": "node",
+                "lat": 46.6266854,
+                "lon": 10.6459054,
+                "name": "Eyrs - Oris",
+                "name:de": "Eyrs",
+                "name:it": "Oris",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6459054,
+                  46.6266854
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "290223751",
+                "osm_type": "node",
+                "lat": 46.634181,
+                "lon": 10.610926,
+                "name": "Spondinig - Spondigna",
+                "name:de": "Spondinig",
+                "name:it": "Spondigna",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.610926,
+                  46.634181
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292147644",
+                "osm_type": "node",
+                "lat": 46.6351145,
+                "lon": 10.9400753,
+                "name": "Tschars - Ciardes",
+                "name:de": "Tschars",
+                "name:it": "Ciardes",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9400753,
+                  46.6351145
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "296985541",
+                "osm_type": "node",
+                "lat": 46.6188454,
+                "lon": 10.8210824,
+                "name": "Goldrain - Coldrano",
+                "name:de": "Goldrain",
+                "name:it": "Coldrano",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8210824,
+                  46.6188454
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "695845720",
+                "osm_type": "node",
+                "lat": 46.6269709,
+                "lon": 10.898096,
+                "name": "Kastelbell - Castelbello",
+                "name:de": "Kastelbell",
+                "name:it": "Castelbello",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.898096,
+                  46.6269709
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329935",
+                "osm_type": "node",
+                "lat": 46.6182071,
+                "lon": 10.6953159,
+                "name": "Laas - Lasa",
+                "name:de": "Laas",
+                "name:it": "Lasa",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6953159,
+                  46.6182071
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329937",
+                "osm_type": "node",
+                "lat": 46.6841039,
+                "lon": 10.5488282,
+                "name": "Mals - Malles Venosta",
+                "name:de": "Mals",
+                "name:it": "Malles Venosta",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5488282,
+                  46.6841039
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329938",
+                "osm_type": "node",
+                "lat": 46.6841418,
+                "lon": 10.5488456,
+                "name": "Mals - Malles Venosta",
+                "name:de": "Mals",
+                "name:it": "Malles Venosta",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5488456,
+                  46.6841418
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329941",
+                "osm_type": "node",
+                "lat": 46.6256191,
+                "lon": 10.7664968,
+                "name": "Schlanders - Silandro",
+                "name:de": "Schlanders",
+                "name:it": "Silandro",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7664968,
+                  46.6256191
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329942",
+                "osm_type": "node",
+                "lat": 46.6256595,
+                "lon": 10.7663774,
+                "name": "Schlanders - Silandro",
+                "name:de": "Schlanders",
+                "name:it": "Silandro",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.7663774,
+                  46.6256595
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329945",
+                "osm_type": "node",
+                "lat": 46.6341316,
+                "lon": 10.6108903,
+                "name": "Spondinig - Spondigna",
+                "name:de": "Spondinig",
+                "name:it": "Spondigna",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6108903,
+                  46.6341316
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5566863361",
+                "osm_type": "node",
+                "lat": 46.6197003,
+                "lon": 10.8605572,
+                "name": "Latsch - Laces",
+                "name:de": "Latsch",
+                "name:it": "Laces",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8605572,
+                  46.6197003
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5566863362",
+                "osm_type": "node",
+                "lat": 46.6196555,
+                "lon": 10.8605645,
+                "name": "Latsch - Laces",
+                "name:de": "Latsch",
+                "name:it": "Laces",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8605645,
+                  46.6196555
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7038908219",
+                "osm_type": "node",
+                "lat": 46.6269266,
+                "lon": 10.8983079,
+                "ele": "586",
+                "name": "Kastelbell - Castelbello",
+                "name:de": "Kastelbell",
+                "name:it": "Castelbello",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "57.6",
+                "railway:position:exact": "57.614",
+                "ref": "1",
+                "source": "https://github.com/trainline-eu/stations",
+                "train": "yes",
+                "uic_name": "Castelbello/Kastelbell",
+                "uic_ref": "8302208",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8983079,
+                  46.6269266
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7038952517",
+                "osm_type": "node",
+                "lat": 46.6351225,
+                "lon": 10.9400051,
+                "name": "Tschars - Ciardes",
+                "name:de": "Tschars",
+                "name:it": "Ciardes",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "54.1",
+                "railway:position:exact": "54.061",
+                "ref": "1",
+                "source": "https://github.com/trainline-eu/stations",
+                "train": "yes",
+                "uic_name": "Ciardes/Tschars",
+                "uic_ref": "8302209",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9400051,
+                  46.6351225
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7058362556",
+                "osm_type": "node",
+                "lat": 46.6648368,
+                "lon": 10.5816525,
+                "ele": "919",
+                "name": "Schluderns-Glurns - Sluderno-Glorenza",
+                "name:de": "Schluderns-Glurns",
+                "name:it": "Sluderno-Glorenza",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "railway": "halt",
+                "railway:position": "87.6",
+                "railway:position:exact": "87.628",
+                "ref": "1",
+                "source": "https://github.com/trainline-eu/stations",
+                "train": "yes",
+                "uic_name": "Sluderno/Schluderns",
+                "uic_ref": "8302201",
+                "wheelchair": "yes",
+                "wikidata": "Q23065787",
+                "wikipedia": "it:Stazione di Sluderno"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.5816525,
+                  46.6648368
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7416709369",
+                "osm_type": "node",
+                "lat": 46.6187885,
+                "lon": 10.8213052,
+                "ele": "661",
+                "name": "Goldrain - Coldrano",
+                "name:de": "Goldrain",
+                "name:it": "Coldrano",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "station",
+                "railway": "halt",
+                "source": "https://github.com/trainline-eu/stations",
+                "uic_name": "Coldrano/Goldrain",
+                "uic_ref": "8302206",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.8213052,
+                  46.6187885
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7416709376",
+                "osm_type": "node",
+                "lat": 46.6267327,
+                "lon": 10.6461583,
+                "ele": "875",
+                "name": "Eyrs - Oris",
+                "name:de": "Eyrs",
+                "name:it": "Oris",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "80.5",
+                "railway:position:exact": "80.502",
+                "source": "https://github.com/trainline-eu/stations",
+                "uic_name": "Oris/Eyrs",
+                "uic_ref": "8302203",
+                "wheelchair": "yes",
+                "wikidata": "Q23065839",
+                "wikipedia": "it:Stazione di Oris"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.6461583,
+                  46.6267327
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.537928625000006,
+            "west": 10.961507249999999,
+            "north": 46.70320525,
+            "east": 11.438358999999998
+          },
+          "poiCount": 27,
+          "leafCount": 27,
+          "averagePosition": [
+            11.11547144074074,
+            46.6449996
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "287433346",
+                "osm_type": "node",
+                "lat": 46.6451161,
+                "lon": 11.0043855,
+                "name": "Naturns - Naturno",
+                "name:de": "Naturns",
+                "name:it": "Naturno",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0043855,
+                  46.6451161
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2058252056",
+                "osm_type": "node",
+                "lat": 46.6465921,
+                "lon": 10.9715211,
+                "name": "Staben - Stava",
+                "name:de": "Staben",
+                "name:it": "Stava",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9715211,
+                  46.6465921
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7038952518",
+                "osm_type": "node",
+                "lat": 46.6465448,
+                "lon": 10.9715291,
+                "name": "Staben - Stava",
+                "name:de": "Staben",
+                "name:it": "Stava",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.9715291,
+                  46.6465448
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7038952519",
+                "osm_type": "node",
+                "lat": 46.6451972,
+                "lon": 11.0039019,
+                "ele": "533",
+                "name": "Naturns - Naturno",
+                "name:de": "Naturns",
+                "name:it": "Naturno",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "railway": "halt",
+                "railway:position": "48.8",
+                "railway:position:exact": "48.756",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Naturno/Naturns",
+                "uic_ref": "8300087",
+                "wheelchair": "yes",
+                "wikidata": "Q23065853"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0039019,
+                  46.6451972
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "256544474",
+                "osm_type": "node",
+                "lat": 46.6555824,
+                "lon": 11.148752,
+                "name": "Meran Untermais - Merano Maia Bassa",
+                "name:de": "Meran Untermais",
+                "name:it": "Merano Maia Bassa",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.148752,
+                  46.6555824
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "291578544",
+                "osm_type": "node",
+                "lat": 46.6584651,
+                "lon": 11.0410362,
+                "name": "Plaus",
+                "name:de": "Plaus",
+                "name:it": "Plaus",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "45.5",
+                "railway:position:exact": "45.479",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0410362,
+                  46.6584651
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292152672",
+                "osm_type": "node",
+                "lat": 46.6075044,
+                "lon": 11.182649,
+                "name": "Lana/Burgstall - Lana/Postal",
+                "name:de": "Lana/Burgstall",
+                "name:it": "Lana/Postal",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.182649,
+                  46.6075044
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292152673",
+                "osm_type": "node",
+                "lat": 46.5748511,
+                "lon": 11.1988097,
+                "name": "Gargazon - Gargazzone",
+                "name:de": "Gargazon",
+                "name:it": "Gargazzone",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1988097,
+                  46.5748511
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "292152674",
+                "osm_type": "node",
+                "lat": 46.5541097,
+                "lon": 11.2202712,
+                "name": "Vilpian/Nals - Vilpiano/Nalles",
+                "name:de": "Vilpian/Nals",
+                "name:it": "Vilpiano/Nalles",
+                "operator": "RFI",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2202712,
+                  46.5541097
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "633173292",
+                "osm_type": "node",
+                "lat": 46.6732676,
+                "lon": 11.1488187,
+                "name": "Meran - Merano",
+                "name:de": "Meran",
+                "name:it": "Merano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1488187,
+                  46.6732676
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "701231128",
+                "osm_type": "node",
+                "lat": 46.6655695,
+                "lon": 11.0683288,
+                "name": "Rabland - Rablà",
+                "name:de": "Rabland",
+                "name:it": "Rablà",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "43.2",
+                "railway:position:exact": "43.176",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0683288,
+                  46.6655695
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329931",
+                "osm_type": "node",
+                "lat": 46.6788455,
+                "lon": 11.1320463,
+                "name": "Algund - Lagundo",
+                "name:de": "Algund",
+                "name:it": "Lagundo",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "railway:position": "33.0",
+                "railway:position:exact": "33.000",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1320463,
+                  46.6788455
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329939",
+                "osm_type": "node",
+                "lat": 46.6642098,
+                "lon": 11.1387596,
+                "name": "Marling - Marlengo",
+                "name:de": "Marling",
+                "name:it": "Marlengo",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1387596,
+                  46.6642098
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1456329940",
+                "osm_type": "node",
+                "lat": 46.6642173,
+                "lon": 11.1388151,
+                "name": "Marling - Marlengo",
+                "name:de": "Marling",
+                "name:it": "Marlengo",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1388151,
+                  46.6642173
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1876365264",
+                "osm_type": "node",
+                "lat": 46.6728279,
+                "lon": 11.0813859,
+                "name": "Töll - Tel",
+                "name:de": "Töll",
+                "name:it": "Tel",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "start_date": "2012-12-09",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0813859,
+                  46.6728279
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1879384328",
+                "osm_type": "node",
+                "lat": 46.6728719,
+                "lon": 11.0813274,
+                "name": "Töll - Tel",
+                "name:de": "Töll",
+                "name:it": "Tel",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "start_date": "2012-12-09",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0813274,
+                  46.6728719
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1880431867",
+                "osm_type": "node",
+                "lat": 46.6732367,
+                "lon": 11.1487737,
+                "name": "Meran - Merano",
+                "name:de": "Meran",
+                "name:it": "Merano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1487737,
+                  46.6732367
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2461028579",
+                "osm_type": "node",
+                "lat": 46.5748886,
+                "lon": 11.1988824,
+                "name": "Gargazon - Gargazzone",
+                "name:de": "Gargazon",
+                "name:it": "Gargazzone",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1988824,
+                  46.5748886
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2463306466",
+                "osm_type": "node",
+                "lat": 46.6075325,
+                "lon": 11.1827199,
+                "name": "Lana/Burgstall - Lana/Postal",
+                "name:de": "Lana/Burgstall",
+                "name:it": "Lana/Postal",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1827199,
+                  46.6075325
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7037177058",
+                "osm_type": "node",
+                "lat": 46.6657408,
+                "lon": 11.0688397,
+                "ele": "165",
+                "name": "Rabland - Rablà",
+                "name:de": "Rabland",
+                "name:it": "Rablà",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "station",
+                "railway": "halt",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0688397,
+                  46.6657408
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7038824297",
+                "osm_type": "node",
+                "lat": 46.6584113,
+                "lon": 11.0410734,
+                "name": "Plaus",
+                "name:de": "Plaus",
+                "name:it": "Plaus",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "platforms": "1",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "45.5",
+                "railway:position:exact": "45.479",
+                "ref": "1",
+                "source": "https://github.com/trainline-eu/stations",
+                "uic_name": "Plaus",
+                "uic_ref": "8302212",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.0410734,
+                  46.6584113
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389798711",
+                "osm_type": "node",
+                "lat": 46.5541272,
+                "lon": 11.2203584,
+                "name": "Vilpian/Nals - Vilpiano/Nalles",
+                "name:de": "Vilpian/Nals",
+                "name:it": "Vilpiano/Nalles",
+                "operator": "RFI",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.2203584,
+                  46.5541272
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389800391",
+                "osm_type": "node",
+                "lat": 46.6556279,
+                "lon": 11.1488227,
+                "name": "Meran Untermais - Merano Maia Bassa",
+                "name:de": "Meran Untermais",
+                "name:it": "Merano Maia Bassa",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1488227,
+                  46.6556279
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389876836",
+                "osm_type": "node",
+                "lat": 46.6736386,
+                "lon": 11.1478429,
+                "name": "Meran - Merano",
+                "name:de": "Meran",
+                "name:it": "Merano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "5",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1478429,
+                  46.6736386
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389876837",
+                "osm_type": "node",
+                "lat": 46.6735652,
+                "lon": 11.1481065,
+                "name": "Meran - Merano",
+                "name:de": "Meran",
+                "name:it": "Merano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1481065,
+                  46.6735652
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7389876838",
+                "osm_type": "node",
+                "lat": 46.6735904,
+                "lon": 11.1481467,
+                "name": "Meran - Merano",
+                "name:de": "Meran",
+                "name:it": "Merano",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1481467,
+                  46.6735904
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7416709365",
+                "osm_type": "node",
+                "lat": 46.6788576,
+                "lon": 11.1318251,
+                "ele": "324",
+                "name": "Algund - Lagundo",
+                "name:de": "Algund",
+                "name:it": "Lagundo",
+                "operator": "Südtiroler Transportstrukturen AG - Strutture Trasporto Alto Adige",
+                "operator:de": "Südtiroler Transportstrukturen AG",
+                "operator:it": "Strutture Trasporto Alto Adige",
+                "operator:short": "STA",
+                "operator:wikidata": "Q21971377",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:position": "33.0",
+                "railway:position:exact": "33.000",
+                "source": "https://github.com/trainline-eu/stations",
+                "uic_name": "Lagundo/Algund",
+                "uic_ref": "8302215",
+                "wheelchair": "yes",
+                "wikidata": "Q3969904",
+                "wikipedia": "it:Stazione di Lagundo"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  11.1318251,
+                  46.6788576
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 46.70320525,
+        "west": 9.530952,
+        "north": 47.033758500000005,
+        "east": 10.484655499999999
+      },
+      "poiCount": 75,
+      "leafCount": 0,
+      "averagePosition": [
+        9.795179618666667,
+        46.85495244666667
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 9.530952,
+            "north": 46.868481875,
+            "east": 10.007803749999999
+          },
+          "poiCount": 28,
+          "leafCount": 28,
+          "averagePosition": [
+            9.724314364285714,
+            46.80681849642857
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "255076727",
+                "osm_type": "node",
+                "lat": 46.8619098,
+                "lon": 9.5314603,
+                "ele": "577",
+                "name": "Chur Wiesental",
+                "network": "ch-direct",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "station",
+                "railway": "halt",
+                "railway:ref": "CHWI",
+                "train": "yes",
+                "uic_name": "Chur Wiesental",
+                "uic_ref": "8509006",
+                "wikidata": "Q5116512"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5314603,
+                  46.8619098
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "265790395",
+                "osm_type": "node",
+                "lat": 46.715928,
+                "lon": 9.75993,
+                "ele": "1347",
+                "name": "Davos Monstein",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "railway": "halt",
+                "railway:ref": "DAM",
+                "uic_name": "Davos Monstein",
+                "uic_ref": "8509077",
+                "wikidata": "Q5242113",
+                "wikipedia": "en:Davos Monstein (Rhaetian Railway station)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.75993,
+                  46.715928
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "286674771",
+                "osm_type": "node",
+                "lat": 46.819485,
+                "lon": 9.8236261,
+                "ele": "2218",
+                "name": "Höhenweg",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "uic_name": "Höhenweg",
+                "uic_ref": "8509084"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8236261,
+                  46.819485
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2194101340",
+                "osm_type": "node",
+                "lat": 46.8195214,
+                "lon": 9.7070749,
+                "name": "Langwies",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7070749,
+                  46.8195214
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8308634908",
+                "osm_type": "node",
+                "lat": 46.8616708,
+                "lon": 9.5315403,
+                "ele": "577",
+                "name": "Chur Wiesental",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5315403,
+                  46.8616708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8442685129",
+                "osm_type": "node",
+                "lat": 46.8195085,
+                "lon": 9.7070283,
+                "name": "Langwies",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7070283,
+                  46.8195085
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9951747614",
+                "osm_type": "node",
+                "lat": 46.847556,
+                "lon": 9.5309533,
+                "name": "Chur Altstadt",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5309533,
+                  46.847556
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10311559901",
+                "osm_type": "node",
+                "lat": 46.7912812,
+                "lon": 9.8209126,
+                "local_ref": "3",
+                "name": "Davos Platz",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes",
+                "uic_ref": "8509073"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8209126,
+                  46.7912812
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10311559902",
+                "osm_type": "node",
+                "lat": 46.7913328,
+                "lon": 9.8208061,
+                "local_ref": "2",
+                "name": "Davos Platz",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "uic_ref": "8509073"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8208061,
+                  46.7913328
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10311559903",
+                "osm_type": "node",
+                "lat": 46.7913535,
+                "lon": 9.8207624,
+                "local_ref": "1",
+                "name": "Davos Platz",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "uic_ref": "8509073"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8207624,
+                  46.7913535
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11635689649",
+                "osm_type": "node",
+                "lat": 46.7839267,
+                "lon": 9.6793268,
+                "name": "Arosa",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6793268,
+                  46.7839267
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11635689650",
+                "osm_type": "node",
+                "lat": 46.7839284,
+                "lon": 9.6792676,
+                "name": "Arosa",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6792676,
+                  46.7839284
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11635689651",
+                "osm_type": "node",
+                "lat": 46.7979541,
+                "lon": 9.7024486,
+                "name": "Litzirüti",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7024486,
+                  46.7979541
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11635689652",
+                "osm_type": "node",
+                "lat": 46.7979213,
+                "lon": 9.7024637,
+                "name": "Litzirüti",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7024637,
+                  46.7979213
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643041362",
+                "osm_type": "node",
+                "lat": 46.8296255,
+                "lon": 9.6718099,
+                "name": "Peist",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6718099,
+                  46.8296255
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643041363",
+                "osm_type": "node",
+                "lat": 46.8295933,
+                "lon": 9.6718393,
+                "name": "Peist",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6718393,
+                  46.8295933
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643201944",
+                "osm_type": "node",
+                "lat": 46.8291643,
+                "lon": 9.6538826,
+                "name": "St. Peter-Molinis",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6538826,
+                  46.8291643
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643201945",
+                "osm_type": "node",
+                "lat": 46.8292113,
+                "lon": 9.6538598,
+                "name": "St. Peter-Molinis",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6538598,
+                  46.8292113
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643270709",
+                "osm_type": "node",
+                "lat": 46.8317565,
+                "lon": 9.6133638,
+                "name": "Lüen-Castiel",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6133638,
+                  46.8317565
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11643270710",
+                "osm_type": "node",
+                "lat": 46.8317905,
+                "lon": 9.6133425,
+                "name": "Lüen-Castiel",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6133425,
+                  46.8317905
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11653854645",
+                "osm_type": "node",
+                "lat": 46.7159001,
+                "lon": 9.7600214,
+                "name": "Davos Monstein",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7600214,
+                  46.7159001
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11654712942",
+                "osm_type": "node",
+                "lat": 46.7453491,
+                "lon": 9.7796873,
+                "name": "Davos Glaris",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7796873,
+                  46.7453491
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11654793969",
+                "osm_type": "node",
+                "lat": 46.7666508,
+                "lon": 9.7994559,
+                "name": "Davos Frauenkirch",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7994559,
+                  46.7666508
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11656403640",
+                "osm_type": "node",
+                "lat": 46.8096259,
+                "lon": 9.8420685,
+                "name": "Davos Dorf",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8420685,
+                  46.8096259
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11656403641",
+                "osm_type": "node",
+                "lat": 46.8096022,
+                "lon": 9.8421202,
+                "name": "Davos Dorf",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8421202,
+                  46.8096022
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11657113979",
+                "osm_type": "node",
+                "lat": 46.8318435,
+                "lon": 9.854926,
+                "name": "Davos Wolfgang",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.854926,
+                  46.8318435
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11658124340",
+                "osm_type": "node",
+                "lat": 46.8482188,
+                "lon": 9.873173,
+                "name": "Davos Laret",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.873173,
+                  46.8482188
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12635799747",
+                "osm_type": "node",
+                "lat": 46.7993086,
+                "lon": 9.833651,
+                "name": "Davos Kongress/Eisstadion",
+                "public_transport": "station",
+                "railway": "halt",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.833651,
+                  46.7993086
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.70320525,
+            "west": 10.007803749999999,
+            "north": 46.868481875,
+            "east": 10.484655499999999
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            10.169953278571429,
+            46.7733928
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "266211446",
+                "osm_type": "node",
+                "lat": 46.7877189,
+                "lon": 10.2579252,
+                "ele": "1335",
+                "name": "Ftan Baraigla",
+                "network": "RhB",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "railway": "halt",
+                "railway:ref": "FTAN",
+                "uic_name": "Ftan Baraigla",
+                "uic_ref": "8509267",
+                "wikidata": "Q5506810",
+                "wikipedia": "en:Ftan (Rhaetian Railway station)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2579252,
+                  46.7877189
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2345851716",
+                "osm_type": "node",
+                "lat": 46.7523942,
+                "lon": 10.0794979,
+                "name": "Susch",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0794979,
+                  46.7523942
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10994684438",
+                "osm_type": "node",
+                "lat": 46.771425,
+                "lon": 10.1506785,
+                "name": "Guarda",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1506785,
+                  46.771425
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10994684439",
+                "osm_type": "node",
+                "lat": 46.7714758,
+                "lon": 10.1508209,
+                "name": "Guarda",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1508209,
+                  46.7714758
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11534006282",
+                "osm_type": "node",
+                "lat": 46.7940361,
+                "lon": 10.2868133,
+                "local_ref": "2",
+                "name": "Scuol-Tarasp",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes",
+                "uic_name": "Scuol-Tarasp",
+                "uic_ref": "8509268"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2868133,
+                  46.7940361
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "11534006283",
+                "osm_type": "node",
+                "lat": 46.7939139,
+                "lon": 10.2867174,
+                "local_ref": "1",
+                "name": "Scuol-Tarasp",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes",
+                "uic_name": "Scuol-Tarasp",
+                "uic_ref": "8509268"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2867174,
+                  46.7939139
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12057688796",
+                "osm_type": "node",
+                "lat": 46.7697448,
+                "lon": 10.111079,
+                "name": "Lavin",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.111079,
+                  46.7697448
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12495863538",
+                "osm_type": "node",
+                "lat": 46.7648818,
+                "lon": 10.1030373,
+                "name": "Sagliains",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1030373,
+                  46.7648818
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13020268230",
+                "osm_type": "node",
+                "lat": 46.7525393,
+                "lon": 10.0795236,
+                "name": "Susch",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.0795236,
+                  46.7525393
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027214857",
+                "osm_type": "node",
+                "lat": 46.7647754,
+                "lon": 10.1030693,
+                "name": "Sagliains",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "4",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1030693,
+                  46.7647754
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027214858",
+                "osm_type": "node",
+                "lat": 46.7697858,
+                "lon": 10.1110468,
+                "name": "Lavin",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.1110468,
+                  46.7697858
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027227499",
+                "osm_type": "node",
+                "lat": 46.7734751,
+                "lon": 10.2008517,
+                "name": "Ardez",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2008517,
+                  46.7734751
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027227500",
+                "osm_type": "node",
+                "lat": 46.7736899,
+                "lon": 10.2003244,
+                "name": "Ardez",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2003244,
+                  46.7736899
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027237712",
+                "osm_type": "node",
+                "lat": 46.7876432,
+                "lon": 10.2579606,
+                "name": "Ftan Baraigla",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  10.2579606,
+                  46.7876432
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 46.868481875,
+            "west": 9.530952,
+            "north": 47.033758500000005,
+            "east": 10.007803749999999
+          },
+          "poiCount": 33,
+          "leafCount": 33,
+          "averagePosition": [
+            9.696312827272727,
+            46.930394436363635
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296796908",
+                "osm_type": "node",
+                "lat": 46.8704364,
+                "lon": 9.8679663,
+                "name": "Cavadürli",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8679663,
+                  46.8704364
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296828835",
+                "osm_type": "node",
+                "lat": 46.8693246,
+                "lon": 9.88064,
+                "local_ref": "3",
+                "name": "Klosters Platz",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.88064,
+                  46.8693246
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296828836",
+                "osm_type": "node",
+                "lat": 46.8693559,
+                "lon": 9.8807591,
+                "local_ref": "2",
+                "name": "Klosters Platz",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8807591,
+                  46.8693559
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296828837",
+                "osm_type": "node",
+                "lat": 46.8693717,
+                "lon": 9.8808114,
+                "local_ref": "1",
+                "name": "Klosters Platz",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8808114,
+                  46.8693717
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10296830209",
+                "osm_type": "node",
+                "lat": 46.8704694,
+                "lon": 9.8679819,
+                "name": "Cavadürli",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8679819,
+                  46.8704694
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "26032291",
+                "osm_type": "node",
+                "lat": 46.9396016,
+                "lon": 9.7089565,
+                "ele": "715",
+                "name": "Furna",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "railway": "halt",
+                "railway:ref": "FURN",
+                "uic_name": "Furna",
+                "uic_ref": "8509061",
+                "wikidata": "Q33511456"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7089565,
+                  46.9396016
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "240755683",
+                "osm_type": "node",
+                "lat": 46.9664271,
+                "lon": 9.5539187,
+                "local_ref": "3",
+                "name": "Landquart",
+                "operator": "SBB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5539187,
+                  46.9664271
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "265654424",
+                "osm_type": "node",
+                "lat": 46.8835455,
+                "lon": 9.8751069,
+                "name": "Klosters Dorf",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "stop": "yes",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8751069,
+                  46.8835455
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "266216921",
+                "osm_type": "node",
+                "lat": 46.9496976,
+                "lon": 9.5646725,
+                "ele": "523",
+                "name": "Igis",
+                "network": "ch-direct",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "halt",
+                "railway:ref": "IGIS",
+                "train": "yes",
+                "uic_name": "Igis",
+                "uic_ref": "8509055",
+                "wikidata": "Q5991734",
+                "wikipedia": "en:Igis (Rhaetian Railway station)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5646725,
+                  46.9496976
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "266218277",
+                "osm_type": "node",
+                "lat": 46.9769883,
+                "lon": 9.6324631,
+                "ele": "593",
+                "name": "Seewis-Pardisla",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "railway": "halt",
+                "railway:ref": "SEEV",
+                "uic_name": "Seewis-Pardisla",
+                "uic_ref": "8509058",
+                "wikidata": "Q33511440"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6324631,
+                  46.9769883
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2518392273",
+                "osm_type": "node",
+                "lat": 46.9573121,
+                "lon": 9.5608711,
+                "ele": "523",
+                "name": "Landquart Ried",
+                "network": "ch-direct",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "halt",
+                "railway:ref": "LQRI",
+                "train": "yes",
+                "uic_name": "Landquart Ried",
+                "uic_ref": "8509056",
+                "wheelchair": "limited",
+                "wikidata": "Q6484948",
+                "wikimedia_commons": "Category:Landquart Ried railway station",
+                "wikipedia": "en:Landquart Ried (Rhaetian Railway station)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5608711,
+                  46.9573121
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2519818871",
+                "osm_type": "node",
+                "lat": 46.9349377,
+                "lon": 9.5596096,
+                "ele": "531",
+                "name": "Zizers",
+                "network": "ch-direct",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "railway": "halt",
+                "railway:ref": "ZIZ",
+                "uic_name": "Zizers",
+                "uic_ref": "8509054",
+                "wikidata": "Q8072926",
+                "wikipedia": "en:Zizers (Rhaetian Railway station)"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5596096,
+                  46.9349377
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6017247270",
+                "osm_type": "node",
+                "lat": 46.9664408,
+                "lon": 9.5540851,
+                "local_ref": "2",
+                "name": "Landquart",
+                "operator": "SBB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5540851,
+                  46.9664408
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7369413116",
+                "osm_type": "node",
+                "lat": 46.9664227,
+                "lon": 9.553862,
+                "local_ref": "4",
+                "name": "Landquart",
+                "operator": "SBB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.553862,
+                  46.9664227
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9173952674",
+                "osm_type": "node",
+                "lat": 46.9066156,
+                "lon": 9.8121323,
+                "alt_name": "Saas im Prättigau",
+                "name": "Saas",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8121323,
+                  46.9066156
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9174115165",
+                "osm_type": "node",
+                "lat": 46.9397753,
+                "lon": 9.7090407,
+                "name": "Furna",
+                "operator": "RhB",
+                "operator:wikidata": "Q177598",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7090407,
+                  46.9397753
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9851637953",
+                "osm_type": "node",
+                "lat": 46.9674765,
+                "lon": 9.5546172,
+                "local_ref": "8",
+                "name": "Landquart",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5546172,
+                  46.9674765
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9851637954",
+                "osm_type": "node",
+                "lat": 46.9664807,
+                "lon": 9.5546914,
+                "local_ref": "6",
+                "name": "Landquart",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5546914,
+                  46.9664807
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9851637955",
+                "osm_type": "node",
+                "lat": 46.9664666,
+                "lon": 9.5545057,
+                "local_ref": "5",
+                "name": "Landquart",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_name": "Landquart",
+                "uic_ref": "8509002"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5545057,
+                  46.9664666
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9855356298",
+                "osm_type": "node",
+                "lat": 46.9189075,
+                "lon": 9.5592736,
+                "local_ref": "1",
+                "name": "Untervaz-Trimmis",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_ref": "8509053"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5592736,
+                  46.9189075
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10313164330",
+                "osm_type": "node",
+                "lat": 46.9349328,
+                "lon": 9.5594891,
+                "name": "Zizers",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes",
+                "uic_ref": "8509054"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5594891,
+                  46.9349328
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12400056673",
+                "osm_type": "node",
+                "lat": 46.977601,
+                "lon": 9.5740573,
+                "name": "Malans",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.5740573,
+                  46.977601
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12400056674",
+                "osm_type": "node",
+                "lat": 46.9679568,
+                "lon": 9.687937,
+                "name": "Schiers",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.687937,
+                  46.9679568
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027011580",
+                "osm_type": "node",
+                "lat": 46.929867,
+                "lon": 9.7183755,
+                "name": "Jenaz",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7183755,
+                  46.929867
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027011581",
+                "osm_type": "node",
+                "lat": 46.9298372,
+                "lon": 9.7183378,
+                "name": "Jenaz",
+                "network": "RhB",
+                "network:wikidata": "Q2204412",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7183378,
+                  46.9298372
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027060630",
+                "osm_type": "node",
+                "lat": 46.9678421,
+                "lon": 9.6882314,
+                "name": "Schiers",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6882314,
+                  46.9678421
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027060631",
+                "osm_type": "node",
+                "lat": 46.9677492,
+                "lon": 9.6881797,
+                "name": "Schiers",
+                "operator": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.6881797,
+                  46.9677492
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027077376",
+                "osm_type": "node",
+                "lat": 46.9144023,
+                "lon": 9.7716514,
+                "name": "Küblis",
+                "network": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "3",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7716514,
+                  46.9144023
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027077377",
+                "osm_type": "node",
+                "lat": 46.9143127,
+                "lon": 9.7716858,
+                "name": "Küblis",
+                "network": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "2",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7716858,
+                  46.9143127
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027077378",
+                "osm_type": "node",
+                "lat": 46.9142535,
+                "lon": 9.7715903,
+                "name": "Küblis",
+                "network": "RhB",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7715903,
+                  46.9142535
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027083622",
+                "osm_type": "node",
+                "lat": 46.9223415,
+                "lon": 9.7338328,
+                "name": "Fideris",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7338328,
+                  46.9223415
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027083623",
+                "osm_type": "node",
+                "lat": 46.9223033,
+                "lon": 9.7338367,
+                "name": "Fideris",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.7338367,
+                  46.9223033
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "13027118557",
+                "osm_type": "node",
+                "lat": 46.8835634,
+                "lon": 9.8751534,
+                "name": "Klosters Dorf",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "ref": "1",
+                "stop": "yes",
+                "train": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  9.8751534,
+                  46.8835634
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "bbox": {
+    "south": 46.372652,
+    "west": 15.253173,
+    "north": 47.033758500000005,
+    "east": 17.16058
+  },
+  "poiCount": 39,
+  "leafCount": 39,
+  "averagePosition": [
+    15.905592564102566,
+    46.792687453846156
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11250703305",
+        "osm_type": "node",
+        "lat": 46.7163564,
+        "lon": 15.2658099,
+        "addr:city": "Wies",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "8551",
+        "addr:street": "Altenmarkter Straße",
+        "amenity": "police",
+        "contact:email": "PI-ST-Wies@polizei.gv.at",
+        "contact:phone": "+43 59 133 6113",
+        "email": "PI-ST-Wies@polizei.gv.at",
+        "fax": "+43 59133 6113-109",
+        "name": "Polizeiinspektion Wies",
+        "phone": "+43 59133 6113-100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2658099,
+          46.7163564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "268492773",
+        "osm_type": "node",
+        "lat": 46.5848088,
+        "lon": 15.8415512,
+        "amenity": "police",
+        "name": "Policija Lenart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8415512,
+          46.5848088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "291013876",
+        "osm_type": "node",
+        "lat": 46.7764777,
+        "lon": 15.5464773,
+        "addr:city": "Leibnitz",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8430",
+        "addr:street": "Mariengasse",
+        "amenity": "police",
+        "name": "Polizeiinspektion Leibnitz",
+        "phone": "+4359 133 6160-100",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5464773,
+          46.7764777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "580852156",
+        "osm_type": "node",
+        "lat": 46.8531817,
+        "lon": 15.5380305,
+        "addr:city": "Lebring",
+        "addr:housenumber": "13",
+        "addr:postcode": "8403",
+        "addr:street": "Leibnitzer Straße",
+        "amenity": "police",
+        "name": "Polizeiinspektion Lebring",
+        "source": "http://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?org=4E466168505344374A32493D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5380305,
+          46.8531817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "698906594",
+        "osm_type": "node",
+        "lat": 46.6906209,
+        "lon": 15.9939965,
+        "addr:city": "Bad Radkersburg",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "8490",
+        "addr:street": "Dr. Schwaiger-Straße",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07",
+        "name": "Polizeiposten Bad Radkersburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9939965,
+          46.6906209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2377452907",
+        "osm_type": "node",
+        "lat": 46.7073142,
+        "lon": 15.7712926,
+        "addr:city": "Mureck",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:place": "Hauptplatz",
+        "addr:postcode": "8480",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07",
+        "email": "PI-ST-Mureck@polizei.gv.at",
+        "fax": "+43 59133 6183-109",
+        "name": "Polizeiinspektion Mureck",
+        "phone": "+43 59133 6183-100",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7712926,
+          46.7073142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3352665458",
+        "osm_type": "node",
+        "lat": 46.5701925,
+        "lon": 16.0233849,
+        "amenity": "police",
+        "name": "Policijska pisarna Sveti Jurij ob Ščavnici",
+        "phone": "02 568 10 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0233849,
+          46.5701925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4144078373",
+        "osm_type": "node",
+        "lat": 46.7202888,
+        "lon": 15.550129,
+        "addr:city": "Gamlitz",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "8462",
+        "addr:street": "Obere Hauptstraße",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07",
+        "contact:email": "PI-ST-Gamlitz@polizei.gv.at",
+        "contact:phone": "+43 59133  6164-100",
+        "name": "Polizeiinspektion Gamlitz",
+        "website": "https://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?org=463438727376384B6B36593D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.550129,
+          46.7202888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4689988916",
+        "osm_type": "node",
+        "lat": 46.7258813,
+        "lon": 15.6306753,
+        "addr:city": "Straß in Steiermark",
+        "addr:postcode": "8472",
+        "addr:street": "Murecker Straße",
+        "amenity": "police",
+        "name": "Polizei Straß in Steiermark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6306753,
+          46.7258813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5173192108",
+        "osm_type": "node",
+        "lat": 46.5628642,
+        "lon": 15.6484741,
+        "addr:city": "Maribor",
+        "addr:postcode": "2000",
+        "amenity": "police",
+        "check_date": "2024-07-12",
+        "email": "pumb@policija.si",
+        "fax": "+386 2 2221 358",
+        "name": "Policijska uprava Maribor",
+        "phone": "+386 2 2221 200",
+        "website": "https://www.policija.si/index.php/policijske-uprave/pu-maribor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6484741,
+          46.5628642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5244574205",
+        "osm_type": "node",
+        "lat": 46.7179187,
+        "lon": 16.0189167,
+        "addr:city": "Cankova",
+        "addr:postcode": "9261",
+        "amenity": "police",
+        "name": "Policija Cankova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0189167,
+          46.7179187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7921278386",
+        "osm_type": "node",
+        "lat": 46.4035619,
+        "lon": 15.7894607,
+        "amenity": "police",
+        "name": "Policija Kidričevo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7894607,
+          46.4035619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13061615614",
+        "osm_type": "node",
+        "lat": 46.6779299,
+        "lon": 15.6543265,
+        "amenity": "police",
+        "name": "Policijska postaja Šentilj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6543265,
+          46.6779299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3849211344",
+        "osm_type": "node",
+        "lat": 46.8275349,
+        "lon": 16.3251568,
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3251568,
+          46.8275349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6326163966",
+        "osm_type": "node",
+        "lat": 46.5126658,
+        "lon": 16.4406469,
+        "addr:city": "Mursko Središće",
+        "addr:housenumber": "10",
+        "addr:postcode": "40315",
+        "addr:street": "Frankopanska ulica",
+        "amenity": "police",
+        "name": "Policijska postaja Mursko Središće",
+        "operator": "Policijska uprava Međimurska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4406469,
+          46.5126658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12857783759",
+        "osm_type": "node",
+        "lat": 46.3928238,
+        "lon": 16.4304801,
+        "addr:city": "Čakovec",
+        "addr:housenumber": "7",
+        "addr:postcode": "40000",
+        "addr:street": "Ulica Jakova Gotovca",
+        "amenity": "police",
+        "email": "medjimurska@policija.hr",
+        "fax": "+385 40 373 149",
+        "name": "Policijska uprava Međimurska",
+        "phone": "+385 40 373 077",
+        "police": "offices",
+        "website": "https://medjimurska-policija.gov.hr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4304801,
+          46.3928238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12857783760",
+        "osm_type": "node",
+        "lat": 46.3926818,
+        "lon": 16.4306604,
+        "addr:city": "Čakovec",
+        "addr:housenumber": "7",
+        "addr:postcode": "40000",
+        "addr:street": "Ulica Jakova Gotovca",
+        "amenity": "police",
+        "fax": "+385 40 373 184",
+        "name": "Policijska postaja Čakovec",
+        "phone": "+385 40 373 057",
+        "website": "https://medjimurska-policija.gov.hr/policijske-postaje-17883/17883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4306604,
+          46.3926818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12857783761",
+        "osm_type": "node",
+        "lat": 46.392574,
+        "lon": 16.4308142,
+        "addr:city": "Čakovec",
+        "addr:housenumber": "7",
+        "addr:postcode": "40000",
+        "addr:street": "Ulica Jakova Gotovca",
+        "amenity": "police",
+        "fax": "+385 40 373 149",
+        "name": "Postaja prometne policije Čakovec",
+        "phone": "+385 40 373 044",
+        "website": "https://medjimurska-policija.gov.hr/policijske-postaje-17883/17883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4308142,
+          46.392574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3324625528",
+        "osm_type": "node",
+        "lat": 46.5921458,
+        "lon": 16.6467124,
+        "amenity": "police",
+        "source": "turistautak.hu",
+        "url": "http://turistautak.hu/poi.php?id=99876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6467124,
+          46.5921458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2859679023",
+        "osm_type": "node",
+        "lat": 46.7387477,
+        "lon": 17.1062787,
+        "amenity": "police",
+        "name": "Rendőrség"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1062787,
+          46.7387477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "292266040",
+        "osm_type": "node",
+        "lat": 47.0105938,
+        "lon": 15.4032573,
+        "addr:city": "Seiersberg-Pirka",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "8054",
+        "addr:street": "Feldkirchner Straße",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4032573,
+          47.0105938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "333979344",
+        "osm_type": "node",
+        "lat": 47.0107671,
+        "lon": 15.4434693,
+        "addr:city": "Feldkirchen bei Graz",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "8073",
+        "addr:street": "Schlossgasse",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07",
+        "name": "Polizeiinspektion Feldkirchen bei Graz",
+        "operator": "BMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4434693,
+          47.0107671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "601643566",
+        "osm_type": "node",
+        "lat": 47.0294319,
+        "lon": 15.4949813,
+        "addr:city": "Raaba",
+        "addr:housenumber": "2",
+        "addr:postcode": "8074",
+        "addr:street": "Dr.-Auner-Straße",
+        "amenity": "police",
+        "check_date": "2025-09-13",
+        "contact:email": "PI-ST-Raaba@polizei.gv.at",
+        "contact:fax": "+43 59133 6146-109",
+        "contact:phone": "+43 59133 6146-100",
+        "name": "Polizeiinspektion Raaba",
+        "website": "http://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4949813,
+          47.0294319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "668717559",
+        "osm_type": "node",
+        "lat": 46.9621777,
+        "lon": 15.479387,
+        "addr:city": "Kalsdorf bei Graz",
+        "addr:housenumber": "137",
+        "addr:postcode": "8401",
+        "addr:street": "Hauptstraße",
+        "amenity": "police",
+        "contact:email": "PI-ST-Kalsdorf-bei-Graz@polizei.gv.at",
+        "contact:phone": "+43 59 133  6142-100",
+        "name": "Polizeiinspektion Kalsdorf",
+        "website": "https://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?org=625964386D39656D4A4A673D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.479387,
+          46.9621777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1742823660",
+        "osm_type": "node",
+        "lat": 46.9444135,
+        "lon": 15.3306298,
+        "addr:city": "Lannach",
+        "addr:housenumber": "11",
+        "addr:postcode": "8502",
+        "addr:street": "Franz-Kandler-Straße",
+        "amenity": "police",
+        "ele": "320",
+        "email": "PI-ST-Lannach@polizei.gv.at",
+        "fax": "+43 59133 6104-109",
+        "name": "Polizeiinspektion Lannach",
+        "operator": "BM I",
+        "phone": "+43 59133 6104-100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3306298,
+          46.9444135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1836362018",
+        "osm_type": "node",
+        "lat": 46.9914476,
+        "lon": 15.5079521,
+        "addr:city": "Hausmannstätten",
+        "addr:housenumber": "1",
+        "addr:postcode": "8071",
+        "addr:street": "Marktplatz",
+        "amenity": "police",
+        "name": "Polizeiinspektion Hausmannstätten",
+        "source": "http://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?org=68487537335169375071773D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5079521,
+          46.9914476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1915600356",
+        "osm_type": "node",
+        "lat": 46.9949705,
+        "lon": 15.4455474,
+        "addr:city": "Feldkirchen bei Graz",
+        "addr:housenumber": "51",
+        "addr:postcode": "8073",
+        "addr:street": "Flughafenstraße",
+        "amenity": "police",
+        "name": "GPI Graz-Flughafen",
+        "operator": "BMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4455474,
+          46.9949705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5771753218",
+        "osm_type": "node",
+        "lat": 46.9729581,
+        "lon": 15.4049742,
+        "addr:city": "Unterpremstätten",
+        "addr:country": "AT",
+        "addr:housenumber": "131a",
+        "addr:postcode": "8141",
+        "addr:street": "Hauptstraße",
+        "amenity": "police",
+        "contact:email": "PI-ST-Unterpremstaetten@polizei.gv.at",
+        "contact:fax": "+43 59133 6154-109",
+        "contact:phone": "+43 59133 6154-100",
+        "name": "Polizeiinspektion Unterpremstätten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4049742,
+          46.9729581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9701158137",
+        "osm_type": "node",
+        "lat": 46.9721439,
+        "lon": 15.3385107,
+        "addr:city": "Lieboch",
+        "addr:housenumber": "1",
+        "addr:postcode": "8501",
+        "addr:street": "Rupert-Schmid-Platz",
+        "amenity": "police",
+        "name": "Polizeiinspektion Lieboch",
+        "operator": "Polizei Österreich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3385107,
+          46.9721439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "340518767",
+        "osm_type": "node",
+        "lat": 46.9023778,
+        "lon": 15.7120987,
+        "addr:city": "St. Stefan im Rosental",
+        "addr:housenumber": "25",
+        "addr:postcode": "8083",
+        "addr:street": "Mureckerstraße",
+        "amenity": "police",
+        "name": "Polizeiinspektion St. Stefan im Rosental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7120987,
+          46.9023778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1259865224",
+        "osm_type": "node",
+        "lat": 46.9314841,
+        "lon": 15.6623217,
+        "addr:city": "Kirchbach-Zerlach",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:place": "Kirchbach in Steiermark",
+        "addr:postcode": "8082",
+        "amenity": "police",
+        "at_bev:addr_date": "2017-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6623217,
+          46.9314841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1732298510",
+        "osm_type": "node",
+        "lat": 46.9528694,
+        "lon": 15.8822548,
+        "addr:city": "Feldbach",
+        "addr:housenumber": "3",
+        "addr:postcode": "8330",
+        "addr:street": "Grillparzerstraße",
+        "amenity": "police",
+        "contact:email": "PI-ST-Feldbach@polizei.gv.at",
+        "contact:fax": "+43591336120109",
+        "contact:phone": "+43591336120100",
+        "name": "Polizeiinspektion Feldbach",
+        "website": "http://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8822548,
+          46.9528694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1739075936",
+        "osm_type": "node",
+        "lat": 46.879124,
+        "lon": 15.9068803,
+        "addr:city": "Bad Gleichenberg",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "8344",
+        "addr:street": "Feldbacher Straße",
+        "amenity": "police",
+        "contact:email": "PI-ST-Bad-Gleichenberg@polizei.gv.at",
+        "contact:fax": "+43 59133 6121-109",
+        "contact:phone": "+43 59133 6121-100",
+        "name": "Polizeiinspektion Bad Gleichenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9068803,
+          46.879124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9804716192",
+        "osm_type": "node",
+        "lat": 46.9988312,
+        "lon": 15.9372461,
+        "addr:city": "Riegersburg",
+        "addr:country": "AT",
+        "addr:housenumber": "242",
+        "addr:place": "Riegersburg",
+        "addr:postcode": "8333",
+        "amenity": "police",
+        "contact:fax": "+43 59 133 6126 109",
+        "contact:phone": "+43 59 133 6126 100",
+        "fixme": "exact location",
+        "name": "Polizeiinspektion Riegersburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9372461,
+          46.9988312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11446200492",
+        "osm_type": "node",
+        "lat": 46.9859728,
+        "lon": 15.767621,
+        "addr:city": "Kirchberg an der Raab",
+        "addr:housenumber": "212",
+        "addr:place": "Kirchberg an der Raab",
+        "addr:postcode": "8324",
+        "amenity": "police",
+        "contact:email": "PI-ST-Kirchberg-an-der-Raab@polizei.gv.at",
+        "contact:fax": "+43 59133 6125-109",
+        "contact:phone": "+43 59133 6125-100",
+        "name": "Polizeiinspektion Kirchberg an der Raab",
+        "website": "https://www.polizei.gv.at/stmk/lpd/dst/dienststellen.aspx?org=72586D6641446C706348453D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.767621,
+          46.9859728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7932038996",
+        "osm_type": "node",
+        "lat": 47.0131125,
+        "lon": 16.1787964,
+        "addr:city": "Königsdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "7563",
+        "addr:street": "Grazer Straße",
+        "amenity": "police",
+        "contact:email": "PI-B-Koenigsdorf@polizei.gv.at",
+        "contact:fax": "+43 59133 1214-109",
+        "contact:phone": "+43 59133 1214-100",
+        "name": "Polizeiinspektion Königsdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1787964,
+          47.0131125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6551672267",
+        "osm_type": "node",
+        "lat": 46.9647104,
+        "lon": 16.6136051,
+        "amenity": "police",
+        "name": "Rendőrség - körzeti megbízott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6136051,
+          46.9647104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6551713916",
+        "osm_type": "node",
+        "lat": 46.9647602,
+        "lon": 16.6135438,
+        "amenity": "police",
+        "name": "Polgárőrség"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6135438,
+          46.9647602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8348128662",
+        "osm_type": "node",
+        "lat": 46.8760934,
+        "lon": 17.1117583,
+        "amenity": "police",
+        "name": "Rendőrség"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1117583,
+          46.8760934
+        ]
+      }
+    }
+  ],
+  "children": []
+}

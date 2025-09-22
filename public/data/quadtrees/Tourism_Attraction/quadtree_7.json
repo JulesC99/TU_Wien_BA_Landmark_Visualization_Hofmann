@@ -1,0 +1,4241 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 15.253173,
+    "north": 47.694865,
+    "east": 17.16058
+  },
+  "poiCount": 196,
+  "leafCount": 0,
+  "averagePosition": [
+    16.213731699999997,
+    47.34770054642858
+  ],
+  "data": [],
+  "children": [
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 15.253173,
+        "north": 47.36431175,
+        "east": 16.2068765
+      },
+      "poiCount": 49,
+      "leafCount": 49,
+      "averagePosition": [
+        15.6172005,
+        47.16171228571429
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "289306858",
+            "osm_type": "node",
+            "lat": 47.2052202,
+            "lon": 15.398948,
+            "name": "Kesselfall",
+            "tourism": "attraction",
+            "waterway": "waterfall",
+            "wheelchair": "no",
+            "wikidata": "Q1739798",
+            "wikimedia_commons": "Category:Kesselfall (Semriach)",
+            "wikipedia": "de:Kesselfall (Semriach)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.398948,
+              47.2052202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "446861548",
+            "osm_type": "node",
+            "lat": 47.0736687,
+            "lon": 15.4373468,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:postcode": "8010",
+            "addr:street": "Schloßbergplatz",
+            "contact:email": "info@grazermaerchenbahn.at",
+            "covered": "yes",
+            "fee": "yes",
+            "layer": "-2",
+            "level": "-2",
+            "name": "Grazer Märchenbahn",
+            "name:en": "Fairytale Express",
+            "old_name": "Märchengrottenbahn",
+            "old_start_date": "1968",
+            "opening_hours": "Mo-Su 09:00-17:30",
+            "operator": "KIMUS Kindermuseum Graz GmbH",
+            "railway": "halt",
+            "start_date": "2014-11-14",
+            "tourism": "attraction",
+            "website": "https://www.grazermaerchenbahn.at/",
+            "wheelchair": "no",
+            "wikidata": "Q26434290",
+            "wikimedia_commons": "Category:Grazer Märchenbahn",
+            "wikipedia": "de:Grazer Märchenbahn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4373468,
+              47.0736687
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "853851163",
+            "osm_type": "node",
+            "lat": 47.0722584,
+            "lon": 15.4413771,
+            "name": "Alte Universität",
+            "tourism": "attraction",
+            "wheelchair": "yes",
+            "wikidata": "Q38044134",
+            "wikimedia_commons": "Category:Alte Universität, Graz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4413771,
+              47.0722584
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "893020130",
+            "osm_type": "node",
+            "lat": 47.0732288,
+            "lon": 15.4378757,
+            "name": "Bürgerbastei",
+            "name:de": "Bürgerbastei",
+            "tourism": "attraction",
+            "wheelchair": "no",
+            "wikidata": "Q37725173",
+            "wikimedia_commons": "Category:Bürgerbastei und Uhrturmkasematte, Schloßberg, Graz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4378757,
+              47.0732288
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "987132207",
+            "osm_type": "node",
+            "lat": 47.0731499,
+            "lon": 15.4395092,
+            "name": "Türke",
+            "name:zh": "土耳其士兵",
+            "tourism": "attraction",
+            "wheelchair": "yes",
+            "wikimedia_commons": "File:Graz Palais Saurau Türke.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4395092,
+              47.0731499
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1032836079",
+            "osm_type": "node",
+            "lat": 47.098128,
+            "lon": 15.3246115,
+            "cemetery": "grave",
+            "historic": "memorial",
+            "name": "Grab der Generalin",
+            "start_date": "1849",
+            "tourism": "attraction",
+            "wikipedia": "de:Generalkogel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3246115,
+              47.098128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1098016182",
+            "osm_type": "node",
+            "lat": 47.0711708,
+            "lon": 15.4413035,
+            "addr:city": "Graz",
+            "addr:housenumber": "4",
+            "addr:postcode": "8010",
+            "addr:street": "Glockenspielplatz",
+            "amenity": "bell",
+            "bell": "carillon",
+            "image": "https://commons.wikimedia.org/wiki/Category:Glockenspielhaus,_Graz#/media/File:GrazP2200231.jpg",
+            "name": "Glockenspiel",
+            "opening_hours": "11:00-11:05; 15:00-15:05; 18:00-18:05",
+            "operator": "Franz Balkovic",
+            "source": "local knowledge",
+            "start:operator:name": "Gottfried Maurer",
+            "start_date": "1908",
+            "tourism": "attraction",
+            "wikidata": "Q111512682",
+            "wikimedia_commons": "Category:Glockenspiel am Glockenspielhaus, Graz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4413035,
+              47.0711708
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1117036623",
+            "osm_type": "node",
+            "lat": 47.0710224,
+            "lon": 15.4340947,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:housenumber": "2",
+            "addr:postcode": "8020",
+            "addr:street": "Südtiroler Platz",
+            "name": "Eisernes Haus",
+            "source": "survey",
+            "start_date": "1848",
+            "tourism": "attraction",
+            "wikidata": "Q1313569",
+            "wikimedia_commons": "Category:Eisernes Haus",
+            "wikipedia": "de:Eisernes Haus (Graz)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4340947,
+              47.0710224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1148818216",
+            "osm_type": "node",
+            "lat": 47.0738605,
+            "lon": 15.4375987,
+            "name": "Schloßberglift Aussichtsplattform",
+            "tourism": "attraction",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4375987,
+              47.0738605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1480245969",
+            "osm_type": "node",
+            "lat": 47.0633694,
+            "lon": 15.4271207,
+            "name": "Die Klangsäule",
+            "tourism": "attraction",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4271207,
+              47.0633694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1769707174",
+            "osm_type": "node",
+            "lat": 47.2059819,
+            "lon": 15.4001111,
+            "name": "Steintor",
+            "name:cs": "Kamenná brána Steintor",
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4001111,
+              47.2059819
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1936662693",
+            "osm_type": "node",
+            "lat": 47.0708872,
+            "lon": 15.4424893,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:housenumber": "5",
+            "addr:postcode": "8010",
+            "addr:street": "Bürgergasse",
+            "amenity": "arts_centre",
+            "check_date": "2025-08-14",
+            "contact:email": "esc@mur.at",
+            "contact:phone": "+43 316 836000",
+            "full_name": "esc medien kunst labor",
+            "internet_access": "wlan",
+            "name": "ESC",
+            "old_name": "ESC im Labor",
+            "opening_hours": "Tu-Fr 14:00-19:00",
+            "provides": "culture",
+            "smoking": "no",
+            "source": "survey",
+            "tourism": "attraction",
+            "website": "https://esc.mur.at/",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4424893,
+              47.0708872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3116213719",
+            "osm_type": "node",
+            "lat": 47.0705969,
+            "lon": 15.364656,
+            "attraction": "monument",
+            "name": "Das Boot des Versprechens",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.364656,
+              47.0705969
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4282687584",
+            "osm_type": "node",
+            "lat": 47.2067124,
+            "lon": 15.349158,
+            "name": "Steintor",
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.349158,
+              47.2067124
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4639650466",
+            "osm_type": "node",
+            "lat": 47.0733045,
+            "lon": 15.414233,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:housenumber": "30b",
+            "addr:postcode": "8020",
+            "addr:street": "Waagner-Biro-Straße",
+            "check_date": "2025-01-23",
+            "club": "yes",
+            "contact:email": "gemec@gemec.at",
+            "contact:phone": "+43 664 2487980",
+            "contact:website": "http://www.gemec.at",
+            "full_name": "Grazer Eisenbahner Modell-Eisenbahn Club",
+            "name": "Modell-Eisenbahn Club",
+            "opening_hours": "Mo[1] 18:00-20:00",
+            "operator": "Grazer Eisenbahner Modell-Eisenbahn Club",
+            "short_name": "GEMEC",
+            "start_date": "1982-12-01",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.414233,
+              47.0733045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4833237692",
+            "osm_type": "node",
+            "lat": 47.2696138,
+            "lon": 15.3247261,
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "historic": "city_gate",
+            "name": "Tabor",
+            "on_the_list:wikidata": "Q1324981",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Frohnleiten",
+            "ref:at:bda": "113845",
+            "tourism": "attraction",
+            "wikidata": "Q37770964"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3247261,
+              47.2696138
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4907318483",
+            "osm_type": "node",
+            "lat": 47.1880881,
+            "lon": 15.4858131,
+            "name": "Kraftplatz",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4858131,
+              47.1880881
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4907318484",
+            "osm_type": "node",
+            "lat": 47.1881183,
+            "lon": 15.4881191,
+            "name": "Wasser-Rad",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4881191,
+              47.1881183
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4907318485",
+            "osm_type": "node",
+            "lat": 47.1872601,
+            "lon": 15.4880403,
+            "name": "Wunschstein",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4880403,
+              47.1872601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4907324474",
+            "osm_type": "node",
+            "lat": 47.1860018,
+            "lon": 15.4868889,
+            "name": "Kneipppyramide",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4868889,
+              47.1860018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5323263673",
+            "osm_type": "node",
+            "lat": 47.270831,
+            "lon": 15.3241086,
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "historic": "city_gate",
+            "name": "Leobner Tor",
+            "on_the_list:wikidata": "Q1324981",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Frohnleiten",
+            "ref:at:bda": "114093",
+            "tourism": "attraction",
+            "wikidata": "Q37771578"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3241086,
+              47.270831
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7011782636",
+            "osm_type": "node",
+            "lat": 47.0735365,
+            "lon": 15.4377291,
+            "alt_name:en": "Clocktower",
+            "amenity": "clock",
+            "architect": "Sylvester Funck",
+            "date": "no",
+            "description": "Clock hands \"interchanged\". Minute hand shows hours, little hands shows minutes",
+            "display": "analog;unorthodox",
+            "faces": "4",
+            "indoor": "no",
+            "name": "Grazer Uhrturm",
+            "source": "https://www.graztourismus.at/de/sightseeing-kultur/sehenswuerdigkeiten/grazer-uhrturm_shg_1488",
+            "start_date": "1560",
+            "support": "wall",
+            "tourism": "attraction",
+            "visibility": "area",
+            "wheelchair": "yes",
+            "wikidata": "Q353239",
+            "wikimedia_commons": "Category:Uhrturm, Graz",
+            "wikipedia": "de:Grazer Uhrturm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4377291,
+              47.0735365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7251550597",
+            "osm_type": "node",
+            "lat": 47.0986463,
+            "lon": 15.3457788,
+            "denotation": "religious",
+            "name": "Bilderbuche",
+            "natural": "tree",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3457788,
+              47.0986463
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "7817299385",
+            "osm_type": "node",
+            "lat": 47.0738812,
+            "lon": 15.4376637,
+            "name": "Schlossbergrutsche",
+            "tourism": "attraction",
+            "website": "https://www.schlossbergrutsche.at/",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4376637,
+              47.0738812
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8294998152",
+            "osm_type": "node",
+            "lat": 47.0764443,
+            "lon": 15.4365134,
+            "addr:city": "Graz",
+            "addr:country": "AT",
+            "addr:housenumber": "7",
+            "addr:postcode": "8010",
+            "addr:street": "Schloßberg",
+            "building": "fortress",
+            "castle_type": "fortress",
+            "historic": "castle",
+            "name": "Fernberger Bastei",
+            "tourism": "attraction",
+            "wikidata": "Q37725203"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4365134,
+              47.0764443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8370962849",
+            "osm_type": "node",
+            "lat": 47.1989959,
+            "lon": 15.4676014,
+            "name": "Holzkugelbahn",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4676014,
+              47.1989959
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9325651973",
+            "osm_type": "node",
+            "lat": 47.1946168,
+            "lon": 15.3445818,
+            "name": "Apfel Sitzbank",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3445818,
+              47.1946168
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9401818885",
+            "osm_type": "node",
+            "lat": 47.2507081,
+            "lon": 15.5194223,
+            "direction": "90",
+            "man_made": "adit",
+            "name": "Schaubergwerk Arzberg",
+            "tourism": "attraction",
+            "website": "https://www.arzberg.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5194223,
+              47.2507081
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10692947293",
+            "osm_type": "node",
+            "lat": 47.073272,
+            "lon": 15.4369832,
+            "name": "Kriegssteig",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4369832,
+              47.073272
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12716148107",
+            "osm_type": "node",
+            "lat": 47.0597133,
+            "lon": 15.472269,
+            "email": "info@terrassenhaus.at",
+            "name": "Terrassenhaussiedlung",
+            "name:cs": "Terasové sídliště Graz",
+            "tourism": "attraction",
+            "website": "https://www.terrassenhaus.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.472269,
+              47.0597133
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "803740728",
+            "osm_type": "node",
+            "lat": 47.1733601,
+            "lon": 15.9317879,
+            "attraction": "animal",
+            "name": "Straußenfarm",
+            "species": "Struthio camelus",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9317879,
+              47.1733601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "933826987",
+            "osm_type": "node",
+            "lat": 47.2981412,
+            "lon": 15.7495658,
+            "name": "Steinener Tisch",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7495658,
+              47.2981412
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1559381467",
+            "osm_type": "node",
+            "lat": 47.2805525,
+            "lon": 15.9699632,
+            "denomination": "roman_catholic",
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "historic": "wayside_shrine",
+            "name": "Missionskreuz im Kirchhof",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Hartberg#Bildstock, Hartberg",
+            "ref:at:bda": "81071",
+            "religion": "christian",
+            "start_date": "1748",
+            "tourism": "attraction",
+            "wikidata": "Q38118457",
+            "wikimedia_commons": "Category:Missionskreuz am Kirchhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9699632,
+              47.2805525
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1625388699",
+            "osm_type": "node",
+            "lat": 47.3018872,
+            "lon": 15.8321161,
+            "name": "Insektenhotel",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8321161,
+              47.3018872
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1766617606",
+            "osm_type": "node",
+            "lat": 47.2866255,
+            "lon": 15.9762069,
+            "amenity": "place_of_worship",
+            "denomination": "roman_catholic",
+            "historic": "wayside_shrine",
+            "name": "Bäckerkreuz",
+            "religion": "christian",
+            "start_date": "1844",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9762069,
+              47.2866255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3000989490",
+            "osm_type": "node",
+            "lat": 47.2142117,
+            "lon": 15.9210546,
+            "name": "Schirnhofers Gläserne Fabrik",
+            "tourism": "attraction",
+            "website": "https://feinkost-schirnhofer.at/de/glaeserne-fabrik/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9210546,
+              47.2142117
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3951384826",
+            "osm_type": "node",
+            "lat": 47.2957955,
+            "lon": 15.9791066,
+            "denomination": "roman_catholic",
+            "historic": "wayside_shrine",
+            "name:de": "Lueger Bildstock",
+            "religion": "christian",
+            "start_date": "1800",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9791066,
+              47.2957955
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4766946308",
+            "osm_type": "node",
+            "lat": 47.0880876,
+            "lon": 15.9257208,
+            "description": "Fallen Soldiers Memorial",
+            "historic": "memorial",
+            "name": "World War Memorial",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9257208,
+              47.0880876
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5884163278",
+            "osm_type": "node",
+            "lat": 47.0877663,
+            "lon": 15.9254824,
+            "name": "Kirche Ilz",
+            "tourism": "attraction",
+            "wheelchair": "yes"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9254824,
+              47.0877663
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "8638593094",
+            "osm_type": "node",
+            "lat": 47.3005781,
+            "lon": 15.5964097,
+            "addr:city": "Sankt Kathrein am Offenegg",
+            "addr:housenumber": "18",
+            "addr:postcode": "8171",
+            "addr:street": "Zeil",
+            "name": "Almenland Edelbrennerei",
+            "operator": "Familie Graf",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5964097,
+              47.3005781
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9041835718",
+            "osm_type": "node",
+            "lat": 47.2342117,
+            "lon": 15.7992452,
+            "name": "Tretbootverleih",
+            "name:en": "pedal boat rental",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7992452,
+              47.2342117
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "9590422066",
+            "osm_type": "node",
+            "lat": 47.3028747,
+            "lon": 15.8325246,
+            "name": "Blumenuhr",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8325246,
+              47.3028747
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "11148683070",
+            "osm_type": "node",
+            "lat": 47.3495011,
+            "lon": 15.8841544,
+            "name": "Drei Lebenskünstler",
+            "opening_hours": "24/7",
+            "reservation": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8841544,
+              47.3495011
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12817021564",
+            "osm_type": "node",
+            "lat": 47.0761914,
+            "lon": 16.0116126,
+            "name": "S 7 Naturlehrpfad",
+            "operator": "ASFINAG",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0116126,
+              47.0761914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1917754436",
+            "osm_type": "node",
+            "lat": 47.2738183,
+            "lon": 16.0415349,
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "name": "Römergrab",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Sankt Johann in der Haide",
+            "ref:at:bda": "94520",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0415349,
+              47.2738183
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3807362095",
+            "osm_type": "node",
+            "lat": 47.1182847,
+            "lon": 16.0360297,
+            "name": "Naturstein an der Straße nach Loimeth",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0360297,
+              47.1182847
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3808574780",
+            "osm_type": "node",
+            "lat": 47.1297564,
+            "lon": 16.0453742,
+            "name": "Naturstein am Safenbach bei Schwarzmannshofen",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0453742,
+              47.1297564
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5586357168",
+            "osm_type": "node",
+            "lat": 47.1150788,
+            "lon": 16.0498881,
+            "name": "Göfner Linde",
+            "natural": "tree",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0498881,
+              47.1150788
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12046106569",
+            "osm_type": "node",
+            "lat": 47.1048917,
+            "lon": 16.0483747,
+            "name:de": "1000-jährige Eiche in Bierbaum",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0483747,
+              47.1048917
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.033758500000005,
+        "west": 16.2068765,
+        "north": 47.36431175,
+        "east": 17.16058
+      },
+      "poiCount": 56,
+      "leafCount": 0,
+      "averagePosition": [
+        16.691551275,
+        47.189194923214295
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 16.2068765,
+            "north": 47.199035125,
+            "east": 16.68372825
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            16.493523092857142,
+            47.124089735714286
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1065837423",
+                "osm_type": "node",
+                "lat": 47.0439913,
+                "lon": 16.4257112,
+                "name": "Ökoenergierad",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4257112,
+                  47.0439913
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076829",
+                "osm_type": "node",
+                "lat": 47.132038,
+                "lon": 16.4593686,
+                "name": "Eiserner Vorhang",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4593686,
+                  47.132038
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076830",
+                "osm_type": "node",
+                "lat": 47.131847,
+                "lon": 16.4594423,
+                "disused": "yes",
+                "man_made": "tower",
+                "name": "Grenzwachturm Eiserner Vorhang",
+                "tourism": "attraction",
+                "tower:type": "watchtower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4594423,
+                  47.131847
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076832",
+                "osm_type": "node",
+                "lat": 47.1300714,
+                "lon": 16.4664895,
+                "name": "Labyrinth",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4664895,
+                  47.1300714
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076833",
+                "osm_type": "node",
+                "lat": 47.1367378,
+                "lon": 16.4606263,
+                "name": "Meditationssteg",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4606263,
+                  47.1367378
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076834",
+                "osm_type": "node",
+                "lat": 47.1305094,
+                "lon": 16.4620798,
+                "name": "Panzer",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4620798,
+                  47.1305094
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076838",
+                "osm_type": "node",
+                "lat": 47.1302571,
+                "lon": 16.4623173,
+                "building": "bunker",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4623173,
+                  47.1302571
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076840",
+                "osm_type": "node",
+                "lat": 47.1317397,
+                "lon": 16.4650043,
+                "name": "Schwimmende Brücke",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4650043,
+                  47.1317397
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3700076841",
+                "osm_type": "node",
+                "lat": 47.1304109,
+                "lon": 16.4622536,
+                "name": "Schützen und Panzergraben",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4622536,
+                  47.1304109
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5685317570",
+                "osm_type": "node",
+                "lat": 47.1063263,
+                "lon": 16.4610423,
+                "heritage": "2",
+                "heritage:operator": "bda",
+                "historic": "pillory",
+                "ref:at:bda": "28512",
+                "tourism": "attraction",
+                "wikidata": "Q37942924"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4610423,
+                  47.1063263
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10092415686",
+                "osm_type": "node",
+                "lat": 47.1983566,
+                "lon": 16.4079666,
+                "name": "Weinpresse",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4079666,
+                  47.1983566
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3197612582",
+                "osm_type": "node",
+                "lat": 47.0432755,
+                "lon": 16.6782711,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "material": "wood",
+                "name": "Harangláb",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6782711,
+                  47.0432755
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3479782793",
+                "osm_type": "node",
+                "lat": 47.1939857,
+                "lon": 16.5554743,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "shelter": "yes",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5554743,
+                  47.1939857
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5977565585",
+                "osm_type": "node",
+                "lat": 47.0977096,
+                "lon": 16.6832761,
+                "name": "Harangláb",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6832761,
+                  47.0977096
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.033758500000005,
+            "west": 16.68372825,
+            "north": 47.199035125,
+            "east": 17.16058
+          },
+          "poiCount": 14,
+          "leafCount": 14,
+          "averagePosition": [
+            16.86687309285714,
+            47.103032521428574
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3075630278",
+                "osm_type": "node",
+                "lat": 47.1297355,
+                "lon": 16.8441695,
+                "historic": "yes",
+                "name": "Vasúti emlékhely",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8441695,
+                  47.1297355
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3144082051",
+                "osm_type": "node",
+                "lat": 47.0676678,
+                "lon": 16.7311316,
+                "attraction": "animal",
+                "name": "Baromfiudvar",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7311316,
+                  47.0676678
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3144335917",
+                "osm_type": "node",
+                "lat": 47.0649733,
+                "lon": 16.7312914,
+                "attraction": "animal",
+                "name": "Mangalicák",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7312914,
+                  47.0649733
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3469985739",
+                "osm_type": "node",
+                "lat": 47.043431,
+                "lon": 16.90241,
+                "name": "Bálványos faprés",
+                "source": "turistautak.hu",
+                "source:date": "2015-03-03",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=71333"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.90241,
+                  47.043431
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3469985781",
+                "osm_type": "node",
+                "lat": 47.094772,
+                "lon": 16.962525,
+                "historic": "building",
+                "name": "Műemlék majorság (rom)",
+                "ruins": "yes",
+                "source": "turistautak.hu",
+                "source:date": "2015-03-03",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=135629"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.962525,
+                  47.094772
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3561515664",
+                "osm_type": "node",
+                "lat": 47.1541942,
+                "lon": 16.8027435,
+                "historic": "yes",
+                "name": "Vasúti emlékhely",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8027435,
+                  47.1541942
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3621831910",
+                "osm_type": "node",
+                "lat": 47.1030307,
+                "lon": 16.831288,
+                "description": "A zsennyei \"1000 éves\" tölgy maradványai",
+                "natural": "tree",
+                "tourism": "attraction",
+                "wikidata": "Q1301319",
+                "wikipedia": "hu:Zsennyei tölgy"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.831288,
+                  47.1030307
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4263082274",
+                "osm_type": "node",
+                "lat": 47.1314469,
+                "lon": 16.736226,
+                "bell_tower": "campanile",
+                "man_made": "tower",
+                "name": "Harangláb",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.736226,
+                  47.1314469
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5153412047",
+                "osm_type": "node",
+                "lat": 47.1604821,
+                "lon": 16.9231212,
+                "bell_tower": "campanile",
+                "man_made": "tower",
+                "name": "Harangláb",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9231212,
+                  47.1604821
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6184158581",
+                "osm_type": "node",
+                "lat": 47.0486321,
+                "lon": 16.7991101,
+                "addr:city": "Vasvár",
+                "addr:postcode": "9800",
+                "addr:street": "Kossuth Lajos utca",
+                "description": "Rózsakert",
+                "name": "Rózsalugas",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7991101,
+                  47.0486321
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "7706869462",
+                "osm_type": "node",
+                "lat": 47.0807844,
+                "lon": 16.8832279,
+                "name": "Lombkorona-ösvény",
+                "tourism": "attraction",
+                "wheelchair": "no"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8832279,
+                  47.0807844
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10282701131",
+                "osm_type": "node",
+                "lat": 47.1980362,
+                "lon": 16.8994641,
+                "access": "permit",
+                "archaeological_site": "fortification",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Róka-domb",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8994641,
+                  47.1980362
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2461946235",
+                "osm_type": "node",
+                "lat": 47.0826132,
+                "lon": 17.0452706,
+                "name": "Batthyány Ervin emlékmű-szobor",
+                "note": "Gaál Tamás Munkácsy-díjas művész alkotása a község főterén található.",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0452706,
+                  47.0826132
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2461946236",
+                "osm_type": "node",
+                "lat": 47.0826559,
+                "lon": 17.0442444,
+                "name": "Batthyány Ervin gróf portréja",
+                "note": "Gaál Tamás Munkácsy-díjas művész alkotása a Batthyány Ervin Művelődési Ház falán található.",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0442444,
+                  47.0826559
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 16.2068765,
+            "north": 47.36431175,
+            "east": 16.68372825
+          },
+          "poiCount": 19,
+          "leafCount": 19,
+          "averagePosition": [
+            16.55184242105263,
+            47.267417615789476
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1278547657",
+                "osm_type": "node",
+                "lat": 47.3200194,
+                "lon": 16.437169,
+                "name": "Wasserrad",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.437169,
+                  47.3200194
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3430556516",
+                "osm_type": "node",
+                "lat": 47.346617,
+                "lon": 16.490467,
+                "building": "bunker",
+                "historic": "yes",
+                "name": "Koronaőrző-bunker",
+                "source": "turistautak.hu",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=27496"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.490467,
+                  47.346617
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3481107171",
+                "osm_type": "node",
+                "lat": 47.3629041,
+                "lon": 16.4762308,
+                "name": "Kendig-eresz",
+                "natural": "rock",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4762308,
+                  47.3629041
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3551899375",
+                "osm_type": "node",
+                "lat": 47.2975378,
+                "lon": 16.3955476,
+                "name": "Wallner Mühle",
+                "opening_hours": "Tu-Su 10:00-12:00, 14:00-17:00",
+                "tourism": "attraction",
+                "wikidata": "Q85684995"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3955476,
+                  47.2975378
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10311289901",
+                "osm_type": "node",
+                "lat": 47.3483194,
+                "lon": 16.22275,
+                "name": "Anna Brunnen",
+                "tourism": "attraction",
+                "website": "https://www.sued-burgenland.com/jormannsdorf.htm"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.22275,
+                  47.3483194
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12646779065",
+                "osm_type": "node",
+                "lat": 47.2335812,
+                "lon": 16.5125367,
+                "name": "Kerekeskút",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5125367,
+                  47.2335812
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2924787545",
+                "osm_type": "node",
+                "lat": 47.233214,
+                "lon": 16.5462301,
+                "description": "Óriási",
+                "leaf_cycle": "deciduous",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species:hu": "szelídgesztenye",
+                "taxon": "Castanea sativa",
+                "taxon:en": "sweet chestnut",
+                "taxon:hu": "szelídgesztenye",
+                "taxon:wikidata": "Q22699",
+                "taxon:wikipedia": "hu:Szelídgesztenye",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5462301,
+                  47.233214
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2939328865",
+                "osm_type": "node",
+                "lat": 47.2306852,
+                "lon": 16.6184686,
+                "name": "Régi villamos",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6184686,
+                  47.2306852
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2975370286",
+                "osm_type": "node",
+                "lat": 47.2144259,
+                "lon": 16.6098256,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6098256,
+                  47.2144259
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3048530307",
+                "osm_type": "node",
+                "lat": 47.2338447,
+                "lon": 16.6250716,
+                "name": "Rekonstruált hattyúház",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6250716,
+                  47.2338447
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3070762106",
+                "osm_type": "node",
+                "lat": 47.2071946,
+                "lon": 16.6483273,
+                "addr:city": "Szombathely",
+                "addr:housenumber": "18",
+                "addr:postcode": "9700",
+                "addr:street": "Szent István király utca",
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "name": "Harangláb",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6483273,
+                  47.2071946
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3191213111",
+                "osm_type": "node",
+                "lat": 47.231293,
+                "lon": 16.6178714,
+                "access": "yes",
+                "barrier": "gate",
+                "motorcar": "no",
+                "name": "Szerelmesek lakatjai",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6178714,
+                  47.231293
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3209267423",
+                "osm_type": "node",
+                "lat": 47.2284729,
+                "lon": 16.6231817,
+                "name": "Zsinagóga",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6231817,
+                  47.2284729
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3278653323",
+                "osm_type": "node",
+                "lat": 47.2346598,
+                "lon": 16.6258137,
+                "addr:city": "Szombathely",
+                "addr:housenumber": "12",
+                "addr:postcode": "9700",
+                "addr:street": "Wesselényi Miklós utca",
+                "castle_type": "manor",
+                "historic": "castle",
+                "name": "Iglódi-ház",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6258137,
+                  47.2346598
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3471869149",
+                "osm_type": "node",
+                "lat": 47.242662,
+                "lon": 16.624185,
+                "description": "volt szovjet laktanya is",
+                "name": "Egykori huszárlaktanya",
+                "source": "turistautak.hu",
+                "source:date": "2014-04-01",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=164915"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.624185,
+                  47.242662
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3511808132",
+                "osm_type": "node",
+                "lat": 47.3289154,
+                "lon": 16.5844016,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5844016,
+                  47.3289154
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3601175828",
+                "osm_type": "node",
+                "lat": 47.336068,
+                "lon": 16.578266,
+                "bell_tower": "campanile",
+                "description": "Leiras=Harangtorony, klasszicizáló, 1867.\\r\\nid=9196",
+                "historic": "yes",
+                "man_made": "tower",
+                "source": "turistautak.hu",
+                "tourism": "attraction",
+                "tower:type": "bell_tower",
+                "url": "http://turistautak.hu/poi.php?id=76987"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.578266,
+                  47.336068
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6208782072",
+                "osm_type": "node",
+                "lat": 47.2156468,
+                "lon": 16.6227383,
+                "addr:city": "Szombathely",
+                "addr:postcode": "9700",
+                "addr:street": "Diófa utca",
+                "name": "Kerékpárút-kanyar",
+                "source": "https://index.hu/kerekagy/2015/07/03/kijavitottak_a_kerekparutat_az_eredmeny_magaert_beszel/",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6227383,
+                  47.2156468
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10031802204",
+                "osm_type": "node",
+                "lat": 47.2348735,
+                "lon": 16.625924,
+                "addr:city": "Szombathely",
+                "addr:housenumber": "14",
+                "addr:postcode": "9700",
+                "addr:street": "Wesselényi Miklós utca",
+                "castle_type": "manor",
+                "historic": "castle",
+                "name": "Dömötör-villa",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.625924,
+                  47.2348735
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.199035125,
+            "west": 16.68372825,
+            "north": 47.36431175,
+            "east": 17.16058
+          },
+          "poiCount": 9,
+          "leafCount": 9,
+          "averagePosition": [
+            17.0218132,
+            47.25936326666667
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2940944810",
+                "osm_type": "node",
+                "lat": 47.2870339,
+                "lon": 16.8077192,
+                "name": "Vát-Szentkút",
+                "natural": "spring",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=125119"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8077192,
+                  47.2870339
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3178633087",
+                "osm_type": "node",
+                "lat": 47.2980588,
+                "lon": 17.0176648,
+                "description": "hadifogolytábor maradványok",
+                "historic": "ruins",
+                "name": "Romok",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0176648,
+                  47.2980588
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5000666188",
+                "osm_type": "node",
+                "lat": 47.2416372,
+                "lon": 16.9147192,
+                "fixme": "Ez micsoda? Egy szobor? Vagy hulladék?",
+                "name": "Autóroncs",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9147192,
+                  47.2416372
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5007585889",
+                "osm_type": "node",
+                "lat": 47.2371522,
+                "lon": 16.9802916,
+                "historic": "yes",
+                "name": "Zsuzsanna vonal emlékhely",
+                "tourism": "attraction",
+                "url": "http://geocaching.hu/poi.geo?id=186589"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9802916,
+                  47.2371522
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12338030220",
+                "osm_type": "node",
+                "lat": 47.2533959,
+                "lon": 16.9360082,
+                "name": "Harangjáték",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9360082,
+                  47.2533959
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5152197264",
+                "osm_type": "node",
+                "lat": 47.2617086,
+                "lon": 17.1506812,
+                "fixme": "add name, MÁV ref & wiki tags",
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Gőzmozdony 1",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1506812,
+                  47.2617086
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5152197265",
+                "osm_type": "node",
+                "lat": 47.2620096,
+                "lon": 17.1500088,
+                "fixme": "add name, MÁV ref & wiki tags",
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Gőzmozdony 3",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1500088,
+                  47.2620096
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5152197266",
+                "osm_type": "node",
+                "lat": 47.2618797,
+                "lon": 17.150401,
+                "fixme": "add name, MÁV ref & wiki tags",
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Gőzmozdony 2",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.150401,
+                  47.2618797
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5152197267",
+                "osm_type": "node",
+                "lat": 47.2313935,
+                "lon": 17.0888248,
+                "bell_tower": "campanile",
+                "man_made": "tower",
+                "material": "wood",
+                "name": "Fa harangláb",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.0888248,
+                  47.2313935
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 15.253173,
+        "north": 47.694865,
+        "east": 16.2068765
+      },
+      "poiCount": 38,
+      "leafCount": 38,
+      "averagePosition": [
+        15.799562944736842,
+        47.5401316131579
+      ],
+      "data": [
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1842670217",
+            "osm_type": "node",
+            "lat": 47.3671424,
+            "lon": 15.7636691,
+            "name": "Hornbach Mühle",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7636691,
+              47.3671424
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "400882309",
+            "osm_type": "node",
+            "lat": 47.4101715,
+            "lon": 15.2689482,
+            "drinking_water": "no",
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Eiserner_Brunnen_-_Bruck_an_der_Mur_20110728-03.JPG",
+            "man_made": "water_well",
+            "name": "Eiserner Brunnen",
+            "on_the_list:wikidata": "Q1855170",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Bruck an der Mur",
+            "tourism": "attraction",
+            "wheelchair": "yes",
+            "wikidata": "Q37761237"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2689482,
+              47.4101715
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "400882391",
+            "osm_type": "node",
+            "lat": 47.4092725,
+            "lon": 15.2693288,
+            "name": "Antauerhaus",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2693288,
+              47.4092725
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "400882997",
+            "osm_type": "node",
+            "lat": 47.4109731,
+            "lon": 15.2697807,
+            "name": "Flößmeisterhaus",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2697807,
+              47.4109731
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "863065599",
+            "osm_type": "node",
+            "lat": 47.3736099,
+            "lon": 15.4826303,
+            "addr:city": "Breitenau am Hochlantsch",
+            "addr:housenumber": "1",
+            "addr:postcode": "8614",
+            "addr:street": "An der Teichalmstraße",
+            "name": "Ökopark Hochreiter",
+            "tourism": "attraction",
+            "website": "https://www.oekopark-almenland.at/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.4826303,
+              47.3736099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1845310896",
+            "osm_type": "node",
+            "lat": 47.4095255,
+            "lon": 15.2699765,
+            "heritage": "2",
+            "historic": "memorial",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mariensaeule%2C_Bruck_an_der_Mur%2C_Austria%2C_gesamt.jpg",
+            "name": "Mariensäule",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Bruck an der Mur",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.2699765,
+              47.4095255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4176792364",
+            "osm_type": "node",
+            "lat": 47.6876142,
+            "lon": 15.3081229,
+            "name": "Teufelsbrücke",
+            "natural": "rock",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3081229,
+              47.6876142
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4424958100",
+            "osm_type": "node",
+            "lat": 47.4886277,
+            "lon": 15.3030311,
+            "name": "Wasserrad",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3030311,
+              47.4886277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "4770064948",
+            "osm_type": "node",
+            "lat": 47.4869174,
+            "lon": 15.3131536,
+            "name": "Insektenhotel",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.3131536,
+              47.4869174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "29685842",
+            "osm_type": "node",
+            "lat": 47.4503068,
+            "lon": 15.832825,
+            "name": "Wasserwelt",
+            "note": "Holzschnitzereien in freier Natur, Miniaturbauten",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.832825,
+              47.4503068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "675051777",
+            "osm_type": "node",
+            "lat": 47.6587823,
+            "lon": 15.7912066,
+            "alt_name": "Marienhöhle",
+            "amenity": "place_of_worship",
+            "cave:ref": "2861/11",
+            "name": "Gaiskircherl",
+            "natural": "cave_entrance",
+            "religion": "christian",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7912066,
+              47.6587823
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "963592527",
+            "osm_type": "node",
+            "lat": 47.6487778,
+            "lon": 15.8279723,
+            "alt_name:cs": "Semerink",
+            "heritage": "1",
+            "heritage:operator": "whc",
+            "name": "Semmeringbahn",
+            "name:cs": "Horská dráha Semmering",
+            "name:en": "Semmering railway",
+            "ref:whc": "785",
+            "tourism": "attraction",
+            "whc:criteria": "2;4",
+            "whc:inscription_date": "1998",
+            "wheelchair": "no",
+            "wikidata": "Q259313",
+            "wikipedia": "de:Semmeringbahn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.8279723,
+              47.6487778
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1094992966",
+            "osm_type": "node",
+            "lat": 47.4651311,
+            "lon": 15.6196369,
+            "name": "Teufelstein",
+            "natural": "rock",
+            "tourism": "attraction",
+            "wheelchair": "no",
+            "wikipedia": "de:Teufelstein (Fischbacher Alpen)#Der_Felsen_Teufelstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6196369,
+              47.4651311
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1103187839",
+            "osm_type": "node",
+            "lat": 47.6522851,
+            "lon": 15.6512385,
+            "access": "yes",
+            "cave:ref": "2861/5",
+            "description": "Eigenständig begehbare Höhle (Taschenlampe!)",
+            "fee": "no",
+            "name": "Bleiweißgrube",
+            "natural": "cave_entrance",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6512385,
+              47.6522851
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1445651695",
+            "osm_type": "node",
+            "lat": 47.6171941,
+            "lon": 15.9820947,
+            "cave:ref": "2871/7a",
+            "charge": "5.00 EUR",
+            "description": "Schauhöhle",
+            "fee": "yes",
+            "image": "https://commons.wikimedia.org/wiki/File:Hermannsh%C3%B6hle_2871_7a.jpg",
+            "name": "Hermannshöhle",
+            "natural": "cave_entrance",
+            "note": "Eingang der Höhlenführung",
+            "opening_hours:url": "https://www.hermannshoehle.at/",
+            "tourism": "attraction",
+            "website": "https://www.hermannshoehle.at/",
+            "wikidata": "Q1549477",
+            "wikipedia": "de:Hermannshöhle (Niederösterreich)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9820947,
+              47.6171941
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1751087916",
+            "osm_type": "node",
+            "lat": 47.6658472,
+            "lon": 16.010844,
+            "alt_name": "Wiener Bründl",
+            "name": "Werna-Brindl",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.010844,
+              47.6658472
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1779182974",
+            "osm_type": "node",
+            "lat": 47.5947728,
+            "lon": 15.964393,
+            "name": "Fuchsloch",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.964393,
+              47.5947728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1790085102",
+            "osm_type": "node",
+            "lat": 47.5618188,
+            "lon": 15.9205107,
+            "historic": "monument",
+            "name": "Steinernes Kreuz",
+            "note": "eigentlich wayside_shrine, aber monströs",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9205107,
+              47.5618188
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1854518307",
+            "osm_type": "node",
+            "lat": 47.6169354,
+            "lon": 15.7975238,
+            "description": "nach wenigen Metern durch Sprengung verstürzt",
+            "heritage": "2",
+            "heritage:operator": "bda",
+            "image": "http://commons.wikimedia.org/wiki/File:Erzstollen,_Fr%C3%B6schnitz.jpg",
+            "man_made": "adit",
+            "name": "Erzstollen",
+            "on_the_list:wikipedia": "de:Liste der denkmalgeschützten Objekte in Spital am Semmering#objektid-9738",
+            "ref:at:bda": "9738",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7975238,
+              47.6169354
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3265343892",
+            "osm_type": "node",
+            "lat": 47.5248282,
+            "lon": 15.7821515,
+            "name": "Sternen-Pavillon",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.7821515,
+              47.5248282
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3594564386",
+            "osm_type": "node",
+            "lat": 47.5658339,
+            "lon": 15.9811809,
+            "name": "Antrittsstein",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.9811809,
+              47.5658339
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5175203635",
+            "osm_type": "node",
+            "lat": 47.4438697,
+            "lon": 16.0150623,
+            "name": "Wetterkreuze",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0150623,
+              47.4438697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10591683739",
+            "osm_type": "node",
+            "lat": 47.5339633,
+            "lon": 15.5845705,
+            "name": "Am Himmel Peter Rosegger Gedenkstätte",
+            "opening_hours": "24/7",
+            "tourism": "attraction",
+            "wheelchair": "no"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.5845705,
+              47.5339633
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10832062705",
+            "osm_type": "node",
+            "lat": 47.5772294,
+            "lon": 16.0144655,
+            "name": "Kugelbahn: Rampen",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0144655,
+              47.5772294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10832087606",
+            "osm_type": "node",
+            "lat": 47.5779548,
+            "lon": 16.0177795,
+            "name": "Kugelbahn: türmen",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0177795,
+              47.5779548
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10832139405",
+            "osm_type": "node",
+            "lat": 47.578131,
+            "lon": 16.0201669,
+            "name": "Kugelautomat",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0201669,
+              47.578131
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "10832139807",
+            "osm_type": "node",
+            "lat": 47.5781601,
+            "lon": 16.0200956,
+            "name": "Kugelbahn: Pumptrack",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0200956,
+              47.5781601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12015090702",
+            "osm_type": "node",
+            "lat": 47.6592905,
+            "lon": 15.6156718,
+            "name": "Wald der Sinne",
+            "tourism": "attraction",
+            "website": "https://www.wald-der-sinne.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.6156718,
+              47.6592905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12161961601",
+            "osm_type": "node",
+            "lat": 47.5798764,
+            "lon": 16.0053567,
+            "name": "Kugel automat",
+            "outdoor_seating": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0053567,
+              47.5798764
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12161963701",
+            "osm_type": "node",
+            "lat": 47.5799135,
+            "lon": 16.0070383,
+            "name": "Kugelbahn: Klingende Kuhglocken",
+            "outdoor_seating": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0070383,
+              47.5799135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12161980007",
+            "osm_type": "node",
+            "lat": 47.5777052,
+            "lon": 16.009815,
+            "name": "Kugelbahn: Meister der Geschicklichkeid",
+            "outdoor_seating": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.009815,
+              47.5777052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12161980117",
+            "osm_type": "node",
+            "lat": 47.5776427,
+            "lon": 16.0124837,
+            "name": "Kugelbahn: Du gegen deine Kugel",
+            "outdoor_seating": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0124837,
+              47.5776427
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12161980505",
+            "osm_type": "node",
+            "lat": 47.5779156,
+            "lon": 16.0140432,
+            "name": "Kugelbahn: Die Klänge des Waldes",
+            "outdoor_seating": "no",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0140432,
+              47.5779156
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "1446482596",
+            "osm_type": "node",
+            "lat": 47.6684202,
+            "lon": 16.1038586,
+            "name": "Taufstein",
+            "natural": "rock",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1038586,
+              47.6684202
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "3112913949",
+            "osm_type": "node",
+            "lat": 47.5416599,
+            "lon": 16.124552,
+            "name": "Wetterkreuze",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.124552,
+              47.5416599
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "5210732062",
+            "osm_type": "node",
+            "lat": 47.4298259,
+            "lon": 16.1983817,
+            "historic": "memorial",
+            "name": "Stigmata Kraftplatz / Windspiel",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1983817,
+              47.4298259
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "12037064799",
+            "osm_type": "node",
+            "lat": 47.4438001,
+            "lon": 16.0547044,
+            "name": "Erlebnisberg Friedberg",
+            "tourism": "attraction",
+            "website": "https://www.friedberg.gv.at/erlebnisberg/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.0547044,
+              47.4438001
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "id": "13063461702",
+            "osm_type": "node",
+            "lat": 47.5332753,
+            "lon": 16.1551271,
+            "name": "Eis-Zeitreise",
+            "tourism": "attraction"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.1551271,
+              47.5332753
+            ]
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "bbox": {
+        "south": 47.36431175,
+        "west": 16.2068765,
+        "north": 47.694865,
+        "east": 17.16058
+      },
+      "poiCount": 53,
+      "leafCount": 0,
+      "averagePosition": [
+        16.55732689433962,
+        47.54916015283019
+      ],
+      "data": [],
+      "children": [
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 16.2068765,
+            "north": 47.529588375,
+            "east": 16.68372825
+          },
+          "poiCount": 11,
+          "leafCount": 11,
+          "averagePosition": [
+            16.452635918181816,
+            47.4107831
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3486764956",
+                "osm_type": "node",
+                "lat": 47.3705226,
+                "lon": 16.4680177,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4680177,
+                  47.3705226
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5371206407",
+                "osm_type": "node",
+                "lat": 47.3691729,
+                "lon": 16.3376777,
+                "man_made": "kiln",
+                "name": "Kohlenmeiler",
+                "product": "charcoal",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3376777,
+                  47.3691729
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1310092407",
+                "osm_type": "node",
+                "lat": 47.3990902,
+                "lon": 16.262775,
+                "description": "Bestandteil vom Planetenwanderweg",
+                "name": "Saturn",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.262775,
+                  47.3990902
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1310985822",
+                "osm_type": "node",
+                "lat": 47.422038,
+                "lon": 16.25294,
+                "cave:ref": "2822/7",
+                "name": "Speckkammerl",
+                "name:hu": "Szalonna-kamra",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.25294,
+                  47.422038
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1376736195",
+                "osm_type": "node",
+                "lat": 47.4157586,
+                "lon": 16.4785282,
+                "name": "Kastanienhain",
+                "natural": "tree",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4785282,
+                  47.4157586
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1644669521",
+                "osm_type": "node",
+                "lat": 47.5233292,
+                "lon": 16.4780893,
+                "name": "Stoober Plutzer",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4780893,
+                  47.5233292
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2589375576",
+                "osm_type": "node",
+                "lat": 47.3740221,
+                "lon": 16.4912137,
+                "historic": "wayside_cross",
+                "name": "Vörös-kereszt",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4912137,
+                  47.3740221
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3510041645",
+                "osm_type": "node",
+                "lat": 47.3933898,
+                "lon": 16.5097801,
+                "name": "Ördögtányér-szikla",
+                "natural": "rock",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5097801,
+                  47.3933898
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9867909219",
+                "osm_type": "node",
+                "lat": 47.390441,
+                "lon": 16.5239977,
+                "name": "Szelíd Gesztenyefa Maradványai",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5239977,
+                  47.390441
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3267766438",
+                "osm_type": "node",
+                "lat": 47.3965257,
+                "lon": 16.5359466,
+                "name": "Koronabunker",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5359466,
+                  47.3965257
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "12005968139",
+                "osm_type": "node",
+                "lat": 47.464324,
+                "lon": 16.6400291,
+                "name": "Kriegerdenkmal",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6400291,
+                  47.464324
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.36431175,
+            "west": 16.68372825,
+            "north": 47.529588375,
+            "east": 17.16058
+          },
+          "poiCount": 8,
+          "leafCount": 8,
+          "averagePosition": [
+            16.9433933625,
+            47.399570675
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3545126045",
+                "osm_type": "node",
+                "lat": 47.3712181,
+                "lon": 16.9161716,
+                "name": "Markusovszky Lajos faszobra",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9161716,
+                  47.3712181
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3202214354",
+                "osm_type": "node",
+                "lat": 47.3888093,
+                "lon": 16.6928836,
+                "name": "Hanga-kapu",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6928836,
+                  47.3888093
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3298680313",
+                "osm_type": "node",
+                "lat": 47.3853531,
+                "lon": 16.8947844,
+                "bell_tower": "campanile",
+                "historic": "yes",
+                "man_made": "tower",
+                "tourism": "attraction",
+                "tower:type": "bell_tower"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8947844,
+                  47.3853531
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3545126044",
+                "osm_type": "node",
+                "lat": 47.3733602,
+                "lon": 16.9214772,
+                "name": "I. és II. világháborús emlékmű",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9214772,
+                  47.3733602
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3545126047",
+                "osm_type": "node",
+                "lat": 47.3734027,
+                "lon": 16.9215742,
+                "name": "Tűzoltó emlékmű",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9215742,
+                  47.3734027
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "8304687223",
+                "osm_type": "node",
+                "lat": 47.4156295,
+                "lon": 16.9505361,
+                "addr:city": "Csáfordjánosfa",
+                "name": "Régi tűzoltókocsi",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.9505361,
+                  47.4156295
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2348522651",
+                "osm_type": "node",
+                "lat": 47.4560039,
+                "lon": 17.1359415,
+                "name": "Régi tűzoltókocsi",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1359415,
+                  47.4560039
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6777906306",
+                "osm_type": "node",
+                "lat": 47.4327886,
+                "lon": 17.1137783,
+                "name": "Régi tűzoltókocsi",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  17.1137783,
+                  47.4327886
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 16.2068765,
+            "north": 47.694865,
+            "east": 16.68372825
+          },
+          "poiCount": 24,
+          "leafCount": 24,
+          "averagePosition": [
+            16.36979825,
+            47.6287663875
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1531316055",
+                "osm_type": "node",
+                "lat": 47.6165179,
+                "lon": 16.28811,
+                "name": "Gewerbebaum",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.28811,
+                  47.6165179
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1639565932",
+                "osm_type": "node",
+                "lat": 47.6667559,
+                "lon": 16.2086905,
+                "heritage": "2",
+                "heritage:operator": "bda",
+                "historic": "wayside_cross",
+                "name": "Pestkreuz",
+                "ref:at:bda": "26578",
+                "start_date": "1681",
+                "tourism": "attraction",
+                "wikidata": "Q37928611",
+                "wikimedia_commons": "Category:Pestkreuz Bromberg"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2086905,
+                  47.6667559
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1736273776",
+                "osm_type": "node",
+                "lat": 47.6058085,
+                "lon": 16.3847353,
+                "name": "Obstlehrpfad",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3847353,
+                  47.6058085
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2918650776",
+                "osm_type": "node",
+                "lat": 47.5963314,
+                "lon": 16.3902881,
+                "name": "Heimathaus",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3902881,
+                  47.5963314
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3246561297",
+                "osm_type": "node",
+                "lat": 47.65187,
+                "lon": 16.4888381,
+                "building": "bunker",
+                "bunker_type": "command",
+                "historic": "yes",
+                "military": "bunker",
+                "name": "Szálasi-bunker",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4888381,
+                  47.65187
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3851644818",
+                "osm_type": "node",
+                "lat": 47.6689524,
+                "lon": 16.4159395,
+                "name": "Zerr-Eiche",
+                "natural": "tree",
+                "ruins": "yes",
+                "species": "Quercus cerris",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.4159395,
+                  47.6689524
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4127970971",
+                "osm_type": "node",
+                "lat": 47.5854629,
+                "lon": 16.2109795,
+                "name": "Adamermühle",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2109795,
+                  47.5854629
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4421895234",
+                "osm_type": "node",
+                "lat": 47.5877646,
+                "lon": 16.259348,
+                "name": "Naturbarometer",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.259348,
+                  47.5877646
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4421986541",
+                "osm_type": "node",
+                "lat": 47.5876254,
+                "lon": 16.2583551,
+                "name": "100%ige Wettervorhersage",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2583551,
+                  47.5876254
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267530",
+                "osm_type": "node",
+                "lat": 47.5884258,
+                "lon": 16.2562448,
+                "name": "rotierende Farbscheibe",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2562448,
+                  47.5884258
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267538",
+                "osm_type": "node",
+                "lat": 47.588757,
+                "lon": 16.256046,
+                "name": "Regenmacher",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.256046,
+                  47.588757
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267539",
+                "osm_type": "node",
+                "lat": 47.5887536,
+                "lon": 16.2560183,
+                "name": "Windrad",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2560183,
+                  47.5887536
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267551",
+                "osm_type": "node",
+                "lat": 47.5897214,
+                "lon": 16.255449,
+                "name": "Donnergenerator",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.255449,
+                  47.5897214
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267553",
+                "osm_type": "node",
+                "lat": 47.5897708,
+                "lon": 16.2556408,
+                "name": "Blitzgenerator",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2556408,
+                  47.5897708
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267555",
+                "osm_type": "node",
+                "lat": 47.5899579,
+                "lon": 16.2569689,
+                "alt_name": "Wasserdampfkondensator; Regengenerator",
+                "name": "Wasserkreislauf",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2569689,
+                  47.5899579
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4422267567",
+                "osm_type": "node",
+                "lat": 47.5902509,
+                "lon": 16.2583849,
+                "name": "Urkontinent",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.2583849,
+                  47.5902509
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6691162486",
+                "osm_type": "node",
+                "lat": 47.6123758,
+                "lon": 16.3604966,
+                "name": "Mammutbaum",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3604966,
+                  47.6123758
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "10751219642",
+                "osm_type": "node",
+                "lat": 47.690439,
+                "lon": 16.3215406,
+                "name": "Toter Mann",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.3215406,
+                  47.690439
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "1839606791",
+                "osm_type": "node",
+                "lat": 47.6948132,
+                "lon": 16.5855987,
+                "addr:city": "Sopron",
+                "addr:postcode": "9400",
+                "addr:street": "Bécsi-domb",
+                "attraction": "summer_toboggan",
+                "check_date:opening_hours": "2018-10-22",
+                "contact:email": "sopron@bobozas.hu",
+                "contact:facebook": "https://www.facebook.com/sopronibobpalya/",
+                "contact:mobile": "+36 20 433 3505",
+                "contact:phone": "+36 99 334 266",
+                "contact:website": "http://sopron.bobozas.hu",
+                "name": "Soproni Bobpálya",
+                "name:en": "Sopron Toboggan Park",
+                "opening_hours": "Nov-Mar: Sa-Su,PH 11:00-16:00; Apr,Sep: Mo-Fr 10:00-17:00; Apr,Sep: Sa-Su,PH 10:00-18:00; May: Mo-Fr 10:00-18:00; May: Sa-Su,PH 10:00-19:00; Jun-Aug: Mo-Su,PH 10:00-19:00; Oct: Mo-Su,PH 10:00-17:00",
+                "opening_hours:url": "http://sopron.bobozas.hu/hu/nyitvatartas",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5855987,
+                  47.6948132
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "2948541109",
+                "osm_type": "node",
+                "lat": 47.6622944,
+                "lon": 16.5895304,
+                "addr:city": "Sopron",
+                "addr:postcode": "9400",
+                "amenity": "festival_grounds",
+                "name": "VOLT Fesztivál",
+                "name:en": "VOLT Festival",
+                "tourism": "attraction",
+                "website": "https://volt.hu/",
+                "wikidata": "Q1400655",
+                "wikipedia": "hu:VOLT Fesztivál"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5895304,
+                  47.6622944
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3086979997",
+                "osm_type": "node",
+                "lat": 47.6773924,
+                "lon": 16.5600311,
+                "addr:city": "Sopron",
+                "addr:housenumber": "36",
+                "addr:postcode": "9400",
+                "addr:street": "Csalogány köz",
+                "historic": "castle",
+                "name": "Taródi-vár",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "tourism": "attraction",
+                "website": "https://www.origo.hu/utazas/magyarorszag/20160511-latogatas-a-soproni-tarodi-varban-amelyet-tarodi-istvan-epitett-fel-otven-ev-alatt.html",
+                "wikidata": "Q659827",
+                "wikipedia": "hu:Taródi-vár"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5600311,
+                  47.6773924
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4536598093",
+                "osm_type": "node",
+                "lat": 47.6868917,
+                "lon": 16.5915175,
+                "name": "Zöld kő",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5915175,
+                  47.6868917
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9311485992",
+                "osm_type": "node",
+                "lat": 47.6853722,
+                "lon": 16.5716429,
+                "name": "Vasúti emlékhely",
+                "railway": "buffer_stop",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5716429,
+                  47.6853722
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "9837064823",
+                "osm_type": "node",
+                "lat": 47.6880882,
+                "lon": 16.5947634,
+                "name": "Kora gótikus ház",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.5947634,
+                  47.6880882
+                ]
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "bbox": {
+            "south": 47.529588375,
+            "west": 16.68372825,
+            "north": 47.694865,
+            "east": 17.16058
+          },
+          "poiCount": 10,
+          "leafCount": 10,
+          "averagePosition": [
+            16.81370254,
+            47.62999153
+          ],
+          "data": [
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3070949107",
+                "osm_type": "node",
+                "lat": 47.6195349,
+                "lon": 16.874892,
+                "communication:mobile_phone": "yes",
+                "lte:cellid": "0;1;2",
+                "lte:eNB": "3920",
+                "man_made": "water_tower",
+                "name": "Öreg víztorony",
+                "name:en": "Old water tower",
+                "operator": "One",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.874892,
+                  47.6195349
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3072140589",
+                "osm_type": "node",
+                "lat": 47.6200437,
+                "lon": 16.8762884,
+                "name": "Uradalmi ipartelep",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8762884,
+                  47.6200437
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3250203870",
+                "osm_type": "node",
+                "lat": 47.6425966,
+                "lon": 16.7869601,
+                "name": "Vasfüggöny emlékhely",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.7869601,
+                  47.6425966
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "3466253921",
+                "osm_type": "node",
+                "lat": 47.6384903,
+                "lon": 16.8632126,
+                "name": "Fertő-Hanság Nemzeti Park - Kócsagvár Látogatóközpont",
+                "source": "turistautak.hu",
+                "source:date": "2011-01-08",
+                "tourism": "attraction",
+                "url": "http://turistautak.hu/poi.php?id=104731"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8632126,
+                  47.6384903
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4869731540",
+                "osm_type": "node",
+                "lat": 47.6170969,
+                "lon": 16.8360337,
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8360337,
+                  47.6170969
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4869731588",
+                "osm_type": "node",
+                "lat": 47.6164037,
+                "lon": 16.8363026,
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8363026,
+                  47.6164037
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "4869731590",
+                "osm_type": "node",
+                "lat": 47.616829,
+                "lon": 16.8367825,
+                "addr:city": "Fertőszéplak",
+                "addr:postcode": "9436",
+                "addr:street": "Nagy Lajos király utca",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8367825,
+                  47.616829
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5734475463",
+                "osm_type": "node",
+                "lat": 47.6252645,
+                "lon": 16.6906724,
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "520 030",
+                "ref": "520 030",
+                "source:ref": "https://hu.wikipedia.org/wiki/Szobormozdonyok_Magyarorsz%C3%A1gon",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6906724,
+                  47.6252645
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "5734475464",
+                "osm_type": "node",
+                "lat": 47.6251233,
+                "lon": 16.6909528,
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "424 140",
+                "ref": "424 140",
+                "source:ref": "https://hu.wikipedia.org/wiki/Szobormozdonyok_Magyarorsz%C3%A1gon",
+                "tourism": "attraction"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.6909528,
+                  47.6251233
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "id": "6744813658",
+                "osm_type": "node",
+                "lat": 47.6785324,
+                "lon": 16.8449283,
+                "name": "Szolárhajó túra",
+                "name:de": "Solar Boot Fahrt",
+                "name:en": "Solar-boat cruise",
+                "note": "Előzetes bejelentkezés szükséges!",
+                "operator": "Fertő-Hanság Nemzeti Park",
+                "tourism": "attraction",
+                "website": "https://www.ferto-hansag.hu/hu/okoturizmus/programok-latogatoknak/szolar-hajoval-a-ferton.html"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  16.8449283,
+                  47.6785324
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

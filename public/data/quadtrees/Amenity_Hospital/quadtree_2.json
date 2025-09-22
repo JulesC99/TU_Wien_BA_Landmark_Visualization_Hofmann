@@ -1,0 +1,209 @@
+{
+  "bbox": {
+    "south": 47.033758500000005,
+    "west": 9.530952,
+    "north": 47.694865,
+    "east": 11.438358999999998
+  },
+  "poiCount": 7,
+  "leafCount": 7,
+  "averagePosition": [
+    10.088097914285713,
+    47.48913748571429
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76157491",
+        "osm_type": "node",
+        "lat": 47.2208372,
+        "lon": 9.6041706,
+        "addr:city": "Frastanz",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "6820",
+        "addr:street": "Maria Ebene",
+        "amenity": "hospital",
+        "email": "krankenhaus@mariaebene.at",
+        "healthcare": "hospital",
+        "name": "Krankenhaus Maria Ebene",
+        "operator": "Stiftung Maria Ebene",
+        "phone": "+43 5522 727460",
+        "website": "https://krankenhaus.mariaebene.at",
+        "wikidata": "Q85911977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6041706,
+          47.2208372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "268253853",
+        "osm_type": "node",
+        "lat": 47.5891154,
+        "lon": 9.8845632,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Fachklinik Lindenberg-Ried"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8845632,
+          47.5891154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "916096834",
+        "osm_type": "node",
+        "lat": 47.5816525,
+        "lon": 10.0084155,
+        "amenity": "hospital",
+        "contact:email": "info@hochgrat-klinik.de",
+        "contact:phone": "+49 8386 96220",
+        "contact:website": "http://www.dr-reisach-kliniken.de/hochgrat-klinik.html",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychotherapie",
+        "name": "Hochgrat Klinik",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0084155,
+          47.5816525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1927471877",
+        "osm_type": "node",
+        "lat": 47.4062965,
+        "lon": 9.7402125,
+        "addr:city": "Dornbirn",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6850",
+        "addr:street": "Lustenauerstraße",
+        "amenity": "hospital",
+        "email": "verwaltung.kh@dornbirn.at",
+        "fax": "+43 5572 303 109",
+        "healthcare": "hospital",
+        "healthcare:speciality": "internal;orthopaedics;trauma;radiology;anaesthetics;gynaecology;general;emergency",
+        "name": "Krankenhaus Dornbirn",
+        "operator": "Stadt Dornbirn",
+        "phone": "+43 5572 303 0",
+        "source": "http://krankenhaus.dornbirn.at/",
+        "website": "http://krankenhaus.dornbirn.at/",
+        "wheelchair": "yes",
+        "wikidata": "Q1786528",
+        "wikipedia": "de:Krankenhaus Dornbirn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7402125,
+          47.4062965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305787536",
+        "osm_type": "node",
+        "lat": 47.4237644,
+        "lon": 10.2530977,
+        "amenity": "hospital",
+        "check_date": "2024-09-12",
+        "name": "Fachklinik für Othopädie und Rheumatologie",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2530977,
+          47.4237644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10965083477",
+        "osm_type": "node",
+        "lat": 47.6354698,
+        "lon": 10.4216733,
+        "addr:city": "Oy-Mittelberg",
+        "addr:country": "DE",
+        "addr:housename": "Hochgebirgsklinik Mittelberg",
+        "addr:housenumber": "45",
+        "addr:postcode": "87466",
+        "addr:street": "Alois-Wagner-Straße",
+        "addr:suburb": "Mittelberg",
+        "amenity": "hospital",
+        "email": "info@hochgebirgs-klinik.de",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics;child_psychiatry;physiatry",
+        "name": "Hochgebirgsklinik Mittelberg",
+        "phone": "+49 8366 9800",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.hochgebirgs-klinik.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4216733,
+          47.6354698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11726671864",
+        "osm_type": "node",
+        "lat": 47.5668266,
+        "lon": 10.7045526,
+        "addr:city": "Füssen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "87629",
+        "addr:street": "Stadtbleiche",
+        "amenity": "hospital",
+        "email": "info.fuessen@kliniken-oal-kf.de",
+        "fax": "+49 8362 500-113",
+        "healthcare": "hospital",
+        "name": "Klinik Füssen",
+        "operator": "Kliniken Ostallgäu-Kaufbeuren",
+        "phone": "+49 8362 500-0",
+        "website": "https://www.kliniken-oal-kf.de/kliniken/klinik-fuessen",
+        "wikidata": "Q130424747",
+        "wikipedia": "de:Klinik Füssen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7045526,
+          47.5668266
+        ]
+      }
+    }
+  ],
+  "children": []
+}

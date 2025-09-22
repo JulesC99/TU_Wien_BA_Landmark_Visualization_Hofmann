@@ -1,0 +1,87 @@
+{
+  "bbox": {
+    "south": 48.355971499999995,
+    "west": 11.438358999999998,
+    "north": 49.017078,
+    "east": 13.345766
+  },
+  "poiCount": 3,
+  "leafCount": 3,
+  "averagePosition": [
+    12.144708399999999,
+    48.714885699999996
+  ],
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4109101246",
+        "osm_type": "node",
+        "lat": 48.4158124,
+        "lon": 11.4738364,
+        "name": "ehemalige Alpaka-Ranch",
+        "note": "seit 2024 ersatzlos geschlossen",
+        "tourism": "zoo",
+        "zoo": "enclosure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4738364,
+          48.4158124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8583391544",
+        "osm_type": "node",
+        "lat": 48.7683202,
+        "lon": 13.2793934,
+        "name": "Damwild Gehege",
+        "tourism": "zoo",
+        "zoo": "wildlife_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2793934,
+          48.7683202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11832125527",
+        "osm_type": "node",
+        "lat": 48.9605245,
+        "lon": 11.6808954,
+        "addr:city": "Riedenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "93339",
+        "addr:street": "Schlossweg",
+        "charge": "10 EUR/person;6 EUR/child",
+        "contact:email": "kontakt@falkenhof-rosenburg.de",
+        "contact:phone": "+49 9442 2752",
+        "contact:website": "https://www.falkenhof-rosenburg.de/",
+        "fee": "yes",
+        "name": "Falkenhof Schloss Rosenburg",
+        "opening_hours": "Tu-Su 10:00-17:00; easter +1 day,easter +50 days 10:00-17:00",
+        "tourism": "zoo",
+        "wheelchair": "limited",
+        "zoo": "falconry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6808954,
+          48.9605245
+        ]
+      }
+    }
+  ],
+  "children": []
+}
